@@ -2,7 +2,7 @@
 Input: tools/studio/cutouts.json  {slug: {cutout, source, retailer, source_page, name, house}}
        an entry with no "cutout" becomes a typographic card on the same backdrop.
 Output: images/studio/<slug>.webp (1200x1500) + <slug>-sm.webp (600x750),
-        tools/studio/contact-before.jpg and contact-after.jpg for review."""
+        tools/studio/sheets/NN.jpg paired before/after review pages."""
 import json, os, io, sys, textwrap, urllib.request
 from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 W, H = 1200, 1500
@@ -16,7 +16,13 @@ def get(url):
     with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=40) as r:
         return Image.open(io.BytesIO(r.read()))
 
+_BG = None
 def backdrop():
+    global _BG
+    if _BG is None: _BG = _backdrop()
+    return _BG.copy()
+
+def _backdrop():
     g = Image.new('RGB', (1, H))
     for y in range(H):
         t = y / (H - 1)
@@ -79,23 +85,34 @@ def text_card(name, house, serif, sans):
     t = ' '.join(t); tw = d.textlength(t, font=sf); d.text(((W - tw) / 2, y + 80), t, font=sf, fill=muted)
     return bg
 
-def sheet(items, path, label):
-    cols, tw, th = 4, 300, 375
-    rows = (len(items) + cols - 1) // cols
-    s = Image.new('RGB', (cols * tw, rows * (th + 30) + 40), (255, 255, 255)); d = ImageDraw.Draw(s)
-    d.text((10, 10), label, fill=(0, 0, 0))
-    for i, (slug, im) in enumerate(items):
-        x, y = (i % cols) * tw, 40 + (i // cols) * (th + 30)
-        if im is not None:
-            t = ImageOps.contain(im.convert('RGB'), (tw - 10, th - 10)); s.paste(t, (x + (tw - t.width)//2, y + (th - t.height)//2))
-        d.text((x + 6, y + th + 6), slug[:40], fill=(0, 0, 0))
-    s.save(path, quality=85)
+def sheets(pairs, outdir, per=40):
+    """Paired before/after review sheets, 40 scents per page: tools/studio/sheets/NN.jpg"""
+    os.makedirs(outdir, exist_ok=True)
+    for f in os.listdir(outdir): os.remove(os.path.join(outdir, f))
+    cols, tw, th = 4, 220, 275
+    for p in range(0, len(pairs), per):
+        chunk = pairs[p:p + per]; rows = (len(chunk) + cols - 1) // cols
+        s = Image.new('RGB', (cols * (2 * tw + 20), rows * (th + 24) + 30), (255, 255, 255)); d = ImageDraw.Draw(s)
+        d.text((10, 8), f'page {p // per + 1}: left = source as found, right = studio card', fill=(0, 0, 0))
+        for i, (slug, b, a) in enumerate(chunk):
+            x, y = (i % cols) * (2 * tw + 20), 30 + (i // cols) * (th + 24)
+            for j, im in enumerate((b, a)):
+                if im is not None:
+                    t = ImageOps.contain(im, (tw - 6, th - 6)); s.paste(t, (x + j * tw + (tw - t.width)//2, y + (th - t.height)//2))
+            d.text((x + 4, y + th + 4), f'{p + i + 1}. {slug}'[:60], fill=(0, 0, 0))
+        s.save(os.path.join(outdir, f'{p // per + 1:02d}.jpg'), quality=80)
+
+def thumb(im):
+    if im is None: return None
+    if im.mode in ('RGBA', 'LA', 'P'):
+        im = im.convert('RGBA'); w = Image.new('RGB', im.size, (255, 255, 255)); w.paste(im, mask=im.split()[-1]); im = w
+    return ImageOps.contain(im.convert('RGB'), (220, 275))
 
 def main():
     here = os.path.dirname(os.path.abspath(__file__))
     data = json.load(open(os.path.join(here, 'cutouts.json')))
     serif = os.path.join(here, 'serif.ttf'); sans = os.path.join(here, 'sans.ttf')
-    before, after, report = [], [], {}
+    pairs, report = [], {}
     for slug, e in data.items():
         src = None
         try:
@@ -108,9 +125,8 @@ def main():
             card = text_card(e.get('name', slug), e.get('house', ''), serif, sans)
         card.save(os.path.join(OUT, slug + '.webp'), quality=84, method=6)
         card.resize((600, 750), Image.LANCZOS).save(os.path.join(OUT, slug + '-sm.webp'), quality=82, method=6)
-        before.append((slug, src)); after.append((slug, card))
-    sheet(before, os.path.join(here, 'contact-before.jpg'), 'BEFORE: source images as found')
-    sheet(after, os.path.join(here, 'contact-after.jpg'), 'AFTER: studio composite')
+        pairs.append((slug, thumb(src), thumb(card)))
+    sheets(pairs, os.path.join(here, 'sheets'))
     json.dump(report, open(os.path.join(here, 'report.json'), 'w'), indent=1)
     print('done', len(data), 'problems', report)
 
