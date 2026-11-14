@@ -1,0 +1,52 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Find your next signature | Blind Buy Guide</title><meta name="description" content="Four questions. Five samples. Zero $300 regrets."><link rel="canonical" href="https://blindbuyguide.com/find/">
+<meta property="og:title" content="Find your next signature | Blind Buy Guide"><meta property="og:description" content="Four questions. Five samples. Zero $300 regrets."><meta property="og:type" content="website"><meta property="og:url" content="https://blindbuyguide.com/find/">
+<style>:root{--bg:#f6f2ea;--ink:#17140f;--muted:#6b6259;--accent:#7a5b2e;--card:#fbf9f4;--line:#ddd4c4}
+@media(prefers-color-scheme:dark){:root{--bg:#161412;--ink:#f1ece4;--muted:#a79d90;--accent:#d3a46b;--card:#1f1c19;--line:#33302b}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 Georgia,'Times New Roman',serif}
+a{color:var(--accent)}main,header .in,footer .in{max-width:760px;margin:0 auto;padding:0 16px}
+header{border-bottom:1px solid var(--line)}header .in{display:flex;gap:20px;align-items:center;flex-wrap:wrap;padding-top:14px;padding-bottom:14px}
+header .brand{font:500 1.35em Georgia,serif;letter-spacing:.04em;text-transform:none;text-decoration:none;color:var(--ink);margin-right:auto}header a{font:12px system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;text-decoration:none;color:var(--ink)}header a:hover{color:var(--accent)}
+h1,h2,h3{line-height:1.2;font-weight:500;letter-spacing:-.01em}h1{font-size:2.4em;margin:1.4em 0 .3em}h2{margin-top:2.2em;font-size:1.35em;padding-top:.6em;border-top:1px solid var(--line)}
+.muted{color:var(--muted)}.card{background:var(--card);border:1px solid var(--line);border-radius:2px;padding:16px 18px;margin:12px 0}.card a{color:var(--ink);text-decoration:none}.card a:hover{color:var(--accent)}
+table{width:100%;border-collapse:collapse;font:15px system-ui,sans-serif}th,td{text-align:left;padding:8px 6px;border-bottom:1px solid var(--line)}
+.tag{display:inline-block;background:var(--card);border:1px solid var(--line);border-radius:2px;padding:1px 10px;letter-spacing:.02em;margin:2px;font:13px system-ui,sans-serif}
+.verdict{border-left:4px solid var(--accent);padding:6px 14px;background:var(--card)}
+form.nl{display:flex;gap:8px;flex-wrap:wrap}input,button{font:16px system-ui,sans-serif;padding:11px 14px;border-radius:2px;border:1px solid var(--line)}input{flex:1;min-width:200px;background:var(--card);color:var(--ink)}
+button{letter-spacing:.08em;text-transform:uppercase;font-size:13px;background:var(--ink);color:var(--bg);border-color:var(--ink);cursor:pointer}
+.sample{background:#fde68a;color:#451a03;text-align:center;font:13px system-ui;padding:4px}
+footer{border-top:1px solid var(--line);margin-top:3em;padding:20px 0;font:14px system-ui,sans-serif;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}.grid .card{margin:0}</style></head><body>
+
+<header><div class="in"><a class="brand" href="/">Blind Buy Guide</a><a href="/scents/">Scents</a><a href="/guides/">Guides</a><a href="/find/">Find your signature</a><a href="/newsletter/">Newsletter</a></div></header>
+<main><h1>Find your next signature</h1><p class="muted">Four questions. Five samples. Zero $300 regrets.</p>
+<style>.opt{background:var(--card);color:var(--ink);border:1px solid var(--line);margin:4px 6px 4px 0;text-transform:none;letter-spacing:0;font-size:15px}.opt.on{background:var(--ink);color:var(--bg)}fieldset.q{border:0;padding:0;margin:1.4em 0}legend{font-weight:500;font-size:1.15em;padding:0;margin-bottom:6px}</style>
+<fieldset class="q" data-q="v" data-multi="1"><legend>1. What are you in the mood for? (pick any)</legend><button type="button" class="opt" data-v="fresh">Fresh and citrus</button><button type="button" class="opt" data-v="woods">Woods and vetiver</button><button type="button" class="opt" data-v="sweet">Sweet and cozy</button><button type="button" class="opt" data-v="florals">Florals</button><button type="button" class="opt" data-v="smoke">Smoke, oud and leather</button></fieldset>
+<fieldset class="q" data-q="w" data-multi="0"><legend>2. When do you wear it?</legend><button type="button" class="opt" data-v="day">Every day and the office</button><button type="button" class="opt" data-v="eve">Evenings out</button><button type="button" class="opt" data-v="special">Special occasions</button></fieldset>
+<fieldset class="q" data-q="l" data-multi="0"><legend>3. How loud?</legend><button type="button" class="opt" data-v="skin">Close to the skin</button><button type="button" class="opt" data-v="room">Fills the room</button></fieldset>
+<fieldset class="q"><legend>4. A scent you already love (optional)</legend><input id="q" placeholder="Search scents" autocomplete="off"><div id="opts"></div><p id="chosen"></p></fieldset>
+<div id="out"></div>
+<script>const B="";
+const K={fresh:['bergamot','lemon','grapefruit','mint','neroli','sea'],woods:['cedar','vetiver','sandalwood','oakmoss'],sweet:['vanilla','tonka','praline','cacao','honey','tobacco','cognac'],florals:['rose','jasmine','tuberose','iris','magnolia','orange blossom'],smoke:['oud','incense','leather','birch','saffron']};
+const URLQ=new URLSearchParams(location.search);let D=[],A={v:(URLQ.get('v')||'').split(',').filter(Boolean),w:URLQ.get('w')||'',l:URLQ.get('l')||'',s:URLQ.get('s')||''};
+const $=id=>document.getElementById(id),money=n=>'$'+(n%1?n.toFixed(2):n);
+function sync(){document.querySelectorAll('fieldset.q[data-q]').forEach(f=>{const k=f.dataset.q;f.querySelectorAll('.opt').forEach(b=>b.classList.toggle('on',k==='v'?A.v.includes(b.dataset.v):A[k]===b.dataset.v))});
+ const u=new URLSearchParams();if(A.v.length)u.set('v',A.v.join(','));if(A.w)u.set('w',A.w);if(A.l)u.set('l',A.l);if(A.s)u.set('s',A.s);history.replaceState(null,'',u.toString()?'?'+u:location.pathname)}
+document.querySelectorAll('fieldset.q[data-q]').forEach(f=>f.onclick=e=>{const b=e.target.closest('.opt');if(!b)return;const k=f.dataset.q,v=b.dataset.v;
+ if(k==='v')A.v=A.v.includes(v)?A.v.filter(x=>x!==v):A.v.concat(v);else A[k]=A[k]===v?'':v;go()});
+const q=$('q'),opts=$('opts'),chosen=$('chosen');
+q.oninput=()=>{const t=q.value.toLowerCase().trim();opts.innerHTML=t?D.filter(d=>d[1].toLowerCase().includes(t)&&d[0]!==A.s).slice(0,8).map(d=>'<button type="button" data-s="'+d[0]+'" class="tag">+ '+d[1]+'</button>').join(''):''};
+opts.onclick=e=>{const s=e.target.dataset.s;if(s){A.s=s;q.value='';opts.innerHTML='';go()}};
+chosen.onclick=e=>{if(e.target.dataset.x){A.s='';go()}};
+function go(){sync();const loved=D.find(d=>d[0]===A.s);chosen.innerHTML=loved?'<button type="button" data-x="1" class="tag">'+loved[1]+' ×</button>':'';
+ if(!A.v.length&&!loved){$('out').innerHTML='<p class="muted">Pick at least one mood, or a scent you love, and we will do the rest.</p>';return}
+ const want=new Set(A.v.flatMap(v=>K[v]||[])),lov=new Set(loved?loved[3]:[]);
+ const sc=d=>{let s=0;for(const n of d[3]){if([...want].some(k=>n.includes(k)))s+=3;if(lov.has(n))s+=2}
+  const c=d[8];const heavy=/extrait|parfum$|parfum/.test(c)&&!/toilette|cologne/.test(c),light=/toilette|cologne/.test(c);
+  if(A.l==='room'&&heavy)s+=1;if(A.l==='skin'&&light)s+=1;if(A.w==='special'&&heavy)s+=1;if(A.w==='day'&&light)s+=1;return s};
+ const r=D.filter(d=>d[4]!=null&&d!==loved).map(d=>({d,s:sc(d)})).filter(x=>x.s>0).sort((a,b)=>b.s-a.s||a.d[4]-b.d[4]);
+ const pick=[],h={};for(const x of r){if((h[x.d[2]]||0)>=2)continue;h[x.d[2]]=(h[x.d[2]]||0)+1;pick.push(x.d);if(pick.length===5)break}
+ if(!pick.length){$('out').innerHTML='<p class="muted">Nothing in the library matches that yet. Try another mood.</p>';return}
+ const tot=pick.reduce((a,d)=>a+(d[6]||0),0),all1=pick.every(d=>d[7]!=null&&d[7]<=1.5);
+ $('out').innerHTML='<h2>Your '+pick.length+' samples</h2><div class="grid">'+pick.map(d=>'<div class="card"><a href="'+B+'/scents/'+d[0]+'/"><strong>'+d[1]+'</strong></a><br><span class="muted">'+d[2]+'</span><br>Sample from '+money(d[4])+' ('+d[5]+' ml)</div>').join('')+'</div><p>'+(all1?'A 1 ml set of these is about ':'A smallest-size set of these is about ')+'<strong>'+money(Math.round(tot*100)/100)+'</strong>. Prices checked on the dates shown on each page.</p><h2>Your two-week testing plan</h2><ol><li>Wear two samples at a time, one on each arm, and never more.</li><li>Wear each for a full day, not a quick sniff at the counter.</li><li>Recheck at hour 4. That is when the drydown tells you what you actually bought.</li><li>Take notes, then run the next two. Two weeks covers all five with room to retest a favorite.</li></ol><h2>Keep the list</h2><form class="nl" method="post" action="#"><input type="hidden" name="quiz" value="'+location.search.slice(1)+'"><input type="email" name="email" required placeholder="you@email.com" aria-label="Email"><button>Email me my 5 and the Price Book</button></form>'}
+fetch(B+'/data/finder.json').then(r=>r.json()).then(d=>{D=d;go()});sync();</script></main><footer><div class="in"><p>Some links are affiliate links; we may earn a commission at no cost to you. Prices were checked on the date shown and may have changed.</p><p><a href="/editorial-policy/">Editorial policy</a> · <a href="/affiliate-disclosure/">Affiliate disclosure</a> · <a href="/how-we-use-ai/">How we use AI</a> · <a href="/price-book/">Price Book</a></p><p>Free stays free. <a href="INSIDER_LINK">Blind Buy Guide Insider</a> adds unlimited price watches.</p><p>&copy; Blind Buy Guide</p></div></footer></body></html>
