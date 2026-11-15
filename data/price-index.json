@@ -244,6 +244,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "ani-x-by-nishane",
+   "name": "Ani X",
+   "house": "Nishane",
+   "url": "https://blindbuyguide.com/scents/ani-x-by-nishane/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "another-13-edp",
    "name": "Another 13 Eau de Parfum",
    "house": "Le Labo",
@@ -298,6 +312,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "arabesque-by-ormonde-jayne",
+   "name": "Arabesque",
+   "house": "Ormonde Jayne",
+   "url": "https://blindbuyguide.com/scents/arabesque-by-ormonde-jayne/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 2.78,
+   "best_bottle_price_usd": 245,
+   "best_bottle_ml": 88,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "atomic-rose-edp",
@@ -496,6 +524,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "byredo-blanche-absolu-extrait",
+   "name": "Blanche Absolu",
+   "house": "Byredo",
+   "url": "https://blindbuyguide.com/scents/byredo-blanche-absolu-extrait/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5.8,
+   "best_bottle_price_usd": 290,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "blanche-edp",
    "name": "Blanche Eau de Parfum",
    "house": "Byredo",
@@ -508,6 +550,20 @@
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Woodberg",
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "blue-talisman-extrait-by-ex-nihilo",
+   "name": "Blue Talisman Extrait",
+   "house": "Ex Nihilo",
+   "url": "https://blindbuyguide.com/scents/blue-talisman-extrait-by-ex-nihilo/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 6.9,
+   "best_bottle_price_usd": 345,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "bois-et-fruits-edp",
@@ -662,6 +718,20 @@
    "best_bottle_ml": 75,
    "best_bottle_retailer": "Serge Lutens",
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "atelier-des-ors-cocoa-kimiya",
+   "name": "Cocoa Kimiya",
+   "house": "Atelier des Ors",
+   "url": "https://blindbuyguide.com/scents/atelier-des-ors-cocoa-kimiya/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 4.9,
+   "best_bottle_price_usd": 490,
+   "best_bottle_ml": 100,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "colognise-extrait",
@@ -1126,6 +1196,34 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "le-labo-eucalyptus-20-edp",
+   "name": "Eucalyptus 20",
+   "house": "Le Labo",
+   "url": "https://blindbuyguide.com/scents/le-labo-eucalyptus-20-edp/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5,
+   "best_bottle_price_usd": 250,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
+   "slug": "byredo-eyes-closed-edp",
+   "name": "Eyes Closed",
+   "house": "Byredo",
+   "url": "https://blindbuyguide.com/scents/byredo-eyes-closed-edp/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 4.7,
+   "best_bottle_price_usd": 235,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "fan-your-flames-extrait",
    "name": "Fan Your Flames Extrait de Parfum",
    "house": "Nishane",
@@ -1194,6 +1292,20 @@
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Liberty London (US site)",
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "ex-nihilo-fleur-narcotique-extrait",
+   "name": "Fleur Narcotique Extrait",
+   "house": "Ex Nihilo",
+   "url": "https://blindbuyguide.com/scents/ex-nihilo-fleur-narcotique-extrait/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 6.9,
+   "best_bottle_price_usd": 345,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "fucking-fabulous-edp",
@@ -1404,6 +1516,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "hacivat-x-by-nishane",
+   "name": "Hacivat X",
+   "house": "Nishane",
+   "url": "https://blindbuyguide.com/scents/hacivat-x-by-nishane/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5.6,
+   "best_bottle_price_usd": 280,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "haltane",
@@ -1686,6 +1812,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "byredo-la-selection-florale-set",
+   "name": "La Sélection Florale (3 x 12ml set)",
+   "house": "Byredo",
+   "url": "https://blindbuyguide.com/scents/byredo-la-selection-florale-set/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "byredo-la-selection-nomade-set",
    "name": "La Sélection Nomade (3 x 12ml set)",
    "house": "Byredo",
@@ -1754,6 +1894,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "levant-by-ormonde-jayne",
+   "name": "Levant",
+   "house": "Ormonde Jayne",
+   "url": "https://blindbuyguide.com/scents/levant-by-ormonde-jayne/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 2.44,
+   "best_bottle_price_usd": 215,
+   "best_bottle_ml": 88,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "initio-lift-me-up-extrait",
@@ -2008,6 +2162,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "byredo-mojave-ghost-absolu-extrait",
+   "name": "Mojave Ghost Absolu",
+   "house": "Byredo",
+   "url": "https://blindbuyguide.com/scents/byredo-mojave-ghost-absolu-extrait/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "mojave-ghost-edp",
    "name": "Mojave Ghost Eau de Parfum",
    "house": "Byredo",
@@ -2176,6 +2344,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "ormonde-man-by-ormonde-jayne",
+   "name": "Ormonde Man",
+   "house": "Ormonde Jayne",
+   "url": "https://blindbuyguide.com/scents/ormonde-man-by-ormonde-jayne/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 3.3,
+   "best_bottle_price_usd": 290,
+   "best_bottle_ml": 88,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "mfk-oud-extrait-de-parfum",
    "name": "Oud - Extrait de Parfum",
    "house": "Maison Francis Kurkdjian",
@@ -2260,6 +2442,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "ormonde-jayne-oud-liaisons-edp",
+   "name": "Oud Liaisons",
+   "house": "Ormonde Jayne",
+   "url": "https://blindbuyguide.com/scents/ormonde-jayne-oud-liaisons-edp/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 3.12,
+   "best_bottle_price_usd": 275,
+   "best_bottle_ml": 88,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "oud-minerale-edp",
    "name": "Oud Minérale Eau de Parfum",
    "house": "Tom Ford",
@@ -2300,6 +2496,20 @@
    "best_bottle_ml": 70,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "mfk-oud-silk-mood-extrait",
+   "name": "Oud Silk Mood - Extrait de Parfum",
+   "house": "Maison Francis Kurkdjian",
+   "url": "https://blindbuyguide.com/scents/mfk-oud-silk-mood-extrait/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 6.79,
+   "best_bottle_price_usd": 475,
+   "best_bottle_ml": 70,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "oud-silk-mood-extrait",
@@ -2456,6 +2666,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "patchouli-datlas-by-ormonde-jayne",
+   "name": "Patchouli d'Atlas",
+   "house": "Ormonde Jayne",
+   "url": "https://blindbuyguide.com/scents/patchouli-datlas-by-ormonde-jayne/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 3.12,
+   "best_bottle_price_usd": 275,
+   "best_bottle_ml": 88,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "pegasus-edp",
    "name": "Pegasus Eau de Parfum",
    "house": "Parfums de Marly",
@@ -2594,6 +2818,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "pink-me-up-by-atelier-des-ors",
+   "name": "Pink Me Up",
+   "house": "Atelier des Ors",
+   "url": "https://blindbuyguide.com/scents/pink-me-up-by-atelier-des-ors/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 3.3,
+   "best_bottle_price_usd": 330,
+   "best_bottle_ml": 100,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "portrait-of-a-lady",
@@ -2904,6 +3142,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "byredo-rose-of-no-mans-land-absolu-extrait",
+   "name": "Rose Of No Man's Land Absolu",
+   "house": "Byredo",
+   "url": "https://blindbuyguide.com/scents/byredo-rose-of-no-mans-land-absolu-extrait/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5.6,
+   "best_bottle_price_usd": 280,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "byredo-rose-of-no-mans-land-edp",
    "name": "Rose of No Man's Land Eau de Parfum",
    "house": "Byredo",
@@ -2916,6 +3168,20 @@
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Bluemercury",
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "rose-omeyyade-by-atelier-des-ors",
+   "name": "Rose Omeyyade",
+   "house": "Atelier des Ors",
+   "url": "https://blindbuyguide.com/scents/rose-omeyyade-by-atelier-des-ors/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 3.3,
+   "best_bottle_price_usd": 330,
+   "best_bottle_ml": 100,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "roses-vanille-edp",
@@ -3128,6 +3394,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "spiky-muse-by-ex-nihilo",
+   "name": "Spiky Muse",
+   "house": "Ex Nihilo",
+   "url": "https://blindbuyguide.com/scents/spiky-muse-by-ex-nihilo/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5.3,
+   "best_bottle_price_usd": 265,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "straight-to-heaven-edp",
    "name": "Straight to Heaven Eau de Parfum",
    "house": "Kilian Paris",
@@ -3152,6 +3432,20 @@
    "best_in_stock_bottle_usd_per_ml": 4.67,
    "best_bottle_price_usd": 420,
    "best_bottle_ml": 90,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
+   "slug": "nishane-sultan-vetiver-extrait",
+   "name": "Sultan Vetiver",
+   "house": "Nishane",
+   "url": "https://blindbuyguide.com/scents/nishane-sultan-vetiver-extrait/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5.2,
+   "best_bottle_price_usd": 260,
+   "best_bottle_ml": 50,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-15"
   },
@@ -3210,6 +3504,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "the-hedonist-extrait-by-ex-nihilo",
+   "name": "The Hedonist Extrait",
+   "house": "Ex Nihilo",
+   "url": "https://blindbuyguide.com/scents/the-hedonist-extrait-by-ex-nihilo/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 6.9,
+   "best_bottle_price_usd": 345,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "le-labo-the-matcha-26-edp",
@@ -3725,6 +4033,20 @@
    "lowest_sample_retailer": null,
    "best_in_stock_bottle_usd_per_ml": 5.2,
    "best_bottle_price_usd": 260,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
+   "slug": "nishane-wulong-cha-x-extrait",
+   "name": "Wulong Cha X",
+   "house": "Nishane",
+   "url": "https://blindbuyguide.com/scents/nishane-wulong-cha-x-extrait/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5.6,
+   "best_bottle_price_usd": 280,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-15"
