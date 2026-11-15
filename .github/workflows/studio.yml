@@ -1,0 +1,27 @@
+name: Studio images
+on:
+  push:
+    paths: ['tools/studio/cutouts.json', 'tools/studio/compose.py']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  compose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install pillow==11.0.0
+      - name: Fonts
+        run: |
+          curl -fsSL -o tools/studio/serif.ttf "https://github.com/google/fonts/raw/main/ofl/cormorantgaramond/CormorantGaramond%5Bwght%5D.ttf"
+          curl -fsSL -o tools/studio/sans.ttf "https://github.com/google/fonts/raw/main/ofl/inter/Inter%5Bopsz,wght%5D.ttf" || cp /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf tools/studio/sans.ttf
+      - run: python tools/studio/compose.py
+      - name: Commit images
+        run: |
+          rm -f tools/studio/serif.ttf tools/studio/sans.ttf
+          git config user.name "studio-bot"
+          git config user.email "studio-bot@users.noreply.github.com"
+          git add images/studio -A tools/studio/sheets tools/studio/contact-before.jpg tools/studio/contact-after.jpg tools/studio/report.json
+          git diff --cached --quiet || (git commit -m "Studio composites [skip ci]" && git push)
