@@ -1,7 +1,7 @@
 {
  "title": "Blind Buy Guide price index",
  "source": "https://blindbuyguide.com/price-book/",
- "date_checked": "2026-11-14",
+ "date_checked": "2026-11-15",
  "currency": "USD",
  "note": "Prices are as shown on retailer pages on date_checked and change often. best_in_stock_bottle is the lowest price per ml among full bottles marked in stock.",
  "items": [
@@ -356,6 +356,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "le-labo-baie-19-edp",
+   "name": "Baie 19",
+   "house": "Le Labo",
+   "url": "https://blindbuyguide.com/scents/le-labo-baie-19-edp/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5,
+   "best_bottle_price_usd": 250,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "bal-d-afrique",
    "name": "Bal d'Afrique",
    "house": "Byredo",
@@ -550,6 +564,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "initio-cant-get-enough-extrait",
+   "name": "Can't Get Enough",
+   "house": "Initio Parfums Privés",
+   "url": "https://blindbuyguide.com/scents/initio-cant-get-enough-extrait/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 4.67,
+   "best_bottle_price_usd": 420,
+   "best_bottle_ml": 90,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "carlisle-edp",
@@ -1658,6 +1686,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "byredo-la-selection-nomade-set",
+   "name": "La Sélection Nomade (3 x 12ml set)",
+   "house": "Byredo",
+   "url": "https://blindbuyguide.com/scents/byredo-la-selection-nomade-set/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "byredo-la-tulipe-edp",
    "name": "La Tulipe",
    "house": "BYREDO",
@@ -1672,6 +1714,34 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "le-labo-labdanum-18-edp",
+   "name": "Labdanum 18",
+   "house": "Le Labo",
+   "url": "https://blindbuyguide.com/scents/le-labo-labdanum-18-edp/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5,
+   "best_bottle_price_usd": 250,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
+   "slug": "le-labo-lavande-31-edp",
+   "name": "Lavande 31",
+   "house": "Le Labo",
+   "url": "https://blindbuyguide.com/scents/le-labo-lavande-31-edp/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5,
+   "best_bottle_price_usd": 250,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "lavender-extreme-edp",
    "name": "Lavender Extreme Eau de Parfum",
    "house": "Tom Ford",
@@ -1684,6 +1754,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "initio-lift-me-up-extrait",
+   "name": "Lift Me Up",
+   "house": "Initio Parfums Privés",
+   "url": "https://blindbuyguide.com/scents/initio-lift-me-up-extrait/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 4.78,
+   "best_bottle_price_usd": 430,
+   "best_bottle_ml": 90,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "amouage-line-618-extrait",
@@ -1964,6 +2048,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "initio-musk-therapy-extrait",
+   "name": "Musk Therapy",
+   "house": "Initio Parfums Privés",
+   "url": "https://blindbuyguide.com/scents/initio-musk-therapy-extrait/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 4.78,
+   "best_bottle_price_usd": 430,
+   "best_bottle_ml": 90,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "initio-narcotic-delight-edp",
@@ -2512,6 +2610,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "initio-power-self-extrait",
+   "name": "Power Self",
+   "house": "Initio Parfums Privés",
+   "url": "https://blindbuyguide.com/scents/initio-power-self-extrait/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "tom-ford-italian-cypress-edp",
    "name": "Private Blend Italian Cypress Eau de Parfum",
    "house": "Tom Ford",
@@ -3030,6 +3142,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "initio-sugar-blast-edp",
+   "name": "Sugar Blast",
+   "house": "Initio Parfums Privés",
+   "url": "https://blindbuyguide.com/scents/initio-sugar-blast-edp/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 4.67,
+   "best_bottle_price_usd": 420,
+   "best_bottle_ml": 90,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "sundazed-edp",
    "name": "Sundazed Eau de Parfum",
    "house": "Byredo",
@@ -3084,6 +3210,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "le-labo-the-matcha-26-edp",
+   "name": "The Matcha 26",
+   "house": "Le Labo",
+   "url": "https://blindbuyguide.com/scents/le-labo-the-matcha-26-edp/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5,
+   "best_bottle_price_usd": 250,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "nishane-thorns-become-roses-extrait",
@@ -3380,6 +3520,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "le-labo-tonka-25-edp",
+   "name": "Tonka 25",
+   "house": "Le Labo",
+   "url": "https://blindbuyguide.com/scents/le-labo-tonka-25-edp/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5,
+   "best_bottle_price_usd": 250,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "torino-21",
    "name": "Torino 21",
    "house": "Xerjoff",
@@ -3492,6 +3646,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "le-labo-violette-30-edp",
+   "name": "Violette 30",
+   "house": "Le Labo",
+   "url": "https://blindbuyguide.com/scents/le-labo-violette-30-edp/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5,
+   "best_bottle_price_usd": 250,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
+  },
+  {
    "slug": "xerjoff-white-on-white-edp",
    "name": "White on White",
    "house": "Xerjoff",
@@ -3504,6 +3672,20 @@
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "initio-wild-rush-edp",
+   "name": "Wild Rush",
+   "house": "Initio Parfums Privés",
+   "url": "https://blindbuyguide.com/scents/initio-wild-rush-edp/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 4.67,
+   "best_bottle_price_usd": 420,
+   "best_bottle_ml": 90,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "creed-wild-vetiver-edp",
@@ -3532,6 +3714,20 @@
    "best_bottle_ml": 75,
    "best_bottle_retailer": "Liberty London",
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "nishane-wulong-cha-extrait",
+   "name": "Wulong Cha",
+   "house": "Nishane",
+   "url": "https://blindbuyguide.com/scents/nishane-wulong-cha-extrait/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": 5.2,
+   "best_bottle_price_usd": 260,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "Luckyscent",
+   "date_checked": "2026-11-15"
   },
   {
    "slug": "ylang-49-edp",
