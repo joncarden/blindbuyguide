@@ -115,7 +115,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "althair-edp",
@@ -171,7 +171,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "ambrette-9-edp",
@@ -1014,6 +1014,20 @@
    "date_checked": "2026-11-15"
   },
   {
+   "slug": "dans-tes-bras-edp",
+   "name": "Dans Tes Bras Eau de Parfum",
+   "house": "Editions de Parfums Frédéric Malle",
+   "url": "https://blindbuyguide.com/scents/dans-tes-bras-edp/",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-16"
+  },
+  {
    "slug": "byredo-de-los-santos-edp",
    "name": "De Los Santos",
    "house": "BYREDO",
@@ -1431,7 +1445,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "godolphin-edp",
@@ -1473,7 +1487,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "good-girl-gone-bad-edp",
