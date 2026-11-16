@@ -1,7 +1,7 @@
 {
  "title": "Blind Buy Guide price index",
  "source": "https://blindbuyguide.com/price-book/",
- "date_checked": "2026-11-15",
+ "date_checked": "2026-11-16",
  "currency": "USD",
  "note": "Prices are as shown on retailer pages on date_checked and change often. best_in_stock_bottle is the lowest price per ml among full bottles marked in stock.",
  "items": [
@@ -17,7 +17,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "xerjoff-1861-renaissance-edp",
@@ -87,21 +87,21 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "absolute-aphrodisiac-edp",
    "name": "Absolute Aphrodisiac Eau de Parfum",
    "house": "Initio Parfums Privés",
    "url": "https://blindbuyguide.com/scents/absolute-aphrodisiac-edp/",
-   "lowest_sample_usd": 6.99,
-   "lowest_sample_ml": 1,
-   "lowest_sample_retailer": "Fragrances Line",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
    "best_in_stock_bottle_usd_per_ml": 4.56,
    "best_bottle_price_usd": 410,
    "best_bottle_ml": 90,
    "best_bottle_retailer": "Luckyscent",
-   "date_checked": "2026-11-15"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "alexandria-ii-edp",
@@ -115,7 +115,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "althair-edp",
@@ -171,7 +171,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "ambrette-9-edp",
@@ -185,7 +185,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "amouage-interlude-man",
@@ -199,7 +199,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "amyris-femme",
@@ -213,7 +213,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "amyris-homme-edt",
@@ -241,7 +241,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "ani-extrait",
@@ -255,7 +255,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "ani-x-by-nishane",
@@ -283,7 +283,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "apom-edp",
@@ -325,7 +325,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "arabesque-by-ormonde-jayne",
@@ -353,7 +353,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "xerjoff-avanguardia-extrait",
@@ -395,7 +395,7 @@
    "best_bottle_price_usd": 360,
    "best_bottle_ml": 70,
    "best_bottle_retailer": "Bergdorf Goodman",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "le-labo-baie-19-edp",
@@ -423,7 +423,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "byredo-bal-d-afrique-absolu-extrait",
@@ -451,7 +451,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "bibliotheque-edp",
@@ -465,7 +465,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "frederic-malle-bigarade-concentree-edp",
@@ -479,7 +479,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "bitter-peach-edp",
@@ -521,7 +521,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "byredo-black-saffron-edp",
@@ -563,7 +563,7 @@
    "best_bottle_price_usd": 169,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Woodberg",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "blue-talisman-extrait-by-ex-nihilo",
@@ -605,7 +605,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "byredo-bois-obscur-extrait",
@@ -633,7 +633,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "initio-cant-get-enough-extrait",
@@ -661,7 +661,7 @@
    "best_bottle_price_usd": 460,
    "best_bottle_ml": 125,
    "best_bottle_retailer": "Neiman Marcus",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "carnal-flower-edp",
@@ -675,7 +675,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "byredo-casablanca-lily-extrait",
@@ -703,7 +703,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "cedrat-boise",
@@ -717,7 +717,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "champaca-by-ormonde-jayne",
@@ -773,7 +773,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-acqua-fiorentina-edp",
@@ -801,7 +801,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-aventus-for-her-edp",
@@ -815,7 +815,7 @@
    "best_bottle_price_usd": 304,
    "best_bottle_ml": 75,
    "best_bottle_retailer": "Liberty London (US site)",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-bois-du-portugal-edp",
@@ -843,7 +843,7 @@
    "best_bottle_price_usd": 304,
    "best_bottle_ml": 75,
    "best_bottle_retailer": "Liberty London (US site)",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-fleurissimo-edp",
@@ -857,7 +857,7 @@
    "best_bottle_price_usd": 460,
    "best_bottle_ml": 73.9,
    "best_bottle_retailer": "Dillards",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-green-irish-tweed-edp",
@@ -871,7 +871,7 @@
    "best_bottle_price_usd": 378,
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Niche Beauty",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-love-in-white-edp",
@@ -913,7 +913,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-silver-mountain-water-edp",
@@ -927,7 +927,7 @@
    "best_bottle_price_usd": 253,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Cult Beauty",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-spice-and-wood-edp",
@@ -955,7 +955,7 @@
    "best_bottle_price_usd": 244,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Liberty London (US site)",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-viking",
@@ -969,7 +969,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-virgin-island-water",
@@ -983,7 +983,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "xerjoff-cruz-del-sur-ii-edp",
@@ -1018,14 +1018,14 @@
    "name": "Dans Tes Bras Eau de Parfum",
    "house": "Editions de Parfums Frédéric Malle",
    "url": "https://blindbuyguide.com/scents/dans-tes-bras-edp/",
-   "lowest_sample_usd": 26.99,
-   "lowest_sample_ml": 5,
-   "lowest_sample_retailer": "Scent Split",
+   "lowest_sample_usd": null,
+   "lowest_sample_ml": null,
+   "lowest_sample_retailer": null,
    "best_in_stock_bottle_usd_per_ml": null,
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "byredo-de-los-santos-edp",
@@ -1081,7 +1081,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "eau-des-sens-edt",
@@ -1123,7 +1123,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "electric-cherry-edp",
@@ -1137,7 +1137,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "amouage-enclave-edp",
@@ -1165,7 +1165,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "amouage-epic-man-edp",
@@ -1179,7 +1179,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "xerjoff-erba-gold-edp",
@@ -1207,7 +1207,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-erolfa-edp",
@@ -1221,7 +1221,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "le-labo-eucalyptus-20-edp",
@@ -1263,7 +1263,7 @@
    "best_bottle_price_usd": 260,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Neiman Marcus",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "mfk-feminin-pluriel-edp",
@@ -1305,7 +1305,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "fleur-doranger-27-edp",
@@ -1319,7 +1319,7 @@
    "best_bottle_price_usd": 208.25,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Liberty London (US site)",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "ex-nihilo-fleur-narcotique-extrait",
@@ -1361,7 +1361,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "byredo-future-memories-edp",
@@ -1389,7 +1389,7 @@
    "best_bottle_price_usd": 330,
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Serge Lutens",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "gaiac-10",
@@ -1403,7 +1403,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "gentle-fluidity-gold-edp",
@@ -1417,7 +1417,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "gentle-fluidity-silver-edp",
@@ -1445,7 +1445,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "godolphin-edp",
@@ -1459,7 +1459,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "gold-immortals-by-ex-nihilo",
@@ -1487,7 +1487,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "good-girl-gone-bad-edp",
@@ -1501,7 +1501,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "greenley-edp",
@@ -1515,7 +1515,7 @@
    "best_bottle_price_usd": 285,
    "best_bottle_ml": 73.9,
    "best_bottle_retailer": "Bluemercury",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "gris-clair-edp",
@@ -1529,7 +1529,7 @@
    "best_bottle_price_usd": 395,
    "best_bottle_ml": 75,
    "best_bottle_retailer": "Serge Lutens (brand site)",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "amouage-guidance-46-extrait",
@@ -1557,7 +1557,7 @@
    "best_bottle_price_usd": 235,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Bluemercury",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "hacivat-extrait",
@@ -1571,7 +1571,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "hacivat-x-by-nishane",
@@ -1613,7 +1613,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "high-frequency-edp",
@@ -1627,7 +1627,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-himalaya",
@@ -1641,7 +1641,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "honour-woman-edp",
@@ -1655,7 +1655,7 @@
    "best_bottle_price_usd": 450,
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Liberty London (US site)",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "nishane-hundred-silent-ways-extrait",
@@ -1725,7 +1725,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-iris-debonair-edp",
@@ -1753,7 +1753,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "jasmin-17-edp",
@@ -1767,7 +1767,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "jubilation-25-edp",
@@ -1781,7 +1781,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "kalan-edp",
@@ -1795,7 +1795,7 @@
    "best_bottle_price_usd": 275,
    "best_bottle_ml": 75,
    "best_bottle_retailer": "Neiman Marcus",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "kurky-edp",
@@ -1837,7 +1837,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "xerjoff-la-capitale-extrait",
@@ -1865,7 +1865,7 @@
    "best_bottle_price_usd": 330,
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Serge Lutens",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "byredo-la-selection-florale-set",
@@ -2005,7 +2005,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "xerjoff-louis-xv-1722-rose-extrait",
@@ -2033,7 +2033,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "lumiere-noire-pour-homme-edt",
@@ -2075,7 +2075,7 @@
    "best_bottle_price_usd": 208.25,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Liberty London (US site)",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "frederic-malle-lys-mediterranee-edp",
@@ -2089,7 +2089,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "magnetic-blend-1-edp",
@@ -2103,7 +2103,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "grand-soir-edp",
@@ -2131,7 +2131,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "maison-margiela-replica-lazy-sunday-morning-edt",
@@ -2145,7 +2145,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "mfk-masculin-pluriel-edt",
@@ -2187,7 +2187,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "amouage-memoir-man-edp",
@@ -2229,7 +2229,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "byredo-mojave-ghost-absolu-extrait",
@@ -2257,7 +2257,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "frederic-malle-musc-ravageur-edp",
@@ -2271,7 +2271,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "muscs-koublai-khan-edp",
@@ -2341,7 +2341,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "noir-extreme-parfum",
@@ -2355,7 +2355,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "frederic-malle-noir-epices-edp",
@@ -2369,7 +2369,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "oajan-edp",
@@ -2383,7 +2383,7 @@
    "best_bottle_price_usd": 400,
    "best_bottle_ml": 124.2,
    "best_bottle_retailer": "Bluemercury",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "opera-edp",
@@ -2397,7 +2397,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "oriana-edp",
@@ -2411,7 +2411,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-original-vetiver-edp",
@@ -2425,7 +2425,7 @@
    "best_bottle_price_usd": 378,
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Niche Beauty",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "ormonde-man-by-ormonde-jayne",
@@ -2481,7 +2481,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "initio-oud-for-grace-edp",
@@ -2509,7 +2509,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "oud-for-happiness-edp",
@@ -2523,7 +2523,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "byredo-oud-immortel-edp",
@@ -2579,7 +2579,7 @@
    "best_bottle_price_usd": 584,
    "best_bottle_ml": 200,
    "best_bottle_retailer": "Niche Beauty",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "mfk-oud-satin-mood-extrait",
@@ -2635,7 +2635,7 @@
    "best_bottle_price_usd": 300,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Bergdorf Goodman",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "creed-oud-zarian-extrait",
@@ -2691,7 +2691,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "initio-paragon-extrait",
@@ -2719,7 +2719,7 @@
    "best_bottle_price_usd": 410,
    "best_bottle_ml": 75,
    "best_bottle_retailer": "Bluemercury",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "layton",
@@ -2733,7 +2733,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "patchouli-24-edp",
@@ -2747,7 +2747,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "patchouli-datlas-by-ormonde-jayne",
@@ -2775,7 +2775,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "artemisia-edp",
@@ -2803,7 +2803,7 @@
    "best_bottle_price_usd": 210,
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Penhaligon's (brand site, US)",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "halfeti-edp",
@@ -2817,7 +2817,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "juniper-sling-edt",
@@ -2831,7 +2831,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "sartorial-edt",
@@ -2845,7 +2845,7 @@
    "best_bottle_price_usd": 210,
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Penhaligon's (brand site, US)",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "percival",
@@ -2859,7 +2859,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "xerjoff-perseveranza-extrait",
@@ -2901,7 +2901,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "pink-me-up-by-atelier-des-ors",
@@ -2929,7 +2929,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "initio-power-self-extrait",
@@ -2957,7 +2957,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "psychedelic-love-edp",
@@ -2971,7 +2971,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "xerjoff-purple-accento-edp",
@@ -3041,7 +3041,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "reflection-woman-edp",
@@ -3055,7 +3055,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "initio-rehab-extrait",
@@ -3097,7 +3097,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "replica-beach-walk-edt",
@@ -3111,7 +3111,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "replica-by-the-fireplace-edt",
@@ -3139,7 +3139,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "replica-jazz-club-edt",
@@ -3153,7 +3153,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "replica-under-the-lemon-trees-edt",
@@ -3167,7 +3167,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "replica-whispers-in-the-library-edt",
@@ -3195,7 +3195,7 @@
    "best_bottle_price_usd": 380,
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Neiman Marcus",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "rolling-in-love-edp",
@@ -3209,7 +3209,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "rose-31-edp",
@@ -3223,7 +3223,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "byredo-rose-of-no-mans-land-absolu-extrait",
@@ -3279,7 +3279,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "byredo-rouge-chaotique-extrait",
@@ -3307,7 +3307,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "sa-majeste-la-rose-edp",
@@ -3335,7 +3335,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "nishane-safran-colognise",
@@ -3363,7 +3363,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "santal-blanc-edp",
@@ -3391,7 +3391,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "amouage-sequence-extrait",
@@ -3433,7 +3433,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "side-effect",
@@ -3447,7 +3447,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "slow-dance-edp",
@@ -3461,7 +3461,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "soleil-neige-edp",
@@ -3475,7 +3475,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "spiky-muse-by-ex-nihilo",
@@ -3503,7 +3503,7 @@
    "best_bottle_price_usd": 267.75,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Liberty London (US site)",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "initio-sugar-blast-edp",
@@ -3545,7 +3545,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "byredo-super-cedar-edp",
@@ -3573,7 +3573,7 @@
    "best_bottle_price_usd": 244,
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Woodberg",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tam-dao-edp",
@@ -3587,7 +3587,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tanger-by-ormonde-jayne",
@@ -3657,7 +3657,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tobacco-oud-edp",
@@ -3671,7 +3671,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "black-orchid-edp",
@@ -3685,7 +3685,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-bois-pacifique-edp",
@@ -3699,7 +3699,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-cherry-smoke-edp",
@@ -3713,7 +3713,7 @@
    "best_bottle_price_usd": 526.5,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Sephora Canada",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-costa-azzurra-edp",
@@ -3727,7 +3727,7 @@
    "best_bottle_price_usd": 165,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Bluemercury",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-fleur-de-chine-edp",
@@ -3741,7 +3741,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-fleur-de-portofino-edp",
@@ -3783,7 +3783,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-lost-cherry-edp",
@@ -3797,7 +3797,7 @@
    "best_bottle_price_usd": 405,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Bergdorf Goodman",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-neroli-portofino-edp",
@@ -3811,7 +3811,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-noir-de-noir-edp",
@@ -3825,7 +3825,7 @@
    "best_bottle_price_usd": 300,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Bergdorf Goodman",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "ombre-leather-edp",
@@ -3839,7 +3839,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-rose-de-chine-edp",
@@ -3853,7 +3853,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-soleil-blanc-edp",
@@ -3867,7 +3867,7 @@
    "best_bottle_price_usd": 300,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Bluemercury",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-tobacco-vanille-edp",
@@ -3881,7 +3881,7 @@
    "best_bottle_price_usd": 300,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Neiman Marcus",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-tuscan-leather-edp",
@@ -3895,7 +3895,7 @@
    "best_bottle_price_usd": 184,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "LookFantastic",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-vanille-fatale-edp",
@@ -3909,7 +3909,7 @@
    "best_bottle_price_usd": 265,
    "best_bottle_ml": 47.3,
    "best_bottle_retailer": "Bluemercury",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tom-ford-venetian-bergamot-edp",
@@ -3923,7 +3923,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "le-labo-tonka-25-edp",
@@ -3951,7 +3951,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "tubereuse-40",
@@ -3965,7 +3965,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "nishane-tuberoza-extrait",
@@ -3993,7 +3993,7 @@
    "best_bottle_price_usd": 330,
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Serge Lutens",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "une-rose-edp",
@@ -4021,7 +4021,7 @@
    "best_bottle_price_usd": 410,
    "best_bottle_ml": 75,
    "best_bottle_retailer": "Neiman Marcus",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "byredo-vanille-antique-extrait",
@@ -4063,7 +4063,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "le-labo-violette-30-edp",
@@ -4133,7 +4133,7 @@
    "best_bottle_price_usd": 304,
    "best_bottle_ml": 75,
    "best_bottle_retailer": "Liberty London",
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "nishane-wulong-cha-extrait",
@@ -4175,7 +4175,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   },
   {
    "slug": "ebene-fume-edp",
@@ -4189,7 +4189,7 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
-   "date_checked": "2026-11-14"
+   "date_checked": "2026-11-16"
   }
  ]
 }
