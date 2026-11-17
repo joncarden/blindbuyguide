@@ -559,10 +559,10 @@
    "lowest_sample_usd": 6.99,
    "lowest_sample_ml": 1,
    "lowest_sample_retailer": "Fragrances Line",
-   "best_in_stock_bottle_usd_per_ml": 3.38,
-   "best_bottle_price_usd": 169,
+   "best_in_stock_bottle_usd_per_ml": 3.65,
+   "best_bottle_price_usd": 182.75,
    "best_bottle_ml": 50,
-   "best_bottle_retailer": "Woodberg",
+   "best_bottle_retailer": "Liberty",
    "date_checked": "2026-11-16"
   },
   {
@@ -881,10 +881,10 @@
    "lowest_sample_usd": null,
    "lowest_sample_ml": null,
    "lowest_sample_retailer": null,
-   "best_in_stock_bottle_usd_per_ml": 2.93,
-   "best_bottle_price_usd": 220,
-   "best_bottle_ml": 75,
-   "best_bottle_retailer": "Liberty London",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-14"
   },
   {
@@ -923,10 +923,10 @@
    "lowest_sample_usd": 5.99,
    "lowest_sample_ml": 1,
    "lowest_sample_retailer": "Fragrances Line",
-   "best_in_stock_bottle_usd_per_ml": 5.06,
-   "best_bottle_price_usd": 253,
-   "best_bottle_ml": 50,
-   "best_bottle_retailer": "Cult Beauty",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-16"
   },
   {
@@ -3569,10 +3569,10 @@
    "lowest_sample_usd": 6.99,
    "lowest_sample_ml": 1,
    "lowest_sample_retailer": "Fragrances Line",
-   "best_in_stock_bottle_usd_per_ml": 2.44,
-   "best_bottle_price_usd": 244,
-   "best_bottle_ml": 100,
-   "best_bottle_retailer": "Woodberg",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-16"
   },
   {
@@ -3709,10 +3709,10 @@
    "lowest_sample_usd": 11.99,
    "lowest_sample_ml": 1,
    "lowest_sample_retailer": "Scent Split",
-   "best_in_stock_bottle_usd_per_ml": 10.53,
-   "best_bottle_price_usd": 526.5,
-   "best_bottle_ml": 50,
-   "best_bottle_retailer": "Sephora Canada",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-16"
   },
   {
@@ -3891,10 +3891,10 @@
    "lowest_sample_usd": 6.99,
    "lowest_sample_ml": 1,
    "lowest_sample_retailer": "Scent Split",
-   "best_in_stock_bottle_usd_per_ml": 3.68,
-   "best_bottle_price_usd": 184,
-   "best_bottle_ml": 50,
-   "best_bottle_retailer": "LookFantastic",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-16"
   },
   {
