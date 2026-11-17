@@ -67,6 +67,14 @@ header a.navpb{color:var(--accent);border:1px solid var(--accent);padding:6px 10
 /* price book */
 .pbhero{display:grid;grid-template-columns:minmax(0,300px) 1fr;gap:44px;align-items:center;padding:24px 0}.cover{aspect-ratio:3/4;background:var(--ink);color:var(--bg);padding:26px 22px;display:flex;flex-direction:column;justify-content:space-between;box-shadow:10px 12px 0 color-mix(in srgb,var(--accent) 35%,transparent)}.cover b{font:500 2.3em var(--serif);line-height:1}.pbimg{width:100%;max-width:240px;height:auto;display:block;border:1px solid var(--line);box-shadow:10px 12px 0 color-mix(in srgb,var(--accent) 25%,transparent)}.cover span{font:11px var(--sans);letter-spacing:.2em;text-transform:uppercase;opacity:.8}.cover .bottle{position:relative;background:transparent;height:92px;justify-content:flex-start}.cover .bottle svg{width:auto;height:100%}
 .pbrow{display:flex;gap:12px;align-items:center}
+/* dataset ledger + provenance stamps */
+.ledger{border-top:1px solid var(--ink);border-bottom:1px solid var(--line);margin:3.2em 0 0;padding:26px 0 18px}.ledger-h{display:grid;grid-template-columns:1fr 1.1fr;gap:10px 44px;align-items:end}.ledger-h .eyebrow{grid-column:1/-1}.ledger-h h2{border:0;padding:0;margin:.2em 0 0;font-size:2.1em}.ledger-h p.muted{margin:0;font-size:16px}
+.lstats{display:grid;grid-template-columns:repeat(4,1fr);margin:26px 0 0;border-top:1px solid var(--line)}.lstats div{padding:16px 18px 14px;border-left:1px solid var(--line)}.lstats div:first-child{border-left:0;padding-left:0}.lstats dt{font:11px var(--sans);letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}.lstats dd{margin:6px 0 0;font:500 3.1em/1 var(--serif);font-variant-numeric:lining-nums}
+.lfind{display:grid;grid-template-columns:1fr 1fr;gap:0 44px;border-top:1px solid var(--line)}.lfind p{display:grid;grid-template-columns:auto 1fr;gap:16px;align-items:baseline;margin:0;padding:16px 0}.lfind b{font:500 2.2em/1 var(--serif);color:var(--accent);font-variant-numeric:lining-nums}.lfind span{font:15px/1.5 var(--sans);color:var(--muted)}
+.lfoot{font:13px var(--sans);color:var(--muted);margin:10px 0 0;border-top:1px solid var(--line);padding-top:12px}.lfoot a{white-space:nowrap}
+.ledger.compact{margin:1.2em 0 1.6em;padding:0;border-top:1px solid var(--line)}.ledger.compact .lstats{margin:0;border-top:0}.ledger.compact .lstats dd{font-size:2.3em}.ledger.compact .lfoot{margin-top:0}
+.lcap{font:12px var(--sans);letter-spacing:.06em;color:var(--muted);margin:10px 0 0}.dstamp{display:flex;flex-wrap:wrap;gap:4px 14px;font:13px var(--sans);color:var(--muted);margin:10px 0 0}.dstamp span+span:before,.dstamp a:before{content:"·";margin-right:14px;color:var(--line)}.dstamp a:before{display:inline-block;color:var(--line)}
+@media(max-width:760px){.ledger{margin-top:2.4em;padding-top:20px}.ledger-h{grid-template-columns:1fr}.ledger-h h2{font-size:1.6em}.lstats{grid-template-columns:1fr 1fr;margin-top:18px}.lstats div{padding:12px 0 12px 14px}.lstats div:nth-child(odd){border-left:0;padding-left:0}.lstats div:nth-child(n+3){border-top:1px solid var(--line)}.lstats dd{font-size:2.3em}.ledger.compact .lstats dd{font-size:1.9em}.lfind{grid-template-columns:1fr}.lfind p+p{border-top:1px solid var(--line)}.lfind p{grid-template-columns:5.2rem 1fr;gap:10px}.lfind b{font-size:1.8em}.lfind span{font-size:14px}.dstamp{font-size:12px;flex-direction:column;gap:2px}.dstamp span+span:before,.dstamp a:before{display:none}}
 /* quiz */
 .opt{background:var(--card);color:var(--ink);border:1px solid var(--line);margin:4px 6px 4px 0;text-transform:none;letter-spacing:0;font:16px var(--sans)}.opt.on{background:var(--ink);color:var(--bg)}fieldset.q{border:0;padding:0;margin:1.8em 0}legend{font:500 1.5em var(--serif);padding:0;margin-bottom:8px}
 @media(max-width:760px){body{font-size:16.5px}main,header .in,footer .in{padding:0 16px}header .in{gap:8px 16px;padding-top:12px;padding-bottom:12px}header .brand{flex-basis:100%;font-size:1.5em}header a{font-size:11px;letter-spacing:.12em}
@@ -83,6 +91,20 @@ document.addEventListener('DOMContentLoaded',function(){bbgMount()})})()</script
 <header><div class="in"><a class="brand" href="/">Blind Buy Guide</a><a href="/scents/">Scents</a><a href="/guides/">Guides</a><a href="/find/">Find your signature</a><a class="navpb" href="/price-book/">Free Price Book</a></div></header>
 <main><div class="prose"><h1>How we track fragrance prices</h1>
 <p class="verdict"><strong>Short version:</strong> every price on Blind Buy Guide was read from a public retailer page on the date shown next to it. Price per ml is price divided by milliliters. The library covers 299 fragrances and was last refreshed 2026-11-16.</p>
+<h2>The dataset at a glance</h2>
+<table><tbody>
+<tr><td>Fragrances tracked</td><td>299</td></tr>
+<tr><td>Luxury and niche houses</td><td>21</td></tr>
+<tr><td>Retailers and brand boutiques read</td><td>42, including 7 sample and decant shops</td></tr>
+<tr><td>Dated prices on file</td><td>1,360 (432 full bottle, 928 sample)</td></tr>
+<tr><td>Fragrances with a sample price</td><td>203</td></tr>
+<tr><td>Fragrances with a bottle price shown</td><td>227</td></tr>
+<tr><td>Fragrances with published notes</td><td>212</td></tr>
+<tr><td>Prices checked</td><td>2026-11-14 to 2026-11-16</td></tr>
+</tbody></table>
+<p class="muted" style="font-size:15px">These figures are recalculated from the library every time the site is built, so they move as we add scents and recheck prices. Machine-readable summary: <a href="/data/stats.json">stats.json</a>.</p>
+<p><strong>Houses covered:</strong> Byredo (30), Tom Ford (30), Creed (26), Le Labo (24), Maison Francis Kurkdjian (22), Amouage (20), Xerjoff (20), Initio Parfums Privés (18), Parfums de Marly (18), Nishane (14), Serge Lutens (12), Frederic Malle (10), Ormonde Jayne (10), Maison Margiela (9), Diptyque (8), Ex Nihilo (8), Kilian (8), Penhaligon&#x27;s (6), Atelier des Ors (3), Mancera (2), Roja Parfums (1).</p>
+<p><strong>Most-read retailers:</strong> Fragrances Line, Scent Split, Luckyscent, Harrods, Bluemercury, Liberty, Serge Lutens, Maison Margiela, Neiman Marcus, Scentsangel, Frederic Malle, Sephora, Tom Ford Beauty, Venba Fragrance, and 28 more.</p>
 <h2>What we measure</h2>
 <p><strong>Lowest sample.</strong> The lowest total price for a decant or sample of the fragrance among the sample retailers we track, with the size and retailer named.</p>
 <p><strong>Best bottle.</strong> The lowest price per ml among full bottles we saw marked in stock. Sold-out listings stay visible for context but never set the best bottle.</p>
@@ -90,7 +112,7 @@ document.addEventListener('DOMContentLoaded',function(){bbgMount()})})()</script
 <h2>Where the numbers come from</h2>
 <p>Retailer product pages: authorized luxury retailers for full bottles where available, plus decant and sample retailers for samples. Each scent page links the exact page we read. Notes, accords, house and concentration come from published brand and retailer information.</p>
 <h2>How fresh it is</h2>
-<p>Every price shows its check date. We refresh the library and publish a new Price Book edition monthly. Prices move, and a number we published can be wrong by the time you read it, which is why the date is always beside it.</p>
+<p>Every price shows its check date. Stock status is recorded when a retailer page shows it, and sold-out bottles never set the best price, but stock moves faster than any library, so check the retailer before you count on it. We refresh the library and publish a new Price Book edition monthly. Prices move, and a number we published can be wrong by the time you read it, which is why the date is always beside it.</p>
 <h2>What we do not do</h2>
 <p>We do not claim to have smelled or worn any fragrance, and we do not accept payment for verdicts. Some links are affiliate links, as described in our <a href="/affiliate-disclosure/">affiliate disclosure</a> and <a href="/editorial-policy/">editorial policy</a>. The site is written with AI tools, explained on <a href="/how-we-use-ai/">how we use AI</a>.</p>
 <h2>Download and cite the data</h2>

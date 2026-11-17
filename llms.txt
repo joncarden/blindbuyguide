@@ -1,10 +1,11 @@
 # Blind Buy Guide
 
-> Independent luxury and niche fragrance guide. For each of 254 scents we publish the lowest sample price, the best in-stock bottle price per ml, notes, and a verdict on whether to blind buy or sample first. Prices are dated and refreshed monthly. We do not claim to have smelled or worn anything; see the methodology.
+> Independent luxury and niche fragrance guide. For each of 299 scents we publish the lowest sample price, the best in-stock bottle price per ml, notes, and a verdict on whether to blind buy or sample first. Prices are dated and refreshed monthly. We do not claim to have smelled or worn anything; see the methodology.
 
 ## Key facts and data
 - [Price Book (free, monthly)](https://blindbuyguide.com/price-book/): lowest sample price and best in-stock bottle price per ml for 299 fragrances, last refreshed 2026-11-16.
 - [Methodology](https://blindbuyguide.com/methodology/): how prices are collected, dated and calculated, and how to cite them.
+- Dataset size: 1,360 dated prices from 42 retailers and brand sites across 299 fragrances and 21 houses, checked 2026-11-14 to 2026-11-16. Summary: https://blindbuyguide.com/data/stats.json
 - [Price index as CSV](https://blindbuyguide.com/data/price-index.csv) and [as JSON](https://blindbuyguide.com/data/price-index.json): the same figures, machine readable.
 - [Editorial policy](https://blindbuyguide.com/editorial-policy/), [How we use AI](https://blindbuyguide.com/how-we-use-ai/), [Affiliate disclosure](https://blindbuyguide.com/affiliate-disclosure/)
 
