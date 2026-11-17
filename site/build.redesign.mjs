@@ -15,6 +15,9 @@ const cjAdv = url => { try{ const h=new URL(url).hostname; return CJ_ON.find(a=>
 const aff = url => cjAdv(url) ? `${CJ.linkHost||'https://www.anrdoezrs.net'}/links/${CJ.pid}/type/dlg/${url}` : affBase(url);
 const cjOffers = (()=>{ try{ return JSON.parse(fs.readFileSync(path.join(root,CJ.offersFile||'partners/cj-offers.json'),'utf8')); }catch{ return {}; } })();
 const fmtDay = d => { const x=new Date(d+'T12:00:00Z'); return isNaN(x)?d:x.toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'UTC'}); };
+const AMZ = cfg.amazon||{}; const amzAsins = (()=>{ try{ return JSON.parse(fs.readFileSync(path.join(root,AMZ.asinFile||'partners/amazon-asins.json'),'utf8')); }catch{ return {}; } })();
+const amazonUrl = s => { const a=amzAsins[s.slug]; return a&&/^[A-Z0-9]{10}$/.test(a) ? `https://www.amazon.com/dp/${a}` : `https://www.amazon.com/s?k=${encodeURIComponent(((s.house||'').replace(/\s*\(.*?\)/g,'')+' '+s.name).trim())}&i=beauty`; };
+const amazonLine = s => !AMZ.enabled ? '' : `<p class="muted alsoat">Also on Amazon: <a rel="sponsored nofollow noopener" href="${esc(aff(amazonUrl(s)))}">${amzAsins[s.slug]?esc(s.name):'see current listings'}</a>.</p>`;
 const alsoAt = s => CJ_ON.map(a=>{ const o=(cjOffers[a.name]||{}), it=(o.items||{})[s.slug]; if(!it||!it.sizes||!it.sizes.length) return ''; return `<p class="muted alsoat">Also in stock at <a rel="sponsored nofollow noopener" href="${esc(aff(it.url))}">${esc(a.name)}</a>: ${it.sizes.map(z=>`${z.ml} ml, ${money(z.price)}`).join(' &middot; ')}.${o.checked?` Checked ${esc(fmtDay(o.checked))}.`:''}</p>`; }).join('');
 const LABEL={buy:'Buy it.',sample_first:'Sample it first.',skip:'Skip it.'};
 const urls=[];
@@ -255,7 +258,7 @@ ${s.cheapestSample||cheapest?`<div class="buy">${s.cheapestSample?(s.cheapestSam
 <h2>What's in it</h2>${['top','heart','base'].some(k=>arr(s.notes[k]).length)?`<div class="pyr">${['top','heart','base'].map(k=>`<div><b>${k[0].toUpperCase()+k.slice(1)}</b>${tags(s.notes[k])||'<span class="muted">&ndash;</span>'}</div>`).join('')}</div>`:''}${arr(s.accords).length?`<p><strong>Accords:</strong> ${tags(s.accords)}</p>`:''}
 ${wearersSection(loadWearers(s.slug))}
 <h2>Sample before you commit</h2>${tbl([...s.samples].sort((a,b)=>a.size_ml-b.size_ml||a.price-b.price),'sample prices')}
-<h2>The full-bottle math</h2>${tbl(rows,'full-size prices')}${alsoAt(s)}${pref.length?'<p class="muted">Authorized retailers are listed first.</p>':''}${watchBox(s)}
+<h2>The full-bottle math</h2>${tbl(rows,'full-size prices')}${alsoAt(s)}${amazonLine(s)}${pref.length?'<p class="muted">Authorized retailers are listed first.</p>':''}${watchBox(s)}
 ${sim.length?`<h2>If you like this, try</h2><div class="grid">${sim.map(x=>`<div class="card"><a href="${BASE}/scents/${x.slug}/">${esc(x.name)}</a><br><span class="muted">${esc(x.house||'')}</span></div>`).join('')}</div>`:''}
 ${faqs.length?`<h2>FAQ</h2>${faqs.map(([q,a])=>`<h3>${esc(q)}</h3><p>${esc(a)}</p>`).join('')}`:''}
 ${cta()}${s.cheapestSample&&s.cheapestSample.url&&s.cheapestSample.url!=='#'?`<div class="sticky"><span>Sample from ${money(s.cheapestSample.price)}</span><a rel="sponsored nofollow noopener" href="${esc(aff(s.cheapestSample.url))}">Get the sample &rarr;</a></div><script>document.body.classList.add('hasSticky')</script>`:''}`;

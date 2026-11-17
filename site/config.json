@@ -17,7 +17,7 @@
         "name": "Amazon Associates",
         "match": "amazon.",
         "param": "tag",
-        "value": ""
+        "value": "blindbuyguide-20"
       }
     ]
   },
@@ -31,7 +31,7 @@
   },
   "analyticsSnippet": "<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script><script defer src=\"/_vercel/insights/script.js\"></script>",
   "contactEmail": "",
-  "disclosure": "Some links are affiliate links; we may earn a commission at no cost to you. Prices were checked on the date shown and may have changed.",
+  "disclosure": "Some links are affiliate links; we may earn a commission at no cost to you. Prices were checked on the date shown and may have changed. As an Amazon Associate I earn from qualifying purchases.",
   "preferredRetailers": [],
   "preferredRetailersNote": "Retailer names (as in the library) to list first in bottle tables, e.g. authorized luxury retailers.",
   "insiderLinkNote": "Set insiderLink once the paid tier exists; empty hides the footer Insider line.",
@@ -69,5 +69,10 @@
         "enabled": false
       }
     ]
+  },
+  "amazon": {
+    "_note": "Amazon Associates (approved 2026-11-17). Every scent page gets an 'Also on Amazon' line: a /dp/ASIN link when partners/amazon-asins.json has the scent's slug, otherwise an Amazon search link. The tag is added by affiliate.rules (Amazon).",
+    "enabled": true,
+    "asinFile": "partners/amazon-asins.json"
   }
 }
