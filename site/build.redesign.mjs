@@ -55,6 +55,14 @@ const bottle = (s,cls='') => { const col=mood(s);
 function load(dir){ if(!fs.existsSync(dir)) return []; return fs.readdirSync(dir).filter(f=>f.endsWith('.json')).flatMap(f=>{
   try{ const d=JSON.parse(fs.readFileSync(path.join(dir,f),'utf8')); d.slug ||= f.replace(/\.json$/,''); return [d]; }catch(e){ console.warn('skip',f,e.message); return []; } }); }
 let scents = load(libDir); let usingSample = false;
+// Prices are shown in US dollars only. A listing in pounds, euros etc. (or with no currency recorded) stays in the
+// library and the history but is never displayed as a dollar price. Same rule as the Price Book.
+const isUSD = o => String(o&&o.currency||'').toUpperCase()==='USD';
+// Price history: record every observation (append-only, library/history/prices.csv) on each build, then read it back.
+import {snapshot as histSnapshot, loadHistory, priceMoves} from '/mnt/project-files/content/tools/price_history.mjs';
+let HIST=[]; try{ if(scents.length&&!process.env.NOHISTORY) histSnapshot(scents); HIST=loadHistory(); }catch(e){ console.warn('price history skipped:',e.message); }
+const histSince = Object.create(null); for(const r of HIST) if(!histSince[r.slug]||r.date_checked<histSince[r.slug]) histSince[r.slug]=r.date_checked;
+const histMoves = Object.create(null); for(const m of priceMoves(HIST)) if(isUSD(m)) (histMoves[m.slug] ||= []).push(m);
 if(!scents.length){ scents = load(path.join(root,'sample-data')); usingSample = true; }
 const bySlug = Object.fromEntries(scents.map(s=>[s.slug,s]));
 for(const s of scents){
@@ -64,8 +72,8 @@ for(const s of scents){
     v={...v,...Object.fromEntries(Object.entries(ev).filter(([,x])=>x!=null&&x!==''))}; }catch{}
   s.verdictLine = v.summary || ''; s.who = v.who_it_suits || ''; s.advice = v.buy_or_sample_first || null;
   s.similar = arr(s.similar_scents||s.similar); s.summary = s.verdictLine;
-  s.prices = arr(s.full_bottle_offers||s.prices).map(p=>({...p,checked:p.date_checked||p.checked})).filter(p=>p.in_stock!==false);
-  s.samples = arr(s.sample_offers||s.samples).map(p=>({...p,checked:p.date_checked||p.checked})).filter(p=>p.in_stock!==false);
+  s.prices = arr(s.full_bottle_offers||s.prices).map(p=>({...p,checked:p.date_checked||p.checked})).filter(p=>p.in_stock!==false&&isUSD(p));
+  s.samples = arr(s.sample_offers||s.samples).map(p=>({...p,checked:p.date_checked||p.checked})).filter(p=>p.in_stock!==false&&isUSD(p));
   s.accords = arr(s.accords).map(a=>String(a).split(':')[0]); s.prices = s.prices.filter(p=>p&&p.price>0&&p.size_ml>0); s.samples = s.samples.filter(p=>p&&p.price>0&&p.size_ml>0);
   s.prices.forEach(p=>p.ppm=p.price/p.size_ml); s.samples.forEach(p=>p.ppm=p.price/p.size_ml);
   s.bestPpm = s.prices.length ? Math.min(...s.prices.map(p=>p.ppm)) : null;
@@ -96,9 +104,14 @@ const DATA=(()=>{ const all=[],rs=new Map(),srs=new Set(),dates=[];
 })();
 const checkedRange=()=>DATA.firstChecked===DATA.lastChecked?fmtDate(DATA.lastChecked):(DATA.firstChecked.slice(0,7)===DATA.lastChecked.slice(0,7)?fmtDate(DATA.firstChecked).replace(/, \d+$/,'')+'–'+fmtDate(DATA.lastChecked).replace(/^\w+ /,''):fmtDate(DATA.firstChecked)+' to '+fmtDate(DATA.lastChecked));
 const n0=n=>Number(n).toLocaleString('en-US');
+// price moves from the history: only shown once a listing's price has actually changed between checks
+const movesBlock=s=>{ const m=(histMoves[s.slug]||[]).slice(0,6); if(!m.length) return '';
+  const row=x=>{ const a=x.points[0], b=x.points[x.points.length-1], d=b.price-a.price;
+    return `<tr><td>${esc(retailerName(x.retailer))}</td><td>${x.size_ml} ml${x.kind==='sample'?' sample':''}</td><td>${money(a.price)} <span class="muted">${esc(fmtDate(a.date))}</span></td><td>${money(b.price)} <span class="muted">${esc(fmtDate(b.date))}</span></td><td class="${d<0?'down':'up'}">${d<0?'&minus;':'+'}${money(Math.abs(d))}</td></tr>`; };
+  return `<div class="moves"><p class="eyebrow" style="margin:1.4em 0 .4em">Price history</p><table><thead><tr><th>Retailer</th><th>Size</th><th>Was</th><th>Now</th><th>Change</th></tr></thead><tbody>${m.map(row).join('')}</tbody></table><p class="muted" style="font-size:14px">From our dated checks of the same listing. <a href="${BASE}/methodology/">How we track prices</a></p></div>`; };
 // per-scent provenance line, shown where people decide
 const stamp=s=>{ const l=[...s.prices,...s.samples]; if(!l.length) return ''; const r=new Set(l.map(o=>retailerKey(o.retailer))).size; const d=l.map(o=>o.checked).filter(Boolean).sort().pop();
-  return `<p class="dstamp"><span>${l.length} ${l.length===1?'price':'prices'} from ${r} ${r===1?'retailer':'retailers'}</span>${d?`<span>Last checked ${esc(fmtDate(d))}</span>`:''}<a href="${BASE}/methodology/">How we track prices</a></p>`; };
+  return `<p class="dstamp"><span>${l.length} ${l.length===1?'price':'prices'} from ${r} ${r===1?'retailer':'retailers'}</span>${d?`<span>Last checked ${esc(fmtDate(d))}</span>`:''}${histSince[s.slug]?`<span>Price history since ${esc(fmtDate(histSince[s.slug]))}</span>`:''}<a href="${BASE}/methodology/">How we track prices</a></p>`; };
 // the dataset, shown as a ledger (homepage, Price Book, scents index)
 const ledger=(compact=false,cap='')=>`<section class="ledger${compact?' compact':''}">${cap?`<p class="lcap">${cap}</p>`:''}${compact?'':`<div class="ledger-h"><p class="eyebrow" style="margin:0">The data</p><h2>We did the math on ${n0(DATA.scents)} bottles. Every price is dated.</h2><p class="muted">Each figure below comes from a retailer page we read and link, with the date we read it. Nothing is estimated, nothing is from memory, and no brand paid for a verdict.</p></div>`}
 <dl class="lstats"><div><dt>Fragrances tracked</dt><dd>${n0(DATA.scents)}</dd></div><div><dt>Luxury houses</dt><dd>${n0(DATA.houses)}</dd></div><div><dt>Retailers and boutiques</dt><dd>${n0(DATA.retailers)}</dd></div><div><dt>Dated prices on file</dt><dd>${n0(DATA.pricePoints)}</dd></div></dl>
@@ -171,7 +184,7 @@ ${wearersCss}
 .lfind{display:grid;grid-template-columns:1fr 1fr;gap:0 44px;border-top:1px solid var(--line)}.lfind p{display:grid;grid-template-columns:auto 1fr;gap:16px;align-items:baseline;margin:0;padding:16px 0}.lfind b{font:500 2.2em/1 var(--serif);color:var(--accent);font-variant-numeric:lining-nums}.lfind span{font:15px/1.5 var(--sans);color:var(--muted)}
 .lfoot{font:13px var(--sans);color:var(--muted);margin:10px 0 0;border-top:1px solid var(--line);padding-top:12px}.lfoot a{white-space:nowrap}
 .ledger.compact{margin:1.2em 0 1.6em;padding:0;border-top:1px solid var(--line)}.ledger.compact .lstats{margin:0;border-top:0}.ledger.compact .lstats dd{font-size:2.3em}.ledger.compact .lfoot{margin-top:0}
-.lcap{font:12px var(--sans);letter-spacing:.06em;color:var(--muted);margin:10px 0 0}.dstamp{display:flex;flex-wrap:wrap;gap:4px 14px;font:13px var(--sans);color:var(--muted);margin:10px 0 0}.dstamp span+span:before,.dstamp a:before{content:"·";margin-right:14px;color:var(--line)}.dstamp a:before{display:inline-block;color:var(--line)}
+.moves td.down{color:#2f6b3a}.moves td.up{color:var(--muted)}.lcap{font:12px var(--sans);letter-spacing:.06em;color:var(--muted);margin:10px 0 0}.dstamp{display:flex;flex-wrap:wrap;gap:4px 14px;font:13px var(--sans);color:var(--muted);margin:10px 0 0}.dstamp span+span:before,.dstamp a:before{content:"·";margin-right:14px;color:var(--line)}.dstamp a:before{display:inline-block;color:var(--line)}
 @media(max-width:760px){.ledger{margin-top:2.4em;padding-top:20px}.ledger-h{grid-template-columns:1fr}.ledger-h h2{font-size:1.6em}.lstats{grid-template-columns:1fr 1fr;margin-top:18px}.lstats div{padding:12px 0 12px 14px}.lstats div:nth-child(odd){border-left:0;padding-left:0}.lstats div:nth-child(n+3){border-top:1px solid var(--line)}.lstats dd{font-size:2.3em}.ledger.compact .lstats dd{font-size:1.9em}.lfind{grid-template-columns:1fr}.lfind p+p{border-top:1px solid var(--line)}.lfind p{grid-template-columns:5.2rem 1fr;gap:10px}.lfind b{font-size:1.8em}.lfind span{font-size:14px}.dstamp{font-size:12px;flex-direction:column;gap:2px}.dstamp span+span:before,.dstamp a:before{display:none}}
 /* quiz */
 .opt{background:var(--card);color:var(--ink);border:1px solid var(--line);margin:4px 6px 4px 0;text-transform:none;letter-spacing:0;font:16px var(--sans)}.opt.on{background:var(--ink);color:var(--bg)}fieldset.q{border:0;padding:0;margin:1.8em 0}legend{font:500 1.5em var(--serif);padding:0;margin-bottom:8px}
@@ -258,7 +271,7 @@ ${s.cheapestSample||cheapest?`<div class="buy">${s.cheapestSample?(s.cheapestSam
 <h2>What's in it</h2>${['top','heart','base'].some(k=>arr(s.notes[k]).length)?`<div class="pyr">${['top','heart','base'].map(k=>`<div><b>${k[0].toUpperCase()+k.slice(1)}</b>${tags(s.notes[k])||'<span class="muted">&ndash;</span>'}</div>`).join('')}</div>`:''}${arr(s.accords).length?`<p><strong>Accords:</strong> ${tags(s.accords)}</p>`:''}
 ${wearersSection(loadWearers(s.slug))}
 <h2>Sample before you commit</h2>${tbl([...s.samples].sort((a,b)=>a.size_ml-b.size_ml||a.price-b.price),'sample prices')}
-<h2>The full-bottle math</h2>${tbl(rows,'full-size prices')}${alsoAt(s)}${amazonLine(s)}${pref.length?'<p class="muted">Authorized retailers are listed first.</p>':''}${watchBox(s)}
+<h2>The full-bottle math</h2>${tbl(rows,'full-size prices')}${alsoAt(s)}${amazonLine(s)}${movesBlock(s)}${pref.length?'<p class="muted">Authorized retailers are listed first.</p>':''}${watchBox(s)}
 ${sim.length?`<h2>If you like this, try</h2><div class="grid">${sim.map(x=>`<div class="card"><a href="${BASE}/scents/${x.slug}/">${esc(x.name)}</a><br><span class="muted">${esc(x.house||'')}</span></div>`).join('')}</div>`:''}
 ${faqs.length?`<h2>FAQ</h2>${faqs.map(([q,a])=>`<h3>${esc(q)}</h3><p>${esc(a)}</p>`).join('')}`:''}
 ${cta()}${s.cheapestSample&&s.cheapestSample.url&&s.cheapestSample.url!=='#'?`<div class="sticky"><span>Sample from ${money(s.cheapestSample.price)}</span><a rel="sponsored nofollow noopener" href="${esc(aff(s.cheapestSample.url))}">Get the sample &rarr;</a></div><script>document.body.classList.add('hasSticky')</script>`:''}`;
@@ -450,7 +463,8 @@ urls.unshift('/','/scents/','/find/','/newsletter/',...letters.map(l=>`/scents/l
 write('sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map(u=>`<url><loc>${cfg.domain+BASE+u}</loc></url>`).join('')}</urlset>`);
 write('robots.txt',`User-agent: *\nAllow: /\nSitemap: ${cfg.domain+BASE}/sitemap.xml\n`);
 write('llms.txt',`# ${cfg.brand}\n> ${cfg.tagline}\n\n## Scents\n${sorted.map(s=>`- [${s.name}](${cfg.domain+BASE}/scents/${s.slug}/): ${s.verdictLine||s.house||''}`).join('\n')}\n`);
-write('data/stats.json',JSON.stringify({title:`${cfg.brand} fragrance price dataset: summary`,url:cfg.domain+BASE+'/methodology/',fragrances:DATA.scents,houses:DATA.houses,retailers_and_brand_sites:DATA.retailers,sample_retailers:DATA.sampleRetailers,dated_prices:DATA.pricePoints,full_bottle_prices:DATA.bottlePoints,sample_prices:DATA.samplePoints,fragrances_with_sample_price:DATA.withSample,fragrances_with_bottle_price:DATA.withBottle,fragrances_with_notes:DATA.withNotes,median_lowest_sample_usd:DATA.medianSample,median_lowest_sample_ml:DATA.medianSampleMl,median_sample_pct_of_bottle:DATA.medianSamplePct,first_checked:DATA.firstChecked,last_checked:DATA.lastChecked,house_counts:Object.fromEntries(DATA.houseList),retailer_counts:Object.fromEntries(DATA.retailerList.map(r=>[r.name,r.n]))},null,1));
+write('data/stats.json',JSON.stringify({title:`${cfg.brand} fragrance price dataset: summary`,url:cfg.domain+BASE+'/methodology/',fragrances:DATA.scents,houses:DATA.houses,retailers_and_brand_sites:DATA.retailers,sample_retailers:DATA.sampleRetailers,dated_prices:DATA.pricePoints,full_bottle_prices:DATA.bottlePoints,sample_prices:DATA.samplePoints,fragrances_with_sample_price:DATA.withSample,fragrances_with_bottle_price:DATA.withBottle,fragrances_with_notes:DATA.withNotes,median_lowest_sample_usd:DATA.medianSample,median_lowest_sample_ml:DATA.medianSampleMl,median_sample_pct_of_bottle:DATA.medianSamplePct,first_checked:DATA.firstChecked,price_history_rows:HIST.length,price_history_since:HIST.length?HIST.map(r=>r.date_checked).sort()[0]:null,listings_with_price_change:Object.values(histMoves).reduce((a,l)=>a+l.length,0),display_currency:'USD',non_usd_prices_hidden:scents.reduce((a,s)=>a+[...arr(s.full_bottle_offers),...arr(s.sample_offers)].filter(o=>o&&o.price>0&&!isUSD(o)).length,0),last_checked:DATA.lastChecked,house_counts:Object.fromEntries(DATA.houseList),retailer_counts:Object.fromEntries(DATA.retailerList.map(r=>[r.name,r.n]))},null,1));
+try{ write('data/price-history.csv',fs.readFileSync(process.env.HISTORY||'/mnt/project-files/library/history/prices.csv')); }catch{}
 write('data/scents.json',JSON.stringify(scents.map(({allNotes,...r})=>r)));
 console.log(`built ${scents.length} scents${usingSample?' (sample data)':''} -> ${out}`);
 // ---- AEO layer (schema, og tags, llms.txt, robots, sitemap lastmod, methodology page, price-index data)

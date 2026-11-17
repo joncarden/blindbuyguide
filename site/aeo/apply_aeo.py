@@ -18,9 +18,9 @@ def ld(o): return '<script type="application/ld+json">' + json.dumps(o, ensure_a
 
 data = json.load(open(R + '/data/scents.json'))
 def summarize(s):
-    ins = [o for o in s['full_bottle_offers'] if o.get('in_stock') and o.get('price_per_ml')]
+    ins = [o for o in s['full_bottle_offers'] if o.get('in_stock') and o.get('price_per_ml') and str(o.get('currency') or '').upper() == 'USD']
     best = min(ins, key=lambda o: o['price_per_ml']) if ins else None
-    sm = [o for o in s['sample_offers'] if o.get('price') and o.get('size_ml') and o.get('in_stock') is not False]
+    sm = [o for o in s['sample_offers'] if o.get('price') and o.get('size_ml') and o.get('in_stock') is not False and str(o.get('currency') or '').upper() == 'USD']
     low = min(sm, key=lambda o: o['price']) if sm else None
     dates = [o['date_checked'] for o in s['full_bottle_offers'] + s['sample_offers'] if o.get('date_checked')]
     return best, low, (max(dates) if dates else None)
@@ -136,10 +136,11 @@ mi = f'''<main><div class="prose"><h1>How we track fragrance prices</h1>
 <p><strong>Lowest sample.</strong> The lowest total price for a decant or sample of the fragrance among the sample retailers we track, with the size and retailer named.</p>
 <p><strong>Best bottle.</strong> The lowest price per ml among full bottles we saw marked in stock. Sold-out listings stay visible for context but never set the best bottle.</p>
 <p><strong>Price per ml.</strong> Listed price divided by size in ml, rounded to the cent. Prices are in US dollars and exclude tax and shipping.</p>
+<p><strong>Currency.</strong> We only show prices listed in US dollars. When a retailer lists a fragrance in pounds, euros or another currency, or the page does not say, that price stays in our records but is never shown or compared as a dollar price, so a UK store never sets the best price.{(" Right now " + n0(ST["non_usd_prices_hidden"]) + " such prices are held back.") if ST and ST.get("non_usd_prices_hidden") else ""}</p>
 <h2>Where the numbers come from</h2>
 <p>Retailer product pages: authorized luxury retailers for full bottles where available, plus decant and sample retailers for samples. Each scent page links the exact page we read. Notes, accords, house and concentration come from published brand and retailer information.</p>
 <h2>How fresh it is</h2>
-<p>Every price shows its check date. Stock status is recorded when a retailer page shows it, and sold-out bottles never set the best price, but stock moves faster than any library, so check the retailer before you count on it. We refresh the library and publish a new Price Book edition monthly. Prices move, and a number we published can be wrong by the time you read it, which is why the date is always beside it.</p>
+<p>Every price shows its check date. We also keep every past observation, so when a retailer changes the price of the same listing, the old and new price both stay on record with their dates. Price history starts {(ST.get("price_history_since") if ST else None) or "November 2026"} and is published as <a href="/data/price-history.csv">price-history.csv</a>. Stock status is recorded when a retailer page shows it, and sold-out bottles never set the best price, but stock moves faster than any library, so check the retailer before you count on it. We refresh the library and publish a new Price Book edition monthly. Prices move, and a number we published can be wrong by the time you read it, which is why the date is always beside it.</p>
 <h2>What we do not do</h2>
 <p>We do not claim to have smelled or worn any fragrance, and we do not accept payment for verdicts. Some links are affiliate links, as described in our <a href="/affiliate-disclosure/">affiliate disclosure</a> and <a href="/editorial-policy/">editorial policy</a>. The site is written with AI tools, explained on <a href="/how-we-use-ai/">how we use AI</a>.</p>
 <h2>Download and cite the data</h2>
