@@ -1,0 +1,63 @@
+diff -ruN a/aeo/apply_aeo.py b/aeo/apply_aeo.py
+--- a/aeo/apply_aeo.py	2026-11-17 04:41:52.192470933 +0000
++++ b/aeo/apply_aeo.py	2026-11-17 04:41:52.221131467 +0000
+@@ -4,7 +4,7 @@
+ Head/JSON-LD changes plus new files only: methodology page, robots, sitemap, llms.txt, data/price-index.*"""
+ import json, re, sys, glob, os, csv, html
+ R = sys.argv[1].rstrip('/')
+-B = 'https://blindbuyguide.com'
++B = 'https://www.blindbuyguide.com'
+ ORG = {"@type": "Organization", "@id": B + "/#org", "name": "Blind Buy Guide", "url": B + "/",
+        "description": "An independent luxury and niche fragrance publication that tracks sample and full-bottle prices per ml and says whether to blind buy or sample first.",
+        "publishingPrinciples": B + "/editorial-policy/"}
+@@ -115,7 +115,7 @@
+        ("How often are the prices updated?", "Every price on a scent page carries the date it was checked. We refresh the price library and publish a new edition of the Price Book each month, so a price older than that should be treated as out of date."),
+        ("Does Blind Buy Guide test the fragrances?", "No. We do not claim to have smelled or worn anything. Notes and accords come from published brand and retailer information, the analysis is price and sampling math, and the site is written with AI tools, as explained on the how we use AI page."),
+        ("Which retailers do the prices come from?", "Full-bottle prices come from the retailer pages we link on each scent page, with authorized luxury retailers such as Bergdorf Goodman and Neiman Marcus preferred where they carry the fragrance. Sample prices come from decant and sample retailers, which are independent resellers rather than the brands themselves."),
+-       ("Can I cite or reuse the Blind Buy Guide price data?", "Yes. Cite it as Blind Buy Guide, Price Book, with the edition date and the link https://blindbuyguide.com/price-book/. The same figures are available as CSV and JSON.")]
++       ("Can I cite or reuse the Blind Buy Guide price data?", "Yes. Cite it as Blind Buy Guide, Price Book, with the edition date and the link https://www.blindbuyguide.com/price-book/. The same figures are available as CSV and JSON.")]
+ mi = f'''<main><div class="prose"><h1>How we track fragrance prices</h1>
+ <p class="verdict"><strong>Short version:</strong> every price on Blind Buy Guide was read from a public retailer page on the date shown next to it. Price per ml is price divided by milliliters. The library covers {len(rows)} fragrances and was last refreshed {LATEST}.</p>
+ ''' + (f'''<h2>The dataset at a glance</h2>
+@@ -143,7 +143,7 @@
+ <h2>What we do not do</h2>
+ <p>We do not claim to have smelled or worn any fragrance, and we do not accept payment for verdicts. Some links are affiliate links, as described in our <a href="/affiliate-disclosure/">affiliate disclosure</a> and <a href="/editorial-policy/">editorial policy</a>. The site is written with AI tools, explained on <a href="/how-we-use-ai/">how we use AI</a>.</p>
+ <h2>Download and cite the data</h2>
+-<p>The <a href="/price-book/">Price Book</a> is free. The same figures are available as <a href="/data/price-index.csv">CSV</a> and <a href="/data/price-index.json">JSON</a>. To cite: <em>Blind Buy Guide, Price Book, {LATEST} edition, https://blindbuyguide.com/price-book/</em>.</p>
++<p>The <a href="/price-book/">Price Book</a> is free. The same figures are available as <a href="/data/price-index.csv">CSV</a> and <a href="/data/price-index.json">JSON</a>. To cite: <em>Blind Buy Guide, Price Book, {LATEST} edition, https://www.blindbuyguide.com/price-book/</em>.</p>
+ <h2>Frequently asked questions</h2>
+ ''' + ''.join(f'<h3>{html.escape(q)}</h3><p>{html.escape(a)}</p>\n' for q, a in faq) + '</div></main>'
+ page_ld = ld({"@context": "https://schema.org", "@graph": [
+diff -ruN a/build.redesign.mjs b/build.redesign.mjs
+--- a/build.redesign.mjs	2026-11-17 04:41:52.154822426 +0000
++++ b/build.redesign.mjs	2026-11-17 04:41:52.220959769 +0000
+@@ -221,7 +221,7 @@
+ const policiesNav=[['editorial-policy','Editorial policy'],['affiliate-disclosure','Affiliate disclosure'],['how-we-use-ai','How we use AI']].map(([s,l])=>`<a href="${BASE}/${s}/">${l}</a>`).join(' · ');
+ function page({title,desc,path:p,body,ld=[],hook=null}){
+   const url = cfg.domain+BASE+p;
+-  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="color-scheme" content="light"><meta name="viewport" content="width=device-width,initial-scale=1">${cfg.headMeta||''}
++  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="color-scheme" content="light"><meta name="viewport" content="width=device-width,initial-scale=1">${cfg.headMeta||''}${p==='/'?(cfg.homeHeadMeta||''):''}
+ <title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><link rel="canonical" href="${esc(url)}">
+ <meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:type" content="website"><meta property="og:url" content="${esc(url)}">
+ <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet"><style>${css}</style>${ld.map(o=>`<script type="application/ld+json">${JSON.stringify(o).replace(/</g,'\\u003c')}</script>`).join('')}${cfg.analyticsSnippet||''}${BHV_JS}</head><body>
+diff -ruN a/config.json b/config.json
+--- a/config.json	2026-11-17 04:41:52.153980996 +0000
++++ b/config.json	2026-11-17 04:41:52.219825648 +0000
+@@ -1,7 +1,7 @@
+ {
+   "brand": "Blind Buy Guide",
+   "tagline": "Don't blind buy it. Sample it first.",
+-  "domain": "https://blindbuyguide.com",
++  "domain": "https://www.blindbuyguide.com",
+   "newsletterName": "the Blind Buy Guide newsletter",
+   "newsletterFormAction": "",
+   "affiliate": {
+@@ -40,6 +40,8 @@
+   "waitlistFormId": "b4395642-8ca7-492b-b19b-5106f1561d90",
+   "waitlistFormIdNote": "beehiiv form \"Site: Price alerts waitlist\". Empty = scent/guide pages show the old free price-watch box instead of the waitlist.",
+   "headMeta": "<meta name=\"impact-site-verification\" value=\"bd18f8c2-f130-4cdc-a429-522f54b4cd78\">",
++  "homeHeadMeta": "<meta name=\"msvalidate.01\" content=\"CFBD58038D09D0AE662665D4538D39D7\" /><meta name=\"p:domain_verify\" content=\"ef56b2d09e6d08d521fb929a132bdd0e\"/>",
++  "homeHeadMetaNote": "Bing and Pinterest site verification tags, home page head only.",
+   "headMetaNote": "Raw tags added to every page head (site verification for affiliate networks). Keep the Impact tag: removing it can break Impact verification.",
+   "cj": {
+     "_note": "CJ Affiliate. Links to an enabled advertiser's domain become https://www.anrdoezrs.net/links/<pid>/type/dlg/<product url>. To switch on FragranceX or Jomashop once CJ approves them: fill id, set enabled true (and add an offers block to partners/cj-offers.json if they should get an 'Also in stock' line).",

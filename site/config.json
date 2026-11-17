@@ -1,0 +1,78 @@
+{
+  "brand": "Blind Buy Guide",
+  "tagline": "Don't blind buy it. Sample it first.",
+  "domain": "https://www.blindbuyguide.com",
+  "newsletterName": "the Blind Buy Guide newsletter",
+  "newsletterFormAction": "",
+  "affiliate": {
+    "note": "Fill value with your tag once the account is approved. Empty value = plain link. Matched against link hostname.",
+    "rules": [
+      {
+        "name": "Scent Split",
+        "match": "scentsplit.com",
+        "param": "ref",
+        "value": ""
+      },
+      {
+        "name": "Amazon Associates",
+        "match": "amazon.",
+        "param": "tag",
+        "value": "blindbuyguide-20"
+      }
+    ]
+  },
+  "colors": {
+    "bg": "#f6f2ea",
+    "ink": "#17140f",
+    "muted": "#6b6259",
+    "accent": "#7a5b2e",
+    "card": "#fbf9f4",
+    "line": "#ddd4c4"
+  },
+  "analyticsSnippet": "<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script><script defer src=\"/_vercel/insights/script.js\"></script>",
+  "contactEmail": "",
+  "disclosure": "Some links are affiliate links; we may earn a commission at no cost to you. Prices were checked on the date shown and may have changed. As an Amazon Associate I earn from qualifying purchases.",
+  "preferredRetailers": [],
+  "preferredRetailersNote": "Retailer names (as in the library) to list first in bottle tables, e.g. authorized luxury retailers.",
+  "insiderLinkNote": "Set insiderLink once the paid tier exists; empty hides the footer Insider line.",
+  "beehiivFormId": "82cd2e81-7e96-49b5-a487-65fbafa07438",
+  "beehiivFormIdNote": "data-beehiiv-form value from the published beehiiv form \"Site signup: Price Book\". Empty = signups off (forms say so and hand over the PDF).",
+  "waitlistFormId": "b4395642-8ca7-492b-b19b-5106f1561d90",
+  "waitlistFormIdNote": "beehiiv form \"Site: Price alerts waitlist\". Empty = scent/guide pages show the old free price-watch box instead of the waitlist.",
+  "headMeta": "<meta name=\"impact-site-verification\" value=\"bd18f8c2-f130-4cdc-a429-522f54b4cd78\">",
+  "homeHeadMeta": "<meta name=\"msvalidate.01\" content=\"CFBD58038D09D0AE662665D4538D39D7\" /><meta name=\"p:domain_verify\" content=\"ef56b2d09e6d08d521fb929a132bdd0e\"/>",
+  "homeHeadMetaNote": "Bing and Pinterest site verification tags, home page head only.",
+  "headMetaNote": "Raw tags added to every page head (site verification for affiliate networks). Keep the Impact tag: removing it can break Impact verification.",
+  "cj": {
+    "_note": "CJ Affiliate. Links to an enabled advertiser's domain become https://www.anrdoezrs.net/links/<pid>/type/dlg/<product url>. To switch on FragranceX or Jomashop once CJ approves them: fill id, set enabled true (and add an offers block to partners/cj-offers.json if they should get an 'Also in stock' line).",
+    "pid": "101930159",
+    "cid": "8128947",
+    "linkHost": "https://www.anrdoezrs.net",
+    "offersFile": "partners/cj-offers.json",
+    "advertisers": [
+      {
+        "name": "Perfumania",
+        "id": "904674",
+        "domain": "perfumania.com",
+        "enabled": true
+      },
+      {
+        "name": "FragranceX",
+        "id": "",
+        "domain": "fragrancex.com",
+        "enabled": false
+      },
+      {
+        "name": "Jomashop",
+        "id": "",
+        "domain": "jomashop.com",
+        "enabled": false
+      }
+    ]
+  },
+  "amazon": {
+    "_note": "Amazon Associates (approved 2026-11-17). Every scent page gets an 'Also on Amazon' line: a /dp/ASIN link when partners/amazon-asins.json has the scent's slug, otherwise an Amazon search link. The tag is added by affiliate.rules (Amazon).",
+    "enabled": true,
+    "asinFile": "partners/amazon-asins.json"
+  }
+}

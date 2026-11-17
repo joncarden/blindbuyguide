@@ -56,4 +56,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://blindbuyguide.com/sitemap.xml
+Sitemap: https://www.blindbuyguide.com/sitemap.xml
