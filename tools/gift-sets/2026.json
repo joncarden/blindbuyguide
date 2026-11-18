@@ -1,0 +1,96 @@
+{
+ "year": 2026,
+ "checked": "2026-11-18",
+ "note": "Set prices read from retailer or brand pages on 2026-11-18 via free web fetch (no Firecrawl). Component bottle prices come from the library at build time.",
+ "sets": [
+  {
+   "slug": "creed-mens-5-piece-discovery-set",
+   "name": "Creed Men's 5-Piece Discovery Set (Limited Edition)",
+   "short": "Creed Men's 5-Piece Discovery Set",
+   "house": "Creed",
+   "retailer": "Bluemercury",
+   "url": "https://www.bluemercury.com/products/creed-men-s-5-piece-discovery-set-limited-edition",
+   "price": 380,
+   "stock": "in stock (listing notes a limit of 3 per order)",
+   "items": [
+     {"label": "Aventus Eau de Parfum", "ml": 9.8, "scent": "creed-aventus"},
+     {"label": "Absolu Aventus Eau de Parfum", "ml": 9.8, "scent": null},
+     {"label": "Silver Mountain Water Eau de Parfum", "ml": 9.8, "scent": "creed-silver-mountain-water-edp"},
+     {"label": "Millésime Imperial Eau de Parfum", "ml": 9.8, "scent": "millesime-imperial-edp"},
+     {"label": "Green Irish Tweed Eau de Parfum", "ml": 9.8, "scent": "creed-green-irish-tweed-edp"}
+   ],
+   "item_size_note": "Each bottle is listed as 0.33 fl oz (about 9.8 ml).",
+   "compare": [
+     {"scent": "creed-green-irish-tweed-edp", "label": "Green Irish Tweed"}
+   ],
+   "verdict": "buy",
+   "recipient": "someone who is Creed-curious and hasn't settled on a bottle",
+   "skip_if": "the recipient already owns Aventus, since it is one-fifth of the set",
+   "hook": "Five Creeds in one box is the most efficient way to give someone a signature scent decision without choosing it for them.",
+   "closer": "A $380 box that ends a Creed argument is a better gift than a $495 bottle that starts one.",
+   "faq_extra": "The listing we read on 2026-11-18 named Absolu Aventus as the second bottle; an earlier Bluemercury listing for the same set named Aventus Cologne instead, so check the contents on the page before you buy."
+  },
+  {
+   "slug": "tom-ford-private-blend-luxe-discovery-set",
+   "name": "Tom Ford Private Blend Luxe Discovery Set (Limited Edition)",
+   "short": "Tom Ford Private Blend Luxe Discovery Set",
+   "house": "Tom Ford",
+   "retailer": "Bluemercury",
+   "url": "https://bluemercury.com/products/tom-ford-private-blend-luxe-discovery-set",
+   "price": 100,
+   "stock": "in stock",
+   "items": [
+     {"label": "Lost Cherry Eau de Parfum", "ml": 3, "scent": "tom-ford-lost-cherry-edp"},
+     {"label": "Soleil Blanc Eau de Parfum", "ml": 3, "scent": "tom-ford-soleil-blanc-edp"},
+     {"label": "Oud Wood Eau de Parfum", "ml": 3, "scent": "tom-ford-oud-wood"},
+     {"label": "Tobacco Vanille Eau de Parfum", "ml": 3, "scent": "tom-ford-tobacco-vanille-edp"}
+   ],
+   "item_size_note": "Each bottle is listed as about 3 ml (0.1 fl oz).",
+   "compare": [
+     {"scent": "tom-ford-oud-wood", "label": "Oud Wood"},
+     {"scent": "tom-ford-tobacco-vanille-edp", "label": "Tobacco Vanille"},
+     {"scent": "tom-ford-lost-cherry-edp", "label": "Lost Cherry"},
+     {"scent": "tom-ford-soleil-blanc-edp", "label": "Soleil Blanc"}
+   ],
+   "verdict": "buy",
+   "recipient": "anyone you suspect wants a Tom Ford Private Blend but would never tell you which one",
+   "skip_if": "they already own two of the four, in which case a full bottle of the other is the better move",
+   "hook": "It is four of the house's best-known Private Blends in one box for $100.",
+   "closer": "The lowest-commitment way into the Private Blend line that still comes in a Tom Ford box. Buy it, wrap it, let them pick the winner.",
+   "faq_extra": "Tom Ford Beauty also lists this set at $100."
+  },
+  {
+   "slug": "mfk-5-piece-holiday-miniature-set",
+   "name": "Maison Francis Kurkdjian 5-Piece Limited Edition Holiday Miniature Fragrance Gift Set",
+   "short": "MFK 5-Piece Holiday Miniature Set",
+   "house": "Maison Francis Kurkdjian",
+   "retailer": "Dillard's",
+   "url": "https://www.dillards.com/p/maison-francis-kurkdjian-5-piece-limited-edition-holiday-miniature-fragrance-gift-set/522650698",
+   "price": 325,
+   "stock": "stock not shown",
+   "items": [
+     {"label": "Kurky Eau de Parfum", "ml": 10, "scent": "kurky-edp"},
+     {"label": "gentle Fluidity Silver Eau de Parfum", "ml": 10, "scent": "gentle-fluidity-silver-edp"},
+     {"label": "Grand Soir Eau de Parfum", "ml": 10, "scent": "grand-soir-edp"},
+     {"label": "OUD satin mood Eau de Parfum", "ml": 10, "scent": "oud-satin-mood-edp"},
+     {"label": "Baccarat Rouge 540 Extrait de Parfum", "ml": 10, "scent": null}
+   ],
+   "item_size_note": "Each bottle is listed as 0.34 oz (about 10 ml).",
+   "compare": [
+     {"scent": "kurky-edp", "label": "Kurky"},
+     {"scent": "oud-satin-mood-edp", "label": "Oud Satin Mood"}
+   ],
+   "verdict": "sample_first",
+   "recipient": "someone who already loves a Baccarat Rouge 540 and wants to meet the rest of the house",
+   "skip_if": "they only want Baccarat Rouge 540, since the set holds its Extrait, not the Eau de Parfum most people mean",
+   "hook": "It is the house's greatest hits in five 10 ml bottles, and the one set we found with the Baccarat Rouge 540 Extrait in it.",
+   "closer": "Give it to the person who says BR540 is their personality. The other four bottles are how they find out what else is.",
+   "faq_extra": "The $325 price is the figure in the retailer page's product data on 2026-11-18; the page did not display a price in the text we read, so confirm it at checkout."
+  }
+ ],
+ "sold_out": [
+  {"name": "Parfums de Marly Masculine Discovery Collection", "retailer": "Parfums de Marly USA", "price": 250, "size": "5 x 10 ml", "status": "sold out on 2026-11-18"},
+  {"name": "Parfums de Marly Feminine Discovery Collection", "retailer": "Parfums de Marly USA", "price": 250, "size": "5 x 10 ml", "status": "sold out on 2026-11-18"},
+  {"name": "Parfums de Marly The Collector's Coffret", "retailer": "Parfums de Marly USA", "price": 450, "size": "18 x 5 ml", "status": "sold out on 2026-11-18"}
+ ]
+}
