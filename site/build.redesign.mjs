@@ -13,10 +13,11 @@ const affBase = url => { try{ const u=new URL(url); const r=(cfg.affiliate.rules
 // CJ deep links: wrap links to enabled CJ advertisers as <linkHost>/links/<PID>/type/dlg/<url> (tested 2026-11-16: lands on the product with AID/PID).
 const CJ = cfg.cj||{}; const CJ_ON = (CJ.advertisers||[]).filter(a=>a.enabled&&a.domain&&CJ.pid);
 const cjAdv = url => { try{ const h=new URL(url).hostname; return CJ_ON.find(a=>h===a.domain||h.endsWith('.'+a.domain)); }catch{ return null; } };
-// Rakuten deep links: wrap links to enabled Rakuten advertisers as click.linksynergy.com/deeplink?id=<publisher id>&mid=<advertiser id>&murl=<url>.
-const RK = cfg.rakuten||{}; const RK_ON = (RK.advertisers||[]).filter(a=>a.enabled&&a.domain&&a.mid&&RK.id);
+// Rakuten deep links: wrap links to enabled Rakuten advertisers as click.linksynergy.com/link?id=<publisher id>&offerid=<offer id>&type=2&murl=<url>
+// (tested 2026-11-18: lands on the MicroPerfumes product with nb_platform=rakuten), or /deeplink?id=&mid=&murl= when only a mid is known.
+const RK = cfg.rakuten||{}; const RK_ON = (RK.advertisers||[]).filter(a=>a.enabled&&a.domain&&(a.offerid||a.mid)&&RK.id);
 const rkAdv = url => { try{ const h=new URL(url).hostname; return RK_ON.find(a=>h===a.domain||h.endsWith('.'+a.domain)); }catch{ return null; } };
-const aff = url => { const r=rkAdv(url); if(r) return `${RK.linkHost||'https://click.linksynergy.com'}/deeplink?id=${encodeURIComponent(RK.id)}&mid=${encodeURIComponent(r.mid)}&murl=${encodeURIComponent(url)}`;
+const aff = url => { const r=rkAdv(url); if(r) return r.offerid ? `${RK.linkHost||'https://click.linksynergy.com'}/link?id=${encodeURIComponent(RK.id)}&offerid=${encodeURIComponent(r.offerid)}&type=2&murl=${encodeURIComponent(url)}` : `${RK.linkHost||'https://click.linksynergy.com'}/deeplink?id=${encodeURIComponent(RK.id)}&mid=${encodeURIComponent(r.mid)}&murl=${encodeURIComponent(url)}`;
   return cjAdv(url) ? `${CJ.linkHost||'https://www.anrdoezrs.net'}/links/${CJ.pid}/type/dlg/${url}` : affBase(url); };
 const cjOffers = (()=>{ try{ return JSON.parse(fs.readFileSync(path.join(root,CJ.offersFile||'partners/cj-offers.json'),'utf8')); }catch{ return {}; } })();
 const fmtDay = d => { const x=new Date(d+'T12:00:00Z'); return isNaN(x)?d:x.toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'UTC'}); };
