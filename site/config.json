@@ -74,5 +74,7 @@
     "_note": "Amazon Associates (approved 2026-11-17). Every scent page gets an 'Also on Amazon' line: a /dp/ASIN link when partners/amazon-asins.json has the scent's slug, otherwise an Amazon search link. The tag is added by affiliate.rules (Amazon).",
     "enabled": true,
     "asinFile": "partners/amazon-asins.json"
-  }
+  },
+  "giftFormId": "d1a8b059-6279-4bba-9222-c9ab0d3dca5a",
+  "giftFormIdNote": "beehiiv form \"Site: Gift guide 2026\" (redirects to /gift-guide/thanks/). Empty = the gift guide shows a direct PDF download instead of the signup form."
 }
