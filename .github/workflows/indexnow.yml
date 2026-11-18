@@ -1,0 +1,55 @@
+name: IndexNow ping
+# Tells Bing (which powers ChatGPT search and Copilot), Yandex, Naver and Seznam
+# that pages changed, so new guides get crawled in hours instead of weeks.
+on:
+  push:
+    branches: [main]
+    paths: ['sitemap.xml', '.github/workflows/indexnow.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 2 }
+      - name: Wait for the Vercel deploy
+        run: sleep 180
+      - name: Submit changed URLs (all URLs on manual run)
+        env:
+          KEY: 7d5e28dfe4f01871e13b4515325e2d8c
+          HOST: www.blindbuyguide.com
+          EVENT: ${{ github.event_name }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re, subprocess, urllib.request, urllib.error
+          now = re.findall(r"<loc>([^<]+)</loc>", open("sitemap.xml").read())
+          urls = now
+          if os.environ["EVENT"] == "push":
+              try:
+                  old = subprocess.run(["git", "show", "HEAD~1:sitemap.xml"], capture_output=True, text=True).stdout
+                  before = set(re.findall(r"<loc>([^<]+)</loc>", old))
+                  if old.strip() == open("sitemap.xml").read().strip():
+                      urls = now  # workflow edit, sitemap unchanged: submit everything
+                  else:
+                      changed = [u for u in now if u not in before]
+                      urls = changed or now[:50]
+              except Exception:
+                  pass
+          host = os.environ["HOST"]
+          urls = [u for u in urls if u.startswith(f"https://{host}/")][:10000]
+          body = json.dumps({"host": host, "key": os.environ["KEY"],
+                             "keyLocation": f"https://{host}/{os.environ['KEY']}.txt",
+                             "urlList": urls}).encode()
+          ok = False
+          for ep in ("https://api.indexnow.org/indexnow", "https://www.bing.com/indexnow", "https://yandex.com/indexnow"):
+              req = urllib.request.Request(ep, data=body, headers={"Content-Type": "application/json; charset=utf-8"})
+              try:
+                  with urllib.request.urlopen(req, timeout=60) as r:
+                      print(ep, r.status, "for", len(urls), "URLs"); ok = True
+              except urllib.error.HTTPError as e:
+                  print(ep, e.code, e.read()[:500].decode("utf-8", "replace"))
+          if not ok:
+              raise SystemExit("No IndexNow endpoint accepted the submission")
+          PY

@@ -1,0 +1,156 @@
+{
+  "batch": "batch-2",
+  "prepared": "2026-11-18",
+  "site": "https://www.blindbuyguide.com",
+  "boards": "Same 10 boards as batch-1 (see ../batch-1/pins.json). This batch starts the Perfume Layering Combinations board.",
+  "pins": [
+    {
+      "id": "21", "slug": "perfume-layering-combinations-6-pairs", "day": 1, "template": "table",
+      "board": "Perfume Layering Combinations",
+      "title": "Perfume layering combinations: 6 luxury pairs that share a note",
+      "description": "Perfume layering combinations that start from a shared note: Tobacco Vanille + Oud Wood, Green Irish Tweed + Layton, Oajan + Herod, Blanche + 724, A La Rose + Oud Satin Mood, and Costa Azzurra + Petit Matin. How to layer each pair, and what it costs to test with two 1 ml samples ($9.98 to $17.98). Affiliate links on the page. #ad #perfumelayering",
+      "url": "https://www.blindbuyguide.com/guides/perfume-layering-combinations/",
+      "alt": "Typographic list on cream titled 'Perfume layering combinations: 6 pairs that share a note.' Tobacco Vanille + Oud Wood share vanilla and tonka. Green Irish Tweed + Layton share bergamot, lavender and geranium. Oajan + Herod share cinnamon, osmanthus and patchouli. Blanche + 724 share aldehydes. A La Rose + Oud Satin Mood share rose, violet and cedar. Costa Azzurra + Petit Matin share lemon. Each pair shows its sample test cost.",
+      "image": {
+        "kicker": "Perfume layering", "headline": "6 pairs that share a note", "sub": "Start from a bridge note. Test with samples.", "compact": true,
+        "table": [
+          {"name": "Tobacco Vanille + Oud Wood", "meta": "Shared: vanilla, tonka", "verdict": "$13.98"},
+          {"name": "Green Irish Tweed + Layton", "meta": "Shared: bergamot, lavender, geranium", "verdict": "$9.98"},
+          {"name": "Oajan + Herod", "meta": "Shared: cinnamon, osmanthus, patchouli", "verdict": "$10.98"},
+          {"name": "Blanche + 724", "meta": "Shared: aldehydes, musk, sandalwood", "verdict": "$14.98"},
+          {"name": "A La Rose + Oud Satin Mood", "meta": "Shared: rose, violet, cedar", "verdict": "$17.98"},
+          {"name": "Costa Azzurra + Petit Matin", "meta": "Shared: lemon, lavender and lavandin", "verdict": "$16.98"}
+        ],
+        "line": "Price = two 1 ml samples to test the pair.",
+        "asof": "Lowest 1 ml sample prices, checked Nov 14 to 16, 2026"
+      }
+    },
+    {
+      "id": "22", "slug": "layer-tobacco-vanille-oud-wood", "day": 1, "template": "versus",
+      "board": "Winter Perfumes",
+      "title": "Winter perfume layering: Tobacco Vanille + Oud Wood",
+      "description": "A winter perfume layering combination from one house: Tom Ford Tobacco Vanille and Tom Ford Oud Wood both list vanilla and tonka bean, so the pair has a bridge. Spray Tobacco Vanille first, Oud Wood over it, one or two sprays each. Test the pair for $13.98 in samples before two $300 bottles. Affiliate links on the page. #ad #perfumelayering",
+      "url": "https://www.blindbuyguide.com/guides/perfume-layering-combinations/",
+      "alt": "Two Tom Ford bottles side by side on cream under the headline 'Tobacco Vanille + Oud Wood.' Left: Tobacco Vanille, tobacco, vanilla, cacao, tonka, spray first. Right: Oud Wood, rosewood, oud, sandalwood, vanilla, spray second. Shared notes: vanilla and tonka. Two 1 ml samples cost $13.98.",
+      "image": {
+        "kicker": "Perfume layering · winter", "headline": "Tobacco Vanille + Oud Wood",
+        "a": {"photo": "tom-ford-tobacco-vanille-edp", "name": "Tobacco Vanille", "desc": "Tobacco, vanilla, cacao, tonka", "price": "Spray first"},
+        "b": {"photo": "tom-ford-oud-wood", "name": "Oud Wood", "desc": "Rosewood, oud, sandalwood, vanilla", "price": "Then this"},
+        "line": "Shared notes: vanilla and tonka. Test the pair: $13.98.",
+        "asof": "Scentsplit 1 ml samples, Nov 16, 2026"
+      }
+    },
+    {
+      "id": "23", "slug": "layer-green-irish-tweed-layton", "day": 2, "template": "versus",
+      "board": "Perfume Layering Combinations",
+      "title": "Perfume layering for men: Green Irish Tweed + Layton",
+      "description": "A fresh perfume layering combination: Creed Green Irish Tweed and Parfums de Marly Layton share bergamot, lavender and geranium on their note lists, the most overlap of any pair in our guide. Layton first, Green Irish Tweed on top. Test it with two 1 ml samples for $9.98. Affiliate links on the page. #ad #perfumelayering",
+      "url": "https://www.blindbuyguide.com/guides/perfume-layering-combinations/",
+      "alt": "Two bottles side by side on cream under the headline 'Green Irish Tweed + Layton.' Left: Parfums de Marly Layton, apple, lavender, vanilla, spray first. Right: Creed Green Irish Tweed, lemon, peppermint, lavender, oakmoss, spray second. Shared notes: bergamot, lavender, geranium. Two 1 ml samples cost $9.98.",
+      "image": {
+        "kicker": "Perfume layering · fresh", "headline": "Layton + Green Irish Tweed",
+        "a": {"photo": "layton", "name": "Layton", "desc": "Apple, lavender, vanilla, cardamom", "price": "Spray first"},
+        "b": {"photo": "creed-green-irish-tweed-edp", "name": "Green Irish Tweed", "desc": "Lemon, peppermint, lavender, oakmoss", "price": "Then this"},
+        "line": "Shared: bergamot, lavender, geranium. Test it: $9.98.",
+        "asof": "Scentsplit 1 ml samples, Nov 14, 2026"
+      }
+    },
+    {
+      "id": "24", "slug": "layer-a-la-rose-oud-satin-mood", "day": 3, "template": "versus",
+      "board": "Date Night Perfume",
+      "title": "Date night perfume layering: A La Rose + Oud Satin Mood",
+      "description": "A date night perfume layering combination from Maison Francis Kurkdjian: A La Rose and Oud Satin Mood share rose, violet and cedar on their note lists. Oud Satin Mood first, A La Rose over it, and go easy on the sprays. Test the pair with two 1 ml samples for $17.98. Affiliate links on the page. #ad #perfumelayering",
+      "url": "https://www.blindbuyguide.com/guides/perfume-layering-combinations/",
+      "alt": "Two Maison Francis Kurkdjian bottles side by side on cream under the headline 'Oud Satin Mood + A La Rose.' Left: Oud Satin Mood, rose, oud, vanilla, amber, spray first. Right: A La Rose, two roses, bergamot, violet, spray second. Shared notes: rose, violet, cedar. Two 1 ml samples cost $17.98.",
+      "image": {
+        "kicker": "Perfume layering · date night", "headline": "Oud Satin Mood + A La Rose",
+        "a": {"photo": "oud-satin-mood-edp", "name": "Oud Satin Mood", "desc": "Rose, oud, vanilla, amber", "price": "Spray first"},
+        "b": {"photo": "mfk-a-la-rose-edp", "name": "A La Rose", "desc": "Two roses, bergamot, violet", "price": "Then this"},
+        "line": "Shared: rose, violet, cedar. Test it: $17.98.",
+        "asof": "Fragrances Line 1 ml samples, Nov 14, 2026"
+      }
+    },
+    {
+      "id": "25", "slug": "how-to-layer-perfume", "day": 2, "template": "rules",
+      "board": "Perfume Layering Combinations",
+      "title": "How to layer perfume without muddying it",
+      "description": "How to layer perfume: start from a note both scents share, pair one heavy scent with one lighter one, spray the heavier first, keep it to one or two sprays each, and test the pair for a full day before buying either bottle. Six luxury layering combinations to try, with sample costs. Affiliate links on the page. #ad #perfumelayering",
+      "url": "https://www.blindbuyguide.com/guides/perfume-layering-combinations/",
+      "alt": "Typographic card on cream titled 'How to layer perfume.' 1: Start from a shared note. 2: One leads, one supports. 3: Heavier first, lighter on top. 4: One or two sprays of each. 5: Test the pair for a full day.",
+      "image": {
+        "kicker": "Perfume layering", "headline": "How to layer perfume", "sub": "Without muddying it.",
+        "steps": [["01", "Start from a note both scents list."], ["02", "One leads, one supports. Never two loud ones."], ["03", "Heavier first, lighter on top."], ["04", "One or two sprays of each."], ["05", "Test the pair for a full day, with samples."]],
+        "line": "Layering doubles the dose by design.",
+        "asof": ""
+      }
+    },
+    {
+      "id": "26", "slug": "layer-blanche-724-quiet-luxury", "day": 4, "template": "versus",
+      "board": "Signature Scent",
+      "title": "Quiet luxury perfume layering: Blanche + 724",
+      "description": "A quiet luxury perfume layering combination for a clean signature scent: Byredo Blanche and Maison Francis Kurkdjian 724 both list aldehydes, with musk and sandalwood in both bases. Blanche first, 724 on top. Test the pair with two 1 ml samples for $14.98. Affiliate links on the page. #ad #signaturescent",
+      "url": "https://www.blindbuyguide.com/guides/perfume-layering-combinations/",
+      "alt": "Two bottles side by side on cream under the headline 'Blanche + 724.' Left: Byredo Blanche, aldehydes, white rose, musk, spray first. Right: Maison Francis Kurkdjian 724, aldehydes, bergamot, white musks, spray second. Shared notes: aldehydes, musk, sandalwood. Two 1 ml samples cost $14.98.",
+      "image": {
+        "kicker": "Perfume layering · quiet luxury", "headline": "Blanche + 724",
+        "a": {"photo": "blanche-edp", "name": "Blanche", "desc": "Aldehydes, white rose, musk", "price": "Spray first"},
+        "b": {"photo": "mfk-724-edp", "name": "724", "desc": "Aldehydes, bergamot, white musks", "price": "Then this"},
+        "line": "Shared: aldehydes, musk, sandalwood. Test it: $14.98.",
+        "asof": "Fragrances Line 1 ml samples, Nov 14, 2026"
+      }
+    },
+    {
+      "id": "27", "slug": "safe-blind-buy-perfumes-list", "day": 1, "template": "table",
+      "board": "Safe Blind Buy Perfumes",
+      "title": "Safe blind buy perfumes: the short, honest list (2026)",
+      "description": "Which perfumes are safe to blind buy? Out of 299 fragrances in our price library, only three purchases pass our test: the Tom Ford Private Blend Luxe Discovery Set ($100), the Creed Men's 5-Piece Discovery Set ($380), and Tom Ford Ombré Leather ($165 for 50 ml) if you already like leather. Here's the test and why the famous ones fail it. Affiliate links on the page. #ad #blindbuy",
+      "url": "https://www.blindbuyguide.com/guides/safe-blind-buy-perfumes/",
+      "alt": "Typographic list on cream titled 'Safe to blind buy: the whole list.' Tom Ford Private Blend Luxe Discovery Set, $100, four minis. Creed Men's 5-Piece Discovery Set, $380, five minis. Tom Ford Ombré Leather, $165 for 50 ml, only if you like leather. Below: out of 299 fragrances, these three pass.",
+      "image": {
+        "kicker": "Safe blind buy perfumes", "headline": "Safe to blind buy: the whole list", "sub": "Out of 299 fragrances we price, three pass.",
+        "table": [
+          {"name": "Tom Ford Private Blend Luxe Discovery Set", "meta": "$100 · four minis, about 3 ml each", "verdict": "Buy it"},
+          {"name": "Creed Men's 5-Piece Discovery Set", "meta": "$380 · five minis, about 9.8 ml each", "verdict": "Buy it"},
+          {"name": "Tom Ford Ombré Leather", "meta": "$165 · 50 ml · only if you like leather", "verdict": "If leather"}
+        ],
+        "line": "Two of the three are boxes of minis. That's not us being dramatic. That's the data.",
+        "asof": "Bluemercury and Tom Ford Beauty, prices checked Nov 14 to 18, 2026"
+      }
+    },
+    {
+      "id": "28", "slug": "famous-perfumes-not-safe-to-blind-buy", "day": 3, "template": "list",
+      "board": "Sample First Perfumes",
+      "title": "Famous perfumes that aren't safe to blind buy (sample these first)",
+      "description": "Famous perfumes that aren't safe to blind buy: Baccarat Rouge 540, Tom Ford Tobacco Vanille, Lost Cherry and Black Orchid. The reviews we read are sharply split on every one, and the bottles run $165 to $405. Sample first: 1 ml costs $3.99 to $9.99. Affiliate links on the page. #ad #perfumesample",
+      "url": "https://www.blindbuyguide.com/guides/safe-blind-buy-perfumes/",
+      "alt": "List of four famous perfumes with bottle photos on cream under the headline 'Famous, and not safe to blind buy.' Baccarat Rouge 540, $360 for 70 ml. Tom Ford Tobacco Vanille, $300 for 50 ml. Tom Ford Lost Cherry, $405 for 50 ml. Tom Ford Black Orchid, $165 for 50 ml. Each with a note that wearer opinion is split.",
+      "image": {
+        "kicker": "Sample these first", "headline": "Famous, and not safe to blind buy", "sub": "Wearer opinion is sharply split on all four.",
+        "items": [
+          {"photo": "baccarat-rouge-540-edp", "name": "Baccarat Rouge 540", "house": "Maison Francis Kurkdjian", "meta": "Love, hate and shrugs · sample $9.99", "value": "$360", "unit": "70 ml"},
+          {"photo": "tom-ford-tobacco-vanille-edp", "name": "Tobacco Vanille", "house": "Tom Ford", "meta": "Top marks or too sticky · sample $6.99", "value": "$300", "unit": "50 ml"},
+          {"photo": "tom-ford-lost-cherry-edp", "name": "Lost Cherry", "house": "Tom Ford", "meta": "Lasts 20 minutes or all day, per reports", "value": "$405", "unit": "50 ml"},
+          {"photo": "black-orchid-edp", "name": "Black Orchid", "house": "Tom Ford", "meta": "Devotion or 'harsh' · sample $3.99", "value": "$165", "unit": "50 ml"}
+        ],
+        "line": "Hype is not a verdict. Sample first.",
+        "asof": "Bergdorf Goodman, Neiman Marcus, Sephora, prices checked Nov 14 to 16, 2026"
+      }
+    },
+    {
+      "id": "29", "slug": "ombre-leather-safe-blind-buy", "day": 4, "template": "verdict",
+      "board": "Designer Perfumes",
+      "title": "Is Tom Ford Ombré Leather a safe blind buy? Yes, if you like leather",
+      "description": "Is Tom Ford Ombré Leather a safe blind buy? It's the one full bottle on our safe list: wearer opinion is unusually consistent, the occasional dislike is about leather itself, and most report 8 to 12 hours. $165 for 50 ml at Tom Ford Beauty (Nov 14, 2026). Not sure about leather? A 1 ml sample is $4.99. Affiliate links on the page. #ad #tomford",
+      "url": "https://www.blindbuyguide.com/guides/safe-blind-buy-perfumes/",
+      "alt": "Photo of a Tom Ford Ombré Leather Eau de Parfum bottle on cream under the headline 'Ombré Leather.' The answer reads 'Yes, if you like leather.' Wearers say 8 to 12 hours. 50 ml bottle $165. 1 ml sample $4.99.",
+      "image": {
+        "kicker": "Safe to blind buy?", "headline": "Ombré Leather", "house": "Tom Ford · Eau de Parfum",
+        "photo": "ombre-leather-edp",
+        "answer": "Yes, if you like leather.",
+        "facts": [["Wearers say it lasts", "8 to 12 hours"], ["50 ml bottle", "$165"], ["1 ml sample", "$4.99"]],
+        "line": "The dislikes are about leather, not the bottle.",
+        "asof": "Tom Ford Beauty and Scentsplit, Nov 14, 2026"
+      }
+    }
+  ]
+}
