@@ -1,5 +1,5 @@
 TikTok / Instagram carousel slideshows: see [tiktok-playbook.md](tiktok-playbook.md) (source of truth for slideshow work).
-Pinterest: see [pinterest-playbook.md](pinterest-playbook.md) (source of truth for boards, pin SEO, cadence and landing pages). First batch: [pinterest/batch-1/](pinterest/batch-1/README.md).
+Pinterest: see [pinterest-playbook.md](pinterest-playbook.md) (source of truth for boards, pin SEO, cadence and landing pages). Batches: [batch 1](pinterest/batch-1/README.md), [batch 2](pinterest/batch-2/README.md).
 
 # Blind Buy Guide: Social Swipe File
 
@@ -10,7 +10,7 @@ Brief for creating social posts for Blind Buy Guide (https://www.blindbuyguide.c
 ## How to use this file
 
 - Faceless formats only. Never plan talking heads, creator face-to-camera, 'get ready with me' or person-led unboxing. Hands, products, text, charts, illustrations and AI scenes are fine.
-- Build every post from the site's own data: verdicts (buy / sample first / skip), bottle and sample prices, price per ml, price history, dupe pairs, notes and the quiz. Fill bracketed placeholders like [$X], [N], [Fragrance] with real values from the price book on the day you post. Never invent a price, ratio or claim.
+- Build every post from the site's own data: verdicts (buy / sample first / skip), bottle and sample prices, price per ml, price history, notes, comparisons and the quiz. Fill bracketed placeholders like [$X], [N], [Fragrance] with real values from the price book on the day you post. Never invent a price, ratio or claim.
 - Label AI imagery. Any AI-generated scene, render or ingredient image gets an AI label (e.g. 'AI-generated' on the slide or in the caption). Use real bottle photos for reviews and verdicts; keep AI for moods, ingredients and concepts, and never present an AI scene as a real event.
 - Add an affiliate disclosure (#ad or 'affiliate links') on posts that link to shop pages.
 - Pick a format below, follow its 'How to make it' and 'Hook pattern', and adapt one of its hooks or a template from the hook templates section. Example accounts are for reference only: borrow structures, never their footage, audio or artwork.
@@ -45,24 +45,24 @@ The edge: No big fragrance account does honest price-per-ml data well. Lead with
 
 ### Instagram
 
-1. Price-gap dupe carousel: original vs dupe, price per ml, verdict
+1. Price-gap carousel: two luxury bottles, price per ml, verdict
 2. Verdict tier list carousel: buy, sample first, skip
 3. One-chart data post: 'niche costs [N]x more per ml than designer'
-4. Persona carousel: 'I want to smell like...' at 3 budgets
+4. Persona carousel: 'I want to smell like...' with sample prices
 5. ❌/✅ blind-buy mistakes, plus a weekly collector meme
 
 ### TikTok
 
 1. Photo-mode tier list of one house, ranked by verdict
-2. Wordless dupe reveal: big price, small price, verdict
+2. Wordless price reveal: which luxury bottle costs more per ml
 3. 'Guess the price' game, answer on the last slide
 4. Mood-board slideshow: 'what December smells like'
-5. Seasonal countdown: '5 safe winter blind buys under $60'
+5. Seasonal countdown: 'winter bottles worth sampling first'
 
 ### Pinterest
 
 1. Note pyramid pin per fragrance, linking to its verdict page
-2. 'Smells like' dupe comparison pin with both prices
+2. Luxury-vs-luxury comparison pin with both prices
 3. Seasonal and gift edits, posted 30 to 60 days ahead
 4. Layering combo pins (Pinterest's 'scent stacking' trend)
 5. Price-per-ml cheat sheet and a quiz pin linking to the site quiz
@@ -73,9 +73,9 @@ Suggested rhythm for month one: 5 TikTok slideshows, 3 Instagram carousels and 1
 
 | Format | Platforms | Best platform | Difficulty | Blind Buy Guide data it uses |
 |---|---|---|---|---|
-| Price-gap dupe cards (this vs that) | TikTok, Instagram, Pinterest | TikTok photo mode, then Instagram carousel | Easy | Bottle price, sample price, price per ml, dupe pairs, verdicts. |
+| Price-gap cards (luxury vs luxury) | TikTok, Instagram, Pinterest | TikTok photo mode, then Instagram carousel | Easy | Bottle price, sample price, price per ml, verdicts. |
 | Tier lists and ranked countdowns | TikTok, Instagram | TikTok (slideshow or fast cutout video) | Easy | Verdicts map straight onto tiers. Rank by price per ml for a second axis. |
-| Persona and 'which one are you' carousels | TikTok, Instagram, Pinterest | TikTok photo mode and Instagram carousel | Easy | Scent families, verdicts, price tiers, dupes for the budget slot. |
+| Persona and 'which one are you' carousels | TikTok, Instagram, Pinterest | TikTok photo mode and Instagram carousel | Easy | Scent families, verdicts, sample prices. |
 | Scent mood boards ('what X smells like') | TikTok, Pinterest, Instagram | TikTok slideshow and Pinterest | Easy | Notes per fragrance; the last slide names a bottle with its verdict and sample price. |
 | Note breakdowns and ingredient macros | Instagram, TikTok, Pinterest | Instagram Reels | Medium | Note pyramids, longevity, 'smells like' descriptors, verdict as the last frame. |
 | Data charts and price-per-ml posts | Instagram, Pinterest | Instagram carousel (1080 square or 4:5) | Easy | Price book, price per ml, price history, sample vs bottle math. |
@@ -91,32 +91,24 @@ Suggested rhythm for month one: 5 TikTok slideshows, 3 Instagram carousels and 1
 
 ## The formats
 
-### 1. Price-gap dupe cards (this vs that)
+### 1. Price-gap cards (luxury vs luxury)
 
 - **Platforms:** TikTok, Instagram, Pinterest
-- **What it looks like:** Two bottles side by side on a plain backdrop. The expensive one's price goes up first, then the cheaper match, then a verdict. No talking, music plus on-screen text.
+- **What it looks like:** Two luxury bottles side by side on a plain backdrop. One price goes up, then the other, then the price per ml and a verdict. No talking, music plus on-screen text. Both bottles are luxury; never a lookalike or "smells like" pick.
 - **Best platform:** TikTok photo mode, then Instagram carousel
 - **Difficulty:** Easy
-- **How to make it:** Claude writes the pairs and copy from the price book; product cutouts from retailer images or your own sample photos; Canva or Figma template. A few hours for a batch of 10.
-- **Data to use:** Bottle price, sample price, price per ml, dupe pairs, verdicts.
-- **Hook pattern:** Anchor on the big price, reveal the small one, hold the verdict for the last slide.
+- **How to make it:** Claude writes the pairs and copy from the price book (same house, same note family, or the two bottles people argue about); real studio bottle photos; one template. A few hours for a batch of 10.
+- **Data to use:** Bottle price, sample price, price per ml, verdicts, existing /compare/ pages.
+- **Hook pattern:** Anchor on one price, reveal the other, hold the per-ml answer and the verdict for the last slide.
 
-**Why it works:** The price gap creates stakes before anything is named. Volume found 'cheap pick that beats the luxury one' worked for 14 beauty accounts (median 4x their usual reach), and 'show the luxury price before testing the dupe' worked for 5 (median 6x). Aubrium counts dupes as the third most common viral fragrance idea (96 creators, 13x followers).
-
-**Examples:**
-
-- [Kutii Essence (@kutifragrance)](https://www.tiktok.com/@kutifragrance): TikTok · wordless 'smells like' reveals · 22.1K followers, 106K median views, standout post 1.2M (Klint, Oct 2026)
-- [YK.Scents (@yk.scents)](https://www.tiktok.com/@yk.scents): TikTok · numbered dupe lists · 118K followers, standout post 961K views (Klint, Oct 2026)
-- [Dossier (@dossierperfumes)](https://www.tiktok.com/@dossierperfumes): TikTok · 'smells like' brand built on dupe framing · 541.3K followers (TokGauge, Nov 2026)
-- [@beauty_time09](https://www.tiktok.com/@beauty_time09): TikTok slideshow 'Expensive VS Cheap' · 16x the account's usual views (Volume, Nov 2026)
+**Why it works:** A price gap creates stakes before anything is named, and per-ml math between two luxury bottles is something only our data does honestly.
 
 **Hooks for Blind Buy Guide:**
 
-- This [$X] bottle smells like a [$Y] one. Here's the price per ml.
-- Don't pay [$X] for [Original] until you see this.
-- Same vibe, [N]x cheaper per ml.
-- We priced [N] dupes of [Original]. Only one earned a blind-buy verdict.
-- Original vs dupe: which one would you blind buy?
+- Which costs more per ml? [A] or [B]
+- Same house, [N]x the price per ml. Here's why.
+- [A] vs [B]: which one would you sample first?
+- The 50 ml or the 100 ml? The math flips at [$X].
 
 ### 2. Tier lists and ranked countdowns
 
@@ -128,12 +120,12 @@ Suggested rhythm for month one: 5 TikTok slideshows, 3 Instagram carousels and 1
 - **Data to use:** Verdicts map straight onto tiers. Rank by price per ml for a second axis.
 - **Hook pattern:** Name the pile and the rule, then make people wait for the top slot.
 
-**Why it works:** Lists are the biggest viral fragrance format: 34% of 700+ viral reels in Aubrium's library. One budget tier list from a 2,476-follower account got 5.1M views. Volume's 'pop-up product cutouts' format (bad / better / best grids too fast to read) hit a median 18x usual reach because people pause and screenshot.
+**Why it works:** Lists are the biggest viral fragrance format: 34% of 700+ viral reels in Aubrium's library. One tier list from a 2,476-follower account got 5.1M views. Volume's 'pop-up product cutouts' format (bad / better / best grids too fast to read) hit a median 18x usual reach because people pause and screenshot.
 
 **Examples:**
 
-- [YK.Scents (@yk.scents)](https://www.tiktok.com/@yk.scents): TikTok · rapid tier-by-tier dupe rankings · 118K followers (Klint)
-- [Aubrium: budget tier list case](https://aubrium.com/blog/how-to-go-viral-in-fragrance): Instagram Reel from a 2,476-follower account, 5.1M views (Aubrium, Oct 2026). Account not named in the report.
+- [YK.Scents (@yk.scents)](https://www.tiktok.com/@yk.scents): TikTok · rapid tier-by-tier rankings · 118K followers (Klint)
+- [Aubrium: tier list case](https://aubrium.com/blog/how-to-go-viral-in-fragrance): Instagram Reel from a 2,476-follower account, 5.1M views (Aubrium, Oct 2026). Account not named in the report.
 - [Volume: pop-up product cutouts](https://tryvolume.app/working/beauty/pop-up-product-cutouts-built-to-be-screenshotted): 5 beauty accounts, median 18x usual reach (Volume, Nov 2026)
 
 **Hooks for Blind Buy Guide:**
@@ -141,17 +133,16 @@ Suggested rhythm for month one: 5 TikTok slideshows, 3 Instagram carousels and 1
 - Blind buy tier list: [House] edition
 - Every [designer] bestseller ranked: buy, sample first, or skip
 - Ranking [N] viral fragrances by price per ml
-- The only S-tier blind buy under $[X]
 - Your favorite is in F tier. Fight us.
 
 ### 3. Persona and 'which one are you' carousels
 
 - **Platforms:** TikTok, Instagram, Pinterest
-- **What it looks like:** Slide 1 says 'I want to smell like...'. Each next slide is one vibe (old money, clean girl, dark feminine) with 2 to 3 bottles and prices, often split into budget, mid and luxury.
+- **What it looks like:** Slide 1 says 'I want to smell like...'. Each next slide is one vibe (old money, clean girl, dark feminine) with 2 to 3 luxury bottles and their sample prices.
 - **Best platform:** TikTok photo mode and Instagram carousel
 - **Difficulty:** Easy
 - **How to make it:** AI mood images or bottle cutouts plus a text template. Claude drafts personas and picks matches from verdict data.
-- **Data to use:** Scent families, verdicts, price tiers, dupes for the budget slot.
+- **Data to use:** Scent families, verdicts, sample prices.
 - **Hook pattern:** Identity first, product second, price third.
 
 **Why it works:** People find themselves in a slide and save or send it. Volume measured this format working for 4 accounts at a median 12x their usual reach. A single flat lay titled 'you smell clean & fresh' with the caption 'which one are you?' got 409.4K views (Viral Hooks).
@@ -166,7 +157,6 @@ Suggested rhythm for month one: 5 TikTok slideshows, 3 Instagram carousels and 1
 
 - I want to smell like... old money (and what it costs per ml)
 - Which one are you? Clean, sweet, or dark
-- Smell like a [persona] at every budget: $, $$, $$$
 - Your safest blind buy, based on your vibe
 - Pick a slide. That's your next sample.
 
@@ -244,9 +234,9 @@ Suggested rhythm for month one: 5 TikTok slideshows, 3 Instagram carousels and 1
 **Hooks for Blind Buy Guide:**
 
 - Niche costs [N]x more per ml than designer. Is it worth it?
-- The cheapest way to own [Fragrance], charted
+- The smartest size of [Fragrance] to own, charted
 - Sample vs full bottle: the point where the math flips
-- [Fragrance] got [N]% cheaper this year
+- [Fragrance] dropped [N]% this year (in-stock, dated)
 - Where $100 goes furthest: price per ml by house
 
 ### 7. One-image cheat sheets and infographic pins
@@ -362,19 +352,19 @@ Suggested rhythm for month one: 5 TikTok slideshows, 3 Instagram carousels and 1
 - **Difficulty:** Easy
 - **How to make it:** Reuse the list and tier templates; Claude builds a seasonal calendar.
 - **Data to use:** Verdicts filtered by season, price caps, layering pairs.
-- **Hook pattern:** A season or moment plus a safe pick plus a budget.
+- **Hook pattern:** A season or moment plus a sample-first pick and its price.
 
-**Why it works:** Klint found 5 of the breakout fragrance lists in Oct 2026 were for winter, posted as the weather turned. 'Best perfume picks' (for a mood, season or budget) is the most common viral idea in Aubrium's data (140+ creators). Pinterest Predicts 2026 has 'perfume layering combinations' searches up 125%.
+**Why it works:** Klint found 5 of the breakout fragrance lists in Oct 2026 were for winter, posted as the weather turned. 'Best perfume picks' (for a mood or season) is the most common viral idea in Aubrium's data (140+ creators). Pinterest Predicts 2026 has 'perfume layering combinations' searches up 125%.
 
 **Examples:**
 
 - [Klint: what's breaking out in fragrance](https://tryklint.ai/influencers/fragrance/): Winter lists and price-gap openings drove Oct 2026 breakouts
 - [Sephora (@sephora)](https://www.pinterest.com/sephora/): Pinterest · seasonal beauty edits and gift boards (large following, unverified)
-- [Aubrium: 11 fragrance reel ideas](https://aubrium.com/blog/fragrance-reel-ideas): Best picks, dupes, notes, rankings with view data
+- [Aubrium: 11 fragrance reel ideas](https://aubrium.com/blog/fragrance-reel-ideas): Best picks, notes, rankings with view data
 
 **Hooks for Blind Buy Guide:**
 
-- 5 safe winter blind buys under $[X]
+- Winter bottles worth sampling first, with sample prices
 - Holiday gifts nobody will return
 - Layer these two for [vibe]
 - Spring's best blind buys, ranked by price per ml
@@ -484,10 +474,10 @@ Suggested rhythm for month one: 5 TikTok slideshows, 3 Instagram carousels and 1
 
 | # | Template | Blind Buy Guide version |
 |---|---|---|
-| 1 | This [$X] bottle smells like a [$Y] one. | This [$X] bottle smells like a [$Y] Creed. Here's the price per ml. |
+| 1 | Which costs more per ml? | Which costs more per ml: Delina or Baccarat Rouge 540? |
 | 2 | Don't buy [thing] until you see this. | Don't buy Aventus until you see this. |
-| 3 | [N] [things] that smell way more expensive than they are | 5 fragrances that smell way more expensive than they cost per ml |
-| 4 | I want to smell like... [persona] | I want to smell like... old money, at 3 budgets |
+| 3 | [N] [things] worth sampling before [moment] | 5 bottles worth sampling before December |
+| 4 | I want to smell like... [persona] | I want to smell like... old money (sample prices inside) |
 | 5 | Which one are you? [A], [B] or [C] | Which one are you? Clean, sweet or smoky |
 | 6 | [Category] tier list: [edition] | Blind buy tier list: Parfums de Marly edition |
 | 7 | Every [X] ranked: buy, sample first, or skip | Every Dior men's scent ranked: buy, sample first, or skip |
@@ -502,19 +492,19 @@ Suggested rhythm for month one: 5 TikTok slideshows, 3 Instagram carousels and 1
 | 16 | Only [group] will understand | Only people who blind buy will understand |
 | 17 | POV: [situation] | POV: you blind bought an oud bomb for the office |
 | 18 | [X] costs [N]x more than [Y]. Is it worth it? | Niche costs [N]x more per ml than designer. Is it worth it? |
-| 19 | The cheapest way to [goal], charted | The cheapest way to own Baccarat Rouge 540, charted |
-| 20 | [N] safe [season] [picks] under $[X] | 5 safe winter blind buys under $60 |
+| 19 | The smartest way to [goal], charted | The smartest size of Baccarat Rouge 540 to own, charted |
+| 20 | The [N] [picks] our data says are safe | The bottles our data says are safe to blind buy |
 | 21 | How does [raw thing] become [product]? | How does a vanilla pod become a fragrance? |
-| 22 | [Original] vs [dupe]: which would you buy? | Original vs dupe: which would you blind buy? |
-| 23 | The only [top tier] [pick] under $[X] | The only S-tier blind buy under $50 |
+| 22 | [A] vs [B]: which would you sample first? | Layton vs Herod: which would you sample first? |
+| 23 | The only [top tier] [pick] in [house] | The only Tom Ford we'd blind buy |
 | 24 | Pick one to keep forever | Keep one forever: round 1 |
-| 25 | We tested [N] so you don't have to | We priced [N] dupes so you don't have to |
+| 25 | We priced [N] so you don't have to | We priced 299 fragrances so you don't have to |
 
 Short hooks went furthest in Aubrium's data: hooks of 1 to 4 words reached 21x followers, and hooks over 20 words only 6x. Keep the first slide to one line. Treat named fragrances and numbers in the example versions as placeholders; check them against the price book before use.
 
 ## Guardrails
 
-- Check every dupe and price claim against the price book on the day you post; prices move.
+- Never use dupe, clone, "smells like" lookalike, "cheaper alternative" or "smells expensive on a budget" angles (upmarket positioning). Check every price claim against the price book on the day you post; prices move.
 - Add an affiliate disclosure (#ad or 'affiliate links') on posts that link to shop pages.
 - Use real bottle photos for reviews. Label AI scenes as AI, and keep AI to moods, ingredients and concepts.
 - Use your own note artwork and chart style rather than copying Fragrantica's or Chartr's look.
@@ -524,9 +514,8 @@ Short hooks went furthest in Aubrium's data: hooks of 1 to 4 words reached 21x f
 
 | Account | Platform | Niche and format | Verified number (source) | Profile |
 |---|---|---|---|---|
-| Kutii Essence | TikTok | Fragrance, wordless dupe reveals | 22.1K followers, 106K median views (Klint) | https://www.tiktok.com/@kutifragrance |
-| YK.Scents | TikTok | Fragrance, dupe lists and tiers | 118K followers, 961K-view standout (Klint) | https://www.tiktok.com/@yk.scents |
-| Dossier | TikTok | Fragrance brand, 'smells like' | 541.3K followers (TokGauge) | https://www.tiktok.com/@dossierperfumes |
+| Kutii Essence | TikTok | Fragrance, wordless price reveals (structure only) | 22.1K followers, 106K median views (Klint) | https://www.tiktok.com/@kutifragrance |
+| YK.Scents | TikTok | Fragrance, lists and tiers (structure only) | 118K followers, 961K-view standout (Klint) | https://www.tiktok.com/@yk.scents |
 | Fragrantica | Instagram | Fragrance database | 340.6K followers (PicMany) | https://www.instagram.com/fragranticaofficial/ |
 | Le Labo | Instagram | Fragrance brand | About 2.1M followers (Jolygram) | https://www.instagram.com/lelabofragrances/ |
 | BYREDO | Instagram | Fragrance brand | Large; trackers report 764K to 941K | https://www.instagram.com/officialbyredo/ |

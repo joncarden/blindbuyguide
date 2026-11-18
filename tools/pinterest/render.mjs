@@ -144,8 +144,8 @@ const T = {
     <div class="line">${esc(im.line)}</div>${foot(im.asof)}`,
 
   rules: im => `${head(im)}
-    <div class="h" style="margin-top:70px;font-size:120px">${esc(im.headline)}</div><div class="sub">${esc(im.sub)}</div>
-    <div style="margin-top:60px">${im.steps.map(([n, t]) => `<div class="step" style="grid-template-columns:150px 1fr"><div class="n">${esc(n)}</div><div class="t">${esc(t)}</div></div>`).join('')}</div>
+    <div class="h" style="margin-top:${im.steps.length > 4 ? 30 : 70}px;font-size:${im.steps.length > 4 ? 100 : 120}px">${esc(im.headline)}</div><div class="sub">${esc(im.sub)}</div>
+    <div style="margin-top:${im.steps.length > 4 ? 30 : 60}px">${im.steps.map(([n, t]) => `<div class="step" style="grid-template-columns:150px 1fr${im.steps.length > 4 ? ';padding:22px 0' : ''}"><div class="n">${esc(n)}</div><div class="t">${esc(t)}</div></div>`).join('')}</div>
     <div class="line" style="margin-top:44px">${esc(im.line)}</div>${foot(im.asof)}`,
 
   timeline: im => `${head(im)}
@@ -168,7 +168,7 @@ const T = {
 
   table: im => `${head(im)}
     <div class="h s" style="margin-top:30px">${esc(im.headline)}</div><div class="sub">${esc(im.sub)}</div>
-    <div class="tbl">${im.table.map(r => `<div class="tr"><div><div class="n">${esc(r.name)}</div><div class="m">${esc(r.meta)}</div></div><div class="v${/buy/i.test(r.verdict) ? '' : ' soft'}">${esc(r.verdict)}</div></div>`).join('')}</div>
+    <div class="tbl"${im.compact ? ' style="margin-top:26px"' : ''}>${im.table.map(r => `<div class="tr"${im.compact ? ' style="padding:20px 0"' : ''}><div><div class="n">${esc(r.name)}</div><div class="m">${esc(r.meta)}</div></div><div class="v${/buy/i.test(r.verdict) ? '' : ' soft'}">${esc(r.verdict)}</div></div>`).join('')}</div>
     <div class="line" style="font-size:38px;margin-top:40px">${esc(im.line)}</div>${foot(im.asof)}`,
 
   flights: im => `${head(im)}

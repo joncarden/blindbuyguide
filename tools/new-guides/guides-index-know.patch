@@ -1,0 +1,11 @@
+--- /mnt/project-files/site/build.redesign.mjs	2026-11-18 02:04:39.695817000 +0000
++++ /tmp/claude-0/b2/site/build.redesign.mjs	2026-11-18 02:45:49.342903668 +0000
+@@ -406,7 +406,7 @@
+   const link=slug=>`${BASE}/guides/${slug}/`;
+   // 1. start here (the method), 2. good to know (reference reads)
+   const START=[['how-to-test-a-fragrance','The method'],['which-sample-size-to-buy','The math'],['should-you-blind-buy-niche-fragrance','The big question']].filter(([s])=>by[s]);
+-  const KNOW=['blind-buy-guide-price-index-november-2026','are-perfume-decants-legit','sprays-in-a-2ml-sample','price-per-ml-niche-fragrance','same-perfume-different-price','is-a-bigger-bottle-cheaper'].filter(s=>by[s]);
++  const KNOW=['safe-blind-buy-perfumes','perfume-layering-combinations','blind-buy-guide-price-index-november-2026','are-perfume-decants-legit','sprays-in-a-2ml-sample','price-per-ml-niche-fragrance','same-perfume-different-price','is-a-bigger-bottle-cheaper'].filter(s=>by[s]);
+   const worth=G.filter(g=>/^is-.*-worth-it$/.test(g.slug)&&!KNOW.includes(g.slug));
+   const houseGuides=G.filter(g=>g.slug.startsWith('how-to-find-your-'));
+   const used=new Set([...START.map(x=>x[0]),...KNOW,...worth.map(g=>g.slug),...houseGuides.map(g=>g.slug)]);

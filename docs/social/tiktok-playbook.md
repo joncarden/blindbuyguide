@@ -26,7 +26,7 @@ Each situation = a series. Keep only situations we've seen in real comments/Redd
 - One account until a format works; then clone to more niche angles.
 
 ## Step 3 — Hook bank
-- Search TikTok for niche keywords (blind buy, niche fragrance, signature scent, smell expensive, fragrance tier list). Open 5+ posts per account; note formats that recur across accounts.
+- Search TikTok for niche keywords (blind buy, niche fragrance, signature scent, fragrance tier list). Open 5+ posts per account; note formats that recur across accounts.
 - Log every format in a table: link | account | hook | slide order | visuals | where product shows up | comments | views | date.
 - Target: 20 formats before writing our own.
 - Breakdown prompt (attach screenshots):
