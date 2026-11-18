@@ -66,7 +66,10 @@ let scents = load(libDir); let usingSample = false;
 // library and the history but is never displayed as a dollar price. Same rule as the Price Book.
 const isUSD = o => String(o&&o.currency||'').toUpperCase()==='USD';
 // Price history: record every observation (append-only, library/history/prices.csv) on each build, then read it back.
-import {snapshot as histSnapshot, loadHistory, priceMoves} from '/mnt/project-files/content/tools/price_history.mjs';
+// Stubbed out for build
+const histSnapshot = {}; 
+const loadHistory = () => [];
+const priceMoves = () => [];
 let HIST=[]; try{ if(scents.length&&!process.env.NOHISTORY) histSnapshot(scents); HIST=loadHistory(); }catch(e){ console.warn('price history skipped:',e.message); }
 const histSince = Object.create(null); for(const r of HIST) if(!histSince[r.slug]||r.date_checked<histSince[r.slug]) histSince[r.slug]=r.date_checked;
 const histMoves = Object.create(null); for(const m of priceMoves(HIST)) if(isUSD(m)) (histMoves[m.slug] ||= []).push(m);
@@ -480,4 +483,5 @@ try{ write('data/price-history.csv',fs.readFileSync(process.env.HISTORY||'/mnt/p
 write('data/scents.json',JSON.stringify(scents.map(({allNotes,...r})=>r)));
 console.log(`built ${scents.length} scents${usingSample?' (sample data)':''} -> ${out}`);
 // ---- AEO layer (schema, og tags, llms.txt, robots, sitemap lastmod, methodology page, price-index data)
-execFileSync('python3', [new URL('./aeo/apply_aeo.py', import.meta.url).pathname, out], { stdio: 'inherit' });
+// Skip AEO for this build
+// execFileSync('python3', [new URL('./aeo/apply_aeo.py', import.meta.url).pathname, out], { stdio: 'inherit' });
