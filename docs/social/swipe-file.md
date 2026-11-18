@@ -1,3 +1,5 @@
+TikTok / Instagram carousel slideshows: see [tiktok-playbook.md](tiktok-playbook.md) (source of truth for slideshow work).
+
 # Blind Buy Guide: Social Swipe File
 
 Brief for creating social posts for Blind Buy Guide (https://www.blindbuyguide.com), @blindbuyguide on Instagram, TikTok and Pinterest. Researched Nov 16, 2026. Online version: https://cursor.com/canvas/store-602ccacd-0987-4e18-94f8-44c7b8908677/dc91d155-ec7c-4207-8630-5e7773e0d421
