@@ -1,6 +1,7 @@
 // Zero-dependency static site generator. Usage: node build.mjs [--base /prefix]
 import fs from 'fs'; import path from 'path';
 import {loadWearers,wearersSection,wearersCss} from './src/wearers.mjs';
+import {giftGuide} from './src/gift-guide.mjs';
 const root = path.dirname(new URL(import.meta.url).pathname);
 const cfg = JSON.parse(fs.readFileSync(path.join(root,'config.json'),'utf8'));
 const out = process.env.OUT||'/tmp/site-dist';
@@ -390,6 +391,7 @@ function section(kind,label,dir){ const d=(process.env.CONTENT||'/mnt/project-fi
 const SECTION_ITEMS={};
 const nG=section('guides','Guides','guides'), nC=section('compare','Comparisons','comparisons');
 guidesIndex(); // curated guides front page (src/guides-index.mjs)
+giftGuide({bySlug,bottle,page,write,esc,aff,money,fmtDate,BASE,cfg,urls,nlForm,retailerName,contentDir:process.env.CONTENT||'/mnt/project-files/content/'}); // holiday gift guide (src/gift-guide.mjs)
 // ---- guides front page: a curated start, then worth-it verdicts grouped by house with search (every guide URL unchanged)
 function guidesIndex(){
   const G=SECTION_ITEMS.guides||[], C=SECTION_ITEMS.compare||[]; const by=Object.fromEntries(G.map(g=>[g.slug,g]));
