@@ -1,4 +1,5 @@
 TikTok / Instagram carousel slideshows: see [tiktok-playbook.md](tiktok-playbook.md) (source of truth for slideshow work).
+Pinterest: see [pinterest-playbook.md](pinterest-playbook.md) (source of truth for boards, pin SEO, cadence and landing pages). First batch: [pinterest/batch-1/](pinterest/batch-1/README.md).
 
 # Blind Buy Guide: Social Swipe File
 

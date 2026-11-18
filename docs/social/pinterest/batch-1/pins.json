@@ -1,0 +1,340 @@
+{
+  "batch": "batch-1",
+  "prepared": "2026-11-18",
+  "site": "https://www.blindbuyguide.com",
+  "boards": [
+    {"name": "Safe Blind Buy Perfumes", "description": "When is it safe to blind buy perfume? Honest blind buy perfume rules, discovery sets worth buying, and the price math on luxury and niche fragrance before you spend a few hundred dollars on a bottle you have never worn."},
+    {"name": "Sample First Perfumes", "description": "Perfume samples before full bottles. Which hyped niche and designer fragrances to sample first, what a perfume sample costs, which sample size to buy, and sample vs bottle price per ml."},
+    {"name": "Perfume Note Pyramids", "description": "Perfume notes, explained. Note pyramids for famous niche and designer fragrances (top notes, heart notes, base notes) and how a perfume's notes unfold on skin over the day."},
+    {"name": "Perfume Layering Combinations", "description": "Perfume layering combinations and scent stacking ideas: which two fragrances to wear together, when to wear them, and how to layer perfume without muddying it."},
+    {"name": "Winter Perfumes", "description": "Winter perfume and cold-weather fragrance ideas: warm vanilla, tobacco, spice and incense scents from niche and designer houses, with sample prices and the bottle price per ml."},
+    {"name": "Niche Perfumes", "description": "Niche perfume, priced honestly. Niche fragrance verdicts, price per ml by house, side-by-side comparisons and where to sample Maison Francis Kurkdjian, Parfums de Marly, Byredo, Xerjoff and more."},
+    {"name": "Designer Perfumes", "description": "Designer perfume and luxury designer fragrance, from Tom Ford to Creed: notes, verdicts, comparisons and what a sample costs before you buy the bottle."},
+    {"name": "Signature Scent", "description": "How to find your signature scent: a perfume quiz, quiet luxury signature fragrances, and a sample-first way to choose a perfume you will wear for years."},
+    {"name": "Perfume Gift Guide", "description": "Perfume gift guide for people with expensive taste: luxury fragrance gifts, perfume sample sets and discovery sets, with dated prices from authorized retailers."},
+    {"name": "Date Night Perfume", "description": "Date night perfume and evening fragrance ideas, plus Valentine's Day perfume gifts: rose, saffron and amber scents from luxury houses, with sample and bottle prices."}
+  ],
+  "pins": [
+    {
+      "id": "01", "slug": "baccarat-rouge-540-notes-pyramid", "day": 1, "template": "pyramid",
+      "board": "Perfume Note Pyramids",
+      "title": "Baccarat Rouge 540 notes: the full perfume note pyramid",
+      "description": "Baccarat Rouge 540 notes, top to base: saffron and jasmine, then amberwood, ambergris and hedione, on fir resin, cedar and ambroxan. See the full Maison Francis Kurkdjian note pyramid, our sample-first verdict, and what a 1 ml sample costs before the $360 bottle (prices checked Nov 16, 2026). Affiliate links on the page. #ad #perfumenotes",
+      "url": "https://www.blindbuyguide.com/scents/baccarat-rouge-540-edp/",
+      "alt": "Perfume note pyramid for Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum beside a photo of the bottle on a cream background. Top notes: saffron, jasmine. Heart: amberwood, ambergris, hedione. Base: fir resin, cedar, sugar, ambroxan, oakmoss. Verdict: sample it first. 1 ml sample $9.99; 70 ml $360 at Bergdorf Goodman.",
+      "image": {
+        "kicker": "Perfume note pyramid", "name": "Baccarat Rouge 540", "house": "Maison Francis Kurkdjian · Eau de Parfum",
+        "photo": "baccarat-rouge-540-edp",
+        "tiers": [["Top", "Saffron · Jasmine"], ["Heart", "Amberwood · Ambergris · Hedione"], ["Base", "Fir resin · Cedar · Sugar · Ambroxan · Oakmoss"]],
+        "stamp": "Sample it first",
+        "price": "1 ml sample $9.99  ·  70 ml $360 at Bergdorf Goodman",
+        "asof": "Prices checked Nov 16, 2026"
+      }
+    },
+    {
+      "id": "02", "slug": "should-you-blind-buy-green-irish-tweed", "day": 1, "template": "verdict",
+      "board": "Sample First Perfumes",
+      "title": "Should you blind buy Creed Green Irish Tweed? The verdict and the price",
+      "description": "Should you blind buy Creed Green Irish Tweed? Our verdict: sample it first. A 1 ml sample is $4.99, while the 100 ml bottle was $378 in stock at Niche Beauty and listed at $470 for the same size at a shop that was sold out (Nov 14, 2026). Notes, price per ml and where to sample this classic green men's fragrance. Affiliate links on the page. #ad #creed",
+      "url": "https://www.blindbuyguide.com/guides/is-creed-green-irish-tweed-edp-worth-it/",
+      "alt": "Photo of a Creed Green Irish Tweed Eau de Parfum bottle on a cream background under the headline 'Should you blind buy Green Irish Tweed?' The answer reads 'Sample it first.' A 1 ml sample costs $4.99; the 100 ml bottle is $378 at Niche Beauty, and the same 100 ml was listed at $470 at a shop that was sold out.",
+      "image": {
+        "kicker": "Should you blind buy it?", "headline": "Green Irish Tweed", "house": "Creed · Eau de Parfum",
+        "photo": "creed-green-irish-tweed-edp",
+        "answer": "Sample it first.",
+        "facts": [["1 ml sample", "$4.99"], ["100 ml bottle", "$378"], ["Same 100 ml, sold-out listing", "$470"]],
+        "line": "A $92 gap on one bottle. Shop around, after the sample.",
+        "asof": "Prices checked Nov 14, 2026"
+      }
+    },
+    {
+      "id": "03", "slug": "delina-price-per-ml", "day": 2, "template": "still",
+      "board": "Niche Perfumes",
+      "title": "Is Parfums de Marly Delina worth it? Price per ml, by bottle size",
+      "description": "Is Parfums de Marly Delina worth it? Sample it first, then go big: the 75 ml at $410 (Bluemercury) works out to $5.47 per ml, against $8.33 per ml for the 30 ml at $250 (Nov 14, 2026). A 1 ml sample is $7.99. Notes include lychee, rhubarb, Turkish rose, peony, cashmeran and vetiver. Affiliate links on the page. #ad #nicheperfume",
+      "url": "https://www.blindbuyguide.com/guides/is-delina-edp-worth-it/",
+      "alt": "Editorial photo of the pink Parfums de Marly Delina Eau de Parfum bottle on a cream background with a small stamp reading 'Blind buy? Sample first.' Caption: 75 ml at $410 is $5.47 per ml; 30 ml at $250 is $8.33 per ml; 1 ml sample $7.99.",
+      "image": {
+        "kicker": "Parfums de Marly", "headline": "Delina, priced per ml",
+        "photo": "delina-edp",
+        "stamp": "Blind buy? Sample first",
+        "rows": [["75 ml · $410", "$5.47 / ml"], ["30 ml · $250", "$8.33 / ml"], ["1 ml sample", "$7.99"]],
+        "line": "The small bottle is a commitment-issues tax.",
+        "asof": "Bluemercury, in stock, Nov 14, 2026"
+      }
+    },
+    {
+      "id": "04", "slug": "tobacco-vanille-at-a-glance", "day": 2, "template": "glance",
+      "board": "Designer Perfumes",
+      "title": "Tom Ford Tobacco Vanille at a glance: notes, longevity, price per ml",
+      "description": "Tom Ford Tobacco Vanille at a glance: tobacco leaf and spice over vanilla, cacao and tonka. Wearers mostly report 8 to 12 hours or more and save it for cold-weather evenings. A 1 ml sample is $6.99; the 50 ml is $300 at Neiman Marcus, $6 per ml (Nov 16, 2026). Our verdict: sample it first. Affiliate links on the page. #ad #tomford",
+      "url": "https://www.blindbuyguide.com/scents/tom-ford-tobacco-vanille-edp/",
+      "alt": "One-glance cheat sheet for Tom Ford Tobacco Vanille Eau de Parfum with a photo of the bottle on cream. Notes: tobacco leaf, spice, vanilla, cacao, tonka bean, dried fruits, woods. Wearers say: 8 to 12 hours or more; best on cold-weather evenings. 1 ml sample $6.99. 50 ml $300 at Neiman Marcus, $6 per ml. Verdict: sample it first.",
+      "image": {
+        "kicker": "In one glance", "name": "Tobacco Vanille", "house": "Tom Ford · Eau de Parfum",
+        "photo": "tom-ford-tobacco-vanille-edp",
+        "rows": [["Notes", "Tobacco leaf, spice, vanilla, cacao, tonka, dried fruits, woods"], ["Wearers say it lasts", "8 to 12 hours or more"], ["Wearers wear it", "Cold-weather evenings"], ["1 ml sample", "$6.99"], ["50 ml bottle", "$300 · $6 per ml"], ["Verdict", "Sample it first"]],
+        "asof": "Neiman Marcus and Scentsplit, prices checked Nov 16, 2026"
+      }
+    },
+    {
+      "id": "05", "slug": "oud-satin-mood-sample-vs-bottle", "day": 3, "template": "math",
+      "board": "Sample First Perfumes",
+      "title": "Perfume sample vs bottle: the Oud Satin Mood price per ml math",
+      "description": "Perfume sample vs bottle, in real numbers: a 1 ml sample of Maison Francis Kurkdjian Oud Satin Mood is $8.99, and the 200 ml bottle is $584 at Niche Beauty, or $2.92 per ml (Nov 14, 2026). The sample costs more per ml and about 2% of the bottle. That is the price of being allowed to say no. Affiliate links on the page. #ad #perfumesample",
+      "url": "https://www.blindbuyguide.com/guides/is-oud-satin-mood-edp-worth-it/",
+      "alt": "Price comparison card for Maison Francis Kurkdjian Oud Satin Mood Eau de Parfum with a bottle photo on cream. 1 ml sample: $8.99, which is $8.99 per ml. 200 ml bottle: $584, which is $2.92 per ml. The sample is about 2% of the bottle price. Verdict: sample first.",
+      "image": {
+        "kicker": "Sample vs bottle", "name": "Oud Satin Mood", "house": "Maison Francis Kurkdjian",
+        "photo": "oud-satin-mood-edp",
+        "left": ["1 ml sample", "$8.99", "$8.99 per ml"],
+        "right": ["200 ml bottle", "$584", "$2.92 per ml"],
+        "line": "The sample is 2% of the bottle. You're paying for the right to say no.",
+        "asof": "Fragrances Line and Niche Beauty, Nov 14, 2026"
+      }
+    },
+    {
+      "id": "06", "slug": "gypsy-water-notes-explained", "day": 3, "template": "pyramid",
+      "board": "Perfume Note Pyramids",
+      "title": "Byredo Gypsy Water notes, explained",
+      "description": "Byredo Gypsy Water notes, explained: bergamot, lemon, pepper and juniper berries up top, incense, pine needles and orris in the heart, amber, vanilla and sandalwood in the base. Read what the note list adds up to, plus the sample-first verdict: 1 ml is $6.99 and the 50 ml is $235 at Bluemercury (Nov 14, 2026). Affiliate links on the page. #ad #perfumenotes",
+      "url": "https://www.blindbuyguide.com/guides/is-gypsy-water-edp-worth-it/",
+      "alt": "Note pyramid for Byredo Gypsy Water Eau de Parfum with a photo of the bottle on cream. Top: bergamot, lemon, pepper, juniper berries. Heart: incense, pine needles, orris. Base: amber, vanilla, sandalwood. Verdict: sample it first. 1 ml sample $6.99; 50 ml $235 at Bluemercury.",
+      "image": {
+        "kicker": "Notes, explained", "name": "Gypsy Water", "house": "Byredo · Eau de Parfum",
+        "photo": "gypsy-water-edp",
+        "tiers": [["Top", "Bergamot · Lemon · Pepper · Juniper berries"], ["Heart", "Incense · Pine needles · Orris"], ["Base", "Amber · Vanilla · Sandalwood"]],
+        "gloss": "On paper: a campfire in a pine forest, but make it Scandinavian.",
+        "stamp": "Sample it first",
+        "price": "1 ml sample $6.99  ·  50 ml $235 at Bluemercury",
+        "asof": "Prices checked Nov 14, 2026"
+      }
+    },
+    {
+      "id": "07", "slug": "should-you-blind-buy-niche-perfume", "day": 1, "template": "rules",
+      "board": "Safe Blind Buy Perfumes",
+      "title": "Should you blind buy perfume? The $150 rule for niche fragrance",
+      "description": "Should you blind buy perfume? For niche fragrance, rarely. Blind buy only if the bottle is under about $150, you already love a similar scent, none of the notes are your known enemies, and the shop takes returns. Above $150, sample first: a 2 ml sample typically costs around $13. Affiliate links on the page. #ad #blindbuy",
+      "url": "https://www.blindbuyguide.com/guides/should-you-blind-buy-niche-fragrance/",
+      "alt": "Typographic card on cream titled 'Should you blind buy a niche perfume? Rarely.' It lists the $150 rule: blind buy only if the bottle is under about $150, you already love a scent wearers compare it to, none of the notes are your known enemies, and the shop takes returns. Above $150, sample first.",
+      "image": {
+        "kicker": "Should you blind buy perfume?", "headline": "Rarely.", "sub": "Blind buy a niche bottle only if all four are true:",
+        "steps": [["01", "It's under about $150."], ["02", "You already love a scent wearers compare it to."], ["03", "None of the notes are your known enemies."], ["04", "The shop takes returns, or you'd happily gift it."]],
+        "line": "Above $150, sample first. Every time. Even if TikTok is screaming.",
+        "asof": ""
+      }
+    },
+    {
+      "id": "08", "slug": "most-expensive-perfumes-per-ml", "day": 4, "template": "list",
+      "board": "Sample First Perfumes",
+      "title": "The most expensive perfumes per ml: sample these first",
+      "description": "The most expensive perfumes per ml in our November 2026 price index, best in-stock US bottle: Creed Oud Zarian at $9.40 per ml, Tom Ford Lost Cherry at $8.10, and Creed Aventus Cologne, Creed Iris Debonair and Xerjoff Black Moonlight at $7.60. Big per-ml numbers are not a verdict; they are the reason to buy a perfume sample first. Affiliate links on the page. #ad #nicheperfume",
+      "url": "https://www.blindbuyguide.com/guides/blind-buy-guide-price-index-november-2026/",
+      "alt": "List of the five most expensive perfumes per ml with small bottle photos on cream: Creed Oud Zarian $9.40 per ml (50 ml, $470), Tom Ford Lost Cherry $8.10 per ml (50 ml, $405), Creed Aventus Cologne $7.60 per ml (50 ml, $380), Creed Iris Debonair $7.60 per ml (50 ml, $380), Xerjoff Black Moonlight $7.60 per ml (50 ml, $380).",
+      "image": {
+        "kicker": "Price index · November 2026", "headline": "The priciest per ml", "sub": "Best in-stock US bottle, per ml",
+        "items": [
+          {"photo": "creed-oud-zarian-extrait", "name": "Oud Zarian", "house": "Creed", "meta": "50 ml · $470", "value": "$9.40"},
+          {"photo": "tom-ford-lost-cherry-edp", "name": "Lost Cherry", "house": "Tom Ford", "meta": "50 ml · $405", "value": "$8.10"},
+          {"photo": "creed-aventus-cologne-edp", "name": "Aventus Cologne", "house": "Creed", "meta": "50 ml · $380", "value": "$7.60"},
+          {"photo": "creed-iris-debonair-edp", "name": "Iris Debonair", "house": "Creed", "meta": "50 ml · $380", "value": "$7.60"},
+          {"photo": "xerjoff-black-moonlight-extrait", "name": "Black Moonlight", "house": "Xerjoff", "meta": "50 ml · $380", "value": "$7.60"}
+        ],
+        "line": "Big per-ml numbers aren't a verdict. Sample first.",
+        "asof": "Luckyscent and Bergdorf Goodman, prices as of Nov 15, 2026"
+      }
+    },
+    {
+      "id": "09", "slug": "winter-perfumes-cozy", "day": 2, "template": "list",
+      "board": "Winter Perfumes",
+      "title": "Winter perfumes for the cozy maximalist: 3 warm luxury bottles",
+      "description": "Winter perfume for the cozy maximalist: Tom Ford Tobacco Vanille ($300, 50 ml), Parfums de Marly Oajan ($400, 124.2 ml) and Nishane Fan Your Flames ($260, 50 ml), with notes and the sample that tells you if it's the one. Or start with the cozy sample flight: five 1 ml samples for about $33.95. Prices checked Nov 14 to 16, 2026. Affiliate links on the page. #ad #winterperfume",
+      "url": "https://www.blindbuyguide.com/gift-guide/#cozy",
+      "alt": "Three warm winter perfumes with bottle photos on cream: Tom Ford Tobacco Vanille, $300 for 50 ml; Parfums de Marly Oajan, $400 for 124.2 ml; Nishane Fan Your Flames, $260 for 50 ml. Below, the cozy sample flight: five 1 ml samples for about $33.95.",
+      "image": {
+        "kicker": "Winter perfume", "headline": "For the cozy maximalist", "sub": "Smell like the best part of December.",
+        "items": [
+          {"photo": "tom-ford-tobacco-vanille-edp", "name": "Tobacco Vanille", "house": "Tom Ford", "meta": "Tobacco, vanilla, cacao, tonka", "value": "$300", "unit": "50 ml"},
+          {"photo": "oajan-edp", "name": "Oajan", "house": "Parfums de Marly", "meta": "Cinnamon, honey, osmanthus, vanilla", "value": "$400", "unit": "124.2 ml"},
+          {"photo": "fan-your-flames-extrait", "name": "Fan Your Flames", "house": "Nishane", "meta": "Coconut, rum, tobacco, tonka", "value": "$260", "unit": "50 ml"}
+        ],
+        "line": "Not sure? The cozy sample flight: five 1 ml samples, about $33.95.",
+        "asof": "Neiman Marcus and Bluemercury, prices checked Nov 14 to 16, 2026"
+      }
+    },
+    {
+      "id": "10", "slug": "quiet-luxury-signature-scent", "day": 4, "template": "list",
+      "board": "Signature Scent",
+      "title": "Quiet luxury perfume: 3 signature scents people notice when they lean in",
+      "description": "Quiet luxury perfume for a signature scent people notice only when they lean in: Byredo Blanche ($182.75, 50 ml), Maison Francis Kurkdjian 724 ($275, 70 ml) and Initio Musk Therapy ($430, 90 ml). Clean aldehydes, white flowers and musks, with the 1 ml sample price for each. Prices checked Nov 14 to 16, 2026. Affiliate links on the page. #ad #signaturescent",
+      "url": "https://www.blindbuyguide.com/gift-guide/#quiet-luxury",
+      "alt": "Three quiet luxury perfumes with bottle photos on cream: Byredo Blanche, $182.75 for 50 ml; Maison Francis Kurkdjian 724, $275 for 70 ml; Initio Musk Therapy, $430 for 90 ml. Each lists its main notes and a 1 ml sample price.",
+      "image": {
+        "kicker": "Signature scent", "headline": "Quiet luxury, in a bottle", "sub": "Scents people notice only when they lean in.",
+        "items": [
+          {"photo": "blanche-edp", "name": "Blanche", "house": "Byredo", "meta": "Aldehydes, white rose, musk · sample $6.99", "value": "$182.75", "unit": "50 ml"},
+          {"photo": "mfk-724-edp", "name": "724", "house": "Maison Francis Kurkdjian", "meta": "Aldehydes, bergamot, white musks · sample $7.99", "value": "$275", "unit": "70 ml"},
+          {"photo": "initio-musk-therapy-extrait", "name": "Musk Therapy", "house": "Initio", "meta": "Bergamot, magnolia, white musks · sample $6.99", "value": "$430", "unit": "90 ml"}
+        ],
+        "line": "Beige apartment on purpose. One very good coat.",
+        "asof": "Liberty and Luckyscent, prices checked Nov 14 to 16, 2026"
+      }
+    },
+    {
+      "id": "11", "slug": "baccarat-rouge-540-vs-oud-satin-mood", "day": 5, "template": "versus",
+      "board": "Niche Perfumes",
+      "title": "Baccarat Rouge 540 vs Oud Satin Mood: which Kurkdjian to sample first",
+      "description": "Baccarat Rouge 540 vs Oud Satin Mood, two Maison Francis Kurkdjian heavyweights side by side: Baccarat Rouge 540 is airy saffron, amberwood and sugar; Oud Satin Mood is heavy rose, oud and vanilla. Notes, bottle prices and samples ($9.99 and $8.99 for 1 ml, Nov 14, 2026). Affiliate links on the page. #ad #nicheperfume",
+      "url": "https://www.blindbuyguide.com/compare/baccarat-rouge-540-edp-vs-oud-satin-mood-edp/",
+      "alt": "Side-by-side comparison on cream with two bottle photos. Left: Maison Francis Kurkdjian Baccarat Rouge 540, airy saffron, amberwood and sugar, 1 ml sample $9.99. Right: Maison Francis Kurkdjian Oud Satin Mood, heavy rose, oud and vanilla, 1 ml sample $8.99.",
+      "image": {
+        "kicker": "Kurkdjian vs Kurkdjian", "headline": "Which to sample first?",
+        "a": {"photo": "baccarat-rouge-540-edp", "name": "Baccarat Rouge 540", "desc": "Airy saffron, amberwood and sugar", "price": "1 ml · $9.99"},
+        "b": {"photo": "oud-satin-mood-edp", "name": "Oud Satin Mood", "desc": "Heavy rose, oud and vanilla", "price": "1 ml · $8.99"},
+        "line": "Both samples: $18.98. One wrist each.",
+        "asof": "Fragrances Line, Nov 14, 2026"
+      }
+    },
+    {
+      "id": "12", "slug": "layton-vs-herod-winter", "day": 5, "template": "versus",
+      "board": "Winter Perfumes",
+      "title": "Layton vs Herod: which Parfums de Marly for winter?",
+      "description": "Parfums de Marly Layton vs Herod for winter: Layton is the fresher apple, lavender and vanilla crowd-pleaser; Herod is darker cinnamon, tobacco and incense, the notes most people save for cold weather. Compare the notes and sample both first: $4.99 and $5.99 for 1 ml (Nov 14, 2026). Affiliate links on the page. #ad #winterperfume",
+      "url": "https://www.blindbuyguide.com/compare/layton-vs-herod-edp/",
+      "alt": "Side-by-side comparison on cream with two bottle photos. Left: Parfums de Marly Layton, apple, lavender and vanilla, 1 ml sample $4.99. Right: Parfums de Marly Herod, cinnamon, tobacco and incense, 1 ml sample $5.99.",
+      "image": {
+        "kicker": "Parfums de Marly, two moods", "headline": "Layton or Herod?",
+        "a": {"photo": "layton", "name": "Layton", "desc": "Fresher apple, lavender and vanilla", "price": "1 ml · $4.99"},
+        "b": {"photo": "herod-edp", "name": "Herod", "desc": "Darker cinnamon, tobacco and incense", "price": "1 ml · $5.99"},
+        "line": "Same house, very different weather.",
+        "asof": "Scentsplit and Fragrances Line, Nov 14, 2026"
+      }
+    },
+    {
+      "id": "13", "slug": "discovery-sets-worth-buying", "day": 3, "template": "table",
+      "board": "Safe Blind Buy Perfumes",
+      "title": "The safe blind buy: luxury perfume discovery sets worth it (2026)",
+      "description": "The safest perfume blind buy is a discovery set. Of the luxury sets we priced on Nov 18, 2026, we'd buy the Tom Ford Private Blend Luxe Discovery Set ($100, 12 ml) and the Creed Men's 5-Piece Discovery Set ($380, 49 ml); the MFK 5-Piece Holiday Miniature Set ($325, 50 ml) is a sample-first. Per-ml math and how to choose. #perfumegift #discoveryset",
+      "url": "https://www.blindbuyguide.com/guides/holiday-fragrance-gift-sets-worth-it/",
+      "alt": "Typographic table on cream titled 'The safe blind buy: discovery sets.' Tom Ford Private Blend Luxe Discovery Set, $100 for 12 ml, $8.33 per ml, buy it. Creed Men's 5-Piece Discovery Set, $380 for 49 ml, $7.76 per ml, buy it. MFK 5-Piece Holiday Miniature Set, $325 for 50 ml, $6.50 per ml, sample it first.",
+      "image": {
+        "kicker": "Holiday 2026", "headline": "The safe blind buy is a discovery set", "sub": "A set is the sample rule, gift-wrapped.",
+        "table": [
+          {"name": "Tom Ford Private Blend Luxe Discovery Set", "meta": "$100 · 12 ml · $8.33 / ml", "verdict": "Buy it"},
+          {"name": "Creed Men's 5-Piece Discovery Set", "meta": "$380 · 49 ml · $7.76 / ml", "verdict": "Buy it"},
+          {"name": "MFK 5-Piece Holiday Miniature Set", "meta": "$325 · 50 ml · $6.50 / ml", "verdict": "Sample first"}
+        ],
+        "line": "Travel sizes cost more per ml. That's the point of a discovery set, not a flaw in it.",
+        "asof": "Bluemercury and Dillard's, prices checked Nov 18, 2026"
+      }
+    },
+    {
+      "id": "14", "slug": "how-perfume-notes-unfold", "day": 6, "template": "timeline",
+      "board": "Perfume Note Pyramids",
+      "title": "How perfume notes unfold on skin: top, heart and drydown",
+      "description": "How perfume notes work on skin: check a fragrance at 10 minutes for the top notes, at 2 hours for the heart, and at 6 hours for the drydown. That is why the paper strip lies, and why one sniff in a store is not a test. The full step-by-step way to test a fragrance before you buy the bottle. #perfumenotes #perfumetips",
+      "url": "https://www.blindbuyguide.com/guides/how-to-test-a-fragrance/",
+      "alt": "Typographic timeline on cream titled 'How perfume notes unfold on skin.' 10 minutes: the opening, top notes, bright and sharp, what a paper strip shows. 2 hours: the heart, the personality. 6 hours: the drydown, and your answer to how long it lasts on you.",
+      "image": {
+        "kicker": "Perfume notes 101", "headline": "How perfume notes unfold on skin",
+        "steps": [["10 min", "The opening", "Top notes. Bright, citrusy, sharp. All a paper strip really shows you."], ["2 hours", "The heart", "The personality. This is who you're actually buying."], ["6 hours", "The drydown", "What's left, and your answer to “how long does it last on me?”"]],
+        "line": "The first 10 minutes are the trailer. You're here for the whole movie.",
+        "asof": ""
+      }
+    },
+    {
+      "id": "15", "slug": "perfume-sample-size-guide", "day": 6, "template": "rules",
+      "board": "Sample First Perfumes",
+      "title": "Perfume sample sizes: should you buy 1 ml, 2 ml or 5 ml?",
+      "description": "Which perfume sample size to buy: 1 ml to find out if you like a scent at all, 2 ml when you are seriously considering the full bottle, and 5 ml when you love it but would wear it fewer than about 20 times a year. A quick guide to perfume samples and decants before a luxury bottle. Affiliate links on the page. #ad #perfumesample",
+      "url": "https://www.blindbuyguide.com/guides/which-sample-size-to-buy/",
+      "alt": "Typographic card on cream titled 'Which perfume sample size?' 1 ml: do I like it at all? 2 ml: should I buy the bottle? 5 ml: I love it, but I'd wear it fewer than about 20 times a year.",
+      "image": {
+        "kicker": "Perfume samples", "headline": "Which sample size?", "sub": "Three sizes, three different questions.",
+        "steps": [["1 ml", "Do I like it at all?"], ["2 ml", "Should I buy the full bottle?"], ["5 ml", "I love it, but I'd wear it fewer than about 20 times a year."]],
+        "line": "Start small. The bottle will still be there.",
+        "asof": ""
+      }
+    },
+    {
+      "id": "16", "slug": "black-orchid-vs-noir-de-noir", "day": 7, "template": "versus",
+      "board": "Designer Perfumes",
+      "title": "Tom Ford Black Orchid vs Noir de Noir: which dark perfume to sample",
+      "description": "Tom Ford Black Orchid vs Noir de Noir, Tom Ford after dark: Black Orchid lists jasmine, black truffle and ylang-ylang on patchouli and dark chocolate; Noir de Noir lists saffron, black rose and truffle on vanilla and oud. Bottles: $165 vs $300 for 50 ml. A 1 ml of each costs $11.98 together (Nov 14, 2026). Affiliate links on the page. #ad #tomford",
+      "url": "https://www.blindbuyguide.com/compare/black-orchid-edp-vs-tom-ford-noir-de-noir-edp/",
+      "alt": "Side-by-side comparison on cream with two Tom Ford bottle photos. Left: Black Orchid, truffle, chocolate and patchouli, 50 ml $165, 1 ml sample $3.99. Right: Noir de Noir, saffron, black rose, truffle and oud, 50 ml $300, 1 ml sample $7.99.",
+      "image": {
+        "kicker": "Tom Ford after dark", "headline": "Black Orchid or Noir de Noir?",
+        "a": {"photo": "black-orchid-edp", "name": "Black Orchid", "desc": "Truffle, chocolate and patchouli · 50 ml $165", "price": "1 ml · $3.99"},
+        "b": {"photo": "tom-ford-noir-de-noir-edp", "name": "Noir de Noir", "desc": "Saffron, black rose, truffle, oud · 50 ml $300", "price": "1 ml · $7.99"},
+        "line": "Both samples: $11.98. Velvet blazer optional.",
+        "asof": "Sephora, Tom Ford Beauty, Scentsplit, Fragrances Line, Nov 14, 2026"
+      }
+    },
+    {
+      "id": "17", "slug": "perfume-gift-sample-flight", "day": 4, "template": "flights",
+      "board": "Perfume Gift Guide",
+      "title": "Perfume gift idea: give a sample flight, then the bottle they choose",
+      "description": "The perfume gift that can't miss: five 1 ml samples in a box with a card that says the full bottle is on you once they've chosen. Three luxury sample flights from our 2026 gift guide, the fresh, the cozy and the statement, each about $34 to $42 before shipping. Order by the first week of December. Affiliate links on the page. #ad #perfumegift",
+      "url": "https://www.blindbuyguide.com/gift-guide/#samples",
+      "alt": "Gift card-style design on cream titled 'The perfume gift that can't miss.' Three sample flights of five 1 ml samples: the fresh flight about $34.95 (Green Irish Tweed, Costa Azzurra, Gypsy Water, Petit Matin, Blenheim Bouquet); the cozy flight about $33.95 (Tobacco Vanille, Oajan, Fan Your Flames, Oud Wood, La Capitale); the statement flight about $41.95 (Delina, Baccarat Rouge 540, A La Rose, Blanche, 724).",
+      "image": {
+        "kicker": "Perfume gift guide 2026", "headline": "The gift that can't miss", "sub": "Five 1 ml samples now. The full bottle of their choice later.",
+        "flights": [
+          {"name": "The fresh flight", "for": "for the vacation-brained", "scents": "Green Irish Tweed · Costa Azzurra · Gypsy Water · Petit Matin · Blenheim Bouquet", "price": "$34.95"},
+          {"name": "The cozy flight", "for": "for the candle collector", "scents": "Tobacco Vanille · Oajan · Fan Your Flames · Oud Wood · La Capitale", "price": "$33.95"},
+          {"name": "The statement flight", "for": "for the main character", "scents": "Delina · Baccarat Rouge 540 · A La Rose · Blanche · 724", "price": "$41.95"}
+        ],
+        "line": "Five samples, about this much before shipping.",
+        "asof": "Sample prices checked Nov 14 to 16, 2026"
+      }
+    },
+    {
+      "id": "18", "slug": "valentines-perfume-main-character", "day": "hold until Jan 2-5, 2027", "template": "list",
+      "board": "Date Night Perfume",
+      "title": "Valentine's Day perfume gifts for the main character",
+      "description": "Valentine's Day perfume for the main character: Parfums de Marly Delina ($250, 30 ml), Maison Francis Kurkdjian Baccarat Rouge 540 ($360, 70 ml) and MFK A La Rose ($275, 70 ml). Rose, saffron and amberwood from luxury houses, with the 1 ml sample to confirm before you commit. Re-check prices on posting day. Affiliate links on the page. #ad #valentinesgift",
+      "url": "https://www.blindbuyguide.com/gift-guide/#main-character",
+      "alt": "Three Valentine's Day perfume gifts with bottle photos on cream: Parfums de Marly Delina, $250 for 30 ml; Maison Francis Kurkdjian Baccarat Rouge 540, $360 for 70 ml; Maison Francis Kurkdjian A La Rose, $275 for 70 ml. Each lists its main notes and a 1 ml sample price.",
+      "image": {
+        "kicker": "Valentine's Day perfume", "headline": "For the main character", "sub": "Rose, saffron and a bottle that photographs like an ad.",
+        "items": [
+          {"photo": "delina-edp", "name": "Delina", "house": "Parfums de Marly", "meta": "Turkish rose, vanilla, cashmeran · sample $7.99", "value": "$250", "unit": "30 ml"},
+          {"photo": "baccarat-rouge-540-edp", "name": "Baccarat Rouge 540", "house": "Maison Francis Kurkdjian", "meta": "Saffron, jasmine, amberwood · sample $9.99", "value": "$360", "unit": "70 ml"},
+          {"photo": "mfk-a-la-rose-edp", "name": "A La Rose", "house": "Maison Francis Kurkdjian", "meta": "Two roses, bergamot, violet · sample $8.99", "value": "$275", "unit": "70 ml"}
+        ],
+        "line": "Check she doesn't already own the Baccarat. She might.",
+        "asof": "Bluemercury, Bergdorf Goodman, Luckyscent, prices checked Nov 14 to 16, 2026"
+      }
+    },
+    {
+      "id": "19", "slug": "signature-scent-quiz", "day": 5, "template": "quiz",
+      "board": "Signature Scent",
+      "title": "Find your signature scent: a 9-question perfume quiz",
+      "description": "Find your signature scent with a free 9-question perfume quiz. About two minutes; every answer is scored against the notes, concentration and prices of 172 fragrances you can sample today. Your top match is free on the spot, with why it fits and the best sample price we track. The full five picks and a testing plan come by email with the free Price Book. #signaturescent #perfumequiz",
+      "url": "https://www.blindbuyguide.com/find/",
+      "alt": "Typographic quiz card on cream reading 'Find your signature scent.' Nine questions, about two minutes. Scored against 172 fragrances you can sample today. Your top match is free on the spot. Below: 'Zero $400 regrets.'",
+      "image": {
+        "kicker": "The signature quiz", "headline": "Find your signature scent", "sub": "Nine questions. About two minutes.",
+        "facts": [["9", "questions"], ["172", "fragrances you can sample today"], ["1", "top match, free on the spot"]],
+        "cta": "Take the quiz",
+        "line": "Zero $400 regrets.",
+        "asof": ""
+      }
+    },
+    {
+      "id": "20", "slug": "niche-perfume-price-per-ml-by-house", "day": 7, "template": "chart",
+      "board": "Niche Perfumes",
+      "title": "Niche perfume price per ml, by house (November 2026)",
+      "description": "Niche perfume price per ml, by house: the median in-stock US bottle runs from $3.21 per ml at Ormonde Jayne to $6.10 at Ex Nihilo, with Tom Ford, Nishane, Le Labo, Xerjoff, Creed, Amouage, Byredo, Initio, Serge Lutens, MFK and Parfums de Marly in between. From the Blind Buy Guide Price Index, November 2026. Affiliate links on the page. #ad #nicheperfume",
+      "url": "https://www.blindbuyguide.com/guides/blind-buy-guide-price-index-november-2026/",
+      "alt": "Horizontal bar chart on cream: median bottle price per ml by niche house, November 2026. Ex Nihilo $6.10, Tom Ford $6, Nishane $5.20, Le Labo $5, Xerjoff $4.97, Creed $4.88, Amouage $4.75, Byredo $4.70, Initio $4.67, Serge Lutens $4.28, Maison Francis Kurkdjian $3.93, Parfums de Marly $3.77, Ormonde Jayne $3.21.",
+      "image": {
+        "kicker": "Price index · November 2026", "headline": "Price per ml, by house", "sub": "Median in-stock US bottle price per ml",
+        "bars": [["Ex Nihilo", 6.10], ["Tom Ford", 6.00], ["Nishane", 5.20], ["Le Labo", 5.00], ["Xerjoff", 4.97], ["Creed", 4.88], ["Amouage", 4.75], ["Byredo", 4.70], ["Initio", 4.67], ["Serge Lutens", 4.28], ["Maison Francis Kurkdjian", 3.93], ["Parfums de Marly", 3.77], ["Ormonde Jayne", 3.21]],
+        "line": "Median across all 141 scents: $4.78 per ml.",
+        "asof": "Houses with at least four in-stock bottles in our library. Nov 15, 2026"
+      }
+    }
+  ]
+}
