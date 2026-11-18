@@ -21,6 +21,12 @@ const amazonUrl = s => { const a=amzAsins[s.slug]; return a&&/^[A-Z0-9]{10}$/.te
 const amazonLine = s => !AMZ.enabled ? '' : `<p class="muted alsoat">Also on Amazon: <a rel="sponsored nofollow noopener" href="${esc(aff(amazonUrl(s)))}">${amzAsins[s.slug]?esc(s.name):'see current listings'}</a>.</p>`;
 const alsoAt = s => CJ_ON.map(a=>{ const o=(cjOffers[a.name]||{}), it=(o.items||{})[s.slug]; if(!it||!it.sizes||!it.sizes.length) return ''; return `<p class="muted alsoat">Also in stock at <a rel="sponsored nofollow noopener" href="${esc(aff(it.url))}">${esc(a.name)}</a>: ${it.sizes.map(z=>`${z.ml} ml, ${money(z.price)}`).join(' &middot; ')}.${o.checked?` Checked ${esc(fmtDay(o.checked))}.`:''}</p>`; }).join('');
 const LABEL={buy:'Buy it.',sample_first:'Sample it first.',skip:'Skip it.'};
+// Answer-first test: one plain sentence with the prices, for AI answers and snippets.
+const AF = new Set(arr((cfg.answerFirst||{}).slugs));
+const answerLine = (s,best) => { const c=s.cheapestSample; if(!c&&!best) return '';
+  const parts=[]; if(c) parts.push(`A ${c.size_ml} ml sample of ${s.name} costs ${money(c.price)} at ${c.retailer} (${money(c.ppm)}/ml)`);
+  if(best) parts.push(`${c?'a':'A'} full ${best.size_ml} ml bottle${c?'':' of '+s.name} is ${money(best.price)} at ${best.retailer} (${money(best.ppm)}/ml)`);
+  const when=(c&&c.checked)||(best&&best.checked); return parts.join('; ')+(when?`, checked ${fmtDay(when)}`:'')+'.'; };
 const urls=[];
 const money = n => '$'+Number(n).toFixed(n%1?2:0);
 // ---- bottle imagery: generic illustrated flacon (no real brand bottle is reproduced) + slots for real photos
@@ -133,6 +139,7 @@ h1,h2,h3{font-family:var(--serif);line-height:1.1;font-weight:500;letter-spacing
 table{width:100%;border-collapse:collapse;font:15px var(--sans)}th,td{text-align:left;padding:10px 8px;border-bottom:1px solid var(--line)}th{font:11px var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
 .tag{display:inline-block;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:2px 12px;margin:2px;font:13px var(--sans)}
 .verdict{border-left:3px solid var(--accent);padding:6px 16px;background:var(--card)}
+.answer{font-size:1.05em;margin:.4em 0 .8em}
 form.nl{display:flex;gap:8px;flex-wrap:wrap}input,button{font:16px var(--sans);padding:12px 16px;border-radius:2px;border:1px solid var(--line)}input{flex:1;min-width:200px;background:var(--card);color:var(--ink)}
 button,.btn{letter-spacing:.12em;text-transform:uppercase;font:13px var(--sans);background:var(--ink);color:var(--bg);border:1px solid var(--ink);cursor:pointer;padding:13px 20px;text-decoration:none;display:inline-block}
 .sample{background:#fde68a;color:#451a03;text-align:center;font:13px system-ui;padding:4px}
@@ -266,6 +273,7 @@ for(const s of scents){
   if(faqs.length) ld.push({"@context":"https://schema.org","@type":"FAQPage",mainEntity:faqs.map(([q,a])=>({"@type":"Question",name:q,acceptedAnswer:{"@type":"Answer",text:a}}))});
   const tbl = (list,hdr)=>list.length?`<table><thead><tr><th>Retailer</th><th>Size</th><th>Price</th><th>Per ml</th><th>Checked</th></tr></thead><tbody>${list.map(p=>`<tr><td>${p.url&&p.url!=='#'?`<a rel="sponsored nofollow noopener" href="${esc(aff(p.url))}">${esc(p.retailer)}</a>`:esc(p.retailer)}</td><td>${p.size_ml} ml</td><td>${money(p.price)}</td><td>${money(p.ppm)}</td><td>${esc(p.checked||'')}</td></tr>`).join('')}</tbody></table>`:`<p class="muted">We have not found any ${hdr} yet. Suspicious, but we're looking.</p>`;
   const body = `<div class="shero"><figure>${bottle(s,'lg')}</figure><div><p class="eyebrow" style="margin-top:0">${esc(s.house||'')}${s.year?' · '+esc(s.year):''}${s.concentration?' · '+esc(s.concentration):''}</p><h1>${esc(s.name)}<br><em style="font-size:.55em;font-weight:500;color:var(--muted)">How to sample it first</em></h1>
+${AF.has(s.slug)&&answerLine(s,rows[0])?`<p class="answer">${esc(answerLine(s,rows[0]))}${s.advice?` Our verdict: ${esc((LABEL[s.advice]||'').replace(/\.$/,'').toLowerCase())}.`:''}</p>`:''}
 ${s.advice||s.verdictLine?`<p class="verdict"><strong>The verdict: ${esc(LABEL[s.advice]||'')}</strong>${s.advice?' ':''}${esc(s.verdictLine)}</p>`:''}
 ${s.who?`<p>Suits: ${esc(s.who)}</p>`:''}
 ${s.cheapestSample||cheapest?`<div class="buy">${s.cheapestSample?(s.cheapestSample.url&&s.cheapestSample.url!=='#'?`<a class="btn" rel="sponsored nofollow noopener" href="${esc(aff(s.cheapestSample.url))}">Sample it: ${money(s.cheapestSample.price)} for ${s.cheapestSample.size_ml} ml at ${esc(s.cheapestSample.retailer)}</a>`:`<div class="card"><strong>Smartest way to sample:</strong> ${money(s.cheapestSample.price)} for ${s.cheapestSample.size_ml} ml at ${esc(s.cheapestSample.retailer)}</div>`):''}${rows[0]&&rows[0].url&&rows[0].url!=='#'?`<a class="btn ghost" rel="sponsored nofollow noopener" href="${esc(aff(rows[0].url))}">Already sure? ${money(rows[0].price)} for ${rows[0].size_ml} ml at ${esc(rows[0].retailer)}</a>`:''}${anchor(s)?`<p class="anchor">${esc(anchor(s))}${s.cheapestSample&&s.cheapestSample.checked?` Prices checked ${esc(s.cheapestSample.checked)}.`:''}</p>`:''}</div>`:''}${stamp(s)}</div></div>
@@ -276,7 +284,7 @@ ${wearersSection(loadWearers(s.slug))}
 ${sim.length?`<h2>If you like this, try</h2><div class="grid">${sim.map(x=>`<div class="card"><a href="${BASE}/scents/${x.slug}/">${esc(x.name)}</a><br><span class="muted">${esc(x.house||'')}</span></div>`).join('')}</div>`:''}
 ${faqs.length?`<h2>FAQ</h2>${faqs.map(([q,a])=>`<h3>${esc(q)}</h3><p>${esc(a)}</p>`).join('')}`:''}
 ${cta()}${s.cheapestSample&&s.cheapestSample.url&&s.cheapestSample.url!=='#'?`<div class="sticky"><span>Sample from ${money(s.cheapestSample.price)}</span><a rel="sponsored nofollow noopener" href="${esc(aff(s.cheapestSample.url))}">Get the sample &rarr;</a></div><script>document.body.classList.add('hasSticky')</script>`:''}`;
-  write(`scents/${s.slug}/index.html`,page({title:`${s.name} sample: how to try it before you buy | ${cfg.brand}`,desc:(s.samples.length?`${s.name} samples from ${money(Math.min(...s.samples.map(x=>x.price)))} to ${money(Math.max(...s.samples.map(x=>x.price)))}. `:'')+(s.verdictLine||`Notes, similar scents, price per ml and how to try ${s.name} before you buy.`),path:`/scents/${s.slug}/`,body,ld,hook:scentHook(s)}));
+  write(`scents/${s.slug}/index.html`,page({title:`${s.name} sample: how to try it before you buy | ${cfg.brand}`,desc:AF.has(s.slug)&&answerLine(s,rows[0])?answerLine(s,rows[0]):(s.samples.length?`${s.name} samples from ${money(Math.min(...s.samples.map(x=>x.price)))} to ${money(Math.max(...s.samples.map(x=>x.price)))}. `:'')+(s.verdictLine||`Notes, similar scents, price per ml and how to try ${s.name} before you buy.`),path:`/scents/${s.slug}/`,body,ld,hook:scentHook(s)}));
 }
 // ---- index pages
 const cardFor = x=>`<div class="card pcard"><a href="${BASE}/scents/${x.slug}/">${bottle(x,'sm')}<div class="t"><strong>${esc(x.name)}</strong><br><span class="muted">${esc(x.house||'')}</span>${x.bestPpm!=null?`<br><span class="muted">from ${money(x.bestPpm)}/ml</span>`:''}${x.cheapestSample?`<br><span class="muted">sample ${money(x.cheapestSample.price)}</span>`:''}</div></a></div>`;
