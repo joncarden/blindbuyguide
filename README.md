@@ -3,3 +3,4 @@ Built by the site generator; do not edit by hand. No build step on Vercel (frame
 Live. Search engines allowed (robots.txt from the generator).
 
 Reference brief for creating social posts: docs/social/swipe-file.md.
+TikTok / Instagram carousel slideshow playbook: docs/social/tiktok-playbook.md.
