@@ -99,3 +99,21 @@ const CSS=`.gg{max-width:1080px;margin:0 auto}
 .gg-disc{font-size:14px;margin:2em 0}
 @media(max-width:860px){.gg-picks,.gg-flights{grid-template-columns:1fr 1fr}}
 @media(max-width:600px){.gg-strip{grid-template-columns:repeat(3,1fr)}.gg-strip .bottle:nth-child(n+4){display:none}.gg-picks,.gg-flights,.gg-quicks{grid-template-columns:1fr}.gg-img .bottle{aspect-ratio:1/1}.gg-lead{grid-template-columns:1fr;padding:22px 18px}.gg-cover{width:130px;margin:0 auto}.gg-table{font-size:14.5px}.gg-table td,.gg-table th{padding:8px 6px}.gg-t h3{font-size:25px}}`;
+
+// Home page feature: shown from Nov 1 to Dec 24 of the guide's year (the build date decides), so it retires itself.
+export function giftPromo({bySlug,bottle,BASE,esc,contentDir,now=new Date()}){
+  const dir=contentDir+'gift-guide/'; if(!fs.existsSync(dir)) return '';
+  const files=fs.readdirSync(dir).filter(f=>/^\d{4}\.json$/.test(f)).sort(); if(!files.length) return '';
+  const G=JSON.parse(fs.readFileSync(dir+files[files.length-1],'utf8'));
+  const from=new Date(Date.UTC(G.year,10,1)), to=new Date(Date.UTC(G.year,11,25)); if(now<from||now>=to) return '';
+  const picks=G.personas.flatMap(p=>p.picks.map(x=>x[0])); const show=['delina-edp','tom-ford-tobacco-vanille-edp','creed-green-irish-tweed-edp','baccarat-rouge-540-edp'].filter(s=>picks.includes(s)&&bySlug[s]).map(s=>bySlug[s]);
+  const n=picks.length;
+  return `<style>.ggp{display:grid;grid-template-columns:1.1fr 1fr;gap:30px;align-items:center;background:var(--ink);color:var(--bg);border-radius:4px;padding:30px 32px;margin:1.6em 0 2.2em}
+.ggp .eyebrow{color:#d9c3a0;margin:0}.ggp h2{font-family:var(--serif);font-weight:500;font-size:clamp(30px,4.4vw,46px);line-height:1.05;margin:.15em 0 .3em;border:0;padding:0;color:var(--bg)}.ggp p{margin:0 0 1em;color:#ddd5c8}
+.ggp-acts{display:flex;flex-wrap:wrap;gap:12px 18px;align-items:center}.ggp .btn{background:var(--bg);color:var(--ink)}.ggp-acts a:not(.btn){color:var(--bg);white-space:nowrap}
+.ggp-b{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}.ggp-b .bottle{margin:0;width:100%;height:auto;aspect-ratio:3/4;border-radius:2px}
+@media(max-width:700px){.ggp{grid-template-columns:1fr;padding:22px 18px;gap:18px}.ggp-b{order:-1}}</style>
+<section class="ggp" aria-labelledby="ggp-h"><div><p class="eyebrow">New · The ${G.year} gift guide</p><h2 id="ggp-h">Give fragrance without guessing.</h2><p>${n} bottles worth giving, sorted by who you're shopping for, with today's prices at authorized retailers. Plus the sample-set trick that means you never pick wrong, and a free printable with a snoop sheet for working out their taste.</p>
+<p class="ggp-acts"><a class="btn" href="${BASE}/gift-guide/">Open the gift guide</a><a href="${BASE}/gift-guide/#get-the-pdf">Get the free printable &rarr;</a></p></div>
+<a class="ggp-b" href="${BASE}/gift-guide/" aria-label="Open the gift guide">${show.map(s=>bottle(s,'')).join('')}</a></section>`;
+}

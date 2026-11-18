@@ -1,7 +1,7 @@
 // Zero-dependency static site generator. Usage: node build.mjs [--base /prefix]
 import fs from 'fs'; import path from 'path';
 import {loadWearers,wearersSection,wearersCss} from './src/wearers.mjs';
-import {giftGuide} from './src/gift-guide.mjs';
+import {giftGuide,giftPromo} from './src/gift-guide.mjs';
 const root = path.dirname(new URL(import.meta.url).pathname);
 const cfg = JSON.parse(fs.readFileSync(path.join(root,'config.json'),'utf8'));
 const out = process.env.OUT||'/tmp/site-dist';
@@ -294,6 +294,7 @@ write('index.html',page({title:`${cfg.brand}: ${cfg.tagline}`,desc:cfg.tagline+'
   ld:[{"@context":"https://schema.org","@type":"WebSite",name:cfg.brand,url:cfg.domain+BASE+'/'}],
   body:`<section class="hero"><div><p class="eyebrow" style="margin-top:0">Luxury fragrance, sampled first</p><h1>${esc(cfg.tagline)}</h1><p class="lede">${n0(DATA.pricePoints)} dated prices from ${DATA.retailers} retailers, boiled down to one answer per bottle: buy it, or sample it first, and where. Then one email a week on what is worth it, and what is not.</p><p style="display:flex;gap:18px;flex-wrap:wrap;align-items:center"><a class="btn" href="${BASE}/find/">Find your signature</a><a href="${BASE}/price-book/" style="white-space:nowrap">Read the Price Book &rarr;</a></p></div>
 <div class="trio">${featured.map(x=>`<figure>${bottle(x,'')}<figcaption>${esc(x.name)}</figcaption></figure>`).join('')}</div></section>
+${giftPromo({bySlug,bottle,BASE,esc,contentDir:process.env.CONTENT||'/mnt/project-files/content/'})}
 ${ledger()}
 
 <h2>The verdicts</h2><div class="grid">${verdictPicks.map(cardFor).join('')}</div><p><a href="${BASE}/scents/">All ${scents.length} fragrances &rarr;</a></p>
