@@ -4,7 +4,7 @@ name: IndexNow ping
 on:
   push:
     branches: [main]
-    paths: ['sitemap.xml']
+    paths: ['sitemap.xml', '.github/workflows/indexnow.yml']
   workflow_dispatch:
 permissions:
   contents: read
@@ -30,8 +30,11 @@ jobs:
               try:
                   old = subprocess.run(["git", "show", "HEAD~1:sitemap.xml"], capture_output=True, text=True).stdout
                   before = set(re.findall(r"<loc>([^<]+)</loc>", old))
-                  changed = [u for u in now if u not in before]
-                  urls = changed or now[:50]
+                  if old.strip() == open("sitemap.xml").read().strip():
+                      urls = now  # workflow edit, sitemap unchanged: submit everything
+                  else:
+                      changed = [u for u in now if u not in before]
+                      urls = changed or now[:50]
               except Exception:
                   pass
           host = os.environ["HOST"]
