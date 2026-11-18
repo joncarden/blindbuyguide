@@ -23,7 +23,7 @@ jobs:
           EVENT: ${{ github.event_name }}
         run: |
           python3 - <<'PY'
-          import json, os, re, subprocess, urllib.request
+          import json, os, re, subprocess, urllib.request, urllib.error
           now = re.findall(r"<loc>([^<]+)</loc>", open("sitemap.xml").read())
           urls = now
           if os.environ["EVENT"] == "push":
@@ -42,8 +42,14 @@ jobs:
           body = json.dumps({"host": host, "key": os.environ["KEY"],
                              "keyLocation": f"https://{host}/{os.environ['KEY']}.txt",
                              "urlList": urls}).encode()
-          req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body,
-                                       headers={"Content-Type": "application/json; charset=utf-8"})
-          with urllib.request.urlopen(req, timeout=60) as r:
-              print("IndexNow", r.status, "for", len(urls), "URLs")
+          ok = False
+          for ep in ("https://api.indexnow.org/indexnow", "https://www.bing.com/indexnow", "https://yandex.com/indexnow"):
+              req = urllib.request.Request(ep, data=body, headers={"Content-Type": "application/json; charset=utf-8"})
+              try:
+                  with urllib.request.urlopen(req, timeout=60) as r:
+                      print(ep, r.status, "for", len(urls), "URLs"); ok = True
+              except urllib.error.HTTPError as e:
+                  print(ep, e.code, e.read()[:500].decode("utf-8", "replace"))
+          if not ok:
+              raise SystemExit("No IndexNow endpoint accepted the submission")
           PY

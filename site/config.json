@@ -76,5 +76,30 @@
     "asinFile": "partners/amazon-asins.json"
   },
   "giftFormId": "d1a8b059-6279-4bba-9222-c9ab0d3dca5a",
-  "giftFormIdNote": "beehiiv form \"Site: Gift guide 2026\" (redirects to /gift-guide/thanks/). Empty = the gift guide shows a direct PDF download instead of the signup form."
+  "giftFormIdNote": "beehiiv form \"Site: Gift guide 2026\" (redirects to /gift-guide/thanks/). Empty = the gift guide shows a direct PDF download instead of the signup form.",
+  "answerFirst": {
+    "note": "Test (2026-11-18): these scent pages open with a one-sentence price answer and use it as the meta description, so AI answers and search snippets can lift it. Compare their search/AI traffic against the rest before rolling out to all pages.",
+    "slugs": [
+      "baccarat-rouge-540-edp",
+      "creed-aventus",
+      "tom-ford-oud-wood",
+      "delina-edp",
+      "tom-ford-tobacco-vanille-edp",
+      "santal-33-edp",
+      "layton",
+      "angels-share-edp",
+      "tom-ford-lost-cherry-edp",
+      "another-13-edp",
+      "gypsy-water-edp",
+      "mojave-ghost-edp",
+      "absolute-aphrodisiac-edp",
+      "noir-extreme-parfum",
+      "cedrat-boise",
+      "oajan-edp",
+      "creed-himalaya",
+      "creed-green-irish-tweed-edp",
+      "herod-edp",
+      "bibliotheque-edp"
+    ]
+  }
 }
