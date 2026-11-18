@@ -13,7 +13,11 @@ const affBase = url => { try{ const u=new URL(url); const r=(cfg.affiliate.rules
 // CJ deep links: wrap links to enabled CJ advertisers as <linkHost>/links/<PID>/type/dlg/<url> (tested 2026-11-16: lands on the product with AID/PID).
 const CJ = cfg.cj||{}; const CJ_ON = (CJ.advertisers||[]).filter(a=>a.enabled&&a.domain&&CJ.pid);
 const cjAdv = url => { try{ const h=new URL(url).hostname; return CJ_ON.find(a=>h===a.domain||h.endsWith('.'+a.domain)); }catch{ return null; } };
-const aff = url => cjAdv(url) ? `${CJ.linkHost||'https://www.anrdoezrs.net'}/links/${CJ.pid}/type/dlg/${url}` : affBase(url);
+// Rakuten deep links: wrap links to enabled Rakuten advertisers as click.linksynergy.com/deeplink?id=<publisher id>&mid=<advertiser id>&murl=<url>.
+const RK = cfg.rakuten||{}; const RK_ON = (RK.advertisers||[]).filter(a=>a.enabled&&a.domain&&a.mid&&RK.id);
+const rkAdv = url => { try{ const h=new URL(url).hostname; return RK_ON.find(a=>h===a.domain||h.endsWith('.'+a.domain)); }catch{ return null; } };
+const aff = url => { const r=rkAdv(url); if(r) return `${RK.linkHost||'https://click.linksynergy.com'}/deeplink?id=${encodeURIComponent(RK.id)}&mid=${encodeURIComponent(r.mid)}&murl=${encodeURIComponent(url)}`;
+  return cjAdv(url) ? `${CJ.linkHost||'https://www.anrdoezrs.net'}/links/${CJ.pid}/type/dlg/${url}` : affBase(url); };
 const cjOffers = (()=>{ try{ return JSON.parse(fs.readFileSync(path.join(root,CJ.offersFile||'partners/cj-offers.json'),'utf8')); }catch{ return {}; } })();
 const fmtDay = d => { const x=new Date(d+'T12:00:00Z'); return isNaN(x)?d:x.toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'UTC'}); };
 const AMZ = cfg.amazon||{}; const amzAsins = (()=>{ try{ return JSON.parse(fs.readFileSync(path.join(root,AMZ.asinFile||'partners/amazon-asins.json'),'utf8')); }catch{ return {}; } })();
@@ -62,6 +66,12 @@ const bottle = (s,cls='') => { const col=mood(s);
 function load(dir){ if(!fs.existsSync(dir)) return []; return fs.readdirSync(dir).filter(f=>f.endsWith('.json')).flatMap(f=>{
   try{ const d=JSON.parse(fs.readFileSync(path.join(dir,f),'utf8')); d.slug ||= f.replace(/\.json$/,''); return [d]; }catch(e){ console.warn('skip',f,e.message); return []; } }); }
 let scents = load(libDir); let usingSample = false;
+// Rakuten sample partners (MicroPerfumes): once an advertiser is enabled with its mid, its in-stock sample sizes
+// (partners/microperfumes-offers.json, built by partners/build_microperfumes.py) join each scent's sample offers.
+for(const a of RK_ON){ if(!a.offersFile) continue; let o={}; try{ o=JSON.parse(fs.readFileSync(path.join(root,a.offersFile),'utf8')); }catch{ continue; }
+  for(const s of scents){ const it=(o.items||{})[s.slug]; if(!it||!Array.isArray(it.sizes)) continue;
+    const own=arr(s.sample_offers).filter(x=>!(x&&x.retailer===a.name));
+    s.sample_offers=[...own,...it.sizes.filter(z=>z.ml>0&&z.price>0).map(z=>({retailer:a.name,size_ml:z.ml,price:z.price,currency:'USD',price_per_ml:+(z.price/z.ml).toFixed(2),in_stock:true,url:z.url,date_checked:o.checked||null,format:z.format}))]; } }
 // Prices are shown in US dollars only. A listing in pounds, euros etc. (or with no currency recorded) stays in the
 // library and the history but is never displayed as a dollar price. Same rule as the Price Book.
 const isUSD = o => String(o&&o.currency||'').toUpperCase()==='USD';

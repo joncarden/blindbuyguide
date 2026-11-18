@@ -75,6 +75,20 @@
     "enabled": true,
     "asinFile": "partners/amazon-asins.json"
   },
+  "rakuten": {
+    "_note": "Rakuten Advertising. Links to an enabled advertiser's domain become https://click.linksynergy.com/deeplink?id=<id>&mid=<mid>&murl=<url-encoded product url>. id = the publisher's encrypted ID (the id= value in any Rakuten link). mid = the advertiser ID (mid= in that advertiser's links). An advertiser with an offersFile adds its in-stock sample sizes to every matching scent once enabled. MicroPerfumes approved 2026-11-18.",
+    "id": "",
+    "linkHost": "https://click.linksynergy.com",
+    "advertisers": [
+      {
+        "name": "MicroPerfumes",
+        "mid": "",
+        "domain": "microperfumes.com",
+        "enabled": false,
+        "offersFile": "partners/microperfumes-offers.json"
+      }
+    ]
+  },
   "giftFormId": "d1a8b059-6279-4bba-9222-c9ab0d3dca5a",
   "giftFormIdNote": "beehiiv form \"Site: Gift guide 2026\" (redirects to /gift-guide/thanks/). Empty = the gift guide shows a direct PDF download instead of the signup form.",
   "answerFirst": {
