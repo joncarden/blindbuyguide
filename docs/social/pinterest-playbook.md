@@ -50,7 +50,7 @@ Expected ramp, also self-reported. Bilal, Feb 9 article: months 1–3 feel empty
 6. Quiz pin that links to the site quiz, with a clear payoff. (Swipe file #5.)
 7. ❌/✅ "sample the 2ml first" cards, framed as buying advice, not lectures.
 
-Skip cheap-dupe comparison pins in the first batch (upmarket positioning). If we later do smell-alike pins, frame them as alternatives with honest prices, not "this cheap one beats the luxury one."
+No dupe, smell-alike, "cheaper alternative" or "smells expensive on a budget" pins, ever (upmarket positioning). Comparisons are luxury vs luxury.
 
 Photos: real bottle and flat-lay shots for reviews and verdicts. If any AI mood or ingredient image is used, label it. Same typeface and text placement on every template. Build 2–3 tested templates and make 3–5 fresh variations per important URL (different hook, layout, or color), which is Mo's "pin families" method: https://x.com/ItsMoMullah/status/1967545074788552951 (Sep 15, 2025).
 
@@ -161,7 +161,7 @@ Individual fragrance verdict pages:
 
 Safe-blind-buy and sample-first lists:
 
-7. "5 perfumes that are actually safe to blind buy" — buy-verdict only, mixed designer and niche, no budget-dupe slot. Board: Safe Blind Buy Perfumes. Link: a list page if we have one, otherwise a hub or the top listed verdict.
+7. "5 perfumes that are actually safe to blind buy" — buy-verdict only, mixed designer and niche. Board: Safe Blind Buy Perfumes. Link: a list page if we have one, otherwise a hub or the top listed verdict.
 8. "Sample these first" — hyped bottles our site marks sample-first or skip, with a one-line why. Board: Sample First Perfumes.
 9. "5 winter perfumes worth a blind buy" — seasonal shortlist. Board: Winter Perfumes. Post now through mid-December.
 10. "Office-safe perfumes I'd actually blind buy" — quieter, workplace-friendly buy verdicts. Board: Date Night Perfume is a weak fit; pin to Safe Blind Buy Perfumes for now, and add an Office-Safe board if this angle works.
@@ -197,7 +197,7 @@ Fill #1–#6 with current flagship pages (ones that already have complete notes,
 - Posting Idea Pins / story pins as the main format, or pins with no site URL ("scout pins").
 - Mass-generating unlabeled AI pins.
 - Dumping 30–50 pins on day one, or chasing impressions and followers.
-- Cheap-dupe hooks in the first batch.
+- Dupe, smell-alike or budget hooks, in any batch.
 - Linking pins straight to Amazon or affiliate short links.
 
 ## Sources (X, 2025–2026)
