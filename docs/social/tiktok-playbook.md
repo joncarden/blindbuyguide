@@ -7,14 +7,14 @@ Use this doc as the source of truth whenever generating TikTok (or IG carousel) 
 ## Why slideshows
 - Cheapest repeatable channel: a few photos + a few lines of text. No filming, no face.
 - Fast feedback: test 5 hooks on the same slides in a week; saves tell us which problem people care about and how they phrase it.
-- Our fit is strong: fragrance buying is a problem people already talk about, advice fits on 5–6 slides, and the site naturally shows up as one tip (price per ml, sample-first verdicts, dupes).
+- Our fit is strong: fragrance buying is a problem people already talk about, advice fits on 5–6 slides, and the site naturally shows up as one tip (price per ml, sample-first verdicts, worth-it guides).
 
 ## Step 1 — Strategy: situations, not audiences
 Describe the user by the moment right before they need us. Start with 3:
 1. About to blind buy an expensive bottle ($150–$400) they've never smelled.
 2. Loved a sample / tester and wondering if the full bottle is worth it.
-3. Want a famous scent (e.g. Baccarat Rouge 540, Aventus) without paying full price — dupes / cheaper alternatives.
-Other candidates: gift for a partner, first niche fragrance, building a 3–5 bottle wardrobe, "smells expensive on a budget", seasonal (date night, office, summer).
+3. Buying a fragrance as a gift for a partner and terrified of getting it wrong.
+Other candidates: first niche fragrance, building a 3–5 bottle wardrobe, finding a signature scent, seasonal (date night, office, summer).
 
 Each situation = a series. Keep only situations we've seen in real comments/Reddit; cut ones AI invents.
 
@@ -26,7 +26,7 @@ Each situation = a series. Keep only situations we've seen in real comments/Redd
 - One account until a format works; then clone to more niche angles.
 
 ## Step 3 — Hook bank
-- Search TikTok for niche keywords (blind buy, niche fragrance, perfume dupes, smell expensive, fragrance tier list). Open 5+ posts per account; note formats that recur across accounts.
+- Search TikTok for niche keywords (blind buy, niche fragrance, signature scent, smell expensive, fragrance tier list). Open 5+ posts per account; note formats that recur across accounts.
 - Log every format in a table: link | account | hook | slide order | visuals | where product shows up | comments | views | date.
 - Target: 20 formats before writing our own.
 - Breakdown prompt (attach screenshots):
@@ -43,7 +43,7 @@ Order:
 Example hooks:
 - "5 niche fragrances that are actually safe to blind buy"
 - "Stop blind buying these 4 hyped perfumes (sample first)"
-- "Baccarat Rouge 540 smell-alikes ranked by price per ml"
+- "Is Baccarat Rouge 540 worth it? Price per ml, decoded"
 - "Buy / sample first / skip: TikTok's most hyped scents"
 - "Guess the price: which of these smells most expensive?"
 
@@ -64,7 +64,7 @@ Human check before every post: read every slide on a phone. Photo matches line? 
 
 ## Step 6 — Conversion
 - Say the name the way people search it: "Blind Buy Guide" / blindbuyguide.com, on the slide or in the caption, plus link in bio.
-- Landing must match the promise: a slideshow about BR540 alternatives links to that page, not the homepage.
+- Landing must match the promise: a slideshow about whether BR540 is worth it links to that guide, not the homepage.
 - Reply to every "what site is this?" comment — that's the comment we're designing for.
 
 ## Ideation prompt (run against our site)
