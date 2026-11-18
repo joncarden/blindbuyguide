@@ -76,15 +76,16 @@
     "asinFile": "partners/amazon-asins.json"
   },
   "rakuten": {
-    "_note": "Rakuten Advertising. Links to an enabled advertiser's domain become https://click.linksynergy.com/deeplink?id=<id>&mid=<mid>&murl=<url-encoded product url>. id = the publisher's encrypted ID (the id= value in any Rakuten link). mid = the advertiser ID (mid= in that advertiser's links). An advertiser with an offersFile adds its in-stock sample sizes to every matching scent once enabled. MicroPerfumes approved 2026-11-18.",
-    "id": "",
+    "_note": "Rakuten Advertising. Links to an enabled advertiser's domain become https://click.linksynergy.com/link?id=<id>&offerid=<offerid>&type=2&murl=<url-encoded product url> (or /deeplink?id=&mid=&murl= when only mid is set). id = the publisher's encrypted ID (id= in any Rakuten link); offerid = offerid= in that advertiser's text link. An advertiser with an offersFile adds its in-stock sample sizes to every matching scent once enabled. MicroPerfumes approved and switched on 2026-11-18.",
+    "id": "vPr4vr1pWJA",
     "linkHost": "https://click.linksynergy.com",
     "advertisers": [
       {
         "name": "MicroPerfumes",
+        "offerid": "1538914.6",
         "mid": "",
         "domain": "microperfumes.com",
-        "enabled": false,
+        "enabled": true,
         "offersFile": "partners/microperfumes-offers.json"
       }
     ]
