@@ -6067,6 +6067,387 @@
      "url": "https://www.microperfumes.com/products/vanilla-28-travel-spray"
     }
    ]
+  },
+  "calvin-klein-obsession-edp": {
+   "title": "Obsession EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/obsession-sample-vial-1"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/obsession-travel-spray-1"
+    }
+   ]
+  },
+  "coach-poppy-edp": {
+   "title": "Coach Poppy EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/coach-poppy-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/coach-poppy-travel-spray"
+    }
+   ]
+  },
+  "donna-karan-cashmere-mist-edp": {
+   "title": "Cashmere Mist EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/cashmere-mist-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/cashmere-mist-travel-spray"
+    }
+   ]
+  },
+  "elizabeth-arden-sunflowers-edt": {
+   "title": "Sunflowers EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 0.72,
+     "url": "https://www.microperfumes.com/products/sunflowers-edt-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 3.12,
+     "url": "https://www.microperfumes.com/products/sunflowers-edt-travel-spray"
+    }
+   ]
+  },
+  "estee-lauder-beautiful-edp": {
+   "title": "Beautiful EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/beautiful-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/beautiful-travel-spray"
+    }
+   ]
+  },
+  "jimmy-choo-blossom-edp": {
+   "title": "Blossom EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 1.94,
+     "url": "https://www.microperfumes.com/products/blossom-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 3.49,
+     "url": "https://www.microperfumes.com/products/blossom-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/blossom-travel-spray"
+    }
+   ]
+  },
+  "jimmy-choo-fever-edp": {
+   "title": "Fever EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/fever-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/fever-travel-spray"
+    }
+   ]
+  },
+  "jimmy-choo-man-blue-edt": {
+   "title": "Jimmy Choo Man Blue EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/jimmy-choo-man-blue-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/jimmy-choo-man-blue-travel-spray"
+    }
+   ]
+  },
+  "jimmy-choo-man-ice-edt": {
+   "title": "Jimmy Choo Man Ice EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 1.5,
+     "url": "https://www.microperfumes.com/products/jimmy-choo-man-ice-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 7.79,
+     "url": "https://www.microperfumes.com/products/jimmy-choo-man-ice-travel-spray"
+    }
+   ]
+  },
+  "marc-jacobs-daisy-love-edt": {
+   "title": "Daisy Love EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/daisy-love-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/daisy-love-travel-spray"
+    }
+   ]
+  },
+  "marc-jacobs-perfect-edp": {
+   "title": "Perfect EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/perfect-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/perfect-travel-spray"
+    }
+   ]
+  },
+  "michael-kors-sexy-amber-edp": {
+   "title": "Sexy Amber EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/sexy-amber-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/sexy-amber-travel-spray"
+    }
+   ]
+  },
+  "montblanc-legend-spirit-edt": {
+   "title": "Legend Spirit EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/legend-spirit-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/legend-spirit-travel-spray"
+    }
+   ]
+  },
+  "ralph-lauren-polo-black-edt": {
+   "title": "Polo Black EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 1.94,
+     "url": "https://www.microperfumes.com/products/polo-black-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 9.74,
+     "url": "https://www.microperfumes.com/products/polo-black-travel-spray"
+    }
+   ]
+  },
+  "estee-lauder-pleasures-intense-edp": {
+   "title": "Pleasures Intense EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 1.79,
+     "url": "https://www.microperfumes.com/products/pleasures-intense-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 9.09,
+     "url": "https://www.microperfumes.com/products/pleasures-intense-travel-spray"
+    }
+   ]
+  },
+  "marc-jacobs-daisy-wild-edp": {
+   "title": "Daisy Wild EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/daisy-wild-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/daisy-wild-travel-spray"
+    }
+   ]
+  },
+  "montblanc-individuel-edt": {
+   "title": "Individuel EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 1.79,
+     "url": "https://www.microperfumes.com/products/individuel-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 9.09,
+     "url": "https://www.microperfumes.com/products/individuel-travel-spray"
+    }
+   ]
+  },
+  "ralph-lauren-polo-67-edt": {
+   "title": "Polo 67 EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/polo-67-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/polo-67-travel-spray"
+    }
+   ]
+  },
+  "ralph-lauren-polo-blue-edt": {
+   "title": "Polo Blue EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/polo-blue-sample-vial-1"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/polo-blue-travel-spray-1"
+    }
+   ]
+  },
+  "louis-vuitton-california-dream-edp": {
+   "title": "California Dream EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 9.99,
+     "url": "https://www.microperfumes.com/products/california-dream-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 19.99,
+     "url": "https://www.microperfumes.com/products/california-dream-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 49.99,
+     "url": "https://www.microperfumes.com/products/california-dream-travel-spray"
+    }
+   ]
+  },
+  "dior-sauvage-elixir": {
+   "title": "Sauvage Elixir Parfum",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 5.97,
+     "url": "https://www.microperfumes.com/products/sauvage-elixir-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 9.97,
+     "url": "https://www.microperfumes.com/products/sauvage-elixir-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 24.97,
+     "url": "https://www.microperfumes.com/products/sauvage-elixir-travel-spray"
+    },
+    {
+     "format": "Travel Spray XL",
+     "ml": 10.0,
+     "price": 41.97,
+     "url": "https://www.microperfumes.com/products/sauvage-elixir-parfum-travel-spray-xl"
+    }
+   ]
   }
  }
 }
