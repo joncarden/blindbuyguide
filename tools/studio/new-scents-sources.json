@@ -143,6 +143,24 @@
   "cutout": "site/images/studio/cutouts-new/creed-spring-flower-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "davidoff-cool-water-edt": {
+  "name": "Cool Water Eau de Toilette",
+  "house": "Davidoff",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-2291-1500_380ba2e0-9d49-4898-a0d8-0e4d9decdbfa.jpg?v=1782141470",
+  "source_page": "https://www.microperfumes.com/products/cool-water-edt-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/davidoff-cool-water-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "davidoff-cool-water-woman-edt": {
+  "name": "Cool Water Woman Eau de Toilette",
+  "house": "Davidoff",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-2301-1000px-v2_5b074739-c1db-4e16-b3b8-df622f0c5ddf.jpg?v=1771543271",
+  "source_page": "https://www.microperfumes.com/products/cool-water-retail-bottle-1",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/davidoff-cool-water-woman-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "dior-fahrenheit-edt": {
   "name": "Fahrenheit Eau de Toilette",
   "house": "Dior",
@@ -267,6 +285,15 @@
   "source_page": "https://www.microperfumes.com/products/light-blue-retail-bottle",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/dolce-and-gabbana-light-blue-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "dolce-and-gabbana-light-blue-pour-homme-edt": {
+  "name": "Light Blue Pour Homme Eau de Toilette",
+  "house": "Dolce & Gabbana",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-2591-1000px_75ead225-0da2-48be-a519-2f286bad18d7.jpg?v=1792172428",
+  "source_page": "https://www.microperfumes.com/products/light-blue-edt-retail-bottle-1",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/dolce-and-gabbana-light-blue-pour-homme-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "dolce-and-gabbana-pour-homme-edt": {
@@ -420,6 +447,24 @@
   "source_page": "https://www.fragrancesline.com/products/blessed-baraka-perfume-sample",
   "retailer": "Fragrances Line",
   "cutout": "site/images/studio/cutouts-new/initio-blessed-baraka-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "issey-miyake-leau-dissey-edt": {
+  "name": "L'Eau d'Issey Eau de Toilette",
+  "house": "Issey Miyake",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-4681-1000px-v2_74a4cd05-030f-4343-91ab-1c0d0dddbadb.jpg?v=1794318622",
+  "source_page": "https://www.microperfumes.com/products/leau-dissey-edt-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/issey-miyake-leau-dissey-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "issey-miyake-leau-dissey-pour-homme-edt": {
+  "name": "L'Eau d'Issey Pour Homme Eau de Toilette",
+  "house": "Issey Miyake",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-4691-1000px-v2_f543eaa6-b5b2-4845-9803-45cc3ff7169e.jpg?v=1792082439",
+  "source_page": "https://www.microperfumes.com/products/leau-dissey-edt-retail-bottle-2",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/issey-miyake-leau-dissey-pour-homme-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "jean-paul-gaultier-le-beau-edt": {

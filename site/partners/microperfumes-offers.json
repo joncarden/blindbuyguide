@@ -3829,6 +3829,97 @@
      "url": "https://www.microperfumes.com/products/libre-flowers-flames-travel-spray"
     }
    ]
+  },
+  "davidoff-cool-water-edt": {
+   "title": "Cool Water EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 0.45,
+     "url": "https://www.microperfumes.com/products/cool-water-edt-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 1.95,
+     "url": "https://www.microperfumes.com/products/cool-water-edt-travel-spray"
+    }
+   ]
+  },
+  "issey-miyake-leau-dissey-edt": {
+   "title": "L'Eau D'Issey EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/leau-dissey-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/leau-dissey-travel-spray"
+    }
+   ]
+  },
+  "davidoff-cool-water-woman-edt": {
+   "title": "Cool Water EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 0.45,
+     "url": "https://www.microperfumes.com/products/cool-water-sample-vial-1"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 1.95,
+     "url": "https://www.microperfumes.com/products/cool-water-travel-spray-1"
+    }
+   ]
+  },
+  "issey-miyake-leau-dissey-pour-homme-edt": {
+   "title": "L'Eau D'Issey EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/leau-dissey-sample-vial-1"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/leau-dissey-travel-spray-1"
+    }
+   ]
+  },
+  "dolce-and-gabbana-light-blue-pour-homme-edt": {
+   "title": "Light Blue EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/light-blue-sample-vial-1"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 4.99,
+     "url": "https://www.microperfumes.com/products/light-blue-sample-spray-1"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/light-blue-travel-spray-1"
+    }
+   ]
   }
  }
 }
