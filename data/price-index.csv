@@ -1,19 +1,23 @@
 slug,name,house,url,lowest_sample_usd,lowest_sample_ml,lowest_sample_retailer,best_in_stock_bottle_usd_per_ml,best_bottle_price_usd,best_bottle_ml,best_bottle_retailer,date_checked
 rabanne-1-million-edt,1 Million Eau de Toilette,Rabanne,https://www.blindbuyguide.com/scents/rabanne-1-million-edt/,2.97,0.75,MicroPerfumes,1.22,61,50,MicroPerfumes,2026-11-19
 rabanne-1-million-lucky-edt,1 Million Lucky Eau de Toilette,Rabanne,https://www.blindbuyguide.com/scents/rabanne-1-million-lucky-edt/,2.99,0.75,MicroPerfumes,1.61,161,100,MicroPerfumes,2026-11-19
+xerjoff-1861-decas-edp,1861 Decas Eau de Parfum,Xerjoff,https://www.blindbuyguide.com/scents/xerjoff-1861-decas-edp/,6.99,1,Fragrances Line,,,,,2026-11-19
 xerjoff-naxos-edp,1861 Naxos Eau de Parfum,Xerjoff,https://www.blindbuyguide.com/scents/xerjoff-naxos-edp/,4.97,0.75,MicroPerfumes,,,,,2026-11-18
 xerjoff-1861-renaissance-edp,1861 Renaissance,Xerjoff,https://www.blindbuyguide.com/scents/xerjoff-1861-renaissance-edp/,5.99,1,Scent Split,2.85,285,100,Luckyscent,2026-11-15
 xerjoff-40-knots-edp,40 Knots,Xerjoff,https://www.blindbuyguide.com/scents/xerjoff-40-knots-edp/,7.99,1,Scent Split,4.3,215,50,Luckyscent,2026-11-15
 mfk-724-edp,724,Maison Francis Kurkdjian,https://www.blindbuyguide.com/scents/mfk-724-edp/,7.97,0.75,MicroPerfumes,3.93,275,70,Luckyscent,2026-11-18
 mfk-a-la-rose-edp,A La Rose,Maison Francis Kurkdjian,https://www.blindbuyguide.com/scents/mfk-a-la-rose-edp/,8.99,1,Fragrances Line,3.93,275,70,Luckyscent,2026-11-15
+creed-absolu-aventus-extrait,Absolu Aventus Extrait de Parfum,Creed,https://www.blindbuyguide.com/scents/creed-absolu-aventus-extrait/,9.97,0.75,MicroPerfumes,5.39,539,100,MicroPerfumes,2026-11-19
 absolue-pour-le-matin-edp,Absolue Pour le Matin Eau de Parfum,Maison Francis Kurkdjian,https://www.blindbuyguide.com/scents/absolue-pour-le-matin-edp/,7.99,1,Fragrances Line,,,,,2026-11-16
 absolute-aphrodisiac-edp,Absolute Aphrodisiac Eau de Parfum,Initio Parfums Privés,https://www.blindbuyguide.com/scents/absolute-aphrodisiac-edp/,,,,4.56,410,90,Luckyscent,2026-11-16
 giorgio-armani-acqua-di-gio-edt,Acqua Di Gio Eau de Toilette,Giorgio Armani,https://www.blindbuyguide.com/scents/giorgio-armani-acqua-di-gio-edt/,2.97,0.75,MicroPerfumes,1.24,62,50,MicroPerfumes,2026-11-19
 giorgio-armani-acqua-di-gio-profondo-edp,Acqua di Gio Profondo Eau de Parfum,Giorgio Armani,https://www.blindbuyguide.com/scents/giorgio-armani-acqua-di-gio-profondo-edp/,2.78,0.75,MicroPerfumes,1.64,82,50,MicroPerfumes,2026-11-19
+giorgio-armani-acqua-di-gioia-edp,Acqua di Gioia Eau de Parfum,Giorgio Armani,https://www.blindbuyguide.com/scents/giorgio-armani-acqua-di-gioia-edp/,2.98,0.75,MicroPerfumes,2.17,65,30,MicroPerfumes,2026-11-19
 alexandria-ii-edp,Alexandria II Eau de Parfum,Xerjoff,https://www.blindbuyguide.com/scents/alexandria-ii-edp/,9.99,1,Scent Split,,,,,2026-11-16
 mugler-alien-goddess-edp,Alien Goddess Eau de Parfum,Mugler,https://www.blindbuyguide.com/scents/mugler-alien-goddess-edp/,2.99,0.75,MicroPerfumes,1.34,121,90,MicroPerfumes,2026-11-19
 althair-edp,Althair Eau de Parfum,Parfums de Marly,https://www.blindbuyguide.com/scents/althair-edp/,4.97,0.75,MicroPerfumes,,,,,2026-11-18
 byredo-alto-astral-edp,Alto Astral,Byredo,https://www.blindbuyguide.com/scents/byredo-alto-astral-edp/,,,,4.7,235,50,Luckyscent,2026-11-15
+givenchy-amarige-edt,Amarige Eau de Toilette,Givenchy,https://www.blindbuyguide.com/scents/givenchy-amarige-edt/,2.99,0.75,MicroPerfumes,0.51,51,100,MicroPerfumes,2026-11-19
 ambre-royal-by-ormonde-jayne,Ambre Royal,Ormonde Jayne,https://www.blindbuyguide.com/scents/ambre-royal-by-ormonde-jayne/,,,,3.3,290,88,Luckyscent,2026-11-15
 ambre-sultan-edp,Ambre Sultan Eau de Parfum,Serge Lutens,https://www.blindbuyguide.com/scents/ambre-sultan-edp/,5.99,1,Scent Split,,,,,2026-11-16
 ambrette-9-edp,Ambrette 9 Eau de Parfum,Le Labo,https://www.blindbuyguide.com/scents/ambrette-9-edp/,7.99,1,Scent Split,,,,,2026-11-16
@@ -29,6 +33,7 @@ apom-edp,APOM,Maison Francis Kurkdjian,https://www.blindbuyguide.com/scents/apom
 apple-brandy-on-the-rocks-edp,Apple Brandy On The Rocks Eau de Parfum,Kilian,https://www.blindbuyguide.com/scents/apple-brandy-on-the-rocks-edp/,4.99,1,Venba Fragrance,,,,,2026-11-14
 aqua-universalis-edt,Aqua Universalis Eau de Toilette,Maison Francis Kurkdjian,https://www.blindbuyguide.com/scents/aqua-universalis-edt/,3.99,0.75,MicroPerfumes,,,,,2026-11-18
 arabesque-by-ormonde-jayne,Arabesque,Ormonde Jayne,https://www.blindbuyguide.com/scents/arabesque-by-ormonde-jayne/,,,,2.78,245,88,Luckyscent,2026-11-15
+giorgio-armani-armani-code-edp,Armani Code Eau de Parfum,Giorgio Armani,https://www.blindbuyguide.com/scents/giorgio-armani-armani-code-edp/,4.99,1,Fragrances Line,,,,,2026-11-19
 giorgio-armani-armani-code-edt,Armani Code Eau de Toilette,Giorgio Armani,https://www.blindbuyguide.com/scents/giorgio-armani-armani-code-edt/,2.99,0.75,MicroPerfumes,0.92,69,75,MicroPerfumes,2026-11-19
 atomic-rose-edp,Atomic Rose Eau de Parfum,Initio Parfums Privés,https://www.blindbuyguide.com/scents/atomic-rose-edp/,6.99,1,Fragrances Line,,,,,2026-11-16
 xerjoff-avanguardia-extrait,Avanguardia,Xerjoff,https://www.blindbuyguide.com/scents/xerjoff-avanguardia-extrait/,,,,,,,,2026-11-15
@@ -39,6 +44,7 @@ carolina-herrera-bad-boy-edt,Bad Boy Eau de Toilette,Carolina Herrera,https://ww
 le-labo-baie-19-edp,Baie 19,Le Labo,https://www.blindbuyguide.com/scents/le-labo-baie-19-edp/,,,,5,250,50,Luckyscent,2026-11-15
 bal-d-afrique,Bal d'Afrique,Byredo,https://www.blindbuyguide.com/scents/bal-d-afrique/,5.97,0.75,MicroPerfumes,,,,,2026-11-18
 byredo-bal-d-afrique-absolu-extrait,Bal d'Afrique Absolu,Byredo,https://www.blindbuyguide.com/scents/byredo-bal-d-afrique-absolu-extrait/,9.99,1,Fragrances Line,,,,,2026-11-15
+tom-ford-beau-de-jour-edp,Beau de Jour Eau de Parfum,Tom Ford,https://www.blindbuyguide.com/scents/tom-ford-beau-de-jour-edp/,5.99,1,Fragrances Line,,,,,2026-11-19
 bergamote-22-edp,Bergamote 22 Eau de Parfum,Le Labo,https://www.blindbuyguide.com/scents/bergamote-22-edp/,7.99,1,Fragrances Line,,,,,2026-11-18
 bibliotheque-edp,Bibliothèque Eau de Parfum,Byredo,https://www.blindbuyguide.com/scents/bibliotheque-edp/,6.99,1,Venba Fragrance,,,,,2026-11-16
 frederic-malle-bigarade-concentree-edp,Bigarade Concentrée Eau de Parfum,Frederic Malle,https://www.blindbuyguide.com/scents/frederic-malle-bigarade-concentree-edp/,6.99,1,Fragrances Line,,,,,2026-11-16
@@ -51,11 +57,14 @@ byredo-black-saffron-edp,Black Saffron,BYREDO,https://www.blindbuyguide.com/scen
 byredo-blanche-absolu-extrait,Blanche Absolu,Byredo,https://www.blindbuyguide.com/scents/byredo-blanche-absolu-extrait/,,,,5.8,290,50,Luckyscent,2026-11-15
 blanche-edp,Blanche Eau de Parfum,Byredo,https://www.blindbuyguide.com/scents/blanche-edp/,5.99,0.75,MicroPerfumes,3.65,182.75,50,Liberty,2026-11-18
 initio-blessed-baraka-edp,Blessed Baraka Eau de Parfum,Initio,https://www.blindbuyguide.com/scents/initio-blessed-baraka-edp/,6.99,1,Fragrances Line,3.67,330,90,Fragrances Line,2026-11-19
+chanel-bleu-de-chanel-edp,Bleu de Chanel Eau de Parfum,Chanel,https://www.blindbuyguide.com/scents/chanel-bleu-de-chanel-edp/,6.99,0.75,MicroPerfumes,2.98,149,50,MicroPerfumes,2026-11-19
 gucci-bloom-edp,Bloom Eau de Parfum,Gucci,https://www.blindbuyguide.com/scents/gucci-bloom-edp/,2.99,0.75,MicroPerfumes,0.94,94,100,MicroPerfumes,2026-11-19
+ex-nihilo-blue-talisman-edp,Blue Talisman Eau de Parfum,Ex Nihilo,https://www.blindbuyguide.com/scents/ex-nihilo-blue-talisman-edp/,8.99,1,Fragrances Line,6.96,348,50,MicroPerfumes,2026-11-19
 blue-talisman-extrait-by-ex-nihilo,Blue Talisman Extrait,Ex Nihilo,https://www.blindbuyguide.com/scents/blue-talisman-extrait-by-ex-nihilo/,14.99,0.75,MicroPerfumes,6.9,345,50,Luckyscent,2026-11-18
 bois-et-fruits-edp,Bois et Fruits Eau de Parfum,Serge Lutens,https://www.blindbuyguide.com/scents/bois-et-fruits-edp/,,,,,,,,2026-11-14
 bois-marocain-edp,Bois Marocain Eau de Parfum,Tom Ford,https://www.blindbuyguide.com/scents/bois-marocain-edp/,7.99,1,Fragrances Line,,,,,2026-11-16
 byredo-bois-obscur-extrait,Bois Obscur,BYREDO,https://www.blindbuyguide.com/scents/byredo-bois-obscur-extrait/,,,,6.64,465,70,Luckyscent,2026-11-15
+viktor-and-rolf-bonbon-edp,Bonbon Eau de Parfum,Viktor & Rolf,https://www.blindbuyguide.com/scents/viktor-and-rolf-bonbon-edp/,4.99,1,Fragrances Line,,,,,2026-11-19
 versace-bright-crystal-edt,Bright Crystal Eau de Toilette,Versace,https://www.blindbuyguide.com/scents/versace-bright-crystal-edt/,3.47,0.75,MicroPerfumes,0.83,75,90,MicroPerfumes,2026-11-19
 burberry-brit-edp,Brit Eau de Parfum,Burberry,https://www.blindbuyguide.com/scents/burberry-brit-edp/,2.99,0.75,MicroPerfumes,0.6,30,50,MicroPerfumes,2026-11-19
 burberry-brit-edt,Brit Eau de Toilette,Burberry,https://www.blindbuyguide.com/scents/burberry-brit-edt/,1.79,0.75,MicroPerfumes,0.8,24,30,MicroPerfumes,2026-11-19
@@ -66,11 +75,14 @@ carlisle-edp,Carlisle Eau de Parfum,Parfums de Marly,https://www.blindbuyguide.c
 carnal-flower-edp,Carnal Flower Eau de Parfum,Frederic Malle,https://www.blindbuyguide.com/scents/carnal-flower-edp/,7.99,1,Fragrances Line,,,,,2026-11-18
 byredo-casablanca-lily-extrait,Casablanca Lily,Byredo,https://www.blindbuyguide.com/scents/byredo-casablanca-lily-extrait/,12.99,1,Fragrances Line,,,,,2026-11-15
 casamorati-1888-edp,Casamorati 1888 Eau de Parfum,Xerjoff,https://www.blindbuyguide.com/scents/casamorati-1888-edp/,6.99,1,Fragrances Line,,,,,2026-11-16
+parfums-de-marly-castley-edp,Castley Eau de Parfum,Parfums de Marly,https://www.blindbuyguide.com/scents/parfums-de-marly-castley-edp/,4.99,0.75,MicroPerfumes,2.63,197,75,MicroPerfumes,2026-11-19
 cedrat-boise,Cedrat Boise,Mancera,https://www.blindbuyguide.com/scents/cedrat-boise/,2.78,0.75,MicroPerfumes,,,,,2026-11-18
+creed-centaurus-edp,Centaurus Eau de Parfum,Creed,https://www.blindbuyguide.com/scents/creed-centaurus-edp/,6.99,0.75,MicroPerfumes,2.66,266,100,MicroPerfumes,2026-11-19
 champaca-by-ormonde-jayne,Champaca,Ormonde Jayne,https://www.blindbuyguide.com/scents/champaca-by-ormonde-jayne/,,,,3.3,290,88,Luckyscent,2026-11-15
 azzaro-chrome-edt,Chrome Eau de Toilette,Azzaro,https://www.blindbuyguide.com/scents/azzaro-chrome-edt/,0.45,0.75,MicroPerfumes,0.58,29,50,MicroPerfumes,2026-11-19
 yves-saint-laurent-cinema-edp,Cinema Eau de Parfum,Yves Saint Laurent,https://www.blindbuyguide.com/scents/yves-saint-laurent-cinema-edp/,3.99,0.75,MicroPerfumes,1.34,107,80,MicroPerfumes,2026-11-19
 clair-de-musc-edp,Clair de Musc Eau de Parfum,Serge Lutens,https://www.blindbuyguide.com/scents/clair-de-musc-edp/,,,,5.27,395,75,Serge Lutens,2026-11-14
+chanel-coco-mademoiselle-edp,Coco Mademoiselle Eau de Parfum,Chanel,https://www.blindbuyguide.com/scents/chanel-coco-mademoiselle-edp/,6.99,0.75,MicroPerfumes,3.38,169,50,MicroPerfumes,2026-11-19
 atelier-des-ors-cocoa-kimiya,Cocoa Kimiya,Atelier des Ors,https://www.blindbuyguide.com/scents/atelier-des-ors-cocoa-kimiya/,,,,4.9,490,100,Luckyscent,2026-11-15
 colognise-extrait,Colognisé Extrait de Parfum,Nishane,https://www.blindbuyguide.com/scents/colognise-extrait/,4.99,1,Fragrances Line,,,,,2026-11-16
 davidoff-cool-water-edt,Cool Water Eau de Toilette,Davidoff,https://www.blindbuyguide.com/scents/davidoff-cool-water-edt/,0.45,0.75,MicroPerfumes,0.29,22,75,MicroPerfumes,2026-11-19
@@ -96,17 +108,22 @@ dans-tes-bras-edp,Dans Tes Bras Eau de Parfum,Editions de Parfums Frédéric Mal
 byredo-de-los-santos-edp,De Los Santos,BYREDO,https://www.blindbuyguide.com/scents/byredo-de-los-santos-edp/,6.99,1,Fragrances Line,3.3,330,100,Luckyscent,2026-11-15
 amouage-decision-42-extrait,Decision 42,Amouage,https://www.blindbuyguide.com/scents/amouage-decision-42-extrait/,,,,,,,,2026-11-15
 parfums-de-marly-delina-exclusif-edp,Delina Exclusif Eau de Parfum,Parfums de Marly,https://www.blindbuyguide.com/scents/parfums-de-marly-delina-exclusif-edp/,9.99,1,Fragrances Line,4.73,355,75,Fragrances Line,2026-11-19
+parfums-de-marly-delina-la-rosee-edp,Delina La Rosee Eau de Parfum,Parfums de Marly,https://www.blindbuyguide.com/scents/parfums-de-marly-delina-la-rosee-edp/,7.99,0.75,MicroPerfumes,6.53,196,30,MicroPerfumes,2026-11-19
+creed-delphinus-edp,Delphinus Eau de Parfum,Creed,https://www.blindbuyguide.com/scents/creed-delphinus-edp/,7.99,0.75,MicroPerfumes,3.1,310,100,MicroPerfumes,2026-11-19
 byredo-desert-dawn-edp,Desert Dawn,BYREDO,https://www.blindbuyguide.com/scents/byredo-desert-dawn-edp/,6.99,1,Fragrances Line,4.7,235,50,Luckyscent,2026-11-15
 do-son-edp,Do Son Eau de Parfum,Diptyque,https://www.blindbuyguide.com/scents/do-son-edp/,7.99,1,Fragrances Line,,,,,2026-11-16
 diptyque-do-son-edt,Do Son Eau de Toilette,Diptyque,https://www.blindbuyguide.com/scents/diptyque-do-son-edt/,4.99,0.75,MicroPerfumes,1.8,180,100,MicroPerfumes,2026-11-19
 valentino-donna-born-in-roma-green-stravaganza-edp,Donna Born in Roma Green Stravaganza Eau de Parfum,Valentino,https://www.blindbuyguide.com/scents/valentino-donna-born-in-roma-green-stravaganza-edp/,2.99,0.75,MicroPerfumes,1.7,85,50,MicroPerfumes,2026-11-19
 valentino-donna-born-in-roma-intense-edp,Donna Born in Roma Intense Eau de Parfum,Valentino,https://www.blindbuyguide.com/scents/valentino-donna-born-in-roma-intense-edp/,3.97,0.75,MicroPerfumes,2.77,83,30,MicroPerfumes,2026-11-19
+valentino-donna-edp,Donna Eau de Parfum,Valentino,https://www.blindbuyguide.com/scents/valentino-donna-edp/,4.99,1,Fragrances Line,,,,,2026-11-19
 versace-dylan-blue-edt,Dylan Blue Eau de Toilette,Versace,https://www.blindbuyguide.com/scents/versace-dylan-blue-edt/,2.97,0.75,MicroPerfumes,0.56,56,100,MicroPerfumes,2026-11-19
+tom-ford-eau-dombre-leather-edt,Eau d'Ombre Leather Eau de Toilette,Tom Ford,https://www.blindbuyguide.com/scents/tom-ford-eau-dombre-leather-edt/,3.99,0.75,MicroPerfumes,2.32,116,50,MicroPerfumes,2026-11-19
 tom-ford-eau-de-soleil-blanc-edt,Eau de Soleil Blanc Eau de Toilette,Tom Ford,https://www.blindbuyguide.com/scents/tom-ford-eau-de-soleil-blanc-edt/,3.98,0.75,MicroPerfumes,2.14,107,50,MicroPerfumes,2026-11-19
 eau-des-sens-edt,Eau des Sens Eau de Toilette,Diptyque,https://www.blindbuyguide.com/scents/eau-des-sens-edt/,,,,,,,,2026-11-14
 eau-lente-edt,Eau Lente Eau de Toilette,Diptyque,https://www.blindbuyguide.com/scents/eau-lente-edt/,,,,,,,,2026-11-14
 eau-rose-edt,Eau Rose Eau de Toilette,Diptyque,https://www.blindbuyguide.com/scents/eau-rose-edt/,5.99,1,Fragrances Line,,,,,2026-11-16
 electric-cherry-edp,Electric Cherry Eau de Parfum,Tom Ford,https://www.blindbuyguide.com/scents/electric-cherry-edp/,14.99,1,Fragrances Line,,,,,2026-11-16
+byredo-eleventh-hour-edp,Eleventh Hour Eau de Parfum,Byredo,https://www.blindbuyguide.com/scents/byredo-eleventh-hour-edp/,4.79,0.75,MicroPerfumes,2.36,236,100,MicroPerfumes,2026-11-19
 amouage-enclave-edp,Enclave,Amouage,https://www.blindbuyguide.com/scents/amouage-enclave-edp/,6.99,1,Scent Split,3.95,395,100,Luckyscent,2026-11-15
 endymion,Endymion,Penhaligon's,https://www.blindbuyguide.com/scents/endymion/,4.99,1,Fragrances Line,,,,,2026-11-16
 jo-malone-english-pear-and-freesia-edc,English Pear & Freesia Eau de Cologne,Jo Malone,https://www.blindbuyguide.com/scents/jo-malone-english-pear-and-freesia-edc/,5.97,0.75,MicroPerfumes,,,,,2026-11-18
@@ -117,9 +134,12 @@ creed-erolfa-edp,Erolfa Eau de Parfum,Creed,https://www.blindbuyguide.com/scents
 versace-eros-edp,Eros Eau de Parfum,Versace,https://www.blindbuyguide.com/scents/versace-eros-edp/,3.99,1,Fragrances Line,,,,,2026-11-19
 versace-eros-edt,Eros Eau de Toilette,Versace,https://www.blindbuyguide.com/scents/versace-eros-edt/,2.97,0.75,MicroPerfumes,1.04,52,50,MicroPerfumes,2026-11-19
 versace-eros-flame-edp,Eros Flame Eau de Parfum,Versace,https://www.blindbuyguide.com/scents/versace-eros-flame-edp/,3.97,0.75,MicroPerfumes,1.12,56,50,MicroPerfumes,2026-11-19
+calvin-klein-escape-edp,Escape Eau de Parfum,Calvin Klein,https://www.blindbuyguide.com/scents/calvin-klein-escape-edp/,2.99,0.75,MicroPerfumes,0.5,25,50,MicroPerfumes,2026-11-19
+calvin-klein-eternity-edp,Eternity Eau de Parfum,Calvin Klein,https://www.blindbuyguide.com/scents/calvin-klein-eternity-edp/,1.79,0.75,MicroPerfumes,0.54,27,50,MicroPerfumes,2026-11-19
 le-labo-eucalyptus-20-edp,Eucalyptus 20,Le Labo,https://www.blindbuyguide.com/scents/le-labo-eucalyptus-20-edp/,,,,5,250,50,Luckyscent,2026-11-15
 calvin-klein-euphoria-edp,Euphoria Eau de Parfum,Calvin Klein,https://www.blindbuyguide.com/scents/calvin-klein-euphoria-edp/,2.99,0.75,MicroPerfumes,0.66,33,50,MicroPerfumes,2026-11-19
 byredo-eyes-closed-edp,Eyes Closed,Byredo,https://www.blindbuyguide.com/scents/byredo-eyes-closed-edp/,,,,4.7,235,50,Luckyscent,2026-11-15
+tom-ford-fabulous-edp,Fabulous Eau de Parfum,Tom Ford,https://www.blindbuyguide.com/scents/tom-ford-fabulous-edp/,8.99,0.75,MicroPerfumes,6.7,201,30,MicroPerfumes,2026-11-19
 dior-fahrenheit-edt,Fahrenheit Eau de Toilette,Dior,https://www.blindbuyguide.com/scents/dior-fahrenheit-edt/,2.99,0.75,MicroPerfumes,1.74,87,50,MicroPerfumes,2026-11-19
 fan-your-flames-extrait,Fan Your Flames Extrait de Parfum,Nishane,https://www.blindbuyguide.com/scents/fan-your-flames-extrait/,6.99,1,Fragrances Line,5.2,260,50,Neiman Marcus,2026-11-16
 mfk-feminin-pluriel-edp,Feminin Pluriel,Maison Francis Kurkdjian,https://www.blindbuyguide.com/scents/mfk-feminin-pluriel-edp/,7.99,1,Fragrances Line,3.93,275,70,Luckyscent,2026-11-15
@@ -127,6 +147,7 @@ xerjoff-fierezza-extrait,Fierezza,Xerjoff,https://www.blindbuyguide.com/scents/x
 fille-en-aiguilles-edp,Fille en Aiguilles Eau de Parfum,Serge Lutens,https://www.blindbuyguide.com/scents/fille-en-aiguilles-edp/,14.99,1,Fragrances Line,,,,,2026-11-16
 fleur-doranger-27-edp,Fleur D'Oranger 27 Eau de Parfum,Le Labo,https://www.blindbuyguide.com/scents/fleur-doranger-27-edp/,7.99,1,Scent Split,4.17,208.25,50,Liberty London (US site),2026-11-16
 ex-nihilo-fleur-narcotique-extrait,Fleur Narcotique Extrait,Ex Nihilo,https://www.blindbuyguide.com/scents/ex-nihilo-fleur-narcotique-extrait/,,,,6.9,345,50,Luckyscent,2026-11-15
+creed-fleurs-de-gardenia-edp,Fleurs de Gardenia Eau de Parfum,Creed,https://www.blindbuyguide.com/scents/creed-fleurs-de-gardenia-edp/,6.99,1,Fragrances Line,,,,,2026-11-19
 gucci-flora-gorgeous-gardenia-edp,Flora Gorgeous Gardenia Eau de Parfum,Gucci,https://www.blindbuyguide.com/scents/gucci-flora-gorgeous-gardenia-edp/,3.97,0.75,MicroPerfumes,0.98,98,100,MicroPerfumes,2026-11-19
 viktor-and-rolf-flowerbomb-edp,Flowerbomb Eau de Parfum,Viktor & Rolf,https://www.blindbuyguide.com/scents/viktor-and-rolf-flowerbomb-edp/,3.97,0.75,MicroPerfumes,1.3,65,50,MicroPerfumes,2026-11-19
 viktor-and-rolf-flowerbomb-nectar-edp,Flowerbomb Nectar Eau de Parfum,Viktor & Rolf,https://www.blindbuyguide.com/scents/viktor-and-rolf-flowerbomb-nectar-edp/,2.99,0.75,MicroPerfumes,1.74,87,50,MicroPerfumes,2026-11-19
@@ -162,6 +183,7 @@ dior-homme-intense-edp,Homme Intense Eau de Parfum,Dior,https://www.blindbuyguid
 dior-homme-sport-edt,Homme Sport Eau de Toilette,Dior,https://www.blindbuyguide.com/scents/dior-homme-sport-edt/,2.99,0.75,MicroPerfumes,1.33,100,75,MicroPerfumes,2026-11-19
 honour-woman-edp,Honour Woman Eau de Parfum,Amouage,https://www.blindbuyguide.com/scents/honour-woman-edp/,6.99,1,Fragrances Line,,,,,2026-11-16
 nishane-hundred-silent-ways-extrait,Hundred Silent Ways,Nishane,https://www.blindbuyguide.com/scents/nishane-hundred-silent-ways-extrait/,,,,5.2,260,50,Luckyscent,2026-11-14
+nishane-hundred-silent-ways-x-extrait,Hundred Silent Ways X Extrait de Parfum,Nishane,https://www.blindbuyguide.com/scents/nishane-hundred-silent-ways-x-extrait/,7.99,1,Fragrances Line,,,,,2026-11-19
 dior-hypnotic-poison-edt,Hypnotic Poison Eau de Toilette,Dior,https://www.blindbuyguide.com/scents/dior-hypnotic-poison-edt/,2.99,0.75,MicroPerfumes,1.86,93,50,MicroPerfumes,2026-11-19
 lancome-idole-edp,Idole Eau de Parfum,Lancôme,https://www.blindbuyguide.com/scents/lancome-idole-edp/,2.99,0.75,MicroPerfumes,1.11,111,100,MicroPerfumes,2026-11-19
 louis-vuitton-imagination-edp,Imagination Eau de Parfum,Louis Vuitton,https://www.blindbuyguide.com/scents/louis-vuitton-imagination-edp/,9.99,1,Fragrances Line,5.97,597,100,MicroPerfumes,2026-11-19
@@ -202,6 +224,7 @@ jean-paul-gaultier-le-beau-paradise-garden-edp,Le Beau Paradise Garden Eau de Pa
 jean-paul-gaultier-le-male-edt,Le Male Eau de Toilette,Jean Paul Gaultier,https://www.blindbuyguide.com/scents/jean-paul-gaultier-le-male-edt/,2.99,0.75,MicroPerfumes,0.92,69,75,MicroPerfumes,2026-11-19
 jean-paul-gaultier-le-male-elixir,Le Male Elixir,Jean Paul Gaultier,https://www.blindbuyguide.com/scents/jean-paul-gaultier-le-male-elixir/,3.99,1,Fragrances Line,,,,,2026-11-19
 jean-paul-gaultier-le-male-le-parfum-edp,Le Male Le Parfum Eau de Parfum,Jean Paul Gaultier,https://www.blindbuyguide.com/scents/jean-paul-gaultier-le-male-le-parfum-edp/,2.97,0.75,MicroPerfumes,1.17,88,75,MicroPerfumes,2026-11-19
+diptyque-leau-des-hesperides-edt,Leau Des Hesperides Eau de Toilette,Diptyque,https://www.blindbuyguide.com/scents/diptyque-leau-des-hesperides-edt/,5.99,1,Fragrances Line,,,,,2026-11-19
 levant-by-ormonde-jayne,Levant,Ormonde Jayne,https://www.blindbuyguide.com/scents/levant-by-ormonde-jayne/,,,,2.44,215,88,Luckyscent,2026-11-15
 yves-saint-laurent-libre-edp,Libre Eau de Parfum,Yves Saint Laurent,https://www.blindbuyguide.com/scents/yves-saint-laurent-libre-edp/,3.97,0.75,MicroPerfumes,2.47,74,30,MicroPerfumes,2026-11-19
 yves-saint-laurent-libre-flowers-and-flames-edp,Libre Flowers & Flames Eau de Parfum,Yves Saint Laurent,https://www.blindbuyguide.com/scents/yves-saint-laurent-libre-flowers-and-flames-edp/,3.97,0.75,MicroPerfumes,1.98,99,50,MicroPerfumes,2026-11-19
@@ -211,8 +234,10 @@ dolce-and-gabbana-light-blue-edt,Light Blue Eau de Toilette,Dolce & Gabbana,http
 dolce-and-gabbana-light-blue-pour-homme-edt,Light Blue Pour Homme Eau de Toilette,Dolce & Gabbana,https://www.blindbuyguide.com/scents/dolce-and-gabbana-light-blue-pour-homme-edt/,2.99,0.75,MicroPerfumes,0.59,44,75,MicroPerfumes,2026-11-19
 amouage-line-618-extrait,Line 618,Amouage,https://www.blindbuyguide.com/scents/amouage-line-618-extrait/,8.99,1,Scent Split,4.75,475,100,Luckyscent,2026-11-15
 frederic-malle-lipstick-rose-edp,Lipstick Rose Eau de Parfum,Frederic Malle,https://www.blindbuyguide.com/scents/frederic-malle-lipstick-rose-edp/,5.99,1,Fragrances Line,,,,,2026-11-16
+burberry-london-edp,London Eau de Parfum,Burberry,https://www.blindbuyguide.com/scents/burberry-london-edp/,2.99,0.75,MicroPerfumes,0.56,28,50,MicroPerfumes,2026-11-19
 burberry-london-edt,London Eau de Toilette,Burberry,https://www.blindbuyguide.com/scents/burberry-london-edt/,2.99,0.75,MicroPerfumes,0.58,29,50,MicroPerfumes,2026-11-19
 xerjoff-louis-xv-1722-rose-extrait,Louis XV 1722 Rose,Xerjoff,https://www.blindbuyguide.com/scents/xerjoff-louis-xv-1722-rose-extrait/,9.99,1,Scent Split,6.5,325,50,Luckyscent,2026-11-15
+creed-love-in-black-edp,Love in Black Eau de Parfum,Creed,https://www.blindbuyguide.com/scents/creed-love-in-black-edp/,5.99,1,Fragrances Line,2.63,197,75,MicroPerfumes,2026-11-19
 love-dont-be-shy-edp,"Love, Don't Be Shy Eau de Parfum",By Kilian,https://www.blindbuyguide.com/scents/love-dont-be-shy-edp/,7.97,0.75,MicroPerfumes,,,,,2026-11-18
 lumiere-noire-pour-homme-edt,Lumière Noire Pour Homme Eau de Toilette,Maison Francis Kurkdjian,https://www.blindbuyguide.com/scents/lumiere-noire-pour-homme-edt/,,,,,,,,2026-11-14
 prada-luna-rossa-black-edp,Luna Rossa Black Eau de Parfum,Prada,https://www.blindbuyguide.com/scents/prada-luna-rossa-black-edp/,2.97,0.75,MicroPerfumes,1.54,77,50,MicroPerfumes,2026-11-19
@@ -233,6 +258,7 @@ mfk-masculin-pluriel-edt,Masculin Pluriel,Maison Francis Kurkdjian,https://www.b
 nishane-meant-to-be-seen-extrait,Meant To Be Seen,Nishane,https://www.blindbuyguide.com/scents/nishane-meant-to-be-seen-extrait/,,,,5.6,280,50,Luckyscent,2026-11-14
 meliora-edp,Meliora Eau de Parfum,Parfums de Marly,https://www.blindbuyguide.com/scents/meliora-edp/,7.99,0.75,MicroPerfumes,,,,,2026-11-18
 amouage-memoir-man-edp,Memoir Man,Amouage,https://www.blindbuyguide.com/scents/amouage-memoir-man-edp/,,,,3.95,395,100,Luckyscent,2026-11-15
+tom-ford-metallique-edp,Metallique Eau de Parfum,Tom Ford,https://www.blindbuyguide.com/scents/tom-ford-metallique-edp/,5.99,1,Fragrances Line,,,,,2026-11-19
 midnight-special-by-ex-nihilo,Midnight Special,Ex Nihilo,https://www.blindbuyguide.com/scents/midnight-special-by-ex-nihilo/,,,,7.1,355,50,Luckyscent,2026-11-15
 millesime-imperial-edp,Millésime Imperial Eau de Parfum,Creed,https://www.blindbuyguide.com/scents/millesime-imperial-edp/,6.99,1,Fragrances Line,,,,,2026-11-18
 dior-miss-dior-blooming-bouquet-edt,Miss Dior Blooming Bouquet Eau de Toilette,Dior,https://www.blindbuyguide.com/scents/dior-miss-dior-blooming-bouquet-edt/,2.99,0.75,MicroPerfumes,2.22,111,50,MicroPerfumes,2026-11-19
@@ -240,6 +266,7 @@ dior-miss-dior-edp,Miss Dior Eau de Parfum,Dior,https://www.blindbuyguide.com/sc
 dior-miss-dior-edt,Miss Dior Eau de Toilette,Dior,https://www.blindbuyguide.com/scents/dior-miss-dior-edt/,3.97,0.75,MicroPerfumes,2.24,112,50,MicroPerfumes,2026-11-19
 byredo-mojave-ghost-absolu-extrait,Mojave Ghost Absolu,Byredo,https://www.blindbuyguide.com/scents/byredo-mojave-ghost-absolu-extrait/,8.99,1,Fragrances Line,,,,,2026-11-15
 mojave-ghost-edp,Mojave Ghost Eau de Parfum,Byredo,https://www.blindbuyguide.com/scents/mojave-ghost-edp/,6.99,1,Fragrances Line,,,,,2026-11-18
+escentric-molecules-molecule-01-edt,Molecule 01 Eau de Toilette,Escentric Molecules,https://www.blindbuyguide.com/scents/escentric-molecules-molecule-01-edt/,3.97,0.75,MicroPerfumes,1.45,145,100,MicroPerfumes,2026-11-19
 guerlain-mon-guerlain-edp,Mon Guerlain Eau de Parfum,Guerlain,https://www.blindbuyguide.com/scents/guerlain-mon-guerlain-edp/,2.99,0.75,MicroPerfumes,1.53,46,30,MicroPerfumes,2026-11-19
 frederic-malle-musc-ravageur-edp,Musc Ravageur Eau de Parfum,Frederic Malle,https://www.blindbuyguide.com/scents/frederic-malle-musc-ravageur-edp/,6.99,1,Fragrances Line,,,,,2026-11-18
 muscs-koublai-khan-edp,Muscs Koublai Khan Eau de Parfum,Serge Lutens,https://www.blindbuyguide.com/scents/muscs-koublai-khan-edp/,,,,,,,,2026-11-14
@@ -249,12 +276,14 @@ yves-saint-laurent-myslf-edp,MYSLF Eau de Parfum,Yves Saint Laurent,https://www.
 initio-narcotic-delight-edp,Narcotic Delight,Initio Parfums Privés,https://www.blindbuyguide.com/scents/initio-narcotic-delight-edp/,5.97,0.75,MicroPerfumes,4.67,420,90,Luckyscent,2026-11-18
 nawab-of-oudh-intensivo-by-ormonde-jayne,Nawab of Oudh Intensivo,Ormonde Jayne,https://www.blindbuyguide.com/scents/nawab-of-oudh-intensivo-by-ormonde-jayne/,,,,4.15,365,88,Luckyscent,2026-11-15
 neroli-36-edp,Neroli 36 Eau de Parfum,Le Labo,https://www.blindbuyguide.com/scents/neroli-36-edp/,7.99,1,Scent Split,,,,,2026-11-16
+creed-neroli-sauvage-edp,Neroli Sauvage Eau de Parfum,Creed,https://www.blindbuyguide.com/scents/creed-neroli-sauvage-edp/,5.99,1,Fragrances Line,2.43,243,100,MicroPerfumes,2026-11-19
 tom-ford-noir-edp,Noir Eau de Parfum,Tom Ford,https://www.blindbuyguide.com/scents/tom-ford-noir-edp/,4.97,0.75,MicroPerfumes,1.58,158,100,MicroPerfumes,2026-11-19
 tom-ford-noir-extreme-edp,Noir Extreme Eau de Parfum,Tom Ford,https://www.blindbuyguide.com/scents/tom-ford-noir-extreme-edp/,3.99,0.75,MicroPerfumes,1.55,155,100,MicroPerfumes,2026-11-19
 noir-extreme-parfum,Noir Extreme Parfum,Tom Ford,https://www.blindbuyguide.com/scents/noir-extreme-parfum/,5.97,0.75,MicroPerfumes,,,,,2026-11-18
 frederic-malle-noir-epices-edp,Noir Épices Eau de Parfum,Frederic Malle,https://www.blindbuyguide.com/scents/frederic-malle-noir-epices-edp/,6.99,1,Fragrances Line,,,,,2026-11-16
 juliette-has-a-gun-not-a-perfume-edp,Not a Perfume Eau de Parfum,Juliette Has a Gun,https://www.blindbuyguide.com/scents/juliette-has-a-gun-not-a-perfume-edp/,3.97,0.75,MicroPerfumes,1.2,60,50,MicroPerfumes,2026-11-19
 oajan-edp,Oajan Eau de Parfum,Parfums de Marly,https://www.blindbuyguide.com/scents/oajan-edp/,4.99,1,Scent Split,3.22,400,124.2,Bluemercury,2026-11-18
+calvin-klein-obsession-edt,Obsession Eau de Toilette,Calvin Klein,https://www.blindbuyguide.com/scents/calvin-klein-obsession-edt/,2.97,0.75,MicroPerfumes,0.28,21,75,MicroPerfumes,2026-11-19
 opera-edp,Opera Eau de Parfum,Xerjoff,https://www.blindbuyguide.com/scents/opera-edp/,6.99,1,Fragrances Line,,,,,2026-11-16
 oriana-edp,Oriana Eau de Parfum,Parfums de Marly,https://www.blindbuyguide.com/scents/oriana-edp/,7.97,0.75,MicroPerfumes,,,,,2026-11-18
 creed-original-vetiver-edp,Original Vetiver Eau de Parfum,Creed,https://www.blindbuyguide.com/scents/creed-original-vetiver-edp/,5.97,0.75,MicroPerfumes,3.78,378,100,Niche Beauty,2026-11-18
@@ -275,6 +304,7 @@ oud-silk-mood-extrait,Oud Silk Mood Extrait de Parfum,Maison Francis Kurkdjian,h
 mfk-oud-velvet-mood-extrait,Oud Velvet Mood Extrait,Maison Francis Kurkdjian,https://www.blindbuyguide.com/scents/mfk-oud-velvet-mood-extrait/,12.99,1,Fragrances Line,6.79,475,70,Luckyscent,2026-11-15
 tom-ford-oud-wood,Oud Wood,Tom Ford (Private Blend),https://www.blindbuyguide.com/scents/tom-ford-oud-wood/,6.97,0.75,MicroPerfumes,6,300,50,Bergdorf Goodman,2026-11-18
 creed-oud-zarian-extrait,Oud Zarian,Creed,https://www.blindbuyguide.com/scents/creed-oud-zarian-extrait/,,,,9.4,470,50,Luckyscent,2026-11-14
+creed-oud-zarian-edp,Oud Zarian Eau de Parfum,Creed,https://www.blindbuyguide.com/scents/creed-oud-zarian-edp/,9.99,0.75,MicroPerfumes,4.53,453,100,MicroPerfumes,2026-11-19
 amouage-outlands-extrait,Outlands,Amouage,https://www.blindbuyguide.com/scents/amouage-outlands-extrait/,,,,4.75,475,100,Luckyscent,2026-11-15
 amouage-overture-41-extrait,Overture 41,Amouage,https://www.blindbuyguide.com/scents/amouage-overture-41-extrait/,,,,5.5,550,100,Luckyscent,2026-11-15
 oyedo-edt,Oyédo Eau de Toilette,Diptyque,https://www.blindbuyguide.com/scents/oyedo-edt/,5.99,1,Fragrances Line,,,,,2026-11-16
@@ -290,6 +320,7 @@ halfeti-edp,Penhaligon's Halfeti Eau de Parfum,Penhaligon's,https://www.blindbuy
 juniper-sling-edt,Penhaligon's Juniper Sling Eau de Toilette,Penhaligon's,https://www.blindbuyguide.com/scents/juniper-sling-edt/,5.99,1,Fragrances Line,,,,,2026-11-16
 sartorial-edt,Penhaligon's Sartorial Eau de Toilette,Penhaligon's,https://www.blindbuyguide.com/scents/sartorial-edt/,5.99,1,Fragrances Line,2.1,210,100,"Penhaligon's (brand site, US)",2026-11-16
 percival,Percival,Parfums de Marly,https://www.blindbuyguide.com/scents/percival/,4.97,0.75,MicroPerfumes,,,,,2026-11-18
+parfums-de-marly-perseus-edp,Perseus Eau de Parfum,Parfums de Marly,https://www.blindbuyguide.com/scents/parfums-de-marly-perseus-edp/,4.97,0.75,MicroPerfumes,4.6,345,75,MicroPerfumes,2026-11-19
 xerjoff-perseveranza-extrait,Perseveranza,Xerjoff,https://www.blindbuyguide.com/scents/xerjoff-perseveranza-extrait/,,,,4.95,495,100,Luckyscent,2026-11-15
 mfk-petit-matin-edp,Petit Matin,Maison Francis Kurkdjian,https://www.blindbuyguide.com/scents/mfk-petit-matin-edp/,6.99,1,Fragrances Line,3.93,275,70,Luckyscent,2026-11-18
 philosykos-edt,Philosykos Eau de Toilette,Diptyque,https://www.blindbuyguide.com/scents/philosykos-edt/,4.99,0.75,MicroPerfumes,,,,,2026-11-18
@@ -319,6 +350,7 @@ replica-whispers-in-the-library-edt,Replica Whispers in the Library Eau de Toile
 roja-elysium-edp,Roja Elysium Eau de Parfum,Roja Parfums,https://www.blindbuyguide.com/scents/roja-elysium-edp/,8.99,1,Fragrances Line,3.8,380,100,Neiman Marcus,2026-11-16
 rolling-in-love-edp,Rolling in Love Eau de Parfum,Kilian,https://www.blindbuyguide.com/scents/rolling-in-love-edp/,7.99,1,Fragrances Line,,,,,2026-11-16
 rose-31-edp,Rose 31 Eau de Parfum,Le Labo,https://www.blindbuyguide.com/scents/rose-31-edp/,7.99,1,Fragrances Line,,,,,2026-11-16
+tom-ford-rose-exposed-edp,Rose Exposed Eau de Parfum,Tom Ford,https://www.blindbuyguide.com/scents/tom-ford-rose-exposed-edp/,9.99,0.75,MicroPerfumes,4.6,230,50,MicroPerfumes,2026-11-19
 byredo-rose-of-no-mans-land-absolu-extrait,Rose Of No Man's Land Absolu,Byredo,https://www.blindbuyguide.com/scents/byredo-rose-of-no-mans-land-absolu-extrait/,11.97,0.75,MicroPerfumes,5.6,280,50,Luckyscent,2026-11-18
 byredo-rose-of-no-mans-land-edp,Rose of No Man's Land Eau de Parfum,Byredo,https://www.blindbuyguide.com/scents/byredo-rose-of-no-mans-land-edp/,,,,3.3,330,100,Bluemercury,2026-11-14
 rose-omeyyade-by-atelier-des-ors,Rose Omeyyade,Atelier des Ors,https://www.blindbuyguide.com/scents/rose-omeyyade-by-atelier-des-ors/,,,,3.3,330,100,Luckyscent,2026-11-15
@@ -387,6 +419,7 @@ tom-ford-tuscan-leather-edp,Tom Ford Tuscan Leather Eau de Parfum,Tom Ford,https
 tom-ford-vanille-fatale-edp,Tom Ford Vanille Fatale Eau de Parfum,Tom Ford,https://www.blindbuyguide.com/scents/tom-ford-vanille-fatale-edp/,8.97,0.75,MicroPerfumes,5.6,265,47.3,Bluemercury,2026-11-18
 tom-ford-venetian-bergamot-edp,Tom Ford Venetian Bergamot Eau de Parfum,Tom Ford (Private Blend),https://www.blindbuyguide.com/scents/tom-ford-venetian-bergamot-edp/,9.99,1,Fragrances Line,,,,,2026-11-16
 le-labo-tonka-25-edp,Tonka 25,Le Labo,https://www.blindbuyguide.com/scents/le-labo-tonka-25-edp/,,,,5,250,50,Luckyscent,2026-11-15
+xerjoff-tony-iommi-monkey-special-edp,Tony Iommi Monkey Special Eau de Parfum,Xerjoff,https://www.blindbuyguide.com/scents/xerjoff-tony-iommi-monkey-special-edp/,9.99,1,Fragrances Line,5.5,275,50,Fragrances Line,2026-11-19
 torino-21,Torino 21,Xerjoff,https://www.blindbuyguide.com/scents/torino-21/,5.97,0.75,MicroPerfumes,,,,,2026-11-18
 burberry-touch-edt,Touch Eau de Toilette,Burberry,https://www.blindbuyguide.com/scents/burberry-touch-edt/,2.99,0.75,MicroPerfumes,0.56,28,50,MicroPerfumes,2026-11-19
 tubereuse-40,Tubereuse 40,Le Labo,https://www.blindbuyguide.com/scents/tubereuse-40/,14.99,1,Fragrances Line,,,,,2026-11-16
@@ -400,13 +433,17 @@ valentino-uomo-born-in-roma-green-stravaganza-edt,Uomo Born in Roma Green Strava
 valentino-uomo-born-in-roma-intense-edp,Uomo Born in Roma Intense Eau de Parfum,Valentino,https://www.blindbuyguide.com/scents/valentino-uomo-born-in-roma-intense-edp/,4.97,0.75,MicroPerfumes,2.04,102,50,MicroPerfumes,2026-11-19
 valentino-uomo-edt,Uomo Eau de Toilette,Valentino,https://www.blindbuyguide.com/scents/valentino-uomo-edt/,2.99,0.75,MicroPerfumes,0.7,70,100,MicroPerfumes,2026-11-19
 valaya-edp,Valaya Eau de Parfum,Parfums de Marly,https://www.blindbuyguide.com/scents/valaya-edp/,7.97,0.75,MicroPerfumes,5.47,410,75,Neiman Marcus,2026-11-18
+tom-ford-vanilla-sex-edp,Vanilla Sex Eau de Parfum,Tom Ford,https://www.blindbuyguide.com/scents/tom-ford-vanilla-sex-edp/,13.97,0.75,MicroPerfumes,7.3,219,30,MicroPerfumes,2026-11-19
 byredo-vanille-antique-extrait,Vanille Antique,BYREDO,https://www.blindbuyguide.com/scents/byredo-vanille-antique-extrait/,12.99,1,Fragrances Line,6.64,465,70,Luckyscent,2026-11-15
 tom-ford-velvet-orchid-edp,Velvet Orchid Eau de Parfum,Tom Ford,https://www.blindbuyguide.com/scents/tom-ford-velvet-orchid-edp/,3.99,0.75,MicroPerfumes,2.26,113,50,MicroPerfumes,2026-11-19
 carolina-herrera-very-good-girl-edp,Very Good Girl Eau de Parfum,Carolina Herrera,https://www.blindbuyguide.com/scents/carolina-herrera-very-good-girl-edp/,2.99,0.75,MicroPerfumes,1.9,95,50,MicroPerfumes,2026-11-19
 vesper-glitz-by-ex-nihilo,Vesper Glitz,Ex Nihilo,https://www.blindbuyguide.com/scents/vesper-glitz-by-ex-nihilo/,,,,5.3,265,50,Luckyscent,2026-11-15
 le-labo-vetiver-46-edp,Vetiver 46 Eau de Parfum,Le Labo,https://www.blindbuyguide.com/scents/le-labo-vetiver-46-edp/,7.99,1,Fragrances Line,,,,,2026-11-16
+creed-viking-cologne-edp,Viking Cologne Eau de Parfum,Creed,https://www.blindbuyguide.com/scents/creed-viking-cologne-edp/,5.99,0.75,MicroPerfumes,4.2,210,50,MicroPerfumes,2026-11-19
 le-labo-violette-30-edp,Violette 30,Le Labo,https://www.blindbuyguide.com/scents/le-labo-violette-30-edp/,,,,5,250,50,Luckyscent,2026-11-15
+azzaro-wanted-edt,Wanted Eau de Toilette,Azzaro,https://www.blindbuyguide.com/scents/azzaro-wanted-edt/,2.97,0.75,MicroPerfumes,0.47,47,100,MicroPerfumes,2026-11-19
 xerjoff-white-on-white-edp,White on White,Xerjoff,https://www.blindbuyguide.com/scents/xerjoff-white-on-white-edp/,,,,5,250,50,Luckyscent,2026-11-15
+jo-malone-wild-bluebell-edc,Wild Bluebell Eau de Cologne,Jo Malone,https://www.blindbuyguide.com/scents/jo-malone-wild-bluebell-edc/,4.99,1,Fragrances Line,,,,,2026-11-19
 initio-wild-rush-edp,Wild Rush,Initio Parfums Privés,https://www.blindbuyguide.com/scents/initio-wild-rush-edp/,6.99,1,Scent Split,4.67,420,90,Luckyscent,2026-11-15
 creed-wild-vetiver-edp,Wild Vetiver,Creed,https://www.blindbuyguide.com/scents/creed-wild-vetiver-edp/,8.99,0.75,MicroPerfumes,5.1,510,100,Luckyscent,2026-11-18
 creed-wind-flowers-edp,Wind Flowers Eau de Parfum,Creed,https://www.blindbuyguide.com/scents/creed-wind-flowers-edp/,7.99,0.75,MicroPerfumes,4.05,304,75,Liberty London,2026-11-18
