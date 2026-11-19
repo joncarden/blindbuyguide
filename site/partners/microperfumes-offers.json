@@ -5504,6 +5504,477 @@
      "url": "https://www.microperfumes.com/products/acqua-di-gio-travel-spray-1"
     }
    ]
+  },
+  "versace-dylan-blue-pour-femme-edp": {
+   "title": "Dylan Blue Pour Femme EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/dylan-blue-pour-femme-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/dylan-blue-pour-femme-travel-spray"
+    }
+   ]
+  },
+  "versace-dylan-purple-edp": {
+   "title": "Dylan Purple EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/dylan-purple-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/dylan-purple-travel-spray"
+    }
+   ]
+  },
+  "versace-eros-energy-edp": {
+   "title": "Eros Energy EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.97,
+     "url": "https://www.microperfumes.com/products/eros-energy-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 14.97,
+     "url": "https://www.microperfumes.com/products/eros-energy-travel-spray"
+    }
+   ]
+  },
+  "versace-versense-edt": {
+   "title": "Versense EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/versense-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/versense-travel-spray"
+    }
+   ]
+  },
+  "marc-jacobs-daisy-eau-so-fresh-edt": {
+   "title": "Daisy Eau So Fresh EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/daisy-eau-so-fresh-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/daisy-eau-so-fresh-travel-spray"
+    }
+   ]
+  },
+  "burberry-weekend-edt": {
+   "title": "Burberry Weekend EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 1.79,
+     "url": "https://www.microperfumes.com/products/burberry-weekend-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 9.09,
+     "url": "https://www.microperfumes.com/products/burberry-weekend-travel-spray"
+    }
+   ]
+  },
+  "dior-vanilla-diorama-edp": {
+   "title": "Vanilla Diorama EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 7.99,
+     "url": "https://www.microperfumes.com/products/vanilla-diorama-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 32.99,
+     "url": "https://www.microperfumes.com/products/vanilla-diorama-travel-spray"
+    }
+   ]
+  },
+  "giorgio-armani-my-way-ylang-edp": {
+   "title": "My Way Ylang EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/my-way-ylang-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/my-way-ylang-edp-travel-spray"
+    }
+   ]
+  },
+  "jean-paul-gaultier-gaultier-divine-edp": {
+   "title": "Gaultier Divine EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.24,
+     "url": "https://www.microperfumes.com/products/gaultier-divine-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/gaultier-divine-travel-spray"
+    }
+   ]
+  },
+  "lancome-tresor-edp": {
+   "title": "Tresor EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.39,
+     "url": "https://www.microperfumes.com/products/tresor-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/tresor-travel-spray"
+    }
+   ]
+  },
+  "louis-vuitton-ambre-levant-edp": {
+   "title": "Ambre Levant EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 11.99,
+     "url": "https://www.microperfumes.com/products/ambre-levant-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 59.99,
+     "url": "https://www.microperfumes.com/products/ambre-levant-travel-spray"
+    }
+   ]
+  },
+  "louis-vuitton-elves-edp": {
+   "title": "eLVes EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 9.99,
+     "url": "https://www.microperfumes.com/products/elves-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 49.99,
+     "url": "https://www.microperfumes.com/products/elves-travel-spray"
+    }
+   ]
+  },
+  "louis-vuitton-tea-storm-edp": {
+   "title": "Tea Storm EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 9.99,
+     "url": "https://www.microperfumes.com/products/tea-storm-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 49.99,
+     "url": "https://www.microperfumes.com/products/tea-storm-edp-travel-spray"
+    }
+   ]
+  },
+  "narciso-rodriguez-musc-noir-edp": {
+   "title": "Musc Noir  EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.09,
+     "url": "https://www.microperfumes.com/products/musc-noir-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 10.39,
+     "url": "https://www.microperfumes.com/products/musc-noir-travel-spray"
+    }
+   ]
+  },
+  "narciso-rodriguez-pure-musc-edp": {
+   "title": "Pure Musc EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.49,
+     "url": "https://www.microperfumes.com/products/pure-musc-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 13.99,
+     "url": "https://www.microperfumes.com/products/pure-musc-travel-spray"
+    }
+   ]
+  },
+  "prada-paradigme-edp": {
+   "title": "Paradigme EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.97,
+     "url": "https://www.microperfumes.com/products/paradigme-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 7.97,
+     "url": "https://www.microperfumes.com/products/paradigme-edp-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 19.97,
+     "url": "https://www.microperfumes.com/products/paradigme-travel-spray"
+    }
+   ]
+  },
+  "prada-paradoxe-intense-edp": {
+   "title": "Paradoxe Intense EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.97,
+     "url": "https://www.microperfumes.com/products/paradoxe-intense-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 24.97,
+     "url": "https://www.microperfumes.com/products/paradoxe-intense-travel-spray"
+    }
+   ]
+  },
+  "valentino-donna-born-in-roma-purple-melancholia-edp": {
+   "title": "Donna Born in Roma Purple Melancholia EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 5.59,
+     "url": "https://www.microperfumes.com/products/donna-born-in-roma-purple-melancholia-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 30.99,
+     "url": "https://www.microperfumes.com/products/donna-born-in-roma-purple-melancholia-travel-spray"
+    }
+   ]
+  },
+  "valentino-uomo-born-in-roma-purple-melancholia-edt": {
+   "title": "Uomo Born in Roma Purple Melancholia EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.99,
+     "url": "https://www.microperfumes.com/products/uomo-born-in-roma-purple-melancholia-edt-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 18.99,
+     "url": "https://www.microperfumes.com/products/uomo-born-in-roma-purple-melancholia-edt-travel-spray"
+    }
+   ]
+  },
+  "viktor-and-rolf-spicebomb-infrared-edt": {
+   "title": "Spicebomb Infrared EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/spicebomb-infrared-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/spicebomb-infrared-travel-spray"
+    }
+   ]
+  },
+  "yves-saint-laurent-babycat-edp": {
+   "title": "Babycat EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 7.99,
+     "url": "https://www.microperfumes.com/products/babycat-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 35.99,
+     "url": "https://www.microperfumes.com/products/babycat-travel-spray"
+    }
+   ]
+  },
+  "yves-saint-laurent-lavalliere-edp": {
+   "title": "Lavallière EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 7.19,
+     "url": "https://www.microperfumes.com/products/lavalliere-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 37.99,
+     "url": "https://www.microperfumes.com/products/lavalliere-travel-spray"
+    }
+   ]
+  },
+  "yves-saint-laurent-saharienne-edp": {
+   "title": "Saharienne EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 6.63,
+     "url": "https://www.microperfumes.com/products/saharienne-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 37.99,
+     "url": "https://www.microperfumes.com/products/saharienne-travel-spray"
+    }
+   ]
+  },
+  "giorgio-armani-armani-code-parfum": {
+   "title": "Armani Code Parfum",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/armani-code-parfum-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/armani-code-parfum-travel-spray"
+    }
+   ]
+  },
+  "versace-bright-crystal-absolu-edp": {
+   "title": "Bright Crystal Absolu EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.47,
+     "url": "https://www.microperfumes.com/products/bright-crystal-absolu-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 13.97,
+     "url": "https://www.microperfumes.com/products/bright-crystal-absolu-travel-spray"
+    }
+   ]
+  },
+  "yves-saint-laurent-libre-le-parfum": {
+   "title": "Libre Le Parfum",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.99,
+     "url": "https://www.microperfumes.com/products/libre-le-parfum-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 15.99,
+     "url": "https://www.microperfumes.com/products/libre-le-parfum-travel-spray"
+    }
+   ]
+  },
+  "yves-saint-laurent-myslf-le-parfum": {
+   "title": "MYSLF Le Parfum",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.97,
+     "url": "https://www.microperfumes.com/products/myslf-le-parfum-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 6.97,
+     "url": "https://www.microperfumes.com/products/myslf-le-parfum-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 15.97,
+     "url": "https://www.microperfumes.com/products/myslf-le-parfum-travel-spray"
+    }
+   ]
   }
  }
 }
