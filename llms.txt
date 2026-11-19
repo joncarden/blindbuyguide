@@ -5,7 +5,7 @@
 ## Key facts and data
 - [Price Book (free, monthly)](https://www.blindbuyguide.com/price-book/): lowest sample price and best in-stock bottle price per ml for 299 fragrances, last refreshed 2026-11-18.
 - [Methodology](https://www.blindbuyguide.com/methodology/): how prices are collected, dated and calculated, and how to cite them.
-- Dataset size: 1,578 dated prices from 43 retailers and brand sites across 299 fragrances and 21 houses, checked 2026-11-14 to 2026-11-18. Summary: https://www.blindbuyguide.com/data/stats.json
+- Dataset size: 1,569 dated prices from 43 retailers and brand sites across 299 fragrances and 21 houses, checked 2026-11-14 to 2026-11-18. Summary: https://www.blindbuyguide.com/data/stats.json
 - [Price index as CSV](https://www.blindbuyguide.com/data/price-index.csv) and [as JSON](https://www.blindbuyguide.com/data/price-index.json): the same figures, machine readable.
 - [Editorial policy](https://www.blindbuyguide.com/editorial-policy/), [How we use AI](https://www.blindbuyguide.com/how-we-use-ai/), [Affiliate disclosure](https://www.blindbuyguide.com/affiliate-disclosure/)
 
@@ -15,7 +15,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-18 edition" with the
 ## Guides
 - [Are perfume decants legit?](https://www.blindbuyguide.com/guides/are-perfume-decants-legit/): Decants from established sellers are a normal, popular way to try expensive fragrance. Here's how they work and how to pick a seller you can trust.
 - [Blind Buy Guide Price Index, November 2026](https://www.blindbuyguide.com/guides/blind-buy-guide-price-index-november-2026/): Median niche fragrance bottle price per ml, the most expensive bottles, and prices by house, from 141 in-stock listings. Checked Nov 15, 2026.
-- [Holiday fragrance gift sets: which are worth it (2026)](https://www.blindbuyguide.com/guides/holiday-fragrance-gift-sets-worth-it/): Which holiday fragrance gift sets are worth it in 2026? Creed, Tom Ford and MFK sets compared on price per ml, contents and who should get them. Prices as of Nov 18, 2026.
+- [Holiday fragrance gift sets: which are worth it (2026)](https://www.blindbuyguide.com/guides/holiday-fragrance-gift-sets-worth-it/): Which holiday fragrance gift sets are worth it in 2026? Creed, Tom Ford and MFK sets compared on price per ml, contents and who should get them. Prices as of Nov 19, 2026.
 - [How to find your Byredo before you commit](https://www.blindbuyguide.com/guides/how-to-find-your-byredo/): Byredo bottles are listed at $210 to $330. Find yours with 1 ml samples first. Every Byredo sample and bottle listing we found, in one table.
 - [How to find your Creed before you commit](https://www.blindbuyguide.com/guides/how-to-find-your-creed/): Creed bottles are listed at $345 to $495. Find your Creed with 1 ml samples first. Every Creed sample and bottle listing we found, in one table.
 - [How to find your By Kilian before you commit](https://www.blindbuyguide.com/guides/how-to-find-your-kilian/): By Kilian bottles are listed at $275 to $415. Find yours with 1 ml samples first. Every By Kilian sample and bottle listing we found, in one table.
@@ -78,7 +78,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-18 edition" with the
 - [Is Fleurissimo Eau de Parfum worth it?](https://www.blindbuyguide.com/guides/is-creed-fleurissimo-edp-worth-it/): Is Creed Fleurissimo Eau de Parfum worth it? Notes as listed, 73.9 ml at $460 and samples from $4.99. Prices as of Nov 14, 2026.
 - [Is Green Irish Tweed worth it?](https://www.blindbuyguide.com/guides/is-creed-green-irish-tweed-edp-worth-it/): Is Creed Green Irish Tweed worth it? Notes, 100 ml at $378 in stock at Niche Beauty and samples from $4.99. Prices as of Nov 14, 2026.
 - [Is Himalaya worth it?](https://www.blindbuyguide.com/guides/is-creed-himalaya-worth-it/): Is Creed Himalaya worth it? Notes as listed, bottle prices and samples from $5.99. Prices as of Nov 14, 2026.
-- [Is the Creed Men's 5-Piece Discovery Set worth it?](https://www.blindbuyguide.com/guides/is-creed-mens-5-piece-discovery-set-worth-it/): Is the Creed Men's 5-Piece Discovery Set worth it? 5 bottles, 49 ml, $380 at Bluemercury ($7.76/ml), compared with full bottles. Checked Nov 18, 2026.
+- [Is the Creed Men's 5-Piece Discovery Set worth it?](https://www.blindbuyguide.com/guides/is-creed-mens-5-piece-discovery-set-worth-it/): Is the Creed Men's 5-Piece Discovery Set worth it? 5 bottles, 49 ml, $380 at Bluemercury ($7.76/ml), compared with full bottles. Checked Nov 19, 2026.
 - [Is Original Vetiver Eau de Parfum worth it?](https://www.blindbuyguide.com/guides/is-creed-original-vetiver-edp-worth-it/): Is Creed Original Vetiver Eau de Parfum worth it? Notes as listed, 100 ml at $378 and samples from $5.99. Prices as of Nov 14, 2026.
 - [Is Royal Oud Eau de Parfum worth it?](https://www.blindbuyguide.com/guides/is-creed-royal-oud-edp-worth-it/): Is Creed Royal Oud Eau de Parfum worth it? Notes as listed, 50 ml at $415 and samples from $8.99. Prices as of Nov 14, 2026.
 - [Is Royal Water Eau de Parfum worth it?](https://www.blindbuyguide.com/guides/is-creed-royal-water-edp-worth-it/): Is Creed Royal Water Eau de Parfum worth it? Notes as listed, 100 ml at $360 and samples from $4.99. Prices as of Nov 14, 2026.
@@ -127,7 +127,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-18 edition" with the
 - [Is Replica Bubble Bath Eau de Toilette worth it?](https://www.blindbuyguide.com/guides/is-maison-margiela-replica-bubble-bath-edt-worth-it/): Is Maison Margiela Replica Bubble Bath Eau de Toilette worth it? Notes as listed, 100 ml at $170 and samples from $4.99. Prices as of Nov 14, 2026.
 - [Is Replica Lazy Sunday Morning Eau de Toilette worth it?](https://www.blindbuyguide.com/guides/is-maison-margiela-replica-lazy-sunday-morning-edt-worth-it/): Is Maison Margiela Replica Lazy Sunday Morning Eau de Toilette worth it? Notes as listed, bottle prices and samples from $4.99. Prices as of Nov 14, 2026.
 - [Is Meliora Eau de Parfum worth it?](https://www.blindbuyguide.com/guides/is-meliora-edp-worth-it/): Is Parfums de Marly Meliora Eau de Parfum worth it? Notes as listed, 75 ml at $410 and samples from $8.99. Prices as of Nov 14, 2026.
-- [Is the MFK 5-Piece Holiday Miniature Set worth it?](https://www.blindbuyguide.com/guides/is-mfk-5-piece-holiday-miniature-set-worth-it/): Is the MFK 5-Piece Holiday Miniature Set worth it? 5 bottles, 50 ml, $325 at Dillard's ($6.50/ml), compared with full bottles. Checked Nov 18, 2026.
+- [Is the MFK 5-Piece Holiday Miniature Set worth it?](https://www.blindbuyguide.com/guides/is-mfk-5-piece-holiday-miniature-set-worth-it/): Is the MFK 5-Piece Holiday Miniature Set worth it? 5 bottles, 50 ml, $325 at Dillard's ($6.50/ml), compared with full bottles. Checked Nov 19, 2026.
 - [Is 724 worth it?](https://www.blindbuyguide.com/guides/is-mfk-724-edp-worth-it/): Is Maison Francis Kurkdjian 724 worth it? Notes as listed, 70 ml at $275 and samples from $7.99. Prices as of Nov 15, 2026.
 - [Is A La Rose worth it?](https://www.blindbuyguide.com/guides/is-mfk-a-la-rose-edp-worth-it/): Is Maison Francis Kurkdjian A La Rose worth it? Notes as listed, 70 ml at $275 and samples from $8.99. Prices as of Nov 15, 2026.
 - [Is Feminin Pluriel worth it?](https://www.blindbuyguide.com/guides/is-mfk-feminin-pluriel-edp-worth-it/): Is Maison Francis Kurkdjian Feminin Pluriel worth it? Notes as listed, 70 ml at $275 and samples from $7.99. Prices as of Nov 15, 2026.
@@ -181,7 +181,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-18 edition" with the
 - [Is Neroli Portofino Eau de Parfum worth it?](https://www.blindbuyguide.com/guides/is-tom-ford-neroli-portofino-edp-worth-it/): Is Tom Ford Neroli Portofino Eau de Parfum worth it? Notes as listed, 50 ml at $300 and samples from $6.99. Prices as of Nov 14, 2026.
 - [Is Noir de Noir Eau de Parfum worth it?](https://www.blindbuyguide.com/guides/is-tom-ford-noir-de-noir-edp-worth-it/): Is Tom Ford Noir de Noir Eau de Parfum worth it? Notes as listed, 50 ml at $300 and samples from $7.99. Prices as of Nov 14, 2026.
 - [Is Oud Wood worth it?](https://www.blindbuyguide.com/guides/is-tom-ford-oud-wood-worth-it/): Is Tom Ford Oud Wood worth it? Notes, a 100 ml bottle listed at $390 (sold out when we checked) and samples from $6.99. Prices as of Nov 14, 2026.
-- [Is the Tom Ford Private Blend Luxe Discovery Set worth it?](https://www.blindbuyguide.com/guides/is-tom-ford-private-blend-luxe-discovery-set-worth-it/): Is the Tom Ford Private Blend Luxe Discovery Set worth it? 4 bottles, 12 ml, $100 at Bluemercury ($8.33/ml), compared with full bottles. Checked Nov 18, 2026.
+- [Is the Tom Ford Private Blend Luxe Discovery Set worth it?](https://www.blindbuyguide.com/guides/is-tom-ford-private-blend-luxe-discovery-set-worth-it/): Is the Tom Ford Private Blend Luxe Discovery Set worth it? 4 bottles, 12 ml, $100 at Bluemercury ($8.33/ml), compared with full bottles. Checked Nov 19, 2026.
 - [Is Soleil Blanc Eau de Parfum worth it?](https://www.blindbuyguide.com/guides/is-tom-ford-soleil-blanc-edp-worth-it/): Is Tom Ford Soleil Blanc Eau de Parfum worth it? Notes as listed, 50 ml at $300 and samples from $6.99. Prices as of Nov 14, 2026.
 - [Is Tobacco Vanille worth it?](https://www.blindbuyguide.com/guides/is-tom-ford-tobacco-vanille-edp-worth-it/): Is Tom Ford Tobacco Vanille worth it? Notes, a 100 ml bottle listed at $400 (sold out when we checked) and samples from $6.99. Prices as of Nov 14, 2026.
 - [Is Tuscan Leather Eau de Parfum worth it?](https://www.blindbuyguide.com/guides/is-tom-ford-tuscan-leather-edp-worth-it/): Is Tom Ford Tuscan Leather Eau de Parfum worth it? Notes as listed, 50 ml at $300 and samples from $6.99. Prices as of Nov 14, 2026.
@@ -333,7 +333,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-18 edition" with the
 - [Herod Eau de Parfum](https://www.blindbuyguide.com/scents/herod-edp/): Parfums de Marly; lowest sample $4.97 for 0.75 ml (checked 2026-11-18)
 - [High Frequency Eau de Parfum](https://www.blindbuyguide.com/scents/high-frequency-edp/): Initio Parfums Privés; lowest sample $6.99 for 1 ml (checked 2026-11-16)
 - [Himalaya](https://www.blindbuyguide.com/scents/creed-himalaya/): Creed; lowest sample $5.99 for 1 ml (checked 2026-11-18)
-- [Honour Woman Eau de Parfum](https://www.blindbuyguide.com/scents/honour-woman-edp/): Amouage; lowest sample $6.99 for 1 ml, best in-stock bottle $4.50/ml (checked 2026-11-16)
+- [Honour Woman Eau de Parfum](https://www.blindbuyguide.com/scents/honour-woman-edp/): Amouage; lowest sample $6.99 for 1 ml (checked 2026-11-16)
 - [Hundred Silent Ways](https://www.blindbuyguide.com/scents/nishane-hundred-silent-ways-extrait/): Nishane; best in-stock bottle $5.20/ml (checked 2026-11-14)
 - [Inflorescence](https://www.blindbuyguide.com/scents/byredo-inflorescence-edp/): BYREDO; lowest sample $6.99 for 1 ml, best in-stock bottle $4.70/ml (checked 2026-11-15)
 - [Interlude 53](https://www.blindbuyguide.com/scents/amouage-interlude-53-extrait/): Amouage; lowest sample $8.99 for 1 ml, best in-stock bottle $5.50/ml (checked 2026-11-15)
@@ -454,7 +454,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-18 edition" with the
 - [Royal Oud Eau de Parfum](https://www.blindbuyguide.com/scents/creed-royal-oud-edp/): Creed; lowest sample $8.99 for 1 ml (checked 2026-11-18)
 - [Sa Majeste la Rose Eau de Parfum](https://www.blindbuyguide.com/scents/sa-majeste-la-rose-edp/): Serge Lutens; best in-stock bottle $5.27/ml (checked 2026-11-14)
 - [Sacred Wood Eau de Parfum](https://www.blindbuyguide.com/scents/sacred-wood-edp/): Kilian Paris; lowest sample $7.99 for 1 ml (checked 2026-11-16)
-- [Safran Colognise](https://www.blindbuyguide.com/scents/nishane-safran-colognise/): Nishane; best in-stock bottle $1.00/ml (checked 2026-11-14)
+- [Safran Colognise](https://www.blindbuyguide.com/scents/nishane-safran-colognise/): Nishane
 - [Santal 33 Eau de Parfum](https://www.blindbuyguide.com/scents/santal-33-edp/): Le Labo; lowest sample $5.97 for 0.75 ml (checked 2026-11-18)
 - [Santal Blanc Eau de Parfum](https://www.blindbuyguide.com/scents/santal-blanc-edp/): Serge Lutens
 - [Sedley Eau de Parfum](https://www.blindbuyguide.com/scents/sedley-edp/): Parfums de Marly; lowest sample $4.97 for 0.75 ml (checked 2026-11-18)
