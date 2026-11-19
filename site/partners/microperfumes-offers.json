@@ -6448,6 +6448,58 @@
      "url": "https://www.microperfumes.com/products/sauvage-elixir-parfum-travel-spray-xl"
     }
    ]
+  },
+  "azzaro-the-most-wanted-edp": {
+   "title": "The Most Wanted EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.97,
+     "url": "https://www.microperfumes.com/products/the-most-wanted-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 5.97,
+     "url": "https://www.microperfumes.com/products/the-most-wanted-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 14.97,
+     "url": "https://www.microperfumes.com/products/the-most-wanted-travel-spray"
+    },
+    {
+     "format": "Travel Spray XL",
+     "ml": 10.0,
+     "price": 24.99,
+     "url": "https://www.microperfumes.com/products/the-most-wanted-travel-spray-xl"
+    }
+   ]
+  },
+  "yves-saint-laurent-mon-paris-edp": {
+   "title": "Mon Paris YSL EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.99,
+     "url": "https://www.microperfumes.com/products/mon-paris-ysl-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 6.99,
+     "url": "https://www.microperfumes.com/products/mon-paris-ysl-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 17.99,
+     "url": "https://www.microperfumes.com/products/mon-paris-ysl-travel-spray"
+    }
+   ]
   }
  }
 }

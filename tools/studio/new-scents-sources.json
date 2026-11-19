@@ -17,6 +17,24 @@
   "cutout": "site/images/studio/cutouts-new/amouage-jubilation-xxv-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "argos-triumph-of-bacchus-edp": {
+  "name": "Triumph of Bacchus Eau de Parfum",
+  "house": "Argos",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Triumph-Of-Bacchus-Argos-perfume-sample-decants-fragrancesline_49b2d5bc-dbd6-4acd-9700-d852a34372f5.jpg?v=1642961631",
+  "source_page": "https://www.fragrancesline.com/products/triumph-of-bacchus-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/argos-triumph-of-bacchus-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "azzaro-azzaro-edt": {
+  "name": "Azzaro Eau de Toilette",
+  "house": "Azzaro",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Azzaro-Azzaro-Mens-Eau-de-Toilette-EDT-S-1.0-oz.-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1580828257",
+  "source_page": "https://perfumania.com/products/azzaro-azzaro-mens-eau-de-toilette-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/azzaro-azzaro-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "azzaro-chrome-edt": {
   "name": "Chrome Eau de Toilette",
   "house": "Azzaro",
@@ -24,6 +42,24 @@
   "source_page": "https://www.microperfumes.com/products/chrome-edt-retail-bottle",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/azzaro-chrome-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "azzaro-chrome-legend-edt": {
+  "name": "Chrome Legend Eau de Toilette",
+  "house": "Azzaro",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/files/azzaro_chrome_legend_B.jpg?v=1789756241",
+  "source_page": "https://perfumania.com/products/azzaro-chrome-legend-mens-eau-de-toilette-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/azzaro-chrome-legend-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "azzaro-the-most-wanted-edp": {
+  "name": "The Most Wanted Eau de Parfum",
+  "house": "Azzaro",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-7980-1000px_dc811889-339a-4e0f-956b-cf885f2ec06c.jpg?v=1771543914",
+  "source_page": "https://www.microperfumes.com/products/the-most-wanted-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/azzaro-the-most-wanted-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "azzaro-wanted-edt": {
@@ -51,6 +87,33 @@
   "source_page": "https://www.microperfumes.com/products/bleecker-street-retail-bottle-1",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/bond-no-9-bleecker-street-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "bond-no-9-greenwich-village-edp": {
+  "name": "Greenwich Village Eau de Parfum",
+  "house": "Bond No.9",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/greenwich-village-bond-no9-perfume-sample-decant-fragrancesline.jpg?v=1587089149",
+  "source_page": "https://www.fragrancesline.com/products/greenwich-village-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/bond-no-9-greenwich-village-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "bond-no-9-lafayette-street-edp": {
+  "name": "Lafayette Street Eau de Parfum",
+  "house": "Bond No.9",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/lafayette-street-bond-no-9-1ml-samples-decants-fragrancesline.jpg?v=1567586959",
+  "source_page": "https://www.fragrancesline.com/products/lafayette-street-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/bond-no-9-lafayette-street-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "bond-no-9-scent-of-peace-for-him-edp": {
+  "name": "Scent of Peace for Him Eau de Parfum",
+  "house": "Bond No.9",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/scentofpeaceforhim-decant-sample-fragrancesline.jpg?v=1553669057",
+  "source_page": "https://www.fragrancesline.com/products/scent-of-peace-for-him-perfume-samples-decants",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/bond-no-9-scent-of-peace-for-him-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "burberry-brit-edp": {
@@ -233,6 +296,24 @@
   "cutout": "site/images/studio/cutouts-new/byredo-eleventh-hour-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "calvin-klein-be-edt": {
+  "name": "Be Eau de Toilette",
+  "house": "Calvin Klein",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Calvin-Klein-Be-Mens-Eau-de-Toilette-Spray-6.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1579124084",
+  "source_page": "https://perfumania.com/products/calvin-klein-be-mens-eau-de-toilette-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/calvin-klein-be-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "calvin-klein-beauty-edp": {
+  "name": "Beauty Eau de Parfum",
+  "house": "Calvin Klein",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Calvin-Klein-Beauty-Womens-Eau-de-Parfume-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1766075051",
+  "source_page": "https://perfumania.com/products/calvin-klein-beauty-perfume-eau-de-parfum-for-women",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/calvin-klein-beauty-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "calvin-klein-ck-one-edt": {
   "name": "Ck One Eau de Toilette",
   "house": "Calvin Klein",
@@ -249,6 +330,15 @@
   "source_page": "https://www.microperfumes.com/products/escape-edp-retail-bottle-1",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/calvin-klein-escape-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "calvin-klein-eternity-air-edt": {
+  "name": "Eternity Air Eau de Toilette",
+  "house": "Calvin Klein",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/I0090981larger.jpg?v=1579128096",
+  "source_page": "https://perfumania.com/products/eternity-air-by-calvin-klein-for-men-eau-de-toilette-edt-s",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/calvin-klein-eternity-air-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "calvin-klein-eternity-edp": {
@@ -269,6 +359,15 @@
   "cutout": "site/images/studio/cutouts-new/calvin-klein-eternity-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "calvin-klein-eternity-flame-edp": {
+  "name": "Eternity Flame Eau de Parfum",
+  "house": "Calvin Klein",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Calvin-Klein-Flame-Women-Eau-de-Parfum-1.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-main.jpg?v=1579130407",
+  "source_page": "https://perfumania.com/products/eternity-flame-eau-de-parfum-spray-for-women-by-calvin-klein",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/calvin-klein-eternity-flame-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "calvin-klein-euphoria-edp": {
   "name": "Euphoria Eau de Parfum",
   "house": "Calvin Klein",
@@ -276,6 +375,24 @@
   "source_page": "https://www.microperfumes.com/products/euphoria-edp-retail-bottle-1",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/calvin-klein-euphoria-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "calvin-klein-free-edt": {
+  "name": "Free Eau de Toilette",
+  "house": "Calvin Klein",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Calvin-Klein-Free-Mens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1598976005",
+  "source_page": "https://perfumania.com/products/calvin-klein-free-mens-eau-de-toilette-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/calvin-klein-free-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "calvin-klein-in2u-edt": {
+  "name": "In2U Eau de Toilette",
+  "house": "Calvin Klein",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Calvin-Klein-In2U-Mens-Eau-de-Toilette-Spray-1.7-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1739287194",
+  "source_page": "https://perfumania.com/products/calvin-klein-in2u-mens-eau-de-toilette-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/calvin-klein-in2u-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "calvin-klein-obsession-edp": {
@@ -359,6 +476,15 @@
   "cutout": "site/images/studio/cutouts-new/carolina-herrera-good-girl-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "carolina-herrera-good-girl-supreme-edp": {
+  "name": "Good Girl Supreme Eau de Parfum",
+  "house": "Carolina Herrera",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/files/carolina_herrera_goodgirl_supreme.jpg?v=1759756098",
+  "source_page": "https://perfumania.com/products/good-girl-supreme-by-carolina-herrera-for-women-edp-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/carolina-herrera-good-girl-supreme-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "carolina-herrera-la-bomba-edp": {
   "name": "La Bomba Eau de Parfum",
   "house": "Carolina Herrera",
@@ -420,6 +546,15 @@
   "source_page": "https://www.microperfumes.com/products/coco-mademoiselle-retail-bottle-1",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/chanel-coco-mademoiselle-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "chloe-chloe-edp": {
+  "name": "Chloe Eau de Parfum",
+  "house": "Chloé",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Chloe-Chloe-Women-Eau-de-Parfum-4.2-Best-Price-Fragrance-Parfume-FragranceOutlet.com-MAIN.jpg?v=1739385023",
+  "source_page": "https://perfumania.com/products/chloe-chloe-women-eau-de-parfum-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/chloe-chloe-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "coach-poppy-edp": {
@@ -573,6 +708,15 @@
   "source_page": "https://www.fragrancesline.com/products/dioressence-fragrance-sample",
   "retailer": "Fragrances Line",
   "cutout": "site/images/studio/cutouts-new/dior-dioressence-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "dior-diorissimo-edt": {
+  "name": "Diorissimo Eau de Toilette",
+  "house": "Dior",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Dior-Diorissimo-Dior-Perfumes-cologne-sample-decants-fragrancesline.jpg?v=1696430635",
+  "source_page": "https://www.fragrancesline.com/products/diorissimo-fragrance-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/dior-diorissimo-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "dior-fahrenheit-edt": {
@@ -845,6 +989,15 @@
   "cutout": "site/images/studio/cutouts-new/dolce-and-gabbana-velvet-desire-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "donna-karan-be-delicious-edp": {
+  "name": "Be Delicious Eau de Parfum",
+  "house": "Donna Karan",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/DKNY-Be-Delicious-Womens-Eau-de-Parfume-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1747756128",
+  "source_page": "https://perfumania.com/products/donna-karan-be-delicious-womens-eau-de-parfum-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/donna-karan-be-delicious-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "donna-karan-cashmere-mist-edp": {
   "name": "Cashmere Mist Eau de Parfum",
   "house": "Donna Karan",
@@ -852,6 +1005,24 @@
   "source_page": "https://www.microperfumes.com/products/cashmere-mist-retail-bottle-1",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/donna-karan-cashmere-mist-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "elizabeth-arden-5th-ave-edp": {
+  "name": "5th Avenue Eau de Parfum",
+  "house": "Elizabeth Arden",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Elizabeth-Arden-5Th-Ave.-Women-Eau-de-Parfume-Spray-4.2-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1598975360",
+  "source_page": "https://perfumania.com/products/5th-avenue-perfume",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/elizabeth-arden-5th-ave-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "elizabeth-arden-red-door-edt": {
+  "name": "Red Door Eau de Toilette",
+  "house": "Elizabeth Arden",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Elizabeth-Arden-Red-Door-Women-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1666038529",
+  "source_page": "https://perfumania.com/products/elizabeth-arden-red-door-women-eau-de-toilette-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/elizabeth-arden-red-door-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "elizabeth-arden-sunflowers-edt": {
@@ -1025,6 +1196,15 @@
   "cutout": "site/images/studio/cutouts-new/giorgio-armani-acqua-di-gioia-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "giorgio-armani-armani-code-absolu-parfum": {
+  "name": "Armani Code Absolu Parfum",
+  "house": "Giorgio Armani",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Armani-Code-Absolu-Armani-perfume-samples-decants-fragrancesline.jpg?v=1587089475",
+  "source_page": "https://www.fragrancesline.com/products/armani-code-absolu-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/giorgio-armani-armani-code-absolu-parfum.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "giorgio-armani-armani-code-edp": {
   "name": "Armani Code Eau de Parfum",
   "house": "Giorgio Armani",
@@ -1050,6 +1230,15 @@
   "source_page": "https://www.microperfumes.com/products/armani-code-parfum-retail-bottle",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/giorgio-armani-armani-code-parfum.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "giorgio-armani-armani-code-profumo-edp": {
+  "name": "Armani Code Profumo Eau de Parfum",
+  "house": "Giorgio Armani",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Armani-Code-Profumo-Giorgio-Armani-perfume-samples-decants-fragrancesline.jpg?v=1587089472",
+  "source_page": "https://www.fragrancesline.com/products/armani-code-profumo-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/giorgio-armani-armani-code-profumo-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "giorgio-armani-my-way-edp": {
@@ -1122,6 +1311,15 @@
   "source_page": "https://www.microperfumes.com/products/gentleman-reserve-privee-edp-retail-bottle-1",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/givenchy-gentleman-reserve-privee-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "givenchy-organza-edp": {
+  "name": "Organza Eau de Parfum",
+  "house": "Givenchy",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Givenchy-Organza-Womens-Eau-De-Parfum-EDP-Spray-1.7-oz.-Tester-Best-Price-Fragrance-Parfume-FragranceOutlet.com-MAIN.jpg?v=1751378782",
+  "source_page": "https://perfumania.com/products/givenchy-organza-womens-eau-de-parfum-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/givenchy-organza-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "givenchy-pi-edt": {
@@ -1250,6 +1448,15 @@
   "cutout": "site/images/studio/cutouts-new/guerlain-spiritueuse-double-vanille-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "haute-fragrance-company-devils-intrigue-edp": {
+  "name": "Devil's Intrigue Eau de Parfum",
+  "house": "Haute Fragrance Company",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Devil_s-Intrigue-Haute-Fragrance-Company-perfume-sample-decants-fragrancesline.jpg?v=1669386861",
+  "source_page": "https://www.fragrancesline.com/products/devils-intrigue",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/haute-fragrance-company-devils-intrigue-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "hermes-eau-dorange-verte-edc": {
   "name": "Eau d'Orange Verte Eau de Cologne",
   "house": "Hermès",
@@ -1302,6 +1509,33 @@
   "source_page": "https://www.perfumania.com/products/hugo-boss-bottled-no-6-mens-eau-de-toilette-spray",
   "retailer": "Perfumania",
   "cutout": "site/images/studio/cutouts-new/hugo-boss-boss-bottled-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "hugo-boss-boss-bottled-elixir": {
+  "name": "Boss Bottled Elixir",
+  "house": "Hugo Boss",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/files/Boss-Bottled-Elixir-Hugo-Boss-perfume-decants-sample-fragrancesline.jpg?v=1745575592",
+  "source_page": "https://www.fragrancesline.com/products/boss-bottled-elixir-cologne-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/hugo-boss-boss-bottled-elixir.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "hugo-boss-boss-bottled-triumph-elixir": {
+  "name": "Boss Bottled Triumph Elixir",
+  "house": "Hugo Boss",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/files/Boss-Bottled-Triumph-Elixir-Hugo-Boss-perfume-sample-decants-fragrancesline.png?v=1766857989",
+  "source_page": "https://www.fragrancesline.com/products/boss-bottled-triumph-elixir-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/hugo-boss-boss-bottled-triumph-elixir.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "hugo-boss-hugo-man-green-edt": {
+  "name": "Hugo Man Green Eau de Toilette",
+  "house": "Hugo Boss",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/files/hugo_boss_4_2.jpg?v=1740432544",
+  "source_page": "https://perfumania.com/products/hugo-boss-hugo-green-mens-eau-de-toilette-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/hugo-boss-hugo-man-green-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "initio-blessed-baraka-edp": {
@@ -1466,6 +1700,15 @@
   "cutout": "site/images/studio/cutouts-new/jimmy-choo-man-blue-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "jimmy-choo-man-edt": {
+  "name": "Man Eau de Toilette",
+  "house": "Jimmy Choo",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Jimmy-Choo-Man-Mens-Eau-de-Toilette-EDT-S-3.3-oz.-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1738944010",
+  "source_page": "https://perfumania.com/products/jimmy-choo-man-cologne-eau-de-toilette",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/jimmy-choo-man-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "jimmy-choo-man-ice-edt": {
   "name": "Man Ice Eau de Toilette",
   "house": "Jimmy Choo",
@@ -1599,6 +1842,33 @@
   "source_page": "https://www.fragrancesline.com/products/intoxicated-perfume-samples-decants",
   "retailer": "Fragrances Line",
   "cutout": "site/images/studio/cutouts-new/kilian-intoxicated-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "lacoste-l-12-12-blanc-edt": {
+  "name": "L.12.12 Blanc Eau de Toilette",
+  "house": "Lacoste",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/files/lacosteL1212_1_7.jpg?v=1742221916",
+  "source_page": "https://perfumania.com/products/lacoste-l-12-12-blanc-mens-eau-de-toilette-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/lacoste-l-12-12-blanc-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "lacoste-pour-femme-edp": {
+  "name": "Pour Femme Eau de Parfum",
+  "house": "Lacoste",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/files/lacostefemme.jpg?v=1728936069",
+  "source_page": "https://perfumania.com/products/lacoste-pour-femme-womens-eau-de-parfum-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/lacoste-pour-femme-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "lacoste-touch-of-pink-edt": {
+  "name": "Touch Of Pink Eau de Toilette",
+  "house": "Lacoste",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Lacoste-Touch-Of-Pink-Womens-Eau-de-Toilette-Spray-3-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1738949769",
+  "source_page": "https://perfumania.com/products/lacoste-touch-of-pink-womens-eau-de-toilette-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/lacoste-touch-of-pink-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "lancome-idole-edp": {
@@ -1934,6 +2204,15 @@
   "cutout": "site/images/studio/cutouts-new/montblanc-explorer-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "montblanc-explorer-ultra-blue-edp": {
+  "name": "Explorer Ultra Blue Eau de Parfum",
+  "house": "Montblanc",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Explorer-Ultra-Blue-Montblanc-perfume-sample-decants-fragrancesline.jpg?v=1660415402",
+  "source_page": "https://www.fragrancesline.com/products/explorer-ultra-blue-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/montblanc-explorer-ultra-blue-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "montblanc-individuel-edt": {
   "name": "Individuel Eau de Toilette",
   "house": "Montblanc",
@@ -1959,6 +2238,15 @@
   "source_page": "https://www.microperfumes.com/products/legend-spirit-edt-retail-bottle",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/montblanc-legend-spirit-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "montblanc-starwalker-edt": {
+  "name": "Starwalker Eau de Toilette",
+  "house": "Montblanc",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/MontBlanc-Starwalker-Mens-Eau-de-Toilette-Spray-2.5-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1579723973",
+  "source_page": "https://perfumania.com/products/mont-blanc-starwalker-mens-eau-de-toilette-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/montblanc-starwalker-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "mugler-a-men-edt": {
@@ -2267,6 +2555,15 @@
   "cutout": "site/images/studio/cutouts-new/rabanne-phantom-intense-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "ralph-lauren-blue-edt": {
+  "name": "Blue Eau de Toilette",
+  "house": "Ralph Lauren",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/files/rlblue.webp?v=1694808141",
+  "source_page": "https://perfumania.com/products/blue-eau-de-toilette-spray-for-women-by-ralph-lauren",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/ralph-lauren-blue-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "ralph-lauren-polo-67-edt": {
   "name": "Polo 67 Eau de Toilette",
   "house": "Ralph Lauren",
@@ -2310,6 +2607,15 @@
   "source_page": "https://www.microperfumes.com/products/romance-edp-retail-bottle-1",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/ralph-lauren-romance-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "ralph-lauren-safari-edt": {
+  "name": "Safari Eau de Toilette",
+  "house": "Ralph Lauren",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Ralph-Lauren-Safari-Mens-Eau-De-Toilette-EDT-Spray-4.2-oz.-Best-Price-Fragrance-Parfume-FragranceOutlet.com-MAIN.jpg?v=1766075015",
+  "source_page": "https://perfumania.com/products/safari-eau-de-toilette-spray-for-men-by-ralph-lauren",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/ralph-lauren-safari-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "roja-scandal-edp": {
@@ -2625,6 +2931,15 @@
   "source_page": "https://www.microperfumes.com/products/bright-crystal-retail-bottle",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/versace-bright-crystal-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "versace-crystal-noir-edp": {
+  "name": "Crystal Noir Eau de Parfum",
+  "house": "Versace",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/files/crystalnoir..webp?v=1731528971",
+  "source_page": "https://perfumania.com/products/versace-crystal-noir-by-versace-for-women-edp",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/versace-crystal-noir-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "versace-crystal-noir-edt": {
@@ -2976,6 +3291,15 @@
   "source_page": "https://www.microperfumes.com/products/libre-le-parfum-retail-bottle",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/yves-saint-laurent-libre-le-parfum.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "yves-saint-laurent-mon-paris-edp": {
+  "name": "Mon Paris Eau de Parfum",
+  "house": "Yves Saint Laurent",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-6782_bfe67962-5b4f-4dcf-831a-e739d55867ae.jpg?v=1791922844",
+  "source_page": "https://www.microperfumes.com/products/mon-paris-ysl-edp-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/yves-saint-laurent-mon-paris-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "yves-saint-laurent-myslf-edp": {
