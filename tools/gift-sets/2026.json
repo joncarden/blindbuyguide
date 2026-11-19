@@ -1,7 +1,7 @@
 {
  "year": 2026,
- "checked": "2026-11-18",
- "note": "Set prices read from retailer or brand pages on 2026-11-18 via free web fetch (no Firecrawl). Component bottle prices come from the library at build time.",
+ "checked": "2026-11-19",
+ "note": "Set prices read from retailer or brand pages on 2026-11-18 via free web fetch (no Firecrawl); price and stock rechecked 2026-11-19 by scrape. Component bottle prices come from the library at build time.",
  "sets": [
   {
    "slug": "creed-mens-5-piece-discovery-set",
@@ -12,6 +12,7 @@
    "url": "https://www.bluemercury.com/products/creed-men-s-5-piece-discovery-set-limited-edition",
    "price": 380,
    "stock": "in stock (listing notes a limit of 3 per order)",
+   "in_stock": true,
    "items": [
      {"label": "Aventus Eau de Parfum", "ml": 9.8, "scent": "creed-aventus"},
      {"label": "Absolu Aventus Eau de Parfum", "ml": 9.8, "scent": null},
@@ -38,7 +39,8 @@
    "retailer": "Bluemercury",
    "url": "https://bluemercury.com/products/tom-ford-private-blend-luxe-discovery-set",
    "price": 100,
-   "stock": "in stock",
+   "stock": "out of stock",
+   "in_stock": false,
    "items": [
      {"label": "Lost Cherry Eau de Parfum", "ml": 3, "scent": "tom-ford-lost-cherry-edp"},
      {"label": "Soleil Blanc Eau de Parfum", "ml": 3, "scent": "tom-ford-soleil-blanc-edp"},
@@ -67,7 +69,8 @@
    "retailer": "Dillard's",
    "url": "https://www.dillards.com/p/maison-francis-kurkdjian-5-piece-limited-edition-holiday-miniature-fragrance-gift-set/522650698",
    "price": 325,
-   "stock": "stock not shown",
+   "stock": "in stock",
+   "in_stock": true,
    "items": [
      {"label": "Kurky Eau de Parfum", "ml": 10, "scent": "kurky-edp"},
      {"label": "gentle Fluidity Silver Eau de Parfum", "ml": 10, "scent": "gentle-fluidity-silver-edp"},
