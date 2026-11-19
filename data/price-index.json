@@ -160,6 +160,20 @@
    "date_checked": "2026-11-16"
   },
   {
+   "slug": "mugler-alien-goddess-edp",
+   "name": "Alien Goddess Eau de Parfum",
+   "house": "Mugler",
+   "url": "https://www.blindbuyguide.com/scents/mugler-alien-goddess-edp/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.34,
+   "best_bottle_price_usd": 121,
+   "best_bottle_ml": 90,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "althair-edp",
    "name": "Althair Eau de Parfum",
    "house": "Parfums de Marly",
@@ -270,6 +284,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-18"
+  },
+  {
+   "slug": "mugler-angel-edp",
+   "name": "Angel Eau de Parfum",
+   "house": "Mugler",
+   "url": "https://www.blindbuyguide.com/scents/mugler-angel-edp/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.12,
+   "best_bottle_price_usd": 56,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "angels-share-edp",
@@ -458,9 +486,9 @@
    "name": "Baccarat Rouge 540 Extrait de Parfum",
    "house": "Maison Francis Kurkdjian",
    "url": "https://www.blindbuyguide.com/scents/mfk-baccarat-rouge-540-extrait/",
-   "lowest_sample_usd": 14.99,
-   "lowest_sample_ml": 1,
-   "lowest_sample_retailer": "Fragrances Line",
+   "lowest_sample_usd": 9.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
    "best_in_stock_bottle_usd_per_ml": 5.36,
    "best_bottle_price_usd": 375,
    "best_bottle_ml": 70,
@@ -648,6 +676,20 @@
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Liberty",
    "date_checked": "2026-11-18"
+  },
+  {
+   "slug": "gucci-bloom-edp",
+   "name": "Bloom Eau de Parfum",
+   "house": "Gucci",
+   "url": "https://www.blindbuyguide.com/scents/gucci-bloom-edp/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.94,
+   "best_bottle_price_usd": 94,
+   "best_bottle_ml": 100,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "blue-talisman-extrait-by-ex-nihilo",
@@ -872,6 +914,20 @@
    "best_bottle_ml": 88,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-15"
+  },
+  {
+   "slug": "azzaro-chrome-edt",
+   "name": "Chrome Eau de Toilette",
+   "house": "Azzaro",
+   "url": "https://www.blindbuyguide.com/scents/azzaro-chrome-edt/",
+   "lowest_sample_usd": 0.45,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.58,
+   "best_bottle_price_usd": 29,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "clair-de-musc-edp",
@@ -1224,6 +1280,34 @@
    "date_checked": "2026-11-16"
   },
   {
+   "slug": "diptyque-do-son-edt",
+   "name": "Do Son Eau de Toilette",
+   "house": "Diptyque",
+   "url": "https://www.blindbuyguide.com/scents/diptyque-do-son-edt/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.8,
+   "best_bottle_price_usd": 180,
+   "best_bottle_ml": 100,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "versace-dylan-blue-edt",
+   "name": "Dylan Blue Eau de Toilette",
+   "house": "Versace",
+   "url": "https://www.blindbuyguide.com/scents/versace-dylan-blue-edt/",
+   "lowest_sample_usd": 2.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.56,
+   "best_bottle_price_usd": 56,
+   "best_bottle_ml": 100,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "eau-des-sens-edt",
    "name": "Eau des Sens Eau de Toilette",
    "house": "Diptyque",
@@ -1373,6 +1457,20 @@
    "lowest_sample_retailer": "MicroPerfumes",
    "best_in_stock_bottle_usd_per_ml": 1.04,
    "best_bottle_price_usd": 52,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "versace-eros-flame-edp",
+   "name": "Eros Flame Eau de Parfum",
+   "house": "Versace",
+   "url": "https://www.blindbuyguide.com/scents/versace-eros-flame-edp/",
+   "lowest_sample_usd": 3.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.12,
+   "best_bottle_price_usd": 56,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "MicroPerfumes",
    "date_checked": "2026-11-19"
@@ -1642,6 +1740,34 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-16"
+  },
+  {
+   "slug": "burberry-goddess-edp",
+   "name": "Goddess Eau de Parfum",
+   "house": "Burberry",
+   "url": "https://www.blindbuyguide.com/scents/burberry-goddess-edp/",
+   "lowest_sample_usd": 3.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.78,
+   "best_bottle_price_usd": 89,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "burberry-goddess-intense-edp",
+   "name": "Goddess Intense Eau de Parfum",
+   "house": "Burberry",
+   "url": "https://www.blindbuyguide.com/scents/burberry-goddess-intense-edp/",
+   "lowest_sample_usd": 2.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.48,
+   "best_bottle_price_usd": 74,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "godolphin-edp",
@@ -1924,6 +2050,34 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "dior-hypnotic-poison-edt",
+   "name": "Hypnotic Poison Eau de Toilette",
+   "house": "Dior",
+   "url": "https://www.blindbuyguide.com/scents/dior-hypnotic-poison-edt/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.86,
+   "best_bottle_price_usd": 93,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "louis-vuitton-imagination-edp",
+   "name": "Imagination Eau de Parfum",
+   "house": "Louis Vuitton",
+   "url": "https://www.blindbuyguide.com/scents/louis-vuitton-imagination-edp/",
+   "lowest_sample_usd": 9.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": 5.97,
+   "best_bottle_price_usd": 597,
+   "best_bottle_ml": 100,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "byredo-inflorescence-edp",
    "name": "Inflorescence",
    "house": "BYREDO",
@@ -1977,6 +2131,20 @@
    "best_bottle_price_usd": 265,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Fragrances Line",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "rabanne-invictus-edt",
+   "name": "Invictus Eau de Toilette",
+   "house": "Rabanne",
+   "url": "https://www.blindbuyguide.com/scents/rabanne-invictus-edt/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.24,
+   "best_bottle_price_usd": 62,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
    "date_checked": "2026-11-19"
   },
   {
@@ -2034,6 +2202,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-16"
+  },
+  {
+   "slug": "dior-jadore-edp",
+   "name": "J'adore Eau de Parfum",
+   "house": "Dior",
+   "url": "https://www.blindbuyguide.com/scents/dior-jadore-edp/",
+   "lowest_sample_usd": 3.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 2.64,
+   "best_bottle_price_usd": 132,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "jasmin-17-edp",
@@ -2104,6 +2286,20 @@
    "best_bottle_ml": 70,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-15"
+  },
+  {
+   "slug": "prada-lhomme-edt",
+   "name": "L'Homme Eau de Toilette",
+   "house": "Prada",
+   "url": "https://www.blindbuyguide.com/scents/prada-lhomme-edt/",
+   "lowest_sample_usd": 3.47,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.3,
+   "best_bottle_price_usd": 65,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "l-ombre-dans-l-eau-edp",
@@ -2246,6 +2442,62 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "jean-paul-gaultier-le-beau-edt",
+   "name": "Le Beau Eau de Toilette",
+   "house": "Jean Paul Gaultier",
+   "url": "https://www.blindbuyguide.com/scents/jean-paul-gaultier-le-beau-edt/",
+   "lowest_sample_usd": 2.24,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.91,
+   "best_bottle_price_usd": 68,
+   "best_bottle_ml": 75,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "jean-paul-gaultier-le-beau-le-parfum-edp",
+   "name": "Le Beau Le Parfum Eau de Parfum",
+   "house": "Jean Paul Gaultier",
+   "url": "https://www.blindbuyguide.com/scents/jean-paul-gaultier-le-beau-le-parfum-edp/",
+   "lowest_sample_usd": 3.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.21,
+   "best_bottle_price_usd": 91,
+   "best_bottle_ml": 75,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "jean-paul-gaultier-le-beau-paradise-garden-edp",
+   "name": "Le Beau Paradise Garden Eau de Parfum",
+   "house": "Jean Paul Gaultier",
+   "url": "https://www.blindbuyguide.com/scents/jean-paul-gaultier-le-beau-paradise-garden-edp/",
+   "lowest_sample_usd": 2.58,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.01,
+   "best_bottle_price_usd": 76,
+   "best_bottle_ml": 75,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "jean-paul-gaultier-le-male-edt",
+   "name": "Le Male Eau de Toilette",
+   "house": "Jean Paul Gaultier",
+   "url": "https://www.blindbuyguide.com/scents/jean-paul-gaultier-le-male-edt/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.92,
+   "best_bottle_price_usd": 69,
+   "best_bottle_ml": 75,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "jean-paul-gaultier-le-male-le-parfum-edp",
    "name": "Le Male Le Parfum Eau de Parfum",
    "house": "Jean Paul Gaultier",
@@ -2272,6 +2524,20 @@
    "best_bottle_ml": 88,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-15"
+  },
+  {
+   "slug": "yves-saint-laurent-libre-edp",
+   "name": "Libre Eau de Parfum",
+   "house": "Yves Saint Laurent",
+   "url": "https://www.blindbuyguide.com/scents/yves-saint-laurent-libre-edp/",
+   "lowest_sample_usd": 3.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 2.47,
+   "best_bottle_price_usd": 74,
+   "best_bottle_ml": 30,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "yves-saint-laurent-libre-intense-edp",
@@ -2386,6 +2652,20 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "prada-luna-rossa-black-edp",
+   "name": "Luna Rossa Black Eau de Parfum",
+   "house": "Prada",
+   "url": "https://www.blindbuyguide.com/scents/prada-luna-rossa-black-edp/",
+   "lowest_sample_usd": 2.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.54,
+   "best_bottle_price_usd": 77,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "prada-luna-rossa-carbon-edt",
    "name": "Luna Rossa Carbon Eau de Toilette",
    "house": "Prada",
@@ -2395,6 +2675,48 @@
    "lowest_sample_retailer": "MicroPerfumes",
    "best_in_stock_bottle_usd_per_ml": 1.34,
    "best_bottle_price_usd": 67,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "prada-luna-rossa-edt",
+   "name": "Luna Rossa Eau de Toilette",
+   "house": "Prada",
+   "url": "https://www.blindbuyguide.com/scents/prada-luna-rossa-edt/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.88,
+   "best_bottle_price_usd": 88,
+   "best_bottle_ml": 100,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "prada-luna-rossa-ocean-edt",
+   "name": "Luna Rossa Ocean Eau de Toilette",
+   "house": "Prada",
+   "url": "https://www.blindbuyguide.com/scents/prada-luna-rossa-ocean-edt/",
+   "lowest_sample_usd": 3.47,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.66,
+   "best_bottle_price_usd": 83,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "ex-nihilo-lust-in-paradise-edp",
+   "name": "Lust in Paradise Eau de Parfum",
+   "house": "Ex Nihilo",
+   "url": "https://www.blindbuyguide.com/scents/ex-nihilo-lust-in-paradise-edp/",
+   "lowest_sample_usd": 7.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": 7,
+   "best_bottle_price_usd": 350,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "MicroPerfumes",
    "date_checked": "2026-11-19"
@@ -2496,6 +2818,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-18"
+  },
+  {
+   "slug": "bvlgari-man-in-black-edp",
+   "name": "Man in Black Eau de Parfum",
+   "house": "Bvlgari",
+   "url": "https://www.blindbuyguide.com/scents/bvlgari-man-in-black-edp/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.25,
+   "best_bottle_price_usd": 75,
+   "best_bottle_ml": 60,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "mfk-masculin-pluriel-edt",
@@ -2776,6 +3112,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-16"
+  },
+  {
+   "slug": "juliette-has-a-gun-not-a-perfume-edp",
+   "name": "Not a Perfume Eau de Parfum",
+   "house": "Juliette Has a Gun",
+   "url": "https://www.blindbuyguide.com/scents/juliette-has-a-gun-not-a-perfume-edp/",
+   "lowest_sample_usd": 3.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.2,
+   "best_bottle_price_usd": 60,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "oajan-edp",
@@ -3338,6 +3688,34 @@
    "date_checked": "2026-11-18"
   },
   {
+   "slug": "dolce-and-gabbana-pour-homme-edt",
+   "name": "Pour Homme Eau de Toilette",
+   "house": "Dolce & Gabbana",
+   "url": "https://www.blindbuyguide.com/scents/dolce-and-gabbana-pour-homme-edt/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.56,
+   "best_bottle_price_usd": 42,
+   "best_bottle_ml": 75,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "versace-pour-homme-edt",
+   "name": "Pour Homme Eau de Toilette",
+   "house": "Versace",
+   "url": "https://www.blindbuyguide.com/scents/versace-pour-homme-edt/",
+   "lowest_sample_usd": 2.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.23,
+   "best_bottle_price_usd": 37,
+   "best_bottle_ml": 30,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "initio-power-self-extrait",
    "name": "Power Self",
    "house": "Initio Parfums Privés",
@@ -3420,6 +3798,20 @@
    "best_bottle_ml": 75,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-18"
+  },
+  {
+   "slug": "mancera-red-tobacco-edp",
+   "name": "Red Tobacco Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-red-tobacco-edp/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.77,
+   "best_bottle_price_usd": 92,
+   "best_bottle_ml": 120,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "amouage-reflection-45-extrait",
@@ -3674,6 +4066,20 @@
    "date_checked": "2026-11-15"
   },
   {
+   "slug": "tom-ford-rose-prick-edp",
+   "name": "Rose Prick Eau de Parfum",
+   "house": "Tom Ford",
+   "url": "https://www.blindbuyguide.com/scents/tom-ford-rose-prick-edp/",
+   "lowest_sample_usd": 12.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "roses-vanille-edp",
    "name": "Roses Vanille Eau de Parfum",
    "house": "Mancera",
@@ -3811,6 +4217,20 @@
    "best_bottle_price_usd": 119,
    "best_bottle_ml": 60,
    "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "roja-scandal-edp",
+   "name": "Scandal Eau de Parfum",
+   "house": "Roja",
+   "url": "https://www.blindbuyguide.com/scents/roja-scandal-edp/",
+   "lowest_sample_usd": 8.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-19"
   },
   {
@@ -3968,6 +4388,34 @@
    "date_checked": "2026-11-16"
   },
   {
+   "slug": "giorgio-armani-stronger-with-you-edt",
+   "name": "Stronger With You Eau de Toilette",
+   "house": "Giorgio Armani",
+   "url": "https://www.blindbuyguide.com/scents/giorgio-armani-stronger-with-you-edt/",
+   "lowest_sample_usd": 2.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.06,
+   "best_bottle_price_usd": 53,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "giorgio-armani-stronger-with-you-intensely-edp",
+   "name": "Stronger With You Intensely Eau de Parfum",
+   "house": "Giorgio Armani",
+   "url": "https://www.blindbuyguide.com/scents/giorgio-armani-stronger-with-you-intensely-edp/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.6,
+   "best_bottle_price_usd": 80,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "initio-sugar-blast-edp",
    "name": "Sugar Blast",
    "house": "Initio Parfums Privés",
@@ -4104,6 +4552,20 @@
    "best_in_stock_bottle_usd_per_ml": 0.64,
    "best_bottle_price_usd": 64,
    "best_bottle_ml": 100,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "dolce-and-gabbana-the-one-edt",
+   "name": "The One Eau de Toilette",
+   "house": "Dolce & Gabbana",
+   "url": "https://www.blindbuyguide.com/scents/dolce-and-gabbana-the-one-edt/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.88,
+   "best_bottle_price_usd": 44,
+   "best_bottle_ml": 50,
    "best_bottle_retailer": "MicroPerfumes",
    "date_checked": "2026-11-19"
   },
@@ -4430,6 +4892,20 @@
    "date_checked": "2026-11-18"
   },
   {
+   "slug": "burberry-touch-edt",
+   "name": "Touch Eau de Toilette",
+   "house": "Burberry",
+   "url": "https://www.blindbuyguide.com/scents/burberry-touch-edt/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.56,
+   "best_bottle_price_usd": 28,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "tubereuse-40",
    "name": "Tubereuse 40",
    "house": "Le Labo",
@@ -4512,6 +4988,34 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-14"
+  },
+  {
+   "slug": "valentino-uomo-born-in-roma-coral-fantasy-edt",
+   "name": "Uomo Born in Roma Coral Fantasy Eau de Toilette",
+   "house": "Valentino",
+   "url": "https://www.blindbuyguide.com/scents/valentino-uomo-born-in-roma-coral-fantasy-edt/",
+   "lowest_sample_usd": 3.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.68,
+   "best_bottle_price_usd": 84,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "valentino-uomo-born-in-roma-intense-edp",
+   "name": "Uomo Born in Roma Intense Eau de Parfum",
+   "house": "Valentino",
+   "url": "https://www.blindbuyguide.com/scents/valentino-uomo-born-in-roma-intense-edp/",
+   "lowest_sample_usd": 4.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 2.04,
+   "best_bottle_price_usd": 102,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "valentino-uomo-edt",
