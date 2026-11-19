@@ -1042,6 +1042,34 @@
    "date_checked": "2026-11-16"
   },
   {
+   "slug": "davidoff-cool-water-edt",
+   "name": "Cool Water Eau de Toilette",
+   "house": "Davidoff",
+   "url": "https://www.blindbuyguide.com/scents/davidoff-cool-water-edt/",
+   "lowest_sample_usd": 0.45,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.29,
+   "best_bottle_price_usd": 22,
+   "best_bottle_ml": 75,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "davidoff-cool-water-woman-edt",
+   "name": "Cool Water Woman Eau de Toilette",
+   "house": "Davidoff",
+   "url": "https://www.blindbuyguide.com/scents/davidoff-cool-water-woman-edt/",
+   "lowest_sample_usd": 0.45,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.42,
+   "best_bottle_price_usd": 21,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "creed-acqua-fiorentina-edp",
    "name": "Creed Acqua Fiorentina Eau de Parfum",
    "house": "Creed",
@@ -2526,6 +2554,34 @@
    "date_checked": "2026-11-18"
   },
   {
+   "slug": "issey-miyake-leau-dissey-edt",
+   "name": "L'Eau d'Issey Eau de Toilette",
+   "house": "Issey Miyake",
+   "url": "https://www.blindbuyguide.com/scents/issey-miyake-leau-dissey-edt/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.5,
+   "best_bottle_price_usd": 25,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "issey-miyake-leau-dissey-pour-homme-edt",
+   "name": "L'Eau d'Issey Pour Homme Eau de Toilette",
+   "house": "Issey Miyake",
+   "url": "https://www.blindbuyguide.com/scents/issey-miyake-leau-dissey-pour-homme-edt/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.47,
+   "best_bottle_price_usd": 35,
+   "best_bottle_ml": 75,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "mfk-lhomme-a-la-rose-edp",
    "name": "L'Homme A La Rose",
    "house": "Maison Francis Kurkdjian",
@@ -2872,6 +2928,20 @@
    "best_in_stock_bottle_usd_per_ml": 0.8,
    "best_bottle_price_usd": 40,
    "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "dolce-and-gabbana-light-blue-pour-homme-edt",
+   "name": "Light Blue Pour Homme Eau de Toilette",
+   "house": "Dolce & Gabbana",
+   "url": "https://www.blindbuyguide.com/scents/dolce-and-gabbana-light-blue-pour-homme-edt/",
+   "lowest_sample_usd": 2.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 0.59,
+   "best_bottle_price_usd": 44,
+   "best_bottle_ml": 75,
    "best_bottle_retailer": "MicroPerfumes",
    "date_checked": "2026-11-19"
   },
