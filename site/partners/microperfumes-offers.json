@@ -5975,6 +5975,98 @@
      "url": "https://www.microperfumes.com/products/myslf-le-parfum-travel-spray"
     }
    ]
+  },
+  "jimmy-choo-i-want-choo-forever-edp": {
+   "title": "I Want Choo Forever EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 1.93,
+     "url": "https://www.microperfumes.com/products/i-want-choo-forever-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 3.73,
+     "url": "https://www.microperfumes.com/products/i-want-choo-forever-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.97,
+     "url": "https://www.microperfumes.com/products/i-want-choo-forever-travel-spray"
+    },
+    {
+     "format": "Travel Spray XL",
+     "ml": 10.0,
+     "price": 24.99,
+     "url": "https://www.microperfumes.com/products/i-want-choo-forever-travel-spray-xl"
+    }
+   ]
+  },
+  "marc-jacobs-daisy-dream-edt": {
+   "title": "Daisy Dream EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 1.05,
+     "url": "https://www.microperfumes.com/products/daisy-dream-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 2.74,
+     "url": "https://www.microperfumes.com/products/daisy-dream-edt-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/daisy-dream-travel-spray"
+    }
+   ]
+  },
+  "ralph-lauren-polo-red-edt": {
+   "title": "Polo Red EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 1.79,
+     "url": "https://www.microperfumes.com/products/polo-red-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/polo-red-travel-spray"
+    }
+   ]
+  },
+  "kayali-vanilla-28-edp": {
+   "title": "Vanilla 28 EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.97,
+     "url": "https://www.microperfumes.com/products/vanilla-28-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 8.97,
+     "url": "https://www.microperfumes.com/products/vanilla-28-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 21.97,
+     "url": "https://www.microperfumes.com/products/vanilla-28-travel-spray"
+    }
+   ]
   }
  }
 }
