@@ -5021,6 +5021,489 @@
      "url": "https://www.microperfumes.com/products/delina-exclusif-travel-spray"
     }
    ]
+  },
+  "bond-no-9-bleecker-street-edp": {
+   "title": "Bleecker Street EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 5.97,
+     "url": "https://www.microperfumes.com/products/bleecker-street-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 27.97,
+     "url": "https://www.microperfumes.com/products/bleecker-street-travel-spray"
+    }
+   ]
+  },
+  "burberry-hero-edt": {
+   "title": "Hero EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/hero-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/hero-travel-spray"
+    }
+   ]
+  },
+  "burberry-touch-edp": {
+   "title": "Burberry Touch EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.38,
+     "url": "https://www.microperfumes.com/products/burberry-touch-sample-vial-1"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 10.48,
+     "url": "https://www.microperfumes.com/products/burberry-touch-travel-spray-1"
+    }
+   ]
+  },
+  "carolina-herrera-212-sexy-edp": {
+   "title": "212 Sexy EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.09,
+     "url": "https://www.microperfumes.com/products/212-sexy-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/212-sexy-travel-spray"
+    }
+   ]
+  },
+  "carolina-herrera-bad-boy-extreme-edp": {
+   "title": "Bad Boy Extreme EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.97,
+     "url": "https://www.microperfumes.com/products/bad-boy-extreme-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.97,
+     "url": "https://www.microperfumes.com/products/bad-boy-extreme-travel-spray"
+    }
+   ]
+  },
+  "carolina-herrera-bad-boy-le-parfum-edp": {
+   "title": "Bad Boy Le Parfum EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.24,
+     "url": "https://www.microperfumes.com/products/bad-boy-le-parfum-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 10.39,
+     "url": "https://www.microperfumes.com/products/bad-boy-le-parfum-edp-travel-spray"
+    }
+   ]
+  },
+  "carolina-herrera-good-girl-blush-edp": {
+   "title": "Good Girl Blush  EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.97,
+     "url": "https://www.microperfumes.com/products/good-girl-blush-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 6.97,
+     "url": "https://www.microperfumes.com/products/good-girl-blush-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 15.97,
+     "url": "https://www.microperfumes.com/products/good-girl-blush-travel-spray"
+    }
+   ]
+  },
+  "cartier-declaration-edt": {
+   "title": "Déclaration EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/declaration-edt-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/declaration-edt-travel-spray"
+    }
+   ]
+  },
+  "dior-poison-edt": {
+   "title": "Poison EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.99,
+     "url": "https://www.microperfumes.com/products/poison-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 14.99,
+     "url": "https://www.microperfumes.com/products/poison-travel-spray"
+    }
+   ]
+  },
+  "dior-pure-poison-edp": {
+   "title": "Pure Poison EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.99,
+     "url": "https://www.microperfumes.com/products/pure-poison-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 16.99,
+     "url": "https://www.microperfumes.com/products/pure-poison-travel-spray"
+    }
+   ]
+  },
+  "dolce-and-gabbana-devotion-edp": {
+   "title": "Devotion EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.97,
+     "url": "https://www.microperfumes.com/products/devotion-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 5.97,
+     "url": "https://www.microperfumes.com/products/devotion-edp-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 14.97,
+     "url": "https://www.microperfumes.com/products/devotion-travel-spray"
+    }
+   ]
+  },
+  "dolce-and-gabbana-light-blue-eau-intense-edp": {
+   "title": "Light Blue Eau Intense EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/light-blue-eau-intense-sample-vial-1"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/light-blue-eau-intense-travel-spray-1"
+    }
+   ]
+  },
+  "dolce-and-gabbana-pour-femme-edp": {
+   "title": "Dolce & Gabbana Pour Femme EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/dolce-gabbana-pour-femme-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/dolce-gabbana-pour-femme-travel-spray"
+    }
+   ]
+  },
+  "giardini-di-toscana-borabora-edp": {
+   "title": "Borabora EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.19,
+     "url": "https://www.microperfumes.com/products/borabora-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 11.99,
+     "url": "https://www.microperfumes.com/products/borabora-edp-travel-spray"
+    }
+   ]
+  },
+  "givenchy-gentleman-edp": {
+   "title": "Gentleman EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/gentleman-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/gentleman-travel-spray"
+    }
+   ]
+  },
+  "gucci-guilty-pour-femme-edp": {
+   "title": "Guilty Pour Femme EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/guilty-pour-femme-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/guilty-pour-femme-travel-spray"
+    }
+   ]
+  },
+  "hermes-terre-dhermes-edt": {
+   "title": "Terre d'Hermes EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/terre-dhermes-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/terre-dhermes-travel-spray"
+    }
+   ]
+  },
+  "jean-paul-gaultier-la-belle-edp": {
+   "title": "La Belle EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/la-belle-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/la-belle-travel-spray"
+    }
+   ]
+  },
+  "jo-malone-orange-blossom-edc": {
+   "title": "Orange Blossom EDC",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.97,
+     "url": "https://www.microperfumes.com/products/orange-blossom-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 19.97,
+     "url": "https://www.microperfumes.com/products/orange-blossom-travel-spray"
+    }
+   ]
+  },
+  "louis-vuitton-attrape-reves-edp": {
+   "title": "Attrape-Reves EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 9.99,
+     "url": "https://www.microperfumes.com/products/attrape-reves-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 19.99,
+     "url": "https://www.microperfumes.com/products/attrape-reves-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 49.99,
+     "url": "https://www.microperfumes.com/products/attrape-reves-travel-spray"
+    }
+   ]
+  },
+  "louis-vuitton-les-sables-roses-edp": {
+   "title": "Les Sables Roses EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 11.99,
+     "url": "https://www.microperfumes.com/products/les-sables-roses-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 59.99,
+     "url": "https://www.microperfumes.com/products/les-sables-roses-travel-spray"
+    }
+   ]
+  },
+  "montblanc-legend-edt": {
+   "title": "Legend EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/legend-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/legend-travel-spray"
+    }
+   ]
+  },
+  "rabanne-fame-edp": {
+   "title": "Fame EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/fame-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/fame-edp-travel-spray"
+    }
+   ]
+  },
+  "rabanne-invictus-victory-edp": {
+   "title": "Invictus Victory EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 1.94,
+     "url": "https://www.microperfumes.com/products/invictus-victory-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 9.74,
+     "url": "https://www.microperfumes.com/products/invictus-victory-travel-spray"
+    }
+   ]
+  },
+  "rabanne-lady-million-edp": {
+   "title": "Paco Rabanne Lady Million EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/paco-rabanne-lady-million-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/paco-rabanne-lady-million-travel-spray"
+    }
+   ]
+  },
+  "rabanne-phantom-intense-edp": {
+   "title": "Phantom Intense EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/phantom-intense-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/phantom-intense-travel-spray"
+    }
+   ]
+  },
+  "giorgio-armani-acqua-di-gio-parfum": {
+   "title": "Acqua di Gio Parfum",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.97,
+     "url": "https://www.microperfumes.com/products/acqua-di-gio-sample-vial-1"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 5.97,
+     "url": "https://www.microperfumes.com/products/acqua-di-gio-sample-spray-1"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 14.97,
+     "url": "https://www.microperfumes.com/products/acqua-di-gio-travel-spray-1"
+    }
+   ]
   }
  }
 }
