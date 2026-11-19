@@ -2309,9 +2309,9 @@
    "lowest_sample_usd": 2.97,
    "lowest_sample_ml": 0.75,
    "lowest_sample_retailer": "MicroPerfumes",
-   "best_in_stock_bottle_usd_per_ml": 0.59,
-   "best_bottle_price_usd": 44,
-   "best_bottle_ml": 75,
+   "best_in_stock_bottle_usd_per_ml": 0.8,
+   "best_bottle_price_usd": 40,
+   "best_bottle_ml": 50,
    "best_bottle_retailer": "MicroPerfumes",
    "date_checked": "2026-11-19"
   },

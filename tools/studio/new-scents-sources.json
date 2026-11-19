@@ -1,0 +1,344 @@
+{
+ "burberry-brit-edp": {
+  "name": "Brit Eau de Parfum",
+  "house": "Burberry",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-1363-1000px_59dfef58-6fcf-4e0e-8ce1-d42c128218c2.jpg?v=1771543048",
+  "source_page": "https://www.microperfumes.com/products/burberry-brit-retail-bottle-1",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/burberry-brit-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "burberry-brit-edt": {
+  "name": "Brit Eau de Toilette",
+  "house": "Burberry",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-1351-1000px_20f07c4a-ca60-49a9-aa29-7aa792f955ce.jpg?v=1784656836",
+  "source_page": "https://www.microperfumes.com/products/burberry-brit-edt-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/burberry-brit-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "burberry-her-edp": {
+  "name": "Her Eau de Parfum",
+  "house": "Burberry",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-9560-1500px.jpg?v=1778723217",
+  "source_page": "https://www.microperfumes.com/products/her-retail-bottle-2",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/burberry-her-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "carolina-herrera-good-girl-edp": {
+  "name": "Good Girl Eau de Parfum",
+  "house": "Carolina Herrera",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-3749-1000px_23cdb153-f58e-4a66-96d6-278fa647cc97.jpg?v=1771543338",
+  "source_page": "https://www.microperfumes.com/products/good-girl-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/carolina-herrera-good-girl-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "dior-fahrenheit-edt": {
+  "name": "Fahrenheit Eau de Toilette",
+  "house": "Dior",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-8461-1000px_49842104-7cf0-4a0b-a5f0-319c21f6e277.jpg?v=1789666874",
+  "source_page": "https://www.microperfumes.com/products/fahrenheit-edt-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/dior-fahrenheit-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "dior-homme-intense-edp": {
+  "name": "Homme Intense Eau de Parfum",
+  "house": "Dior",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-0590-1000px_8b6e0e90-891f-4735-9e8a-713e9053fc9f.jpg?v=1771543748",
+  "source_page": "https://www.microperfumes.com/products/dior-homme-intense-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/dior-homme-intense-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "dior-sauvage-edp": {
+  "name": "Sauvage Eau de Parfum",
+  "house": "Dior",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-2050-2048px.jpg?v=1793653483",
+  "source_page": "https://www.microperfumes.com/products/sauvage-edp-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/dior-sauvage-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "dior-sauvage-edt": {
+  "name": "Sauvage Eau de Toilette",
+  "house": "Dior",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-5905-1000px_a9ffe2b6-165d-411e-88c7-c6815df101a4.jpg?v=1773771077",
+  "source_page": "https://www.microperfumes.com/products/sauvage-retail-bottle-2",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/dior-sauvage-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "dolce-and-gabbana-light-blue-edt": {
+  "name": "Light Blue Eau de Toilette",
+  "house": "Dolce & Gabbana",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-2581-1500px.jpg?v=1788215896",
+  "source_page": "https://www.microperfumes.com/products/light-blue-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/dolce-and-gabbana-light-blue-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "dolce-and-gabbana-the-one-edp": {
+  "name": "The One Eau de Parfum",
+  "house": "Dolce & Gabbana",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-2611-1500px.jpg?v=1777597393",
+  "source_page": "https://www.microperfumes.com/products/the-one-edp-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/dolce-and-gabbana-the-one-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "giorgio-armani-acqua-di-gio-edt": {
+  "name": "Acqua Di Gio Eau de Toilette",
+  "house": "Giorgio Armani",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-0161-2048px.jpg?v=1793384883",
+  "source_page": "https://www.microperfumes.com/products/acqua-di-gio-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/giorgio-armani-acqua-di-gio-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "giorgio-armani-acqua-di-gio-profondo-edp": {
+  "name": "Acqua di Gio Profondo Eau de Parfum",
+  "house": "Giorgio Armani",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-5109-1000px_c9afa29f-ae5a-4a8c-9063-8d3c070b68ca.jpg?v=1771543359",
+  "source_page": "https://www.microperfumes.com/products/acqua-di-gio-profondo-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/giorgio-armani-acqua-di-gio-profondo-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "giorgio-armani-armani-code-edt": {
+  "name": "Armani Code Eau de Toilette",
+  "house": "Giorgio Armani",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-0541-75ml-1000px.jpg?v=1768356551",
+  "source_page": "https://www.microperfumes.com/products/armani-code-retail-bottle-1",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/giorgio-armani-armani-code-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "giorgio-armani-my-way-edp": {
+  "name": "My Way Eau de Parfum",
+  "house": "Giorgio Armani",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-5100-1000px_bde2fc61-edc7-43a1-b867-263bc0870f3d.jpg?v=1771543654",
+  "source_page": "https://www.microperfumes.com/products/my-way-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/giorgio-armani-my-way-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "gucci-flora-gorgeous-gardenia-edp": {
+  "name": "Flora Gorgeous Gardenia Eau de Parfum",
+  "house": "Gucci",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-2136-1000px_c487a57e-b768-4de0-82df-a5b4ddf806af.jpg?v=1785518429",
+  "source_page": "https://www.microperfumes.com/products/flora-gorgeous-gardenia-edp-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/gucci-flora-gorgeous-gardenia-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "hermes-un-jardin-sur-le-nil-edt": {
+  "name": "Un Jardin Sur Le Nil Eau de Toilette",
+  "house": "Hermès",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-7971_7a6a2be2-a9fe-4ae7-8550-7ffffb991988.jpg?v=1794328822",
+  "source_page": "https://www.microperfumes.com/products/un-jardin-sur-le-nil-edt-retail-bottle-1",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/hermes-un-jardin-sur-le-nil-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "jean-paul-gaultier-le-male-le-parfum-edp": {
+  "name": "Le Male Le Parfum Eau de Parfum",
+  "house": "Jean Paul Gaultier",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-2200-1000px_2e838254-6f06-4272-b7c5-16210b7f20bd.jpg?v=1771543764",
+  "source_page": "https://www.microperfumes.com/products/le-male-le-parfum-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/jean-paul-gaultier-le-male-le-parfum-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "jean-paul-gaultier-ultra-male-edt": {
+  "name": "Ultra Male Eau de Toilette",
+  "house": "Jean Paul Gaultier",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-5019-1000px_55a3e8bb-d045-4402-9d6f-155d69047917.jpg?v=1758060641",
+  "source_page": "https://www.microperfumes.com/products/ultra-male-retail-bottle-1",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/jean-paul-gaultier-ultra-male-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "kilian-intoxicated-edp": {
+  "name": "Intoxicated Eau de Parfum",
+  "house": "Kilian",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Intoxicated.jpg?v=1553669029",
+  "source_page": "https://www.fragrancesline.com/products/intoxicated-perfume-samples-decants",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/kilian-intoxicated-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "lancome-la-vie-est-belle-edp": {
+  "name": "La Vie Est Belle Eau de Parfum",
+  "house": "Lancôme",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-4513-1000px_4518e173-0bb5-4873-a72b-99a6414924b1.jpg?v=1777914647",
+  "source_page": "https://www.microperfumes.com/products/la-vie-est-belle-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/lancome-la-vie-est-belle-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "mancera-instant-crush-edp": {
+  "name": "Instant Crush Eau de Parfum",
+  "house": "Mancera",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-1701-1000px_2d6b2e3d-84e7-4ea8-9448-ec4d6d34609e.jpg?v=1762201275",
+  "source_page": "https://www.microperfumes.com/products/instant-crush-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/mancera-instant-crush-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "mfk-baccarat-rouge-540-extrait": {
+  "name": "Baccarat Rouge 540 Extrait de Parfum",
+  "house": "Maison Francis Kurkdjian",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/baccarat-rouge-540-extrait-unisex-maison-francis-kurkdjian-1ml-samples-decants-fragrancesline.jpg?v=1553669135",
+  "source_page": "https://www.fragrancesline.com/products/baccarat-rouge-540-extrait-de-parfum-perfume-samples-decants",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/mfk-baccarat-rouge-540-extrait.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "prada-luna-rossa-carbon-edt": {
+  "name": "Luna Rossa Carbon Eau de Toilette",
+  "house": "Prada",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-1502-1000px_fdb53ac1-ac8a-4873-94b6-934881d33ae3.jpg?v=1785518427",
+  "source_page": "https://www.microperfumes.com/products/luna-rossa-carbon-edt-retail-bottle-1",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/prada-luna-rossa-carbon-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "rabanne-1-million-edt": {
+  "name": "1 Million Eau de Toilette",
+  "house": "Rabanne",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-7961-1000px_ad294b77-1b0b-4edd-b582-3b96840adbbf.jpg?v=1771543327",
+  "source_page": "https://www.microperfumes.com/products/1-million-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/rabanne-1-million-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "tom-ford-cafe-rose-edp": {
+  "name": "Cafe Rose Eau de Parfum",
+  "house": "Tom Ford",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-5083b-1000px_6bbdf949-a180-4355-ae27-da37019a0832.jpg?v=1771543446",
+  "source_page": "https://www.microperfumes.com/products/cafe-rose-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/tom-ford-cafe-rose-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "tom-ford-grey-vetiver-edp": {
+  "name": "Grey Vetiver Eau de Parfum",
+  "house": "Tom Ford",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-8494-2048px.jpg?v=1794972316",
+  "source_page": "https://www.microperfumes.com/products/grey-vetiver-edp-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/tom-ford-grey-vetiver-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "tom-ford-noir-edp": {
+  "name": "Noir Eau de Parfum",
+  "house": "Tom Ford",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp8492_box_1200.jpg?v=1774660587",
+  "source_page": "https://www.microperfumes.com/products/noir-retail-bottle-1",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/tom-ford-noir-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "tom-ford-noir-extreme-edp": {
+  "name": "Noir Extreme Eau de Parfum",
+  "house": "Tom Ford",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-0519-1000px_fccfcf5e-2d54-4161-990d-4f4ce3353e2f.jpg?v=1791413423",
+  "source_page": "https://www.microperfumes.com/products/noir-extreme-edp-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/tom-ford-noir-extreme-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "tom-ford-velvet-orchid-edp": {
+  "name": "Velvet Orchid Eau de Parfum",
+  "house": "Tom Ford",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-0495-2048px.jpg?v=1793651457",
+  "source_page": "https://www.microperfumes.com/products/velvet-orchid-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/tom-ford-velvet-orchid-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "valentino-uomo-edt": {
+  "name": "Uomo Eau de Toilette",
+  "house": "Valentino",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-5606_22d9dc04-0a9e-4e1f-af72-69820cecd179.jpg?v=1792082446",
+  "source_page": "https://www.microperfumes.com/products/uomo-edt-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/valentino-uomo-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "versace-bright-crystal-edt": {
+  "name": "Bright Crystal Eau de Toilette",
+  "house": "Versace",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-8201-1000px-v2_28c4fbe6-1a1d-42cf-8edf-e2d475cbbc10.jpg?v=1771543999",
+  "source_page": "https://www.microperfumes.com/products/bright-crystal-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/versace-bright-crystal-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "versace-eros-edt": {
+  "name": "Eros Eau de Toilette",
+  "house": "Versace",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-4221-2048px.jpg?v=1793656154",
+  "source_page": "https://www.microperfumes.com/products/eros-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/versace-eros-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "viktor-and-rolf-flowerbomb-edp": {
+  "name": "Flowerbomb Eau de Parfum",
+  "house": "Viktor & Rolf",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-9801-1000px_44754c6b-59ec-40a3-bb1d-8ce802cdeb77.jpg?v=1771543457",
+  "source_page": "https://www.microperfumes.com/products/flowerbomb-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/viktor-and-rolf-flowerbomb-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "viktor-and-rolf-spicebomb-edt": {
+  "name": "Spicebomb Eau de Toilette",
+  "house": "Viktor & Rolf",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-9810-50ml.jpg?v=1794600069",
+  "source_page": "https://www.microperfumes.com/products/spicebomb-edt-retail-bottle-1",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/viktor-and-rolf-spicebomb-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "viktor-and-rolf-spicebomb-extreme-edp": {
+  "name": "Spicebomb Extreme Eau de Parfum",
+  "house": "Viktor & Rolf",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-6981-1000px_04b1d725-2067-46b2-82b1-b34c6bf7bc6e.jpg?v=1771543958",
+  "source_page": "https://www.microperfumes.com/products/spicebomb-extreme-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/viktor-and-rolf-spicebomb-extreme-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "yves-saint-laurent-black-opium-edp": {
+  "name": "Black Opium Eau de Parfum",
+  "house": "Yves Saint Laurent",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-0914-2048px.jpg?v=1793652779",
+  "source_page": "https://www.microperfumes.com/products/black-opium-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/yves-saint-laurent-black-opium-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "yves-saint-laurent-libre-intense-edp": {
+  "name": "Libre Intense Eau de Parfum",
+  "house": "Yves Saint Laurent",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-0027-1000px_deada1c5-be51-427f-ad13-6a10a019bc19.jpg?v=1790356226",
+  "source_page": "https://www.microperfumes.com/products/libre-intense-edp-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/yves-saint-laurent-libre-intense-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "yves-saint-laurent-myslf-edp": {
+  "name": "MYSLF Eau de Parfum",
+  "house": "Yves Saint Laurent",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-4142d-1000px_7eae085f-6a4a-4151-a64c-8919388eceb2.jpg?v=1771543379",
+  "source_page": "https://www.microperfumes.com/products/myslf-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/yves-saint-laurent-myslf-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ }
+}
