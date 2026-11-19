@@ -1,4 +1,13 @@
 {
+ "acqua-di-parma-colonia-intensa-edc": {
+  "name": "Colonia Intensa Eau de Cologne",
+  "house": "Acqua di Parma",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/files/Colonia-Intensa-Acqua-di-Parma-perfume-sample-fragrancesline.jpg?v=1793635646",
+  "source_page": "https://www.fragrancesline.com/products/acqua-di-parma-colonia-intensa-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/acqua-di-parma-colonia-intensa-edc.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "amouage-jubilation-xxv-edp": {
   "name": "Jubilation XXV Eau de Parfum",
   "house": "Amouage",
@@ -69,6 +78,15 @@
   "source_page": "https://www.perfumania.com/products/burberry-burberry-women-eau-de-parfum-spray",
   "retailer": "Perfumania",
   "cutout": "site/images/studio/cutouts-new/burberry-burberry-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "burberry-burberry-edt": {
+  "name": "Burberry Eau de Toilette",
+  "house": "Burberry",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/files/burberry_men_3_4.jpg?v=1773149050",
+  "source_page": "https://www.perfumania.com/products/burberry-for-men-cologne-eau-de-toilette-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/burberry-burberry-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "burberry-goddess-edp": {
@@ -170,6 +188,15 @@
   "cutout": "site/images/studio/cutouts-new/burberry-weekend-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "bvlgari-aqva-marine-edt": {
+  "name": "Aqva Marine Eau de Toilette",
+  "house": "Bvlgari",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/bvlgari-perfume-fragrance-aqva-marine-pour-homme-samples-decants-fragranceslne.jpg?v=1591922476",
+  "source_page": "https://www.fragrancesline.com/products/aqva-marine-perfume-fragrance-sample-decant",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/bvlgari-aqva-marine-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "bvlgari-man-in-black-edp": {
   "name": "Man in Black Eau de Parfum",
   "house": "Bvlgari",
@@ -251,6 +278,15 @@
   "cutout": "site/images/studio/cutouts-new/carolina-herrera-212-sexy-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "carolina-herrera-212-vip-black-elixir": {
+  "name": "212 VIP Black Elixir",
+  "house": "Carolina Herrera",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/files/212-VIP-Black-Elixir-Carolina-Herrera-perfume-decants-sample-fragrancesline.jpg?v=1766857815",
+  "source_page": "https://www.fragrancesline.com/products/212-vip-black-elixir-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/carolina-herrera-212-vip-black-elixir.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "carolina-herrera-bad-boy-edt": {
   "name": "Bad Boy Eau de Toilette",
   "house": "Carolina Herrera",
@@ -294,6 +330,15 @@
   "source_page": "https://www.microperfumes.com/products/good-girl-retail-bottle",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/carolina-herrera-good-girl-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "carolina-herrera-la-bomba-edp": {
+  "name": "La Bomba Eau de Parfum",
+  "house": "Carolina Herrera",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/files/La-Bomba-Carolina-Herrera-perfume-sample-fragrancesline.webp?v=1793635714",
+  "source_page": "https://www.fragrancesline.com/products/carolina-herrera-la-bomba-perfume",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/carolina-herrera-la-bomba-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "carolina-herrera-very-good-girl-edp": {
@@ -465,6 +510,24 @@
   "source_page": "https://www.fragrancesline.com/products/ambre-nuit-perfume-fragrance-sample-decant",
   "retailer": "Fragrances Line",
   "cutout": "site/images/studio/cutouts-new/dior-ambre-nuit-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "dior-diorella-edt": {
+  "name": "Diorella Eau de Toilette",
+  "house": "Dior",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Dior-Diorella-Dior-Perfumes-cologne-sample-decants-fragrancesline.jpg?v=1696430639",
+  "source_page": "https://www.fragrancesline.com/products/diorella-fragrance-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/dior-diorella-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "dior-dioressence-edt": {
+  "name": "Dioressence Eau de Toilette",
+  "house": "Dior",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Dior-Dioressence-Dior-Perfumes-cologne-sample-decants-fragrancesline.jpg?v=1696430646",
+  "source_page": "https://www.fragrancesline.com/products/dioressence-fragrance-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/dior-dioressence-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "dior-fahrenheit-edt": {
@@ -692,6 +755,15 @@
   "cutout": "site/images/studio/cutouts-new/dolce-and-gabbana-the-one-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "dolce-and-gabbana-velvet-desire-edp": {
+  "name": "Velvet Desire Eau de Parfum",
+  "house": "Dolce & Gabbana",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/files/Velvet-Desire-Dolce_Gabbana-perfume-decants-sample-fragrancesline.jpg?v=1729890242",
+  "source_page": "https://www.fragrancesline.com/products/velvet-desire-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/dolce-and-gabbana-velvet-desire-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "escentric-molecules-escentric-01-edt": {
   "name": "Escentric 01 Eau de Toilette",
   "house": "Escentric Molecules",
@@ -782,6 +854,15 @@
   "cutout": "site/images/studio/cutouts-new/giorgio-armani-acqua-di-gio-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "giorgio-armani-acqua-di-gio-elixir": {
+  "name": "Acqua di Gio Elixir",
+  "house": "Giorgio Armani",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/files/Acqua-di-Gio-Elixir-Giorgio-Armani-perfume-decants-sample-fragrancesline.jpg?v=1771607063",
+  "source_page": "https://www.fragrancesline.com/products/acqua-di-gio-elixir-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/giorgio-armani-acqua-di-gio-elixir.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "giorgio-armani-acqua-di-gio-parfum": {
   "name": "Acqua di Gio Parfum",
   "house": "Giorgio Armani",
@@ -798,6 +879,15 @@
   "source_page": "https://www.microperfumes.com/products/acqua-di-gio-profondo-retail-bottle",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/giorgio-armani-acqua-di-gio-profondo-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "giorgio-armani-acqua-di-gio-profumo-edp": {
+  "name": "Acqua di Gio Profumo Eau de Parfum",
+  "house": "Giorgio Armani",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/acqua-di-gio-profumo-perfume-fragrance-samples-decants-fragrancesline.jpg?v=1569178429",
+  "source_page": "https://www.fragrancesline.com/products/acqua-di-gio-profumo-perfume-fragrance-sample-decant",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/giorgio-armani-acqua-di-gio-profumo-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "giorgio-armani-acqua-di-gioia-edp": {
@@ -944,6 +1034,15 @@
   "cutout": "site/images/studio/cutouts-new/gucci-flora-gorgeous-gardenia-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "gucci-flora-gorgeous-jasmine-edp": {
+  "name": "Flora Gorgeous Jasmine Eau de Parfum",
+  "house": "Gucci",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/files/Flora-Gorgeous-Jasmine-Gucci-perfume-decants-sample-fragrancesline.jpg?v=1745575653",
+  "source_page": "https://www.fragrancesline.com/products/flora-gorgeous-jasmine-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/gucci-flora-gorgeous-jasmine-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "gucci-guilty-pour-femme-edp": {
   "name": "Guilty Pour Femme Eau de Parfum",
   "house": "Gucci",
@@ -989,6 +1088,24 @@
   "cutout": "site/images/studio/cutouts-new/guerlain-shalimar-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "hermes-eau-dorange-verte-edc": {
+  "name": "Eau d'Orange Verte Eau de Cologne",
+  "house": "Hermès",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/files/Eau-d-Orange-Verte-Hermes-perfume-samples-fragrancesline.jpg?v=1793635655",
+  "source_page": "https://www.fragrancesline.com/products/hermes-eau-dorange-verte-eau-de-cologne",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/hermes-eau-dorange-verte-edc.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "hermes-le-jardin-de-monsieur-li-edt": {
+  "name": "Le Jardin de Monsieur Li Eau de Toilette",
+  "house": "Hermès",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/le-jardin-de-monseur-hermes-sample-decant-fragrancesline.jpg?v=1580425650",
+  "source_page": "https://www.fragrancesline.com/products/le-jardin-de-monsieur-li-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/hermes-le-jardin-de-monsieur-li-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "hermes-terre-dhermes-edt": {
   "name": "Terre d'Hermes Eau de Toilette",
   "house": "Hermès",
@@ -1005,6 +1122,24 @@
   "source_page": "https://www.microperfumes.com/products/un-jardin-sur-le-nil-edt-retail-bottle-1",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/hermes-un-jardin-sur-le-nil-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "hermes-un-jardin-sur-le-toit-edt": {
+  "name": "Un Jardin Sur Le Toit Eau de Toilette",
+  "house": "Hermès",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Un-Jardin-Sur-Le-Toit-Hermes-perfume-sample-decants-fragrancesline.jpg?v=1600662943",
+  "source_page": "https://www.fragrancesline.com/products/un-jardin-sur-le-toit-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/hermes-un-jardin-sur-le-toit-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "hugo-boss-boss-bottled-edt": {
+  "name": "Boss Bottled Eau de Toilette",
+  "house": "Hugo Boss",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/products/Hugo-Boss-Bottled-Mens-Eau-de-Toilette-Spray-3.4-Best-Price-Fragrance-Parfume-FragranceOutlet.com-Main.jpg?v=1580826108",
+  "source_page": "https://www.perfumania.com/products/hugo-boss-bottled-no-6-mens-eau-de-toilette-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/hugo-boss-boss-bottled-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "initio-blessed-baraka-edp": {
@@ -1106,6 +1241,15 @@
   "cutout": "site/images/studio/cutouts-new/jean-paul-gaultier-le-male-elixir.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "jean-paul-gaultier-le-male-elixir-absolu": {
+  "name": "Le Male Elixir Absolu",
+  "house": "Jean Paul Gaultier",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/files/Le-Male-Elixir-Absolu-Jean-Paul-Gaultier-perfume-sample-fragrancesline.jpg?v=1784904208",
+  "source_page": "https://www.fragrancesline.com/products/jean-paul-gaultier-le-male-elixir-absolu-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/jean-paul-gaultier-le-male-elixir-absolu.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "jean-paul-gaultier-le-male-le-parfum-edp": {
   "name": "Le Male Le Parfum Eau de Parfum",
   "house": "Jean Paul Gaultier",
@@ -1133,6 +1277,24 @@
   "cutout": "site/images/studio/cutouts-new/jean-paul-gaultier-ultra-male-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "jo-malone-earl-grey-and-cucumber-edc": {
+  "name": "Earl Grey & Cucumber Eau de Cologne",
+  "house": "Jo Malone",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Earl-Grey-Cucumber-Jo-Malone-London-Perfumes-cologne-sample-decants-fragrancesline.jpg?v=1686406326",
+  "source_page": "https://www.fragrancesline.com/products/earl-grey-cucumber-cologne-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/jo-malone-earl-grey-and-cucumber-edc.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "jo-malone-english-oak-and-hazelnut-edc": {
+  "name": "English Oak & Hazelnut Eau de Cologne",
+  "house": "Jo Malone",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/English-Oak-Hazelnut-Jo-Malone-perfume-sample-decants-fragrancesline.jpg?v=1631416702",
+  "source_page": "https://www.fragrancesline.com/products/english-oak-hazelnut-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/jo-malone-english-oak-and-hazelnut-edc.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "jo-malone-english-pear-and-freesia-edc": {
   "name": "English Pear & Freesia Eau de Cologne",
   "house": "Jo Malone",
@@ -1142,6 +1304,15 @@
   "cutout": "site/images/studio/cutouts-new/jo-malone-english-pear-and-freesia-edc.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "jo-malone-mimosa-and-cardamom-edc": {
+  "name": "Mimosa & Cardamom Eau de Cologne",
+  "house": "Jo Malone",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Mimosa-Cardamom-Jo-Malone-perfume-sample-decants-fragrancesline.jpg?v=1635040093",
+  "source_page": "https://www.fragrancesline.com/products/mimosa-cardamom-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/jo-malone-mimosa-and-cardamom-edc.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "jo-malone-orange-blossom-edc": {
   "name": "Orange Blossom Eau de Cologne",
   "house": "Jo Malone",
@@ -1149,6 +1320,24 @@
   "source_page": "https://www.microperfumes.com/products/orange-blossom-retail-bottle",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/jo-malone-orange-blossom-edc.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "jo-malone-poppy-and-barley-edc": {
+  "name": "Poppy & Barley Eau de Cologne",
+  "house": "Jo Malone",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Poppy-Barley-Jo-Malone-perfume-sample-decants-fragrancesline.jpg?v=1635040193",
+  "source_page": "https://www.fragrancesline.com/products/poppy-barley-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/jo-malone-poppy-and-barley-edc.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "jo-malone-red-roses-edc": {
+  "name": "Red Roses Eau de Cologne",
+  "house": "Jo Malone",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Red-Roses-Jo-Malone-perfume-sample-decants-fragrancesline.jpg?v=1631416700",
+  "source_page": "https://www.fragrancesline.com/products/red-roses-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/jo-malone-red-roses-edc.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "jo-malone-wild-bluebell-edc": {
@@ -1185,6 +1374,15 @@
   "source_page": "https://www.microperfumes.com/products/not-a-perfume-edp-retail-bottle",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/juliette-has-a-gun-not-a-perfume-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "kayali-vanilla-28-edp": {
+  "name": "Vanilla 28 Eau de Parfum",
+  "house": "Kayali",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-2982-1000px_e2dc4a3c-2d03-4509-886f-39d41d8cec1e.jpg?v=1771543001",
+  "source_page": "https://www.microperfumes.com/products/vanilla-28-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/kayali-vanilla-28-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "kilian-back-to-black-edp": {
@@ -1367,6 +1565,15 @@
   "cutout": "site/images/studio/cutouts-new/mancera-red-tobacco-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "marc-jacobs-daisy-dream-edt": {
+  "name": "Daisy Dream Eau de Toilette",
+  "house": "Marc Jacobs",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-5540_dd1aa4d7-0cbc-4959-a0f9-6b80d0030f66.jpg?v=1791414037",
+  "source_page": "https://www.microperfumes.com/products/daisy-dream-edt-retail-bottle-1",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/marc-jacobs-daisy-dream-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "marc-jacobs-daisy-eau-so-fresh-edt": {
   "name": "Daisy Eau So Fresh Eau de Toilette",
   "house": "Marc Jacobs",
@@ -1529,6 +1736,24 @@
   "cutout": "site/images/studio/cutouts-new/narciso-rodriguez-musc-noir-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "narciso-rodriguez-narciso-poudree-edp": {
+  "name": "Narciso Poudree Eau de Parfum",
+  "house": "Narciso Rodriguez",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Narciso-Poudree-by-Narciso-Rodriguez-perfume-sample-decants-fragrancesline.jpg?v=1635041786",
+  "source_page": "https://www.fragrancesline.com/products/narciso-poudree-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/narciso-rodriguez-narciso-poudree-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "narciso-rodriguez-narciso-rouge-edp": {
+  "name": "Narciso Rouge Eau de Parfum",
+  "house": "Narciso Rodriguez",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Narciso-Rouge-Narciso-Rodriguez-perfume-sample-decants-fragrancesline.jpg?v=1635041790",
+  "source_page": "https://www.fragrancesline.com/products/narciso-rouge-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/narciso-rodriguez-narciso-rouge-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "narciso-rodriguez-pure-musc-edp": {
   "name": "Pure Musc Eau de Parfum",
   "house": "Narciso Rodriguez",
@@ -1601,6 +1826,15 @@
   "cutout": "site/images/studio/cutouts-new/prada-candy-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "prada-la-femme-edp": {
+  "name": "La Femme Eau de Parfum",
+  "house": "Prada",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Prada-La-Femme-Prada-perfume-sample-decants-fragrancesline.jpg?v=1662602327",
+  "source_page": "https://www.fragrancesline.com/products/prada-la-femme-fragrance-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/prada-la-femme-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "prada-lhomme-edt": {
   "name": "L'Homme Eau de Toilette",
   "house": "Prada",
@@ -1608,6 +1842,15 @@
   "source_page": "https://www.microperfumes.com/products/lhomme-retail-bottle",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/prada-lhomme-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "prada-lhomme-intense-edp": {
+  "name": "L'Homme Intense Eau de Parfum",
+  "house": "Prada",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Prada-L_Homme-Intense-perfume-sample-decants-fragrancesline.jpg?v=1600662950",
+  "source_page": "https://www.fragrancesline.com/products/prada-lhomme-intense-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/prada-lhomme-intense-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "prada-luna-rossa-black-edp": {
@@ -1691,6 +1934,15 @@
   "cutout": "site/images/studio/cutouts-new/rabanne-fame-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "rabanne-invictus-aqua-edt": {
+  "name": "Invictus Aqua Eau de Toilette",
+  "house": "Rabanne",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/invictus-aqua-masculine-paco-rabanne-sample-decants-scentsplit_large_29c80435-6ec3-49d6-bed4-60ad69504bb6.jpg?v=1572835948",
+  "source_page": "https://www.fragrancesline.com/products/invictus-aqua-cologne-sample-decants",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/rabanne-invictus-aqua-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "rabanne-invictus-edt": {
   "name": "Invictus Eau de Toilette",
   "house": "Rabanne",
@@ -1725,6 +1977,15 @@
   "source_page": "https://www.microperfumes.com/products/phantom-intense-retail-bottle",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/rabanne-phantom-intense-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "ralph-lauren-polo-red-edt": {
+  "name": "Polo Red Eau de Toilette",
+  "house": "Ralph Lauren",
+  "source": "https://cdn.shopify.com/s/files/1/0755/3607/2955/files/mp-3552_84ca2ba6-ba53-436a-b32c-a2739fc5f9f4.jpg?v=1791922829",
+  "source_page": "https://www.microperfumes.com/products/polo-red-edt-retail-bottle",
+  "retailer": "MicroPerfumes",
+  "cutout": "site/images/studio/cutouts-new/ralph-lauren-polo-red-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "ralph-lauren-romance-edp": {
@@ -1952,6 +2213,15 @@
   "cutout": "site/images/studio/cutouts-new/valentino-uomo-born-in-roma-edt.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "valentino-uomo-born-in-roma-extradose": {
+  "name": "Uomo Born in Roma Extradose",
+  "house": "Valentino",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/files/Born-in-Roma-Extradose-Uomo-Valentino-perfume-sample-decants-fragrancesline_1.jpg?v=1766857818",
+  "source_page": "https://www.fragrancesline.com/products/born-in-roma-extradose-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/valentino-uomo-born-in-roma-extradose.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "valentino-uomo-born-in-roma-green-stravaganza-edt": {
   "name": "Uomo Born in Roma Green Stravaganza Eau de Toilette",
   "house": "Valentino",
@@ -1995,6 +2265,15 @@
   "source_page": "https://www.microperfumes.com/products/uomo-edt-retail-bottle",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/valentino-uomo-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "valentino-uomo-intense-edp": {
+  "name": "Uomo Intense Eau de Parfum",
+  "house": "Valentino",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Valentino-Uomo-Intense-Valentino-perfume-sample-decants-fragrancesline.jpg?v=1596342200",
+  "source_page": "https://www.fragrancesline.com/products/valentino-uomo-intense-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/valentino-uomo-intense-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "valentino-valentina-edp": {
@@ -2141,6 +2420,15 @@
   "cutout": "site/images/studio/cutouts-new/viktor-and-rolf-bonbon-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "viktor-and-rolf-flowerbomb-dew-edp": {
+  "name": "Flowerbomb Dew Eau de Parfum",
+  "house": "Viktor & Rolf",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Flowerbomb-Dew-Viktor-Rolf-perfume-sample-decants-fragrancesline.jpg?v=1660415255",
+  "source_page": "https://www.fragrancesline.com/products/flowerbomb-dew-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/viktor-and-rolf-flowerbomb-dew-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "viktor-and-rolf-flowerbomb-edp": {
   "name": "Flowerbomb Eau de Parfum",
   "house": "Viktor & Rolf",
@@ -2150,6 +2438,15 @@
   "cutout": "site/images/studio/cutouts-new/viktor-and-rolf-flowerbomb-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "viktor-and-rolf-flowerbomb-midnight-edp": {
+  "name": "Flowerbomb Midnight Eau de Parfum",
+  "house": "Viktor & Rolf",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/flowerbomb--midnight-edp-feminine-viktorrolf-sample-decants-fragrancesline.jpg?v=1567586953",
+  "source_page": "https://www.fragrancesline.com/products/flowerbomb-midnight-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/viktor-and-rolf-flowerbomb-midnight-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "viktor-and-rolf-flowerbomb-nectar-edp": {
   "name": "Flowerbomb Nectar Eau de Parfum",
   "house": "Viktor & Rolf",
@@ -2157,6 +2454,24 @@
   "source_page": "https://www.microperfumes.com/products/flowerbomb-nectar-edp-retail-bottle-1",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/viktor-and-rolf-flowerbomb-nectar-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "viktor-and-rolf-flowerbomb-ruby-orchid-edp": {
+  "name": "Flowerbomb Ruby Orchid Eau de Parfum",
+  "house": "Viktor & Rolf",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Flowerbomb-Ruby-Orchid-Viktor_Rolf-perfume-sample-decants-fragrancesline.jpg?v=1662602296",
+  "source_page": "https://www.fragrancesline.com/products/flowerbomb-ruby-orchid-fragrance-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/viktor-and-rolf-flowerbomb-ruby-orchid-edp.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "viktor-and-rolf-good-fortune-edp": {
+  "name": "Good Fortune Eau de Parfum",
+  "house": "Viktor & Rolf",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/files/Good-Fortune-Viktor_Rolf-perfume-sample-fragrancesline.jpg?v=1784903658",
+  "source_page": "https://www.fragrancesline.com/products/good-fortune-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/viktor-and-rolf-good-fortune-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "viktor-and-rolf-spicebomb-dark-leather-edp": {
@@ -2193,6 +2508,15 @@
   "source_page": "https://www.microperfumes.com/products/spicebomb-infrared-edt-retail-bottle-1",
   "retailer": "MicroPerfumes",
   "cutout": "site/images/studio/cutouts-new/viktor-and-rolf-spicebomb-infrared-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
+ "viktor-and-rolf-spicebomb-night-vision-edp": {
+  "name": "Spicebomb Night Vision Eau de Parfum",
+  "house": "Viktor & Rolf",
+  "source": "https://cdn.shopify.com/s/files/1/1672/7645/products/Spicebomb-Night-Vision-EDP-Viktor_Rolf-perfume-sample-decant-fragrancesline.jpg?v=1613414891",
+  "source_page": "https://www.fragrancesline.com/products/spicebomb-night-vision-edp-perfume-sample",
+  "retailer": "Fragrances Line",
+  "cutout": "site/images/studio/cutouts-new/viktor-and-rolf-spicebomb-night-vision-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
  "viktor-and-rolf-spicebomb-night-vision-edt": {
