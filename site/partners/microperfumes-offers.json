@@ -3920,6 +3920,490 @@
      "url": "https://www.microperfumes.com/products/light-blue-travel-spray-1"
     }
    ]
+  },
+  "byredo-eleventh-hour-edp": {
+   "title": "Eleventh Hour EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.79,
+     "url": "https://www.microperfumes.com/products/eleventh-hour-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 23.99,
+     "url": "https://www.microperfumes.com/products/eleventh-hour-travel-spray"
+    }
+   ]
+  },
+  "creed-absolu-aventus-extrait": {
+   "title": "Absolu Aventus EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 9.97,
+     "url": "https://www.microperfumes.com/products/absolu-aventus-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 19.97,
+     "url": "https://www.microperfumes.com/products/absolu-aventus-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 48.97,
+     "url": "https://www.microperfumes.com/products/absolu-aventus-travel-spray"
+    }
+   ]
+  },
+  "creed-centaurus-edp": {
+   "title": "Centaurus EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 6.99,
+     "url": "https://www.microperfumes.com/products/centaurus-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 28.99,
+     "url": "https://www.microperfumes.com/products/centaurus-edp-travel-spray"
+    }
+   ]
+  },
+  "creed-delphinus-edp": {
+   "title": "Delphinus EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 7.99,
+     "url": "https://www.microperfumes.com/products/delphinus-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 42.99,
+     "url": "https://www.microperfumes.com/products/delphinus-travel-spray"
+    }
+   ]
+  },
+  "creed-love-in-black-edp": {
+   "title": "Love in Black EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 5.99,
+     "url": "https://www.microperfumes.com/products/love-in-black-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 25.99,
+     "url": "https://www.microperfumes.com/products/love-in-black-edp-travel-spray"
+    }
+   ]
+  },
+  "creed-neroli-sauvage-edp": {
+   "title": "Neroli Sauvage EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 5.99,
+     "url": "https://www.microperfumes.com/products/neroli-sauvage-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 24.99,
+     "url": "https://www.microperfumes.com/products/neroli-sauvage-edp-travel-spray"
+    }
+   ]
+  },
+  "creed-oud-zarian-edp": {
+   "title": "Oud Zarian EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 9.99,
+     "url": "https://www.microperfumes.com/products/oud-zarian-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 42.99,
+     "url": "https://www.microperfumes.com/products/oud-zarian-edp-travel-spray"
+    }
+   ]
+  },
+  "creed-viking-cologne-edp": {
+   "title": "Viking Cologne EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 5.99,
+     "url": "https://www.microperfumes.com/products/viking-cologne-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 24.99,
+     "url": "https://www.microperfumes.com/products/viking-cologne-travel-spray"
+    }
+   ]
+  },
+  "ex-nihilo-blue-talisman-edp": {
+   "title": "Blue Talisman EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 11.99,
+     "url": "https://www.microperfumes.com/products/blue-talisman-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 50.99,
+     "url": "https://www.microperfumes.com/products/blue-talisman-travel-spray"
+    }
+   ]
+  },
+  "parfums-de-marly-castley-edp": {
+   "title": "Castley EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.99,
+     "url": "https://www.microperfumes.com/products/castley-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 20.99,
+     "url": "https://www.microperfumes.com/products/castley-edp-travel-spray"
+    }
+   ]
+  },
+  "parfums-de-marly-delina-la-rosee-edp": {
+   "title": "Delina La Rosée EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 7.99,
+     "url": "https://www.microperfumes.com/products/delina-la-rosee-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 32.99,
+     "url": "https://www.microperfumes.com/products/delina-la-rosee-travel-spray"
+    }
+   ]
+  },
+  "parfums-de-marly-perseus-edp": {
+   "title": "Perseus EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.97,
+     "url": "https://www.microperfumes.com/products/perseus-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 19.97,
+     "url": "https://www.microperfumes.com/products/perseus-travel-spray"
+    }
+   ]
+  },
+  "tom-ford-eau-dombre-leather-edt": {
+   "title": "Eau d'Ombré Leather EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.99,
+     "url": "https://www.microperfumes.com/products/eau-dombre-leather-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 15.99,
+     "url": "https://www.microperfumes.com/products/eau-dombre-leather-travel-spray"
+    }
+   ]
+  },
+  "tom-ford-rose-exposed-edp": {
+   "title": "Rose Exposed EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 9.99,
+     "url": "https://www.microperfumes.com/products/rose-exposed-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 42.99,
+     "url": "https://www.microperfumes.com/products/rose-exposed-travel-spray"
+    }
+   ]
+  },
+  "tom-ford-vanilla-sex-edp": {
+   "title": "Vanilla Sex EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 13.97,
+     "url": "https://www.microperfumes.com/products/vanilla-sex-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 25.97,
+     "url": "https://www.microperfumes.com/products/vanilla-sex-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 64.99,
+     "url": "https://www.microperfumes.com/products/vanilla-sex-travel-spray"
+    }
+   ]
+  },
+  "escentric-molecules-molecule-01-edt": {
+   "title": "Molecule 01 EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.97,
+     "url": "https://www.microperfumes.com/products/molecule-01-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 15.97,
+     "url": "https://www.microperfumes.com/products/molecule-01-travel-spray"
+    }
+   ]
+  },
+  "chanel-bleu-de-chanel-edp": {
+   "title": "Bleu de Chanel EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 6.99,
+     "url": "https://www.microperfumes.com/products/bleu-de-chanel-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/bleu-de-chanel-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 29.99,
+     "url": "https://www.microperfumes.com/products/bleu-de-chanel-travel-spray"
+    },
+    {
+     "format": "Travel Spray XL",
+     "ml": 10.0,
+     "price": 53.99,
+     "url": "https://www.microperfumes.com/products/bleu-de-chanel-travel-spray-xl"
+    }
+   ]
+  },
+  "chanel-coco-mademoiselle-edp": {
+   "title": "Coco Mademoiselle EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 6.99,
+     "url": "https://www.microperfumes.com/products/coco-mademoiselle-sample-vial-1"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 11.99,
+     "url": "https://www.microperfumes.com/products/coco-mademoiselle-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 28.99,
+     "url": "https://www.microperfumes.com/products/coco-mademoiselle-travel-spray-1"
+    },
+    {
+     "format": "Travel Spray XL",
+     "ml": 10.0,
+     "price": 51.99,
+     "url": "https://www.microperfumes.com/products/coco-mademoiselle-travel-spray-xl"
+    }
+   ]
+  },
+  "azzaro-wanted-edt": {
+   "title": "Azzaro Wanted EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.97,
+     "url": "https://www.microperfumes.com/products/azzaro-wanted-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.97,
+     "url": "https://www.microperfumes.com/products/azzaro-wanted-travel-spray"
+    }
+   ]
+  },
+  "tom-ford-fabulous-edp": {
+   "title": "Fabulous EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 8.99,
+     "url": "https://www.microperfumes.com/products/fabulous-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 16.99,
+     "url": "https://www.microperfumes.com/products/fabulous-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 39.99,
+     "url": "https://www.microperfumes.com/products/fabulous-travel-spray"
+    }
+   ]
+  },
+  "giorgio-armani-acqua-di-gioia-edp": {
+   "title": "Acqua di Gioia EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.98,
+     "url": "https://www.microperfumes.com/products/acqua-di-gioia-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 11.98,
+     "url": "https://www.microperfumes.com/products/acqua-di-gioia-travel-spray"
+    }
+   ]
+  },
+  "burberry-london-edp": {
+   "title": "Burberry London EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/burberry-london-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/burberry-london-travel-spray"
+    }
+   ]
+  },
+  "calvin-klein-escape-edp": {
+   "title": "Escape EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/escape-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/escape-travel-spray"
+    }
+   ]
+  },
+  "calvin-klein-eternity-edp": {
+   "title": "Eternity EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 1.79,
+     "url": "https://www.microperfumes.com/products/eternity-sample-vial-1"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 9.09,
+     "url": "https://www.microperfumes.com/products/eternity-travel-spray-1"
+    }
+   ]
+  },
+  "calvin-klein-obsession-edt": {
+   "title": "Obsession EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.97,
+     "url": "https://www.microperfumes.com/products/obsession-edt-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.97,
+     "url": "https://www.microperfumes.com/products/obsession-edt-travel-spray"
+    }
+   ]
+  },
+  "givenchy-amarige-edt": {
+   "title": "Amarige EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/amarige-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/amarige-travel-spray"
+    }
+   ]
   }
  }
 }
