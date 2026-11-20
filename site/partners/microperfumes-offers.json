@@ -6823,6 +6823,97 @@
      "url": "https://www.microperfumes.com/products/cant-get-enough-edp-travel-spray"
     }
    ]
+  },
+  "kilian-back-to-black-aphrodisiac-edp": {
+   "title": "Back to Black, aphrodisiac EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 7.99,
+     "url": "https://www.microperfumes.com/products/back-to-black-aphrodisiac-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 34.99,
+     "url": "https://www.microperfumes.com/products/back-to-black-aphrodisiac-edp-travel-spray"
+    }
+   ]
+  },
+  "nishane-hacivat-parfum": {
+   "title": "Hacivat Parfum",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.97,
+     "url": "https://www.microperfumes.com/products/hacivat-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 22.97,
+     "url": "https://www.microperfumes.com/products/hacivat-travel-spray"
+    }
+   ]
+  },
+  "parfums-de-marly-layton-exclusif-parfum": {
+   "title": "Layton Exclusif Parfum",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.99,
+     "url": "https://www.microperfumes.com/products/layton-exclusif-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 23.99,
+     "url": "https://www.microperfumes.com/products/layton-exclusif-travel-spray"
+    }
+   ]
+  },
+  "tom-ford-black-orchid-parfum": {
+   "title": "Black Orchid Parfum",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.99,
+     "url": "https://www.microperfumes.com/products/black-orchid-parfum-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 18.99,
+     "url": "https://www.microperfumes.com/products/black-orchid-parfum-travel-spray"
+    }
+   ]
+  },
+  "tom-ford-ombre-leather-parfum": {
+   "title": "Ombre Leather Parfum",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 5.97,
+     "url": "https://www.microperfumes.com/products/ombre-leather-sample-vial"
+    },
+    {
+     "format": "Sample Spray",
+     "ml": 1.5,
+     "price": 8.97,
+     "url": "https://www.microperfumes.com/products/ombre-leather-sample-spray"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 22.97,
+     "url": "https://www.microperfumes.com/products/ombre-leather-travel-spray"
+    }
+   ]
   }
  }
 }

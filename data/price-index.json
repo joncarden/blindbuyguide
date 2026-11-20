@@ -20,6 +20,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "rabanne-1-million-elixir",
+   "name": "1 Million Elixir",
+   "house": "Rabanne",
+   "url": "https://www.blindbuyguide.com/scents/rabanne-1-million-elixir/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "rabanne-1-million-lucky-edt",
    "name": "1 Million Lucky Eau de Toilette",
    "house": "Rabanne",
@@ -1084,6 +1098,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "amouage-ashore-edp",
+   "name": "Ashore Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-ashore-edp/",
+   "lowest_sample_usd": 8.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "atomic-rose-edp",
    "name": "Atomic Rose Eau de Parfum",
    "house": "Initio Parfums Privés",
@@ -1224,6 +1252,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "kilian-back-to-black-aphrodisiac-edp",
+   "name": "Back to Black, aphrodisiac Eau de Parfum",
+   "house": "Kilian",
+   "url": "https://www.blindbuyguide.com/scents/kilian-back-to-black-aphrodisiac-edp/",
+   "lowest_sample_usd": 7.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 4.44,
+   "best_bottle_price_usd": 222,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "carolina-herrera-bad-boy-edt",
    "name": "Bad Boy Eau de Toilette",
    "house": "Carolina Herrera",
@@ -1348,6 +1390,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": null
+  },
+  {
+   "slug": "amouage-beach-hut-woman-edp",
+   "name": "Beach Hut Woman Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-beach-hut-woman-edp/",
+   "lowest_sample_usd": 6.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "tom-ford-beau-de-jour-edp",
@@ -1585,6 +1641,34 @@
    "best_bottle_price_usd": null,
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "yves-saint-laurent-black-opium-over-red-edp",
+   "name": "Black Opium Over Red Eau de Parfum",
+   "house": "Yves Saint Laurent",
+   "url": "https://www.blindbuyguide.com/scents/yves-saint-laurent-black-opium-over-red-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "tom-ford-black-orchid-parfum",
+   "name": "Black Orchid Parfum",
+   "house": "Tom Ford",
+   "url": "https://www.blindbuyguide.com/scents/tom-ford-black-orchid-parfum/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 1.8,
+   "best_bottle_price_usd": 90,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
    "date_checked": "2026-11-19"
   },
   {
@@ -2932,6 +3016,20 @@
    "date_checked": "2026-11-18"
   },
   {
+   "slug": "amouage-crimson-rocks-edp",
+   "name": "Crimson Rocks Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-crimson-rocks-edp/",
+   "lowest_sample_usd": 8.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "xerjoff-cruz-del-sur-ii-edp",
    "name": "Cruz Del Sur II",
    "house": "Xerjoff",
@@ -3156,6 +3254,20 @@
    "date_checked": "2026-11-15"
   },
   {
+   "slug": "amouage-decision-edp",
+   "name": "Decision Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-decision-edp/",
+   "lowest_sample_usd": 8.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "cartier-declaration-edt",
    "name": "Declaration Eau de Toilette",
    "house": "Cartier",
@@ -3251,6 +3363,48 @@
    "best_bottle_price_usd": 48,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-dia-40-extrait",
+   "name": "Dia 40 Extrait de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-dia-40-extrait/",
+   "lowest_sample_usd": 13.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-dia-man-edp",
+   "name": "Dia Man Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-dia-man-edp/",
+   "lowest_sample_usd": 6.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-dia-woman-edp",
+   "name": "Dia Woman Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-dia-woman-edp/",
+   "lowest_sample_usd": 6.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-19"
   },
   {
@@ -3646,6 +3800,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "amouage-elsewhere-extrait",
+   "name": "Elsewhere Extrait de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-elsewhere-extrait/",
+   "lowest_sample_usd": 13.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "louis-vuitton-elves-edp",
    "name": "eLVes Eau de Parfum",
    "house": "Louis Vuitton",
@@ -3786,6 +3954,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "amouage-epic-56-edp",
+   "name": "Epic 56 Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-epic-56-edp/",
+   "lowest_sample_usd": 13.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "amouage-epic-man-edp",
    "name": "Epic Man Eau de Parfum",
    "house": "Amouage",
@@ -3798,6 +3980,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-16"
+  },
+  {
+   "slug": "amouage-epic-woman-edp",
+   "name": "Epic Woman Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-epic-woman-edp/",
+   "lowest_sample_usd": 6.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "xerjoff-erba-gold-edp",
@@ -4066,6 +4262,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "amouage-existence-edp",
+   "name": "Existence Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-existence-edp/",
+   "lowest_sample_usd": 7.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "montblanc-explorer-edp",
    "name": "Explorer Eau de Parfum",
    "house": "Montblanc",
@@ -4225,6 +4435,34 @@
    "house": "Mancera",
    "url": "https://www.blindbuyguide.com/scents/mancera-fig-me-up-edp/",
    "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-figment-man-edp",
+   "name": "Figment Man Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-figment-man-edp/",
+   "lowest_sample_usd": 6.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-figment-woman-edp",
+   "name": "Figment Woman Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-figment-woman-edp/",
+   "lowest_sample_usd": 6.99,
    "lowest_sample_ml": 1,
    "lowest_sample_retailer": "Fragrances Line",
    "best_in_stock_bottle_usd_per_ml": null,
@@ -4528,6 +4766,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "xerjoff-gao-edp",
+   "name": "Gao Eau de Parfum",
+   "house": "Xerjoff",
+   "url": "https://www.blindbuyguide.com/scents/xerjoff-gao-edp/",
+   "lowest_sample_usd": 8.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "roja-gardenia-parfum",
    "name": "Gardenia Parfum",
    "house": "Roja",
@@ -4715,6 +4967,20 @@
    "house": "Mancera",
    "url": "https://www.blindbuyguide.com/scents/mancera-gold-prestigium-edp/",
    "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-gold-woman-edp",
+   "name": "Gold Woman Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-gold-woman-edp/",
+   "lowest_sample_usd": 8.99,
    "lowest_sample_ml": 1,
    "lowest_sample_retailer": "Fragrances Line",
    "best_in_stock_bottle_usd_per_ml": null,
@@ -4962,6 +5228,20 @@
    "date_checked": "2026-11-18"
   },
   {
+   "slug": "nishane-hacivat-parfum",
+   "name": "Hacivat Parfum",
+   "house": "Nishane",
+   "url": "https://www.blindbuyguide.com/scents/nishane-hacivat-parfum/",
+   "lowest_sample_usd": 4.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 2.76,
+   "best_bottle_price_usd": 138,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "hacivat-x-by-nishane",
    "name": "Hacivat X",
    "house": "Nishane",
@@ -5141,6 +5421,34 @@
    "best_bottle_price_usd": 100,
    "best_bottle_ml": 75,
    "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-honour-43-edp",
+   "name": "Honour 43 Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-honour-43-edp/",
+   "lowest_sample_usd": 13.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-honour-man-edp",
+   "name": "Honour Man Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-honour-man-edp/",
+   "lowest_sample_usd": 5.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-19"
   },
   {
@@ -5410,6 +5718,34 @@
    "date_checked": "2026-11-15"
   },
   {
+   "slug": "amouage-interlude-black-iris-man-edp",
+   "name": "Interlude Black Iris Man Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-interlude-black-iris-man-edp/",
+   "lowest_sample_usd": 8.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-interlude-woman-edp",
+   "name": "Interlude Woman Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-interlude-woman-edp/",
+   "lowest_sample_usd": 6.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "kilian-intoxicated-edp",
    "name": "Intoxicated Eau de Parfum",
    "house": "Kilian",
@@ -5676,6 +6012,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "amouage-journey-man-edp",
+   "name": "Journey Man Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-journey-man-edp/",
+   "lowest_sample_usd": 6.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "jubilation-25-edp",
    "name": "Jubilation 25 Eau de Parfum",
    "house": "Amouage",
@@ -5688,6 +6038,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-16"
+  },
+  {
+   "slug": "amouage-jubilation-40-extrait",
+   "name": "Jubilation 40 Extrait de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-jubilation-40-extrait/",
+   "lowest_sample_usd": 14.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "amouage-jubilation-xxv-edp",
@@ -6222,6 +6586,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "parfums-de-marly-layton-exclusif-parfum",
+   "name": "Layton Exclusif Parfum",
+   "house": "Parfums de Marly",
+   "url": "https://www.blindbuyguide.com/scents/parfums-de-marly-layton-exclusif-parfum/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 3.19,
+   "best_bottle_price_usd": 239,
+   "best_bottle_ml": 75,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "jean-paul-gaultier-le-beau-edt",
    "name": "Le Beau Eau de Toilette",
    "house": "Jean Paul Gaultier",
@@ -6530,6 +6908,34 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "amouage-lilac-love-edp",
+   "name": "Lilac Love Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-lilac-love-edp/",
+   "lowest_sample_usd": 7.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "jo-malone-lime-basil-and-mandarin-edp",
+   "name": "Lime Basil & Mandarin Eau de Parfum",
+   "house": "Jo Malone",
+   "url": "https://www.blindbuyguide.com/scents/jo-malone-lime-basil-and-mandarin-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "amouage-line-618-extrait",
    "name": "Line 618",
    "house": "Amouage",
@@ -6628,6 +7034,20 @@
    "date_checked": "2026-11-15"
   },
   {
+   "slug": "amouage-love-delight-extrait",
+   "name": "Love Delight Extrait de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-love-delight-extrait/",
+   "lowest_sample_usd": 8.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "creed-love-in-black-edp",
    "name": "Love in Black Eau de Parfum",
    "house": "Creed",
@@ -6653,6 +7073,34 @@
    "best_bottle_price_usd": 203,
    "best_bottle_ml": 75,
    "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-love-mimosa-edp",
+   "name": "Love Mimosa Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-love-mimosa-edp/",
+   "lowest_sample_usd": 7.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-love-tuberose-edp",
+   "name": "Love Tuberose Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-love-tuberose-edp/",
+   "lowest_sample_usd": 7.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-19"
   },
   {
@@ -6808,6 +7256,34 @@
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-15"
+  },
+  {
+   "slug": "amouage-lyric-man-edp",
+   "name": "Lyric Man Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-lyric-man-edp/",
+   "lowest_sample_usd": 6.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-lyric-woman-edp",
+   "name": "Lyric Woman Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-lyric-woman-edp/",
+   "lowest_sample_usd": 6.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "lys-41-edp",
@@ -7034,6 +7510,34 @@
    "date_checked": "2026-11-18"
   },
   {
+   "slug": "amouage-material-edp",
+   "name": "Material Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-material-edp/",
+   "lowest_sample_usd": 9.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-meander-edp",
+   "name": "Meander Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-meander-edp/",
+   "lowest_sample_usd": 8.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "nishane-meant-to-be-seen-extrait",
    "name": "Meant To Be Seen",
    "house": "Nishane",
@@ -7102,6 +7606,20 @@
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-15"
+  },
+  {
+   "slug": "amouage-memoir-woman-edp",
+   "name": "Memoir Woman Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-memoir-woman-edp/",
+   "lowest_sample_usd": 6.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "tom-ford-metallique-edp",
@@ -7535,6 +8053,20 @@
    "best_bottle_price_usd": 95,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "jo-malone-myrrh-and-tonka-edp",
+   "name": "Myrrh & Tonka Eau de Parfum",
+   "house": "Jo Malone",
+   "url": "https://www.blindbuyguide.com/scents/jo-malone-myrrh-and-tonka-edp/",
+   "lowest_sample_usd": 5.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-19"
   },
   {
@@ -8000,6 +8532,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "tom-ford-ombre-leather-parfum",
+   "name": "Ombre Leather Parfum",
+   "house": "Tom Ford",
+   "url": "https://www.blindbuyguide.com/scents/tom-ford-ombre-leather-parfum/",
+   "lowest_sample_usd": 5.97,
+   "lowest_sample_ml": 0.75,
+   "lowest_sample_retailer": "MicroPerfumes",
+   "best_in_stock_bottle_usd_per_ml": 2.52,
+   "best_bottle_price_usd": 126,
+   "best_bottle_ml": 50,
+   "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "louis-vuitton-ombre-nomade-edp",
    "name": "Ombre Nomade Eau de Parfum",
    "house": "Louis Vuitton",
@@ -8040,6 +8586,34 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-16"
+  },
+  {
+   "slug": "amouage-opus-iii-edp",
+   "name": "Opus III Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-opus-iii-edp/",
+   "lowest_sample_usd": 5.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "amouage-opus-v-edp",
+   "name": "Opus V Eau de Parfum",
+   "house": "Amouage",
+   "url": "https://www.blindbuyguide.com/scents/amouage-opus-v-edp/",
+   "lowest_sample_usd": 6.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "jo-malone-orange-blossom-edc",
@@ -8684,6 +9258,20 @@
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Penhaligon's (brand site, US)",
    "date_checked": "2026-11-16"
+  },
+  {
+   "slug": "jo-malone-peony-and-blush-suede-edt",
+   "name": "Peony & Blush Suede Eau de Toilette",
+   "house": "Jo Malone",
+   "url": "https://www.blindbuyguide.com/scents/jo-malone-peony-and-blush-suede-edt/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "percival",
@@ -10352,6 +10940,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "giorgio-armani-stronger-with-you-extrait",
+   "name": "Stronger With You Extrait de Parfum",
+   "house": "Giorgio Armani",
+   "url": "https://www.blindbuyguide.com/scents/giorgio-armani-stronger-with-you-extrait/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "giorgio-armani-stronger-with-you-intensely-edp",
    "name": "Stronger With You Intensely Eau de Parfum",
    "house": "Giorgio Armani",
@@ -10363,6 +10965,20 @@
    "best_bottle_price_usd": 80,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "giorgio-armani-stronger-with-you-intensely-extrait",
+   "name": "Stronger With You Intensely Extrait de Parfum",
+   "house": "Giorgio Armani",
+   "url": "https://www.blindbuyguide.com/scents/giorgio-armani-stronger-with-you-intensely-extrait/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-19"
   },
   {
@@ -12022,6 +12638,20 @@
    "name": "Xplicit Vanilla Eau de Parfum",
    "house": "Mancera",
    "url": "https://www.blindbuyguide.com/scents/mancera-xplicit-vanilla-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "yves-saint-laurent-y-le-parfum-edp",
+   "name": "Y Le Parfum Eau de Parfum",
+   "house": "Yves Saint Laurent",
+   "url": "https://www.blindbuyguide.com/scents/yves-saint-laurent-y-le-parfum-edp/",
    "lowest_sample_usd": 4.99,
    "lowest_sample_ml": 1,
    "lowest_sample_retailer": "Fragrances Line",
