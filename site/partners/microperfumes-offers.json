@@ -6948,6 +6948,57 @@
      "url": "https://www.microperfumes.com/products/tribeca-travel-spray"
     }
    ]
+  },
+  "glossier-you-edp": {
+   "title": "You EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.99,
+     "url": "https://www.microperfumes.com/products/you-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 17.99,
+     "url": "https://www.microperfumes.com/products/you-travel-spray"
+    }
+   ]
+  },
+  "kayali-eden-juicy-apple-01-edp": {
+   "title": "Eden Juicy Apple 01 EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.97,
+     "url": "https://www.microperfumes.com/products/eden-juicy-apple-01-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 21.97,
+     "url": "https://www.microperfumes.com/products/eden-juicy-apple-01-travel-spray"
+    }
+   ]
+  },
+  "phlur-missing-person-edp": {
+   "title": "Missing Person EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 5.97,
+     "url": "https://www.microperfumes.com/products/missing-person-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 27.97,
+     "url": "https://www.microperfumes.com/products/missing-person-travel-spray"
+    }
+   ]
   }
  }
 }
