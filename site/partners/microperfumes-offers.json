@@ -6500,6 +6500,329 @@
      "url": "https://www.microperfumes.com/products/mon-paris-ysl-travel-spray"
     }
    ]
+  },
+  "burberry-her-edt": {
+   "title": "Her EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/her-sample-vial-1"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/her-travel-spray-1"
+    }
+   ]
+  },
+  "chanel-allure-homme-sport-edt": {
+   "title": "Allure Homme Sport EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.99,
+     "url": "https://www.microperfumes.com/products/allure-homme-sport-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 19.99,
+     "url": "https://www.microperfumes.com/products/allure-homme-sport-travel-spray"
+    }
+   ]
+  },
+  "chanel-chance-edp": {
+   "title": "Chance EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 5.99,
+     "url": "https://www.microperfumes.com/products/chance-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 26.99,
+     "url": "https://www.microperfumes.com/products/chance-travel-spray"
+    }
+   ]
+  },
+  "chanel-chance-eau-tendre-edt": {
+   "title": "Chance Eau Tendre EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.99,
+     "url": "https://www.microperfumes.com/products/chance-eau-tendre-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 19.99,
+     "url": "https://www.microperfumes.com/products/chance-eau-tendre-travel-spray"
+    }
+   ]
+  },
+  "chanel-coco-mademoiselle-intense-edp": {
+   "title": "Coco Mademoiselle Intense EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.99,
+     "url": "https://www.microperfumes.com/products/coco-mademoiselle-intense-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 20.99,
+     "url": "https://www.microperfumes.com/products/coco-mademoiselle-intense-travel-spray"
+    }
+   ]
+  },
+  "chanel-coco-noir-edp": {
+   "title": "Coco Noir EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.99,
+     "url": "https://www.microperfumes.com/products/coco-noir-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 22.99,
+     "url": "https://www.microperfumes.com/products/coco-noir-travel-spray"
+    }
+   ]
+  },
+  "dior-hypnotic-poison-edp": {
+   "title": "Hypnotic Poison EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.99,
+     "url": "https://www.microperfumes.com/products/hypnotic-poison-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 16.99,
+     "url": "https://www.microperfumes.com/products/hypnotic-poison-travel-spray"
+    }
+   ]
+  },
+  "dior-sauvage-parfum": {
+   "title": "Sauvage Parfum",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.97,
+     "url": "https://www.microperfumes.com/products/sauvage-sample-vial-2"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 14.97,
+     "url": "https://www.microperfumes.com/products/sauvage-travel-spray-2"
+    }
+   ]
+  },
+  "rabanne-phantom-edt": {
+   "title": "Phantom EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/phantom-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/phantom-travel-spray"
+    }
+   ]
+  },
+  "bvlgari-pour-homme-edt": {
+   "title": "Bvlgari Pour Homme EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 3.97,
+     "url": "https://www.microperfumes.com/products/bvlgari-pour-homme-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 14.97,
+     "url": "https://www.microperfumes.com/products/bvlgari-pour-homme-travel-spray"
+    }
+   ]
+  },
+  "bvlgari-pour-homme-edp": {
+   "title": "Bvlgari Pour Homme EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.39,
+     "url": "https://www.microperfumes.com/products/bvlgari-pour-homme-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 12.99,
+     "url": "https://www.microperfumes.com/products/bvlgari-pour-homme-edp-travel-spray"
+    }
+   ]
+  },
+  "chanel-chance-eau-fraiche-edt": {
+   "title": "Chance Eau Fraiche EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.99,
+     "url": "https://www.microperfumes.com/products/chance-eau-fraiche-sample-vial-1"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 19.99,
+     "url": "https://www.microperfumes.com/products/chance-eau-fraiche-travel-spray-1"
+    }
+   ]
+  },
+  "chanel-chance-eau-fraiche-edp": {
+   "title": "Chance Eau Fraiche EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 6.99,
+     "url": "https://www.microperfumes.com/products/chance-eau-fraiche-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 28.99,
+     "url": "https://www.microperfumes.com/products/chance-eau-fraiche-travel-spray"
+    }
+   ]
+  },
+  "chanel-coco-mademoiselle-edt": {
+   "title": "Coco Mademoiselle EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 4.99,
+     "url": "https://www.microperfumes.com/products/coco-mademoiselle-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 21.99,
+     "url": "https://www.microperfumes.com/products/coco-mademoiselle-travel-spray"
+    }
+   ]
+  },
+  "creed-eladaria-edp": {
+   "title": "Eladaria EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 8.99,
+     "url": "https://www.microperfumes.com/products/eladaria-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 36.99,
+     "url": "https://www.microperfumes.com/products/eladaria-edp-travel-spray"
+    }
+   ]
+  },
+  "creed-love-in-white-for-summer-edp": {
+   "title": "Love In White For Summer EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 5.99,
+     "url": "https://www.microperfumes.com/products/love-in-white-for-summer-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 26.99,
+     "url": "https://www.microperfumes.com/products/love-in-white-for-summer-travel-spray"
+    }
+   ]
+  },
+  "ex-nihilo-blue-talisman-extrait": {
+   "title": "Blue Talisman Extrait Parfum",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 14.99,
+     "url": "https://www.microperfumes.com/products/blue-talisman-extrait-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 67.99,
+     "url": "https://www.microperfumes.com/products/blue-talisman-extrait-travel-spray"
+    }
+   ]
+  },
+  "ex-nihilo-speed-legends-edp": {
+   "title": "Speed Legends EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 9.59,
+     "url": "https://www.microperfumes.com/products/speed-legends-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 50.99,
+     "url": "https://www.microperfumes.com/products/speed-legends-travel-spray"
+    }
+   ]
+  },
+  "initio-cant-get-enough-edp": {
+   "title": "Can't Get Enough EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 6.99,
+     "url": "https://www.microperfumes.com/products/cant-get-enough-edp-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 31.99,
+     "url": "https://www.microperfumes.com/products/cant-get-enough-edp-travel-spray"
+    }
+   ]
   }
  }
 }
