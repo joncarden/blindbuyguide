@@ -6914,6 +6914,40 @@
      "url": "https://www.microperfumes.com/products/ombre-leather-travel-spray"
     }
    ]
+  },
+  "moschino-uomo-edt": {
+   "title": "Uomo? EDT",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 2.99,
+     "url": "https://www.microperfumes.com/products/uomo-edt-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 3.38,
+     "url": "https://www.microperfumes.com/products/uomo-edt-travel-spray"
+    }
+   ]
+  },
+  "bond-no-9-tribeca-edp": {
+   "title": "TriBeCa EDP",
+   "sizes": [
+    {
+     "format": "Sample Vial",
+     "ml": 0.75,
+     "price": 5.97,
+     "url": "https://www.microperfumes.com/products/tribeca-sample-vial"
+    },
+    {
+     "format": "Travel Spray",
+     "ml": 5.0,
+     "price": 27.97,
+     "url": "https://www.microperfumes.com/products/tribeca-travel-spray"
+    }
+   ]
   }
  }
 }
