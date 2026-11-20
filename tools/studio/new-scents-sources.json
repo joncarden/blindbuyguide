@@ -1844,6 +1844,15 @@
   "cutout": "site/images/studio/cutouts-new/kilian-intoxicated-edp.webp (fal pixelcut/background-removal)",
   "date": "2026-11-19"
  },
+ "lacoste-essential-edt": {
+  "name": "Essential Eau de Toilette",
+  "house": "Lacoste",
+  "source": "https://cdn.shopify.com/s/files/1/0269/7763/2389/files/61kS-AtRaLL._SX522.jpg?v=1689250819",
+  "source_page": "https://perfumania.com/products/lacoste-essential-mens-eau-de-toilette-spray",
+  "retailer": "Perfumania",
+  "cutout": "site/images/studio/cutouts-new/lacoste-essential-edt.webp (fal pixelcut/background-removal)",
+  "date": "2026-11-19"
+ },
  "lacoste-l-12-12-blanc-edt": {
   "name": "L.12.12 Blanc Eau de Toilette",
   "house": "Lacoste",
