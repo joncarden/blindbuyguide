@@ -2,7 +2,7 @@
 
 ## Social slideshows
 
-Any TikTok or Instagram carousel slideshow work starts from `docs/social/tiktok-playbook.md` plus `docs/social/swipe-file.md`. Read both before drafting hooks, slides or captions.
+Any TikTok or Instagram carousel slideshow work starts from `docs/social/tiktok-playbook.md` plus `docs/social/swipe-file.md`. Read both before drafting hooks, slides or captions. Build decks with the slideshow skill (`.claude/skills/slideshow/SKILL.md`, generator `tools/slideshows/slideshow.mjs`): real site prices and studio bottle photos only, never post without Jon's review.
 
 ## Pinterest
 
