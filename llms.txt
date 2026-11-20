@@ -1,11 +1,11 @@
 # Blind Buy Guide
 
-> Independent luxury and niche fragrance guide. For each of 1176 scents we publish the lowest sample price, the best in-stock bottle price per ml, notes, and a verdict on whether to blind buy or sample first. Prices are dated and refreshed monthly. We do not claim to have smelled or worn anything; see the methodology.
+> Independent luxury and niche fragrance guide. For each of 1219 scents we publish the lowest sample price, the best in-stock bottle price per ml, notes, and a verdict on whether to blind buy or sample first. Prices are dated and refreshed monthly. We do not claim to have smelled or worn anything; see the methodology.
 
 ## Key facts and data
-- [Price Book (free, monthly)](https://www.blindbuyguide.com/price-book/): lowest sample price and best in-stock bottle price per ml for 1176 fragrances, last refreshed 2026-11-19.
+- [Price Book (free, monthly)](https://www.blindbuyguide.com/price-book/): lowest sample price and best in-stock bottle price per ml for 1219 fragrances, last refreshed 2026-11-19.
 - [Methodology](https://www.blindbuyguide.com/methodology/): how prices are collected, dated and calculated, and how to cite them.
-- Dataset size: 5,034 dated prices from 43 retailers and brand sites across 1176 fragrances and 76 houses, checked 2026-11-14 to 2026-11-19. Summary: https://www.blindbuyguide.com/data/stats.json
+- Dataset size: 5,184 dated prices from 43 retailers and brand sites across 1219 fragrances and 76 houses, checked 2026-11-14 to 2026-11-19. Summary: https://www.blindbuyguide.com/data/stats.json
 - [Price index as CSV](https://www.blindbuyguide.com/data/price-index.csv) and [as JSON](https://www.blindbuyguide.com/data/price-index.json): the same figures, machine readable.
 - [Editorial policy](https://www.blindbuyguide.com/editorial-policy/), [How we use AI](https://www.blindbuyguide.com/how-we-use-ai/), [Affiliate disclosure](https://www.blindbuyguide.com/affiliate-disclosure/)
 
@@ -264,9 +264,11 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Alto Astral](https://www.blindbuyguide.com/scents/byredo-alto-astral-edp/): Byredo; best in-stock bottle $4.70/ml (checked 2026-11-15)
 - [AlUla Eau de Parfum](https://www.blindbuyguide.com/scents/penhaligons-alula-edp/): Penhaligon's; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [Amarige Eau de Toilette](https://www.blindbuyguide.com/scents/givenchy-amarige-edt/): Givenchy; lowest sample $2.99 for 0.75 ml, best in-stock bottle $0.51/ml (checked 2026-11-19)
+- [Amber Absolute Eau de Parfum](https://www.blindbuyguide.com/scents/tom-ford-amber-absolute-edp/): Tom Ford; lowest sample $21.99 for 1 ml (checked 2026-11-19)
 - [Amber Aoud Crystal Extrait de Parfum](https://www.blindbuyguide.com/scents/roja-amber-aoud-crystal-extrait/): Roja; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Amber Aoud Extrait de Parfum](https://www.blindbuyguide.com/scents/roja-amber-aoud-extrait/): Roja; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Amber Fever Eau de Parfum](https://www.blindbuyguide.com/scents/mancera-amber-fever-edp/): Mancera; lowest sample $3.99 for 1 ml (checked 2026-11-19)
+- [Amber Intrigue Eau de Parfum](https://www.blindbuyguide.com/scents/tom-ford-amber-intrigue-edp/): Tom Ford; lowest sample $16.99 for 1 ml (checked 2026-11-19)
 - [Amber Oud Eau de Parfum](https://www.blindbuyguide.com/scents/kilian-amber-oud-edp/): Kilian; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Amberful Eau de Parfum](https://www.blindbuyguide.com/scents/mancera-amberful-edp/): Mancera; lowest sample $4.99 for 1 ml (checked 2026-11-19)
 - [Ambra Calabria Extrait de Parfum](https://www.blindbuyguide.com/scents/nishane-ambra-calabria-extrait/): Nishane; lowest sample $6.99 for 1 ml (checked 2026-11-19)
@@ -312,6 +314,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Arabesque](https://www.blindbuyguide.com/scents/arabesque-by-ormonde-jayne/): Ormonde Jayne; best in-stock bottle $2.78/ml (checked 2026-11-15)
 - [Arabians Eau de Parfum](https://www.blindbuyguide.com/scents/montale-arabians-edp/): Montale; lowest sample $3.99 for 1 ml (checked 2026-11-19)
 - [Arabians Tonka Eau de Parfum](https://www.blindbuyguide.com/scents/montale-arabians-tonka-edp/): Montale; lowest sample $4.99 for 1 ml (checked 2026-11-19)
+- [Arabie Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-arabie-edp/): Serge Lutens; lowest sample $12.99 for 1 ml (checked 2026-11-19)
 - [Armani Code Absolu Parfum](https://www.blindbuyguide.com/scents/giorgio-armani-armani-code-absolu-parfum/): Giorgio Armani; lowest sample $4.99 for 1 ml (checked 2026-11-19)
 - [Armani Code Eau de Parfum](https://www.blindbuyguide.com/scents/giorgio-armani-armani-code-edp/): Giorgio Armani; lowest sample $4.99 for 1 ml (checked 2026-11-19)
 - [Armani Code Eau de Toilette](https://www.blindbuyguide.com/scents/giorgio-armani-armani-code-edt/): Giorgio Armani; lowest sample $2.99 for 0.75 ml, best in-stock bottle $0.92/ml (checked 2026-11-19)
@@ -329,6 +332,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Avanguardia](https://www.blindbuyguide.com/scents/xerjoff-avanguardia-extrait/): Xerjoff
 - [Aventus 10th Anniversary Eau de Parfum](https://www.blindbuyguide.com/scents/creed-aventus-10th-anniversary-edp/): Creed; lowest sample $9.99 for 1 ml (checked 2026-11-19)
 - [Aventus Cologne](https://www.blindbuyguide.com/scents/creed-aventus-cologne-edp/): Creed; lowest sample $7.97 for 0.75 ml, best in-stock bottle $7.60/ml (checked 2026-11-18)
+- [Azure Lime Eau de Parfum](https://www.blindbuyguide.com/scents/tom-ford-azure-lime-edp/): Tom Ford; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Azzaro Eau de Toilette](https://www.blindbuyguide.com/scents/azzaro-azzaro-edt/): Azzaro
 - [B-612 Extrait de Parfum](https://www.blindbuyguide.com/scents/nishane-b-612-extrait/): Nishane; lowest sample $8.99 for 1 ml (checked 2026-11-19)
 - [Babycat Eau de Parfum](https://www.blindbuyguide.com/scents/yves-saint-laurent-babycat-edp/): Yves Saint Laurent; lowest sample $7.99 for 0.75 ml, best in-stock bottle $3.48/ml (checked 2026-11-19)
@@ -364,6 +368,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Bitter Peach Eau de Parfum](https://www.blindbuyguide.com/scents/bitter-peach-edp/): Tom Ford
 - [Black Gold Eau de Parfum](https://www.blindbuyguide.com/scents/mancera-black-gold-edp/): Mancera; lowest sample $3.99 for 1 ml (checked 2026-11-19)
 - [Black Gold Eau de Parfum](https://www.blindbuyguide.com/scents/ormonde-jayne-black-gold-edp/): Ormonde Jayne; lowest sample $9.99 for 1 ml (checked 2026-11-19)
+- [Black Lacquer Eau de Parfum](https://www.blindbuyguide.com/scents/tom-ford-black-lacquer-edp/): Tom Ford; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Black Moonlight](https://www.blindbuyguide.com/scents/xerjoff-black-moonlight-extrait/): Xerjoff; best in-stock bottle $7.60/ml (checked 2026-11-15)
 - [Black Noir Eau de Parfum](https://www.blindbuyguide.com/scents/mancera-black-noir-edp/): Mancera; lowest sample $4.99 for 1 ml (checked 2026-11-19)
 - [Black Opium Eau de Parfum](https://www.blindbuyguide.com/scents/yves-saint-laurent-black-opium-edp/): Yves Saint Laurent; lowest sample $3.97 for 0.75 ml, best in-stock bottle $1.98/ml (checked 2026-11-19)
@@ -400,9 +405,11 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Bonbon Eau de Parfum](https://www.blindbuyguide.com/scents/viktor-and-rolf-bonbon-edp/): Viktor & Rolf; lowest sample $4.99 for 1 ml (checked 2026-11-19)
 - [Borabora Eau de Parfum](https://www.blindbuyguide.com/scents/giardini-di-toscana-borabora-edp/): Giardini di Toscana; lowest sample $3.19 for 0.75 ml, best in-stock bottle $1.31/ml (checked 2026-11-19)
 - [Born to be Unforgettable Eau de Parfum](https://www.blindbuyguide.com/scents/kilian-born-to-be-unforgettable-edp/): Kilian; lowest sample $5.99 for 1 ml (checked 2026-11-19)
+- [Borneo 1834 Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-borneo-1834-edp/): Serge Lutens; lowest sample $9.99 for 1 ml (checked 2026-11-19)
 - [Boss Bottled Eau de Toilette](https://www.blindbuyguide.com/scents/hugo-boss-boss-bottled-edt/): Hugo Boss
 - [Boss Bottled Elixir](https://www.blindbuyguide.com/scents/hugo-boss-boss-bottled-elixir/): Hugo Boss; lowest sample $4.99 for 1 ml (checked 2026-11-19)
 - [Boss Bottled Triumph Elixir](https://www.blindbuyguide.com/scents/hugo-boss-boss-bottled-triumph-elixir/): Hugo Boss; lowest sample $4.99 for 1 ml (checked 2026-11-19)
+- [Bourreau Des Fleurs Extrait de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-bourreau-des-fleurs-extrait/): Serge Lutens; lowest sample $19.99 for 1 ml (checked 2026-11-19)
 - [Bright Crystal Absolu Eau de Parfum](https://www.blindbuyguide.com/scents/versace-bright-crystal-absolu-edp/): Versace; lowest sample $3.47 for 0.75 ml, best in-stock bottle $0.89/ml (checked 2026-11-19)
 - [Bright Crystal Eau de Toilette](https://www.blindbuyguide.com/scents/versace-bright-crystal-edt/): Versace; lowest sample $3.47 for 0.75 ml, best in-stock bottle $0.83/ml (checked 2026-11-19)
 - [Brit Eau de Parfum](https://www.blindbuyguide.com/scents/burberry-brit-edp/): Burberry; lowest sample $2.99 for 0.75 ml, best in-stock bottle $0.60/ml (checked 2026-11-19)
@@ -431,6 +438,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Cedrat Boise](https://www.blindbuyguide.com/scents/cedrat-boise/): Mancera; lowest sample $2.78 for 0.75 ml (checked 2026-11-18)
 - [Centaurus Eau de Parfum](https://www.blindbuyguide.com/scents/creed-centaurus-edp/): Creed; lowest sample $6.99 for 0.75 ml, best in-stock bottle $2.66/ml (checked 2026-11-19)
 - [Champaca](https://www.blindbuyguide.com/scents/champaca-by-ormonde-jayne/): Ormonde Jayne; best in-stock bottle $3.30/ml (checked 2026-11-15)
+- [Champaca Absolute Eau de Parfum](https://www.blindbuyguide.com/scents/tom-ford-champaca-absolute-edp/): Tom Ford; lowest sample $9.99 for 1 ml (checked 2026-11-19)
 - [Chance Eau de Parfum](https://www.blindbuyguide.com/scents/chanel-chance-edp/): Chanel; lowest sample $5.99 for 0.75 ml, best in-stock bottle $3.42/ml (checked 2026-11-19)
 - [Chance Eau Fraiche Eau de Parfum](https://www.blindbuyguide.com/scents/chanel-chance-eau-fraiche-edp/): Chanel; lowest sample $6.99 for 0.75 ml, best in-stock bottle $3.30/ml (checked 2026-11-19)
 - [Chance Eau Fraiche Eau de Toilette](https://www.blindbuyguide.com/scents/chanel-chance-eau-fraiche-edt/): Chanel; lowest sample $4.99 for 0.75 ml, best in-stock bottle $2.56/ml (checked 2026-11-19)
@@ -467,6 +475,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Cool Water Woman Eau de Toilette](https://www.blindbuyguide.com/scents/davidoff-cool-water-woman-edt/): Davidoff; lowest sample $0.45 for 0.75 ml, best in-stock bottle $0.42/ml (checked 2026-11-19)
 - [Coriandre 39 Eau de Parfum](https://www.blindbuyguide.com/scents/le-labo-coriandre-39-edp/): Le Labo; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Cosmic Pepper Eau de Parfum](https://www.blindbuyguide.com/scents/mancera-cosmic-pepper-edp/): Mancera; lowest sample $4.99 for 1 ml (checked 2026-11-19)
+- [Costa Azzurra Parfum](https://www.blindbuyguide.com/scents/tom-ford-costa-azzurra-parfum/): Tom Ford; lowest sample $6.99 for 1 ml (checked 2026-11-19)
 - [Creed Acqua Fiorentina Eau de Parfum](https://www.blindbuyguide.com/scents/creed-acqua-fiorentina-edp/): Creed
 - [Creed Aventus](https://www.blindbuyguide.com/scents/creed-aventus/): Creed; lowest sample $6.97 for 0.75 ml (checked 2026-11-18)
 - [Creed Aventus For Her Eau de Parfum](https://www.blindbuyguide.com/scents/creed-aventus-for-her-edp/): Creed; lowest sample $6.99 for 1 ml, best in-stock bottle $4.05/ml (checked 2026-11-18)
@@ -488,9 +497,11 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Crystal Noir Eau de Parfum](https://www.blindbuyguide.com/scents/versace-crystal-noir-edp/): Versace
 - [Crystal Noir Eau de Toilette](https://www.blindbuyguide.com/scents/versace-crystal-noir-edt/): Versace; lowest sample $2.99 for 0.75 ml, best in-stock bottle $1.00/ml (checked 2026-11-19)
 - [Cuir 28 Eau de Parfum](https://www.blindbuyguide.com/scents/le-labo-cuir-28-edp/): Le Labo; lowest sample $14.99 for 1 ml (checked 2026-11-19)
+- [Cuir Mauresque Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-cuir-mauresque-edp/): Serge Lutens; lowest sample $8.99 for 1 ml (checked 2026-11-19)
 - [Cuir Obscur Eau de Parfum](https://www.blindbuyguide.com/scents/byredo-cuir-obscur-edp/): Byredo; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [Cuir Sacre Eau de Parfum](https://www.blindbuyguide.com/scents/atelier-des-ors-cuir-sacre-edp/): Atelier des Ors; lowest sample $6.99 for 1 ml (checked 2026-11-19)
 - [Cuir Sellier](https://www.blindbuyguide.com/scents/byredo-cuir-sellier-extrait/): BYREDO; lowest sample $12.99 for 1 ml, best in-stock bottle $6.64/ml (checked 2026-11-15)
+- [Daim Blond Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-daim-blond-edp/): Serge Lutens; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Daisy Dream Eau de Toilette](https://www.blindbuyguide.com/scents/marc-jacobs-daisy-dream-edt/): Marc Jacobs; lowest sample $1.05 for 0.75 ml, best in-stock bottle $0.50/ml (checked 2026-11-19)
 - [Daisy Eau de Toilette](https://www.blindbuyguide.com/scents/marc-jacobs-daisy-edt/): Marc Jacobs; lowest sample $2.09 for 0.75 ml, best in-stock bottle $0.78/ml (checked 2026-11-19)
 - [Daisy Eau So Fresh Eau de Toilette](https://www.blindbuyguide.com/scents/marc-jacobs-daisy-eau-so-fresh-edt/): Marc Jacobs; lowest sample $2.99 for 0.75 ml, best in-stock bottle $0.77/ml (checked 2026-11-19)
@@ -505,6 +516,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Dark Lord Eau de Parfum](https://www.blindbuyguide.com/scents/kilian-dark-lord-edp/): Kilian; lowest sample $9.99 for 1 ml (checked 2026-11-19)
 - [Datura Noir Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-datura-noir-edp/): Serge Lutens; lowest sample $9.99 for 1 ml (checked 2026-11-19)
 - [De Los Santos](https://www.blindbuyguide.com/scents/byredo-de-los-santos-edp/): BYREDO; lowest sample $6.99 for 1 ml, best in-stock bottle $3.30/ml (checked 2026-11-15)
+- [De Profundis Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-de-profundis-edp/): Serge Lutens; lowest sample $21.99 for 1 ml (checked 2026-11-19)
 - [Decision 42](https://www.blindbuyguide.com/scents/amouage-decision-42-extrait/): Amouage
 - [Decision Eau de Parfum](https://www.blindbuyguide.com/scents/amouage-decision-edp/): Amouage; lowest sample $8.99 for 1 ml (checked 2026-11-19)
 - [Declaration Eau de Toilette](https://www.blindbuyguide.com/scents/cartier-declaration-edt/): Cartier; lowest sample $2.99 for 0.75 ml, best in-stock bottle $1.10/ml (checked 2026-11-19)
@@ -553,6 +565,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Eau Rihla Eau de Parfum](https://www.blindbuyguide.com/scents/diptyque-eau-rihla-edp/): Diptyque; lowest sample $12.99 for 1 ml (checked 2026-11-19)
 - [Eau Rose Eau de Parfum](https://www.blindbuyguide.com/scents/diptyque-eau-rose-edp/): Diptyque; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [Eau Rose Eau de Toilette](https://www.blindbuyguide.com/scents/eau-rose-edt/): Diptyque; lowest sample $5.99 for 1 ml (checked 2026-11-16)
+- [Ecrin de Fumee Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-ecrin-de-fumee-edp/): Serge Lutens; lowest sample $6.99 for 1 ml (checked 2026-11-19)
 - [Ege Extrait de Parfum](https://www.blindbuyguide.com/scents/nishane-ege-extrait/): Nishane; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [Eladaria Eau de Parfum](https://www.blindbuyguide.com/scents/creed-eladaria-edp/): Creed; lowest sample $8.99 for 0.75 ml, best in-stock bottle $4.24/ml (checked 2026-11-19)
 - [Eladeria Eau de Parfum](https://www.blindbuyguide.com/scents/creed-eladeria-edp/): Creed; lowest sample $9.99 for 1 ml (checked 2026-11-19)
@@ -617,12 +630,16 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Fig Me Up Eau de Parfum](https://www.blindbuyguide.com/scents/mancera-fig-me-up-edp/): Mancera; lowest sample $4.99 for 1 ml (checked 2026-11-19)
 - [Figment Man Eau de Parfum](https://www.blindbuyguide.com/scents/amouage-figment-man-edp/): Amouage; lowest sample $6.99 for 1 ml (checked 2026-11-19)
 - [Figment Woman Eau de Parfum](https://www.blindbuyguide.com/scents/amouage-figment-woman-edp/): Amouage; lowest sample $6.99 for 1 ml (checked 2026-11-19)
+- [Figue Erotique Eau de Parfum](https://www.blindbuyguide.com/scents/tom-ford-figue-erotique-edp/): Tom Ford; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Fille en Aiguilles Eau de Parfum](https://www.blindbuyguide.com/scents/fille-en-aiguilles-edp/): Serge Lutens; lowest sample $14.99 for 1 ml (checked 2026-11-16)
+- [Fils de Joie Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-fils-de-joie-edp/): Serge Lutens; lowest sample $6.99 for 1 ml (checked 2026-11-19)
+- [Five O’Clock Au Gingembre Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-five-oclock-au-gingembre-edp/): Serge Lutens; lowest sample $5.99 for 1 ml (checked 2026-11-19)
 - [Fleur D'Oranger 27 Eau de Parfum](https://www.blindbuyguide.com/scents/fleur-doranger-27-edp/): Le Labo; lowest sample $7.99 for 1 ml, best in-stock bottle $4.17/ml (checked 2026-11-16)
 - [Fleur de Peau Eau de Parfum](https://www.blindbuyguide.com/scents/diptyque-fleur-de-peau-edp/): Diptyque; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [Fleur Narcotique Eau de Parfum](https://www.blindbuyguide.com/scents/ex-nihilo-fleur-narcotique-edp/): Ex Nihilo; lowest sample $7.99 for 1 ml, best in-stock bottle $3.55/ml (checked 2026-11-19)
 - [Fleur Narcotique Extrait](https://www.blindbuyguide.com/scents/ex-nihilo-fleur-narcotique-extrait/): Ex Nihilo; best in-stock bottle $6.90/ml (checked 2026-11-15)
 - [Fleurs de Gardenia Eau de Parfum](https://www.blindbuyguide.com/scents/creed-fleurs-de-gardenia-edp/): Creed; lowest sample $6.99 for 1 ml (checked 2026-11-19)
+- [Fleurs d’Oranger Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-fleurs-doranger-edp/): Serge Lutens; lowest sample $5.99 for 1 ml (checked 2026-11-19)
 - [Flora Gorgeous Gardenia Eau de Parfum](https://www.blindbuyguide.com/scents/gucci-flora-gorgeous-gardenia-edp/): Gucci; lowest sample $3.97 for 0.75 ml, best in-stock bottle $0.98/ml (checked 2026-11-19)
 - [Flora Gorgeous Jasmine Eau de Parfum](https://www.blindbuyguide.com/scents/gucci-flora-gorgeous-jasmine-edp/): Gucci; lowest sample $4.99 for 1 ml (checked 2026-11-19)
 - [Florane Extrait de Parfum](https://www.blindbuyguide.com/scents/nishane-florane-extrait/): Nishane; lowest sample $4.99 for 1 ml (checked 2026-11-19)
@@ -636,11 +653,14 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Flowerhead Eau de Parfum](https://www.blindbuyguide.com/scents/byredo-flowerhead-edp/): Byredo; lowest sample $6.99 for 1 ml (checked 2026-11-19)
 - [Forbidden Games Eau de Parfum](https://www.blindbuyguide.com/scents/kilian-forbidden-games-edp/): Kilian; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Fortuitous Finley Eau de Parfum](https://www.blindbuyguide.com/scents/penhaligons-fortuitous-finley-edp/): Penhaligon's; lowest sample $9.99 for 1 ml (checked 2026-11-19)
+- [Fougere d’Argent Eau de Parfum](https://www.blindbuyguide.com/scents/tom-ford-fougere-dargent-edp/): Tom Ford; lowest sample $7.99 for 1 ml (checked 2026-11-19)
+- [Fougere Platine Eau de Parfum](https://www.blindbuyguide.com/scents/tom-ford-fougere-platine-edp/): Tom Ford; lowest sample $8.99 for 1 ml (checked 2026-11-19)
 - [Free Eau de Toilette](https://www.blindbuyguide.com/scents/calvin-klein-free-edt/): Calvin Klein
 - [French Affair](https://www.blindbuyguide.com/scents/french-affair-by-ex-nihilo/): Ex Nihilo; best in-stock bottle $5.30/ml (checked 2026-11-15)
 - [French Lover Eau de Parfum](https://www.blindbuyguide.com/scents/frederic-malle-french-lover-edp/): Frederic Malle; lowest sample $6.99 for 1 ml (checked 2026-11-19)
 - [From the Garden Eau de Toilette](https://www.blindbuyguide.com/scents/maison-margiela-from-the-garden-edt/): Maison Margiela; lowest sample $4.99 for 1 ml (checked 2026-11-19)
 - [Fucking Fabulous Eau de Parfum](https://www.blindbuyguide.com/scents/fucking-fabulous-edp/): Tom Ford; lowest sample $12.99 for 1 ml (checked 2026-11-16)
+- [Fumerie Turque Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-fumerie-turque-edp/): Serge Lutens; lowest sample $9.99 for 1 ml (checked 2026-11-19)
 - [Future Memories](https://www.blindbuyguide.com/scents/byredo-future-memories-edp/): Byredo
 - [Féminité du Bois Eau de Parfum](https://www.blindbuyguide.com/scents/feminite-du-bois-edp/): Serge Lutens; lowest sample $10.99 for 2 ml, best in-stock bottle $3.30/ml (checked 2026-11-16)
 - [Gaiac 10](https://www.blindbuyguide.com/scents/gaiac-10/): Le Labo; lowest sample $14.99 for 1 ml (checked 2026-11-16)
@@ -672,6 +692,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Greenley Eau de Parfum](https://www.blindbuyguide.com/scents/greenley-edp/): Parfums de Marly; lowest sample $4.97 for 0.75 ml, best in-stock bottle $3.86/ml (checked 2026-11-18)
 - [Greenwich Village Eau de Parfum](https://www.blindbuyguide.com/scents/bond-no-9-greenwich-village-edp/): Bond No.9; lowest sample $8.99 for 1 ml, best in-stock bottle $4.09/ml (checked 2026-11-19)
 - [Grey Vetiver Eau de Parfum](https://www.blindbuyguide.com/scents/tom-ford-grey-vetiver-edp/): Tom Ford; lowest sample $4.97 for 0.75 ml, best in-stock bottle $2.34/ml (checked 2026-11-19)
+- [Grey Vetiver Parfum](https://www.blindbuyguide.com/scents/tom-ford-grey-vetiver-parfum/): Tom Ford; lowest sample $5.99 for 1 ml (checked 2026-11-19)
 - [Gris Charnel Eau de Parfum](https://www.blindbuyguide.com/scents/bdk-parfums-gris-charnel-edp/): BDK Parfums; lowest sample $4.97 for 0.75 ml, best in-stock bottle $2.90/ml (checked 2026-11-19)
 - [Gris Clair Eau de Parfum](https://www.blindbuyguide.com/scents/gris-clair-edp/): Serge Lutens; lowest sample $14.99 for 1 ml, best in-stock bottle $5.27/ml (checked 2026-11-16)
 - [Gris Dior Eau de Parfum](https://www.blindbuyguide.com/scents/dior-gris-dior-edp/): Dior; lowest sample $6.99 for 1 ml (checked 2026-11-19)
@@ -745,6 +766,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Iris Porcelana Eau de Parfum](https://www.blindbuyguide.com/scents/ex-nihilo-iris-porcelana-edp/): Ex Nihilo; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [Iris Poudre Eau de Parfum](https://www.blindbuyguide.com/scents/frederic-malle-iris-poudre-edp/): Frederic Malle; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [Iris Prima Eau de Parfum](https://www.blindbuyguide.com/scents/penhaligons-iris-prima-edp/): Penhaligon's; lowest sample $9.99 for 1 ml, best in-stock bottle $4.00/ml (checked 2026-11-19)
+- [Iris Silver Mist Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-iris-silver-mist-edp/): Serge Lutens; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Irisss Eau de Parfum](https://www.blindbuyguide.com/scents/irisss-edp/): Xerjoff; lowest sample $12.99 for 1 ml (checked 2026-11-16)
 - [Isola Blu Eau de Parfum](https://www.blindbuyguide.com/scents/roja-isola-blu-edp/): Roja; lowest sample $18.99 for 1 ml (checked 2026-11-19)
 - [Isola Sol Eau de Parfum](https://www.blindbuyguide.com/scents/roja-isola-sol-edp/): Roja; lowest sample $18.99 for 1 ml (checked 2026-11-19)
@@ -757,6 +779,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Jasmin 17 Eau de Parfum](https://www.blindbuyguide.com/scents/jasmin-17-edp/): Le Labo; lowest sample $7.97 for 0.75 ml (checked 2026-11-18)
 - [Jasmin Exclusif Eau de Parfum](https://www.blindbuyguide.com/scents/mancera-jasmin-exclusif-edp/): Mancera; lowest sample $4.99 for 1 ml (checked 2026-11-19)
 - [Jasmin Imperatrice Eugenie Eau de Parfum](https://www.blindbuyguide.com/scents/creed-jasmin-imperatrice-eugenie-edp/): Creed; lowest sample $5.99 for 1 ml (checked 2026-11-19)
+- [Jeux de Peau Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-jeux-de-peau-edp/): Serge Lutens; lowest sample $16.99 for 1 ml (checked 2026-11-19)
 - [Journey Man Eau de Parfum](https://www.blindbuyguide.com/scents/amouage-journey-man-edp/): Amouage; lowest sample $6.99 for 1 ml (checked 2026-11-19)
 - [Jubilation 25 Eau de Parfum](https://www.blindbuyguide.com/scents/jubilation-25-edp/): Amouage; lowest sample $6.99 for 1 ml (checked 2026-11-16)
 - [Jubilation 40 Extrait de Parfum](https://www.blindbuyguide.com/scents/amouage-jubilation-40-extrait/): Amouage; lowest sample $14.99 for 1 ml (checked 2026-11-19)
@@ -793,7 +816,11 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [La Capitale](https://www.blindbuyguide.com/scents/xerjoff-la-capitale-extrait/): Xerjoff; lowest sample $7.99 for 1 ml, best in-stock bottle $5.90/ml (checked 2026-11-15)
 - [La Femme Eau de Parfum](https://www.blindbuyguide.com/scents/prada-la-femme-edp/): Prada; lowest sample $3.99 for 1 ml (checked 2026-11-19)
 - [La Fille de Berlin Eau de Parfum](https://www.blindbuyguide.com/scents/la-fille-de-berlin-edp/): Serge Lutens; lowest sample $5.99 for 1 ml, best in-stock bottle $3.30/ml (checked 2026-11-16)
+- [La Fille Tour De Fer Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-la-fille-tour-de-fer-edp/): Serge Lutens; lowest sample $6.99 for 1 ml (checked 2026-11-19)
+- [La Myrrhe Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-la-myrrhe-edp/): Serge Lutens; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [La Nuit De L'Homme Eau de Toilette](https://www.blindbuyguide.com/scents/yves-saint-laurent-la-nuit-de-lhomme-edt/): Yves Saint Laurent; lowest sample $2.97 for 0.75 ml, best in-stock bottle $0.98/ml (checked 2026-11-19)
+- [La Nuit Tombee Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-la-nuit-tombee-edp/): Serge Lutens; lowest sample $6.99 for 1 ml (checked 2026-11-19)
+- [La Proie Pour L'Ombre Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-la-proie-pour-lombre-edp/): Serge Lutens; lowest sample $8.99 for 1 ml (checked 2026-11-19)
 - [La Sélection Florale (3 x 12ml set)](https://www.blindbuyguide.com/scents/byredo-la-selection-florale-set/): Byredo
 - [La Sélection Nomade (3 x 12ml set)](https://www.blindbuyguide.com/scents/byredo-la-selection-nomade-set/): Byredo
 - [La Tulipe](https://www.blindbuyguide.com/scents/byredo-la-tulipe-edp/): BYREDO; lowest sample $6.99 for 1 ml, best in-stock bottle $4.70/ml (checked 2026-11-15)
@@ -817,6 +844,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Le Male Elixir Absolu](https://www.blindbuyguide.com/scents/jean-paul-gaultier-le-male-elixir-absolu/): Jean Paul Gaultier; lowest sample $5.99 for 1 ml (checked 2026-11-19)
 - [Le Male Le Parfum Eau de Parfum](https://www.blindbuyguide.com/scents/jean-paul-gaultier-le-male-le-parfum-edp/): Jean Paul Gaultier; lowest sample $2.97 for 0.75 ml, best in-stock bottle $1.17/ml (checked 2026-11-19)
 - [Le Parfum de Therese Eau de Parfum](https://www.blindbuyguide.com/scents/frederic-malle-le-parfum-de-therese-edp/): Frederic Malle; lowest sample $7.99 for 1 ml (checked 2026-11-19)
+- [Le Participe Passe Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-le-participe-passe-edp/): Serge Lutens; lowest sample $6.99 for 1 ml (checked 2026-11-19)
 - [Leau Des Hesperides Eau de Toilette](https://www.blindbuyguide.com/scents/diptyque-leau-des-hesperides-edt/): Diptyque; lowest sample $5.99 for 1 ml (checked 2026-11-19)
 - [Legacy of Petra Eau de Parfum](https://www.blindbuyguide.com/scents/penhaligons-legacy-of-petra-edp/): Penhaligon's; lowest sample $6.99 for 1 ml (checked 2026-11-19)
 - [Legend Eau de Toilette](https://www.blindbuyguide.com/scents/montblanc-legend-edt/): Montblanc; lowest sample $2.99 for 0.75 ml, best in-stock bottle $0.62/ml (checked 2026-11-19)
@@ -847,6 +875,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [London Eau de Toilette](https://www.blindbuyguide.com/scents/burberry-london-edt/): Burberry; lowest sample $2.99 for 0.75 ml, best in-stock bottle $0.58/ml (checked 2026-11-19)
 - [Lost In Paris Extrait de Parfum](https://www.blindbuyguide.com/scents/roja-lost-in-paris-extrait/): Roja; lowest sample $19.99 for 1 ml (checked 2026-11-19)
 - [Louis XV 1722 Rose](https://www.blindbuyguide.com/scents/xerjoff-louis-xv-1722-rose-extrait/): Xerjoff; lowest sample $9.99 for 1 ml, best in-stock bottle $6.50/ml (checked 2026-11-15)
+- [Louve Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-louve-edp/): Serge Lutens; lowest sample $9.99 for 1 ml (checked 2026-11-19)
 - [Love Amber and Oud Eau de Parfum](https://www.blindbuyguide.com/scents/kilian-love-amber-and-oud-edp/): Kilian; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Love Delight Extrait de Parfum](https://www.blindbuyguide.com/scents/amouage-love-delight-extrait/): Amouage; lowest sample $8.99 for 1 ml (checked 2026-11-19)
 - [Love don't be Shy Extreme Eau de Parfum](https://www.blindbuyguide.com/scents/kilian-love-dont-be-shy-extreme-edp/): Kilian; lowest sample $16.99 for 1 ml (checked 2026-11-19)
@@ -948,6 +977,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [My Way Ylang Eau de Parfum](https://www.blindbuyguide.com/scents/giorgio-armani-my-way-ylang-edp/): Giorgio Armani; lowest sample $2.99 for 0.75 ml, best in-stock bottle $1.90/ml (checked 2026-11-19)
 - [Myrrh & Tonka Eau de Parfum](https://www.blindbuyguide.com/scents/jo-malone-myrrh-and-tonka-edp/): Jo Malone; lowest sample $5.99 for 1 ml (checked 2026-11-19)
 - [Myrrhe 55 Eau de Parfum](https://www.blindbuyguide.com/scents/le-labo-myrrhe-55-edp/): Le Labo; lowest sample $14.99 for 1 ml (checked 2026-11-19)
+- [Myrrhe Mystere Eau de Parfum](https://www.blindbuyguide.com/scents/tom-ford-myrrhe-mystere-edp/): Tom Ford; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [MYSLF Eau de Parfum](https://www.blindbuyguide.com/scents/yves-saint-laurent-myslf-edp/): Yves Saint Laurent; lowest sample $3.97 for 0.75 ml, best in-stock bottle $1.57/ml (checked 2026-11-19)
 - [MYSLF Le Parfum](https://www.blindbuyguide.com/scents/yves-saint-laurent-myslf-le-parfum/): Yves Saint Laurent; lowest sample $3.97 for 0.75 ml, best in-stock bottle $2.00/ml (checked 2026-11-19)
 - [Mystic Experience Eau de Parfum](https://www.blindbuyguide.com/scents/initio-mystic-experience-edp/): Initio; lowest sample $6.99 for 1 ml (checked 2026-11-19)
@@ -980,6 +1010,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Not a Perfume Eau de Parfum](https://www.blindbuyguide.com/scents/juliette-has-a-gun-not-a-perfume-edp/): Juliette Has a Gun; lowest sample $3.97 for 0.75 ml, best in-stock bottle $1.20/ml (checked 2026-11-19)
 - [Novae Vanilla Eau de Parfum](https://www.blindbuyguide.com/scents/atelier-des-ors-novae-vanilla-edp/): Atelier des Ors; lowest sample $6.99 for 1 ml (checked 2026-11-19)
 - [Nuda Veritas Eau de Parfum](https://www.blindbuyguide.com/scents/atelier-des-ors-nuda-veritas-edp/): Atelier des Ors; lowest sample $5.99 for 1 ml (checked 2026-11-19)
+- [Nuit de Cellophane Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-nuit-de-cellophane-edp/): Serge Lutens; lowest sample $5.99 for 1 ml (checked 2026-11-19)
 - [NuWa Eau de Parfum](https://www.blindbuyguide.com/scents/roja-nuwa-edp/): Roja; lowest sample $18.99 for 1 ml (checked 2026-11-19)
 - [Oajan Eau de Parfum](https://www.blindbuyguide.com/scents/oajan-edp/): Parfums de Marly; lowest sample $4.99 for 1 ml, best in-stock bottle $3.22/ml (checked 2026-11-18)
 - [Obsession Eau de Parfum](https://www.blindbuyguide.com/scents/calvin-klein-obsession-edp/): Calvin Klein; lowest sample $2.99 for 0.75 ml, best in-stock bottle $0.26/ml (checked 2026-11-19)
@@ -1111,6 +1142,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Qatar Extrait de Parfum](https://www.blindbuyguide.com/scents/roja-qatar-extrait/): Roja; lowest sample $18.99 for 1 ml (checked 2026-11-19)
 - [Queen of Silk](https://www.blindbuyguide.com/scents/creed-queen-of-silk-edp/): Creed; lowest sample $7.99 for 0.75 ml, best in-stock bottle $6.13/ml (checked 2026-11-18)
 - [Queening Extrait de Parfum](https://www.blindbuyguide.com/scents/mind-games-queening-extrait/): Mind Games; lowest sample $7.99 for 1 ml (checked 2026-11-19)
+- [Rahat Loukoum Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-rahat-loukoum-edp/): Serge Lutens; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [RDHP15 Extrait de Parfum](https://www.blindbuyguide.com/scents/roja-rdhp15-extrait/): Roja; lowest sample $18.99 for 1 ml (checked 2026-11-19)
 - [RDHP20 Extrait de Parfum](https://www.blindbuyguide.com/scents/roja-rdhp20-extrait/): Roja; lowest sample $18.99 for 1 ml (checked 2026-11-19)
 - [Red Door Eau de Toilette](https://www.blindbuyguide.com/scents/elizabeth-arden-red-door-edt/): Elizabeth Arden
@@ -1167,6 +1199,9 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Santal 33 Eau de Parfum](https://www.blindbuyguide.com/scents/santal-33-edp/): Le Labo; lowest sample $5.97 for 0.75 ml (checked 2026-11-18)
 - [Santal Blanc Eau de Parfum](https://www.blindbuyguide.com/scents/santal-blanc-edp/): Serge Lutens
 - [Santal Calling Eau de Parfum](https://www.blindbuyguide.com/scents/ex-nihilo-santal-calling-edp/): Ex Nihilo; lowest sample $7.99 for 1 ml (checked 2026-11-19)
+- [Santal de Mysore Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-santal-de-mysore-edp/): Serge Lutens; lowest sample $14.99 for 1 ml (checked 2026-11-19)
+- [Santal Majuscule Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-santal-majuscule-edp/): Serge Lutens; lowest sample $5.99 for 1 ml (checked 2026-11-19)
+- [Sarrasins Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-sarrasins-edp/): Serge Lutens; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Sauvage Eau de Parfum](https://www.blindbuyguide.com/scents/dior-sauvage-edp/): Dior; lowest sample $3.97 for 0.75 ml, best in-stock bottle $1.61/ml (checked 2026-11-19)
 - [Sauvage Eau de Toilette](https://www.blindbuyguide.com/scents/dior-sauvage-edt/): Dior; lowest sample $2.99 for 0.75 ml, best in-stock bottle $1.98/ml (checked 2026-11-19)
 - [Sauvage Elixir](https://www.blindbuyguide.com/scents/dior-sauvage-elixir/): Dior; lowest sample $5.97 for 0.75 ml, best in-stock bottle $3.15/ml (checked 2026-11-19)
@@ -1188,6 +1223,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Si Eau de Parfum](https://www.blindbuyguide.com/scents/giorgio-armani-si-edp/): Giorgio Armani; lowest sample $2.99 for 0.75 ml, best in-stock bottle $1.90/ml (checked 2026-11-19)
 - [Sicily Eau de Parfum](https://www.blindbuyguide.com/scents/mancera-sicily-edp/): Mancera; lowest sample $3.99 for 1 ml (checked 2026-11-19)
 - [Side Effect](https://www.blindbuyguide.com/scents/side-effect/): Initio Parfums Prives; lowest sample $6.97 for 0.75 ml (checked 2026-11-18)
+- [Sidi Bel-Abbes Extrait de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-sidi-bel-abbes-extrait/): Serge Lutens; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Silver Blue Eau de Parfum](https://www.blindbuyguide.com/scents/mancera-silver-blue-edp/): Mancera; lowest sample $4.99 for 1 ml (checked 2026-11-19)
 - [Silver Man Eau de Parfum](https://www.blindbuyguide.com/scents/amouage-silver-man-edp/): Amouage; lowest sample $6.99 for 1 ml (checked 2026-11-19)
 - [Silver Oud Eau de Parfum](https://www.blindbuyguide.com/scents/amouage-silver-oud-edp/): Amouage; lowest sample $14.99 for 1 ml (checked 2026-11-19)
@@ -1269,6 +1305,9 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [The Revenge of Lady Blanche Eau de Parfum](https://www.blindbuyguide.com/scents/penhaligons-the-revenge-of-lady-blanche-edp/): Penhaligon's; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [The Ruthless Countess Dorothea Eau de Parfum](https://www.blindbuyguide.com/scents/penhaligons-the-ruthless-countess-dorothea-edp/): Penhaligon's; lowest sample $16.99 for 1 ml (checked 2026-11-19)
 - [The Tragedy of Lord George Eau de Parfum](https://www.blindbuyguide.com/scents/penhaligons-the-tragedy-of-lord-george-edp/): Penhaligon's; lowest sample $8.99 for 1 ml (checked 2026-11-19)
+- [The Tragedy of Lord George Intense Eau de Parfum](https://www.blindbuyguide.com/scents/penhaligons-the-tragedy-of-lord-george-intense-edp/): Penhaligon's; lowest sample $9.99 for 1 ml (checked 2026-11-19)
+- [The Uncompromising Sohan Eau de Parfum](https://www.blindbuyguide.com/scents/penhaligons-the-uncompromising-sohan-edp/): Penhaligon's; lowest sample $7.99 for 1 ml (checked 2026-11-19)
+- [The World According to Arthur Eau de Parfum](https://www.blindbuyguide.com/scents/penhaligons-the-world-according-to-arthur-edp/): Penhaligon's; lowest sample $8.99 for 1 ml (checked 2026-11-19)
 - [Thorns Become Roses](https://www.blindbuyguide.com/scents/nishane-thorns-become-roses-extrait/): Nishane; best in-stock bottle $5.20/ml (checked 2026-11-14)
 - [Thé Noir 29 Eau de Parfum](https://www.blindbuyguide.com/scents/the-noir-29-edp/): Le Labo; lowest sample $7.99 for 1 ml (checked 2026-11-18)
 - [Ti Amo Eau de Parfum](https://www.blindbuyguide.com/scents/roja-ti-amo-edp/): Roja; lowest sample $18.99 for 1 ml (checked 2026-11-19)
@@ -1307,6 +1346,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Tsarina Intensivo Eau de Parfum](https://www.blindbuyguide.com/scents/ormonde-jayne-tsarina-intensivo-edp/): Ormonde Jayne; lowest sample $9.99 for 1 ml (checked 2026-11-19)
 - [Tsarina Parfum](https://www.blindbuyguide.com/scents/ormonde-jayne-tsarina-parfum/): Ormonde Jayne; lowest sample $6.99 for 1 ml (checked 2026-11-19)
 - [Tubereuse 40](https://www.blindbuyguide.com/scents/tubereuse-40/): Le Labo; lowest sample $14.99 for 1 ml (checked 2026-11-16)
+- [Tubereuse Criminelle Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-tubereuse-criminelle-edp/): Serge Lutens; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Tuberoza](https://www.blindbuyguide.com/scents/nishane-tuberoza-extrait/): Nishane; best in-stock bottle $5.20/ml (checked 2026-11-14)
 - [Tuberoza X Extrait de Parfum](https://www.blindbuyguide.com/scents/nishane-tuberoza-x-extrait/): Nishane; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [Tuxedo Eau de Parfum](https://www.blindbuyguide.com/scents/yves-saint-laurent-tuxedo-edp/): Yves Saint Laurent; lowest sample $7.99 for 1 ml, best in-stock bottle $7.34/ml (checked 2026-11-19)
@@ -1331,6 +1371,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Uomo Born in Roma Yellow Dream Eau de Toilette](https://www.blindbuyguide.com/scents/valentino-uomo-born-in-roma-yellow-dream-edt/): Valentino; lowest sample $3.99 for 1 ml (checked 2026-11-19)
 - [Uomo Eau de Toilette](https://www.blindbuyguide.com/scents/valentino-uomo-edt/): Valentino; lowest sample $2.99 for 0.75 ml, best in-stock bottle $0.70/ml (checked 2026-11-19)
 - [Uomo Intense Eau de Parfum](https://www.blindbuyguide.com/scents/valentino-uomo-intense-edp/): Valentino; lowest sample $3.99 for 1 ml (checked 2026-11-19)
+- [Vaara Eau de Parfum](https://www.blindbuyguide.com/scents/penhaligons-vaara-edp/): Penhaligon's; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [Vain & Naive Extrait de Parfum](https://www.blindbuyguide.com/scents/nishane-vain-and-naive-extrait/): Nishane; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [Valaya Eau de Parfum](https://www.blindbuyguide.com/scents/valaya-edp/): Parfums de Marly; lowest sample $7.97 for 0.75 ml, best in-stock bottle $5.47/ml (checked 2026-11-18)
 - [Valaya Exclusif Eau de Parfum](https://www.blindbuyguide.com/scents/parfums-de-marly-valaya-exclusif-edp/): Parfums de Marly; lowest sample $9.99 for 1 ml, best in-stock bottle $4.73/ml (checked 2026-11-19)
@@ -1356,6 +1397,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Vetiver Extraordinaire Eau de Parfum](https://www.blindbuyguide.com/scents/frederic-malle-vetiver-extraordinaire-edp/): Frederic Malle; lowest sample $6.99 for 1 ml (checked 2026-11-19)
 - [Vetiver Geranium Eau de Parfum](https://www.blindbuyguide.com/scents/creed-vetiver-geranium-edp/): Creed; lowest sample $8.99 for 1 ml (checked 2026-11-19)
 - [Vetiver Moloko Eau de Parfum](https://www.blindbuyguide.com/scents/ex-nihilo-vetiver-moloko-edp/): Ex Nihilo; lowest sample $7.99 for 1 ml (checked 2026-11-19)
+- [Vetiver Oriental Eau de Parfum](https://www.blindbuyguide.com/scents/serge-lutens-vetiver-oriental-edp/): Serge Lutens; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [Vetiver Pour Homme Parfum](https://www.blindbuyguide.com/scents/roja-vetiver-pour-homme-parfum/): Roja; lowest sample $8.99 for 1 ml (checked 2026-11-19)
 - [Vetiver Sensuel Eau de Parfum](https://www.blindbuyguide.com/scents/mancera-vetiver-sensuel-edp/): Mancera; lowest sample $4.99 for 1 ml (checked 2026-11-19)
 - [Viking Cologne Eau de Parfum](https://www.blindbuyguide.com/scents/creed-viking-cologne-edp/): Creed; lowest sample $5.99 for 0.75 ml, best in-stock bottle $4.20/ml (checked 2026-11-19)
@@ -1363,6 +1405,7 @@ Cite price figures as "Blind Buy Guide, Price Book, 2026-11-19 edition" with the
 - [Violette 30](https://www.blindbuyguide.com/scents/le-labo-violette-30-edp/): Le Labo; best in-stock bottle $5.00/ml (checked 2026-11-15)
 - [Viper Green Eau de Parfum](https://www.blindbuyguide.com/scents/ex-nihilo-viper-green-edp/): Ex Nihilo; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [Vodka on the Rocks Eau de Parfum](https://www.blindbuyguide.com/scents/kilian-vodka-on-the-rocks-edp/): Kilian; lowest sample $14.99 for 1 ml (checked 2026-11-19)
+- [Vra Vra Vroom Eau de Parfum](https://www.blindbuyguide.com/scents/penhaligons-vra-vra-vroom-edp/): Penhaligon's; lowest sample $7.99 for 1 ml (checked 2026-11-19)
 - [Wanted Eau de Toilette](https://www.blindbuyguide.com/scents/azzaro-wanted-edt/): Azzaro; lowest sample $2.97 for 0.75 ml, best in-stock bottle $0.47/ml (checked 2026-11-19)
 - [Water Calligraphy Eau de Parfum](https://www.blindbuyguide.com/scents/kilian-water-calligraphy-edp/): Kilian; lowest sample $14.99 for 1 ml (checked 2026-11-19)
 - [Weekend Eau de Parfum](https://www.blindbuyguide.com/scents/burberry-weekend-edp/): Burberry; lowest sample $1.79 for 0.75 ml, best in-stock bottle $0.38/ml (checked 2026-11-19)
