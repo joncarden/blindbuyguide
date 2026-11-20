@@ -720,11 +720,53 @@
    "date_checked": "2026-11-18"
   },
   {
+   "slug": "mancera-aoud-cafe-edp",
+   "name": "Aoud Cafe Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-aoud-cafe-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-aoud-exclusif-edp",
+   "name": "Aoud Exclusif Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-aoud-exclusif-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "mancera-aoud-lemon-mint-edp",
    "name": "Aoud Lemon Mint Eau de Parfum",
    "house": "Mancera",
    "url": "https://www.blindbuyguide.com/scents/mancera-aoud-lemon-mint-edp/",
    "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-aoud-orchid-edp",
+   "name": "Aoud Orchid Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-aoud-orchid-edp/",
+   "lowest_sample_usd": 3.99,
    "lowest_sample_ml": 1,
    "lowest_sample_retailer": "Fragrances Line",
    "best_in_stock_bottle_usd_per_ml": null,
@@ -774,6 +816,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-18"
+  },
+  {
+   "slug": "mancera-aqua-wood-edp",
+   "name": "Aqua Wood Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-aqua-wood-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "bvlgari-aqva-marine-edt",
@@ -1266,6 +1322,20 @@
    "date_checked": "2026-11-16"
   },
   {
+   "slug": "ormonde-jayne-bijou-zafran-edp",
+   "name": "Bijou Zafran Eau de Parfum",
+   "house": "Ormonde Jayne",
+   "url": "https://www.blindbuyguide.com/scents/ormonde-jayne-bijou-zafran-edp/",
+   "lowest_sample_usd": 8.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "bitter-peach-edp",
    "name": "Bitter Peach Eau de Parfum",
    "house": "Tom Ford",
@@ -1280,6 +1350,34 @@
    "date_checked": "2026-11-14"
   },
   {
+   "slug": "mancera-black-gold-edp",
+   "name": "Black Gold Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-black-gold-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "ormonde-jayne-black-gold-edp",
+   "name": "Black Gold Eau de Parfum",
+   "house": "Ormonde Jayne",
+   "url": "https://www.blindbuyguide.com/scents/ormonde-jayne-black-gold-edp/",
+   "lowest_sample_usd": 9.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "xerjoff-black-moonlight-extrait",
    "name": "Black Moonlight",
    "house": "Xerjoff",
@@ -1292,6 +1390,20 @@
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-15"
+  },
+  {
+   "slug": "mancera-black-noir-edp",
+   "name": "Black Noir Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-black-noir-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "yves-saint-laurent-black-opium-edp",
@@ -1348,6 +1460,34 @@
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-18"
+  },
+  {
+   "slug": "mancera-black-to-black-edp",
+   "name": "Black to Black Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-black-to-black-edp/",
+   "lowest_sample_usd": 5.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-black-vanilla-edp",
+   "name": "Black Vanilla Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-black-vanilla-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "byredo-blanche-absolu-extrait",
@@ -1994,6 +2134,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "mancera-cherry-cherry-edp",
+   "name": "Cherry Cherry Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-cherry-cherry-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "chloe-chloe-edp",
    "name": "Chloe Eau de Parfum",
    "house": "Chloé",
@@ -2006,6 +2160,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": null
+  },
+  {
+   "slug": "mancera-choco-violet-edp",
+   "name": "Choco Violet Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-choco-violet-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "montale-chocolate-greedy-edp",
@@ -2078,6 +2246,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "mancera-cinque-terre-edp",
+   "name": "Cinque Terre Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-cinque-terre-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "calvin-klein-ck-one-edt",
    "name": "Ck One Eau de Toilette",
    "house": "Calvin Klein",
@@ -2117,6 +2299,20 @@
    "best_bottle_price_usd": 169,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-coco-vanille-edp",
+   "name": "Coco Vanille Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-coco-vanille-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-19"
   },
   {
@@ -2187,6 +2383,20 @@
    "best_bottle_price_usd": 21,
    "best_bottle_ml": 50,
    "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-cosmic-pepper-edp",
+   "name": "Cosmic Pepper Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-cosmic-pepper-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-19"
   },
   {
@@ -3324,6 +3534,20 @@
    "date_checked": null
   },
   {
+   "slug": "mancera-eternal-wood-edp",
+   "name": "Eternal Wood Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-eternal-wood-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "calvin-klein-eternity-air-edt",
    "name": "Eternity Air Eau de Toilette",
    "house": "Calvin Klein",
@@ -3546,6 +3770,34 @@
    "best_bottle_ml": 100,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-15"
+  },
+  {
+   "slug": "mancera-fig-extasy-edp",
+   "name": "Fig Extasy Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-fig-extasy-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-fig-me-up-edp",
+   "name": "Fig Me Up Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-fig-me-up-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "fille-en-aiguilles-edp",
@@ -3996,6 +4248,20 @@
    "date_checked": "2026-11-16"
   },
   {
+   "slug": "mancera-gold-prestigium-edp",
+   "name": "Gold Prestigium Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-gold-prestigium-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "viktor-and-rolf-good-fortune-edp",
    "name": "Good Fortune Eau de Parfum",
    "house": "Viktor & Rolf",
@@ -4332,6 +4598,20 @@
    "date_checked": "2026-11-18"
   },
   {
+   "slug": "mancera-hindu-kush-edp",
+   "name": "Hindu Kush Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-hindu-kush-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "mancera-holidays-edp",
    "name": "Holidays Eau de Parfum",
    "house": "Mancera",
@@ -4570,6 +4850,48 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "mancera-intense-cedrat-boise-extrait",
+   "name": "Intense Cedrat Boise Extrait de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-intense-cedrat-boise-extrait/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-intense-instant-crush-extrait",
+   "name": "Intense Instant Crush Extrait de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-intense-instant-crush-extrait/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-intense-red-tobacco-extrait",
+   "name": "Intense Red Tobacco Extrait de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-intense-red-tobacco-extrait/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "amouage-interlude-53-extrait",
    "name": "Interlude 53",
    "house": "Amouage",
@@ -4766,6 +5088,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "mancera-jardin-exclusif-edp",
+   "name": "Jardin Exclusif Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-jardin-exclusif-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "jasmin-17-edp",
    "name": "Jasmin 17 Eau de Parfum",
    "house": "Le Labo",
@@ -4778,6 +5114,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-18"
+  },
+  {
+   "slug": "mancera-jasmin-exclusif-edp",
+   "name": "Jasmin Exclusif Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-jasmin-exclusif-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "jubilation-25-edp",
@@ -4808,6 +5158,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "mancera-juicy-flowers-edp",
+   "name": "Juicy Flowers Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-juicy-flowers-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "kalan-edp",
    "name": "Kalan Eau de Parfum",
    "house": "Parfums de Marly",
@@ -4827,6 +5191,20 @@
    "house": "Atelier des Ors",
    "url": "https://www.blindbuyguide.com/scents/atelier-des-ors-kawa-karda-extrait/",
    "lowest_sample_usd": 8.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-kumkat-wood-edp",
+   "name": "Kumkat Wood Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-kumkat-wood-edp/",
+   "lowest_sample_usd": 3.99,
    "lowest_sample_ml": 1,
    "lowest_sample_retailer": "Fragrances Line",
    "best_in_stock_bottle_usd_per_ml": null,
@@ -5407,6 +5785,20 @@
    "best_bottle_price_usd": 25,
    "best_bottle_ml": 30,
    "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-lemon-line-edp",
+   "name": "Lemon Line Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-lemon-line-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-19"
   },
   {
@@ -6010,6 +6402,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-18"
+  },
+  {
+   "slug": "mancera-melody-of-the-sun-extrait",
+   "name": "Melody Of The Sun Extrait de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-melody-of-the-sun-extrait/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "amouage-memoir-man-edp",
@@ -6698,6 +7104,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "mancera-of-the-wild-edp",
+   "name": "Of The Wild Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-of-the-wild-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "louis-vuitton-ombre-nomade-edp",
    "name": "Ombre Nomade Eau de Parfum",
    "house": "Louis Vuitton",
@@ -6709,6 +7129,20 @@
    "best_bottle_price_usd": 755,
    "best_bottle_ml": 100,
    "best_bottle_retailer": "MicroPerfumes",
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-ombre-tonka-edp",
+   "name": "Ombre Tonka Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-ombre-tonka-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
    "date_checked": "2026-11-19"
   },
   {
@@ -7230,6 +7664,20 @@
    "date_checked": "2026-11-15"
   },
   {
+   "slug": "mancera-pearl-edp",
+   "name": "Pearl Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-pearl-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "pegasus-edp",
    "name": "Pegasus Eau de Parfum",
    "house": "Parfums de Marly",
@@ -7454,6 +7902,20 @@
    "date_checked": "2026-11-15"
   },
   {
+   "slug": "mancera-pink-prestigium-edp",
+   "name": "Pink Prestigium Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-pink-prestigium-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "estee-lauder-pleasures-edp",
    "name": "Pleasures Eau de Parfum",
    "house": "Estee Lauder",
@@ -7676,6 +8138,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-15"
+  },
+  {
+   "slug": "mancera-precious-oud-edp",
+   "name": "Precious Oud Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-precious-oud-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "tom-ford-italian-cypress-edp",
@@ -8140,6 +8616,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "mancera-roses-and-chocolate-edp",
+   "name": "Roses & Chocolate Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-roses-and-chocolate-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "roses-vanille-edp",
    "name": "Roses Vanille Eau de Parfum",
    "house": "Mancera",
@@ -8210,6 +8700,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "mancera-royal-vanilla-edp",
+   "name": "Royal Vanilla Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-royal-vanilla-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "sa-majeste-la-rose-edp",
    "name": "Sa Majeste la Rose Eau de Parfum",
    "house": "Serge Lutens",
@@ -8266,6 +8770,20 @@
    "date_checked": null
   },
   {
+   "slug": "mancera-saharian-wind-edp",
+   "name": "Saharian Wind Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-saharian-wind-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "yves-saint-laurent-saharienne-edp",
    "name": "Saharienne Eau de Parfum",
    "house": "Yves Saint Laurent",
@@ -8285,6 +8803,20 @@
    "house": "Guerlain",
    "url": "https://www.blindbuyguide.com/scents/guerlain-samsara-edp/",
    "lowest_sample_usd": 6.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-sand-aoud-edp",
+   "name": "Sand Aoud Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-sand-aoud-edp/",
+   "lowest_sample_usd": 3.99,
    "lowest_sample_ml": 1,
    "lowest_sample_retailer": "Fragrances Line",
    "best_in_stock_bottle_usd_per_ml": null,
@@ -8504,6 +9036,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "mancera-sicily-edp",
+   "name": "Sicily Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-sicily-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "side-effect",
    "name": "Side Effect",
    "house": "Initio Parfums Prives",
@@ -8518,6 +9064,20 @@
    "date_checked": "2026-11-18"
   },
   {
+   "slug": "mancera-silver-blue-edp",
+   "name": "Silver Blue Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-silver-blue-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "slow-dance-edp",
    "name": "Slow Dance Eau de Parfum",
    "house": "Byredo",
@@ -8530,6 +9090,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-16"
+  },
+  {
+   "slug": "mancera-soleil-ditalie-edp",
+   "name": "Soleil d'Italie Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-soleil-ditalie-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "soleil-neige-edp",
@@ -9344,6 +9918,20 @@
    "date_checked": "2026-11-15"
   },
   {
+   "slug": "mancera-tonka-cola-edp",
+   "name": "Tonka Cola Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-tonka-cola-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "xerjoff-tony-iommi-monkey-special-edp",
    "name": "Tony Iommi Monkey Special Eau de Parfum",
    "house": "Xerjoff",
@@ -9834,6 +10422,20 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "mancera-velvet-vanilla-edp",
+   "name": "Velvet Vanilla Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-velvet-vanilla-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "versace-versense-edt",
    "name": "Versense Eau de Toilette",
    "house": "Versace",
@@ -9888,6 +10490,20 @@
    "best_bottle_ml": null,
    "best_bottle_retailer": null,
    "date_checked": "2026-11-16"
+  },
+  {
+   "slug": "mancera-vetiver-sensuel-edp",
+   "name": "Vetiver Sensuel Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-vetiver-sensuel-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "creed-viking-cologne-edp",
@@ -10030,6 +10646,48 @@
    "date_checked": "2026-11-19"
   },
   {
+   "slug": "mancera-wild-cherry-edp",
+   "name": "Wild Cherry Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-wild-cherry-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-wild-leather-edp",
+   "name": "Wild Leather Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-wild-leather-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
+   "slug": "mancera-wild-rose-aoud-edp",
+   "name": "Wild Rose Aoud Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-wild-rose-aoud-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "initio-wild-rush-edp",
    "name": "Wild Rush",
    "house": "Initio Parfums Privés",
@@ -10072,6 +10730,20 @@
    "date_checked": "2026-11-18"
   },
   {
+   "slug": "mancera-wind-wood-edp",
+   "name": "Wind Wood Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-wind-wood-edp/",
+   "lowest_sample_usd": 3.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
+  },
+  {
    "slug": "nishane-wulong-cha-extrait",
    "name": "Wulong Cha",
    "house": "Nishane",
@@ -10098,6 +10770,20 @@
    "best_bottle_ml": 50,
    "best_bottle_retailer": "Luckyscent",
    "date_checked": "2026-11-15"
+  },
+  {
+   "slug": "mancera-xplicit-vanilla-edp",
+   "name": "Xplicit Vanilla Eau de Parfum",
+   "house": "Mancera",
+   "url": "https://www.blindbuyguide.com/scents/mancera-xplicit-vanilla-edp/",
+   "lowest_sample_usd": 4.99,
+   "lowest_sample_ml": 1,
+   "lowest_sample_retailer": "Fragrances Line",
+   "best_in_stock_bottle_usd_per_ml": null,
+   "best_bottle_price_usd": null,
+   "best_bottle_ml": null,
+   "best_bottle_retailer": null,
+   "date_checked": "2026-11-19"
   },
   {
    "slug": "versace-yellow-diamond-edt",
