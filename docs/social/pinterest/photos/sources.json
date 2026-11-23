@@ -1,0 +1,46 @@
+{
+ "saffron.jpg": {
+  "title": "File:Crocus sativus, saffron (29).jpg",
+  "creator": "Emilie40",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source_page": "https://commons.wikimedia.org/w/index.php?curid=39702932",
+  "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Crocus_sativus%2C_saffron_%2829%29.jpg",
+  "openverse_id": "2f711f57-52c7-4c91-8ff4-49d67a308784",
+  "crop": null,
+  "downloaded": "2026-11-23"
+ },
+ "vanilla.jpg": {
+  "title": "Vanilla in raw form",
+  "creator": "Medhi jyoti",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source_page": "https://commons.wikimedia.org/w/index.php?curid=144886152",
+  "original_file": "https://upload.wikimedia.org/wikipedia/commons/d/de/Vanilla_in_raw_form.jpg",
+  "openverse_id": "7e83a8dd-9bc0-4c95-8ece-022df7c284c7",
+  "crop": "0,0,0.42,1",
+  "downloaded": "2026-11-23"
+ },
+ "lychee.jpg": {
+  "title": "Lychee trees in Hainan nearing harvest time - 04",
+  "creator": "Anna Frodesiak",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source_page": "https://commons.wikimedia.org/w/index.php?curid=26366361",
+  "original_file": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Lychee_trees_in_Hainan_nearing_harvest_time_-_04.jpg",
+  "openverse_id": "512651e7-f004-4560-ba6c-9b959295ba97",
+  "crop": null,
+  "downloaded": "2026-11-23"
+ },
+ "cardamom.jpg": {
+  "title": "Green Cardamom Pods",
+  "creator": "Misterneedlemouse",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source_page": "https://commons.wikimedia.org/w/index.php?curid=151971310",
+  "original_file": "https://upload.wikimedia.org/wikipedia/commons/8/82/Green_Cardamom_Pods.jpg",
+  "openverse_id": "bcb2999a-ad9d-49d1-af50-0f3195f80178",
+  "crop": null,
+  "downloaded": "2026-11-23"
+ }
+}

@@ -19,10 +19,20 @@ const photo = s => {
   if (!fs.existsSync(f)) throw new Error('missing studio photo ' + f);
   return 'file://' + f;
 };
+// Ingredient photos (CC0 / public domain, logged in docs/social/pinterest/photos/sources.json).
+const ingredient = f => {
+  const file = path.join(root, 'docs/social/pinterest/photos', f);
+  if (!fs.existsSync(file)) throw new Error('missing ingredient photo ' + file);
+  return 'file://' + file;
+};
 const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
 const css = `
 @font-face{font-family:CG;src:url(${font('cormorant-garamond.woff2')}) format('woff2');font-weight:300 700;font-style:normal}
+@font-face{font-family:Anton;src:url(${font('anton.woff2')}) format('woff2')}
+@font-face{font-family:IX;src:url(${font('inter-500.woff2')}) format('woff2');font-weight:500}
+@font-face{font-family:IX;src:url(${font('inter-700.woff2')}) format('woff2');font-weight:700}
+@font-face{font-family:IX;src:url(${font('inter-800.woff2')}) format('woff2');font-weight:800}
 @font-face{font-family:CG;src:url(${font('cormorant-garamond-italic.woff2')}) format('woff2');font-weight:300 700;font-style:italic}
 :root{--bg:#f6f2ea;--ink:#17140f;--accent:#7a5b2e;--muted:#6b6259;--line:#ddd4c4;--card:#fbf9f4}
 *{box-sizing:border-box;margin:0;padding:0}
@@ -100,6 +110,32 @@ body{background:var(--bg);color:var(--ink);font-family:Inter,'DejaVu Sans',sans-
 .qf b{display:block;font-family:CG;font-weight:700;font-size:110px;line-height:1;color:var(--accent)}
 .qf span{display:block;font-size:24px;line-height:1.3;margin-top:12px}
 .cta{display:block;width:max-content;margin:70px auto 0;background:var(--ink);color:var(--bg);font-size:34px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:28px 60px}
+
+/* Look A: full-bleed ingredient photo (batch-4 test) */
+.pa{position:absolute;inset:0;overflow:hidden;background:#111}
+.pa .bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.pa .scrim{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,8,6,.78) 0%,rgba(10,8,6,.45) 34%,rgba(10,8,6,0) 52%,rgba(10,8,6,0) 64%,rgba(10,8,6,.6) 84%,rgba(10,8,6,.82) 100%)}
+.pa .top{position:absolute;left:70px;right:70px;top:84px;color:#fff;text-align:center}
+.pa .hl{font-family:CG;font-weight:700;font-size:132px;line-height:.92;letter-spacing:-.01em;text-shadow:0 2px 24px rgba(0,0,0,.35)}
+.pa .nm{font-family:IX;font-weight:700;font-size:34px;letter-spacing:.16em;text-transform:uppercase;margin-top:30px;color:#f3e7d3}
+.pa .bot{position:absolute;left:0;right:0;bottom:120px;text-align:center}
+.pill{display:inline-block;font-family:IX;font-weight:800;font-size:44px;padding:30px 54px;border-radius:999px;background:#f6f2ea;color:#17140f;box-shadow:0 8px 30px rgba(0,0,0,.25)}
+.pa .dom{position:absolute;left:0;right:0;bottom:56px;text-align:center;font-family:IX;font-weight:700;font-size:28px;letter-spacing:.12em;color:#fff;opacity:.92}
+.pa .cr{position:absolute;right:16px;bottom:14px;font-family:IX;font-weight:500;font-size:15px;color:#fff;opacity:.55}
+/* Look B: bold verdict poster (batch-4 test) */
+.pb{position:absolute;inset:0;padding:92px 60px 200px;text-align:center;display:flex;flex-direction:column;align-items:center}
+.pb .ey{font-family:IX;font-weight:800;font-size:32px;letter-spacing:.2em;text-transform:uppercase;opacity:.85}
+.pb .vd{font-family:Anton;font-size:250px;line-height:.9;text-transform:uppercase;margin-top:34px;letter-spacing:.005em}
+.pb .cv{font-family:CG;font-style:italic;font-weight:600;font-size:58px;margin-top:26px;line-height:1.05}
+.pb .rule{width:120px;height:6px;margin:46px auto 0;opacity:.9;flex:none}
+.pb .fn{font-family:CG;font-weight:700;font-size:82px;line-height:1;margin-top:40px}
+.pb .px{display:inline-flex;gap:0;margin-top:34px;font-family:IX;font-weight:800;font-size:62px;border:4px solid currentColor;border-radius:18px;overflow:hidden}
+.pb .px span{padding:22px 40px}
+.pb .px span+span{border-left:4px solid currentColor}
+.pb .px small{display:block;font-weight:700;font-size:24px;letter-spacing:.16em;text-transform:uppercase;opacity:.85;margin-bottom:6px}
+.pb .bot{margin-top:auto}
+.pb .dom{position:absolute;left:0;right:0;bottom:66px;font-family:IX;font-weight:700;font-size:28px;letter-spacing:.12em;opacity:.9}
+.pb .asof{position:absolute;left:0;right:0;bottom:28px;font-family:IX;font-weight:500;font-size:18px;opacity:.6}
 `;
 
 const foot = (asof) => `<div class="foot"><b>blindbuyguide.com</b>${esc(asof || 'Sample first. Then buy the bottle.')}</div>`;
@@ -189,6 +225,22 @@ const T = {
     <div class="qf">${im.facts.map(([b, s]) => `<div><b>${esc(b)}</b><span>${esc(s)}</span></div>`).join('')}</div>
     <span class="cta">${esc(im.cta)}</span>
     <div class="line" style="margin-top:56px">${esc(im.line)}</div>${foot(im.asof)}`,
+  // Look A: full-bleed CC0 ingredient photo, big serif headline, pill CTA. No bottle, no logo.
+  photo: im => `<div class="pa"><img class="bg" src="${ingredient(im.bg)}" style="object-position:${im.pos || 'center'}${im.zoom ? `;transform:scale(${im.zoom});transform-origin:${im.origin || 'center'}` : ''}"><div class="scrim"></div>
+    <div class="top"><div class="hl"${im.hsize ? ` style="font-size:${im.hsize}px"` : ''}>${esc(im.headline)}</div><div class="nm">${esc(im.name)}</div></div>
+    <div class="bot"><span class="pill">${esc(im.cta)}</span></div>
+    <div class="dom">BLINDBUYGUIDE.COM</div>${im.credit ? `<div class="cr">${esc(im.credit)}</div>` : ''}</div>`,
+
+  // Look B: solid colour verdict poster, huge condensed verdict, bottle vs sample price.
+  poster: im => `<div class="pb" style="background:${im.bg};color:${im.ink}">
+    <div class="ey">${esc(im.eyebrow)}</div>
+    <div class="vd"${im.vsize ? ` style="font-size:${im.vsize}px"` : ''}>${im.verdict.map(esc).join('<br>')}</div>
+    ${im.caveat ? `<div class="cv">${esc(im.caveat)}</div>` : ''}
+    <div class="rule" style="background:${im.accent || im.ink}"></div>
+    <div class="fn"${im.fsize ? ` style="font-size:${im.fsize}px"` : ''}>${esc(im.name)}</div>
+    <div class="px"><span><small>${esc(im.left[0])}</small>${esc(im.left[1])}</span><span><small>${esc(im.right[0])}</small>${esc(im.right[1])}</span></div>
+    <div class="bot"><span class="pill" style="background:${im.ink};color:${im.bg}">${esc(im.cta)}</span></div>
+    <div class="dom">BLINDBUYGUIDE.COM</div><div class="asof">${esc(im.asof)}</div></div>`,
 };
 
 const browser = await chromium.launch();
@@ -201,7 +253,7 @@ for (const p of batch.pins) {
   await page.goto('file://' + tmp);
   await page.evaluate(() => document.fonts.ready);
   const overflow = await page.evaluate(() => {
-    const pin = document.querySelector('.pin'); const foot = document.querySelector('.foot');
+    const pin = document.querySelector('.pin'); const foot = document.querySelector('.foot'); if (!foot) return -99;
     const last = [...pin.children].filter(e => !e.classList.contains('foot')).pop();
     return Math.round(last.getBoundingClientRect().bottom - foot.getBoundingClientRect().top);
   });
