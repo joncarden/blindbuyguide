@@ -54,6 +54,7 @@ User-agent: MistralAI-User
 Allow: /
 
 User-agent: *
+Disallow: /go/
 Allow: /
 
 Sitemap: https://www.blindbuyguide.com/sitemap.xml
