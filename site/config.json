@@ -18,6 +18,12 @@
         "match": "amazon.",
         "param": "tag",
         "value": "blindbuyguide-20"
+      },
+      {
+        "name": "Fragrances Line (Refersion)",
+        "match": "fragrancesline.com",
+        "param": "rfsn",
+        "value": ""
       }
     ]
   },
