@@ -86,7 +86,7 @@ for p in glob.glob(R + '/**/index.html', recursive=True) + [R + '/index.html']:
         s, best, low, d = info[slug]
         wp = {"@context": "https://schema.org", "@type": "WebPage", "@id": url, "url": url, "name": s['name'] + ' sample and price per ml',
               "dateModified": d, "inLanguage": "en-US", "isPartOf": {"@id": B + "/#site"}, "publisher": {"@id": B + "/#org"},
-              "about": {"@id": url + "#product"}}
+              **({"about": {"@id": url + "#product"}} if '"@type":"Product"' in h else {})}
         h = h.replace('</head>', ld(wp) + '</head>', 1)
     if rel == 'price-book/index.html' and '"@type":"Dataset"' not in h:
         ds = {"@context": "https://schema.org", "@type": "Dataset", "name": "Blind Buy Guide price index: luxury fragrance sample and bottle prices per ml",

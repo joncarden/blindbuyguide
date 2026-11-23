@@ -90,6 +90,15 @@ for(const s of scents){
     v={...v,...Object.fromEntries(Object.entries(ev).filter(([,x])=>x!=null&&x!==''))}; }catch{}
   s.verdictLine = v.summary || ''; s.who = v.who_it_suits || ''; s.advice = v.buy_or_sample_first || null;
   s.similar = arr(s.similar_scents||s.similar); s.summary = s.verdictLine;
+  // Product snippet offers (Search Console needs offers, review or aggregateRating on every Product): every USD shop price
+  // we track for this scent, samples and bottles alike. InStock if any shop has it in stock, else OutOfStock.
+  // A scent with no real price gets no Product schema at all (never an invented offer or rating).
+  { const priced = p => p && isUSD(p) && +p.price>0 && +p.size_ml>0;
+    const all = [...arr(s.full_bottle_offers||s.prices), ...arr(s.sample_offers||s.samples)].filter(priced).map(p=>({price:+p.price,in_stock:p.in_stock!==false}));
+    for(const a of CJ_ON){ const it=((cjOffers[a.name]||{}).items||{})[s.slug]; if(it&&Array.isArray(it.sizes)) for(const z of it.sizes) if(+z.price>0&&+z.ml>0) all.push({price:+z.price,in_stock:true}); }
+    const live = all.filter(p=>p.in_stock), use = live.length ? live : all;
+    Object.defineProperty(s,'offerLd',{enumerable:false,writable:true,value:null}); // kept out of data/scents.json
+    s.offerLd = use.length ? {"@type":"AggregateOffer",priceCurrency:"USD",lowPrice:Math.min(...use.map(p=>p.price)).toFixed(2),highPrice:Math.max(...use.map(p=>p.price)).toFixed(2),offerCount:use.length,availability:live.length?"https://schema.org/InStock":"https://schema.org/OutOfStock"} : null; }
   s.prices = arr(s.full_bottle_offers||s.prices).map(p=>({...p,checked:p.date_checked||p.checked})).filter(p=>p.in_stock!==false&&isUSD(p));
   s.samples = arr(s.sample_offers||s.samples).map(p=>({...p,checked:p.date_checked||p.checked})).filter(p=>p.in_stock!==false&&isUSD(p));
   s.accords = arr(s.accords).map(a=>String(a).split(':')[0]); s.prices = s.prices.filter(p=>p&&p.price>0&&p.size_ml>0); s.samples = s.samples.filter(p=>p&&p.price>0&&p.size_ml>0);
@@ -278,9 +287,8 @@ for(const s of scents){
   if(s.cheapestSample) faqs.push([`What is the smartest way to try ${s.name}?`,`The lowest sample price we track is ${money(s.cheapestSample.price)} for ${s.cheapestSample.size_ml} ml at ${s.cheapestSample.retailer} (${money(s.cheapestSample.ppm)}/ml), checked ${s.cheapestSample.checked||'recently'}.`]);
   if(s.bestPpm!=null) faqs.push([`What is the best price per ml for ${s.name}?`,`${money(cheapest.price)} for ${cheapest.size_ml} ml at ${cheapest.retailer}, which is ${money(cheapest.ppm)} per ml.`]);
   if(sim.length) faqs.push([`What smells similar to ${s.name}?`,sim.map(x=>x.name).join(', ')+'.']);
-  const product = {"@context":"https://schema.org","@type":"Product",name:s.name,brand:{"@type":"Brand",name:s.house},description:s.summary||`${s.name} by ${s.house||''}`};
-  if(rows.length) product.offers={"@type":"AggregateOffer",priceCurrency:"USD",lowPrice:Math.min(...rows.map(r=>r.price)).toFixed(2),highPrice:Math.max(...rows.map(r=>r.price)).toFixed(2),offerCount:rows.length};
-  const ld=[product,{"@context":"https://schema.org","@type":"BreadcrumbList",itemListElement:[{"@type":"ListItem",position:1,name:"Scents",item:cfg.domain+BASE+'/scents/'},{"@type":"ListItem",position:2,name:s.name}]}];
+  const product = s.offerLd ? {"@context":"https://schema.org","@type":"Product",name:s.name,brand:{"@type":"Brand",name:s.house},description:s.summary||`${s.name} by ${s.house||''}`,offers:s.offerLd} : null;
+  const ld=[...(product?[product]:[]),{"@context":"https://schema.org","@type":"BreadcrumbList",itemListElement:[{"@type":"ListItem",position:1,name:"Scents",item:cfg.domain+BASE+'/scents/'},{"@type":"ListItem",position:2,name:s.name}]}];
   if(faqs.length) ld.push({"@context":"https://schema.org","@type":"FAQPage",mainEntity:faqs.map(([q,a])=>({"@type":"Question",name:q,acceptedAnswer:{"@type":"Answer",text:a}}))});
   const tbl = (list,hdr)=>list.length?`<table><thead><tr><th>Retailer</th><th>Size</th><th>Price</th><th>Per ml</th><th>Checked</th></tr></thead><tbody>${list.map(p=>`<tr><td>${p.url&&p.url!=='#'?`<a rel="sponsored nofollow noopener" href="${esc(aff(p.url))}">${esc(p.retailer)}</a>`:esc(p.retailer)}</td><td>${p.size_ml} ml</td><td>${money(p.price)}</td><td>${money(p.ppm)}</td><td>${esc(p.checked||'')}</td></tr>`).join('')}</tbody></table>`:`<p class="muted">We have not found any ${hdr} yet. Suspicious, but we're looking.</p>`;
   const body = `<div class="shero"><figure>${bottle(s,'lg')}</figure><div><p class="eyebrow" style="margin-top:0">${esc(s.house||'')}${s.year?' · '+esc(s.year):''}${s.concentration?' · '+esc(s.concentration):''}</p><h1>${esc(s.name)}<br><em style="font-size:.55em;font-weight:500;color:var(--muted)">How to sample it first</em></h1>
