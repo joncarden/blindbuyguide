@@ -499,3 +499,5 @@ write('data/scents.json',JSON.stringify(scents.map(({allNotes,...r})=>r)));
 console.log(`built ${scents.length} scents${usingSample?' (sample data)':''} -> ${out}`);
 // ---- AEO layer (schema, og tags, llms.txt, robots, sitemap lastmod, methodology page, price-index data)
 execFileSync('python3', [new URL('./aeo/apply_aeo.py', import.meta.url).pathname, out], { stdio: 'inherit' });
+// ---- outbound click counting: sponsored non-Amazon links -> /go/<shop>/<page>/<id>/ (free Vercel analytics counts them)
+execFileSync('python3', [new URL('./postbuild/go_links.py', import.meta.url).pathname, out], { stdio: 'inherit' });
