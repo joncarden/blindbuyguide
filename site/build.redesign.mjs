@@ -72,7 +72,7 @@ let scents = load(libDir); let usingSample = false;
 for(const a of RK_ON){ if(!a.offersFile) continue; let o={}; try{ o=JSON.parse(fs.readFileSync(path.join(root,a.offersFile),'utf8')); }catch{ continue; }
   for(const s of scents){ const it=(o.items||{})[s.slug]; if(!it||!Array.isArray(it.sizes)) continue;
     const own=arr(s.sample_offers).filter(x=>!(x&&x.retailer===a.name));
-    s.sample_offers=[...own,...it.sizes.filter(z=>z.ml>0&&z.price>0).map(z=>({retailer:a.name,size_ml:z.ml,price:z.price,currency:'USD',price_per_ml:+(z.price/z.ml).toFixed(2),in_stock:true,url:z.url,date_checked:o.checked||null,format:z.format}))]; } }
+    s.sample_offers=[...own,...it.sizes.filter(z=>z.ml>0&&z.price>0).map(z=>({retailer:a.name,size_ml:z.ml,price:z.price,currency:'USD',price_per_ml:+(z.price/z.ml).toFixed(2),in_stock:true,url:z.url,date_checked:it.checked||o.checked||null,format:z.format}))]; } }
 // Prices are shown in US dollars only. A listing in pounds, euros etc. (or with no currency recorded) stays in the
 // library and the history but is never displayed as a dollar price. Same rule as the Price Book.
 const isUSD = o => String(o&&o.currency||'').toUpperCase()==='USD';
