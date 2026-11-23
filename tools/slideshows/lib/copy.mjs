@@ -247,7 +247,7 @@ export function plan(ctx) {
       ladder(f), verdictSlide(f), cta());
   } else if (angle === 'guess') {
     const L = ctx.lineup;
-    S.push({ kind: 'hook', title: hook, sub: `${ctx.house} edition`, slug: L[0].slug, note: `Swipe. Answers on slide ${L.length + 2}.` });
+    S.push({ kind: 'hook', title: hook, sub: ctx.edition || `${ctx.house} edition`, slug: L[0].slug, note: `Swipe. Answers on slide ${L.length + 2}.` });
     L.forEach((x, i) => S.push({ kind: 'bottle', kicker: `${i + 1} of ${L.length}`, title: x.name, sub: ml(x.head.size_ml), slug: x.slug, q: 'Guess the price' }));
     S.push({ kind: 'rows', kicker: 'The reveal', title: 'In stock, real prices', rows: L.map(x => bottleRow(x)), foot: `Checked ${date}` });
     const byPm = [...L].sort((a, b) => perMl(b.head) - perMl(a.head));
@@ -279,7 +279,7 @@ export function captions(ctx, slides) {
     alternatives: () => `Already into ${f.name}? The rest of the ${f.house} shelf is worth a sample: ${ctx.matesF.map(m => `${m.name} (${money(m.head.price)}, ${ml(m.head.size_ml)})`).join(', ')}. Same house, different personalities, all priced per ml on the last slide.`,
     sample: () => `${f.name} is ${money(f.head.price)} for ${ml(f.head.size_ml)}. A ${ml(f.samples[0].size_ml)} sample is ${money(f.samples[0].price)} at ${f.samples[0].retailer}. Two days of wear beats two minutes on a paper strip, every time.`,
     seasonal: () => `${f.name} for ${ctx.season.label}: the listed notes include ${list(ctx.seasonNotes.slice(0, 3)).toLowerCase()}. The bottle is ${money(f.head.price)} for ${ml(f.head.size_ml)}${f.samples[0] ? `; a sample is ${money(f.samples[0].price)}` : ''}. Paper is a promise. Skin is the contract.`,
-    guess: () => { const byPm = [...L].sort((a, b) => perMl(a.head) - perMl(b.head)); return `${L.length} ${ctx.house} bottles, ${L.length} real in-stock prices. Guess before you swipe. The twist is the per-ml column: ${byPm[0].name} works out to ${ppm(byPm[0].head)}/ml and ${byPm[byPm.length - 1].name} to ${ppm(byPm[byPm.length - 1].head)}/ml. ${(() => { const v = L.filter(x => x.verdict === 'Sample first'); return v.length === L.length ? 'Our verdict across the board: sample first.' : v.length ? `Our published verdict on ${list(v.map(x => x.name))}: sample first.` : ''; })()}`; },
+    guess: () => { const byPm = [...L].sort((a, b) => perMl(a.head) - perMl(b.head)); return `${L.length} ${new Set(L.map(x => x.house)).size > 1 ? 'luxury' : ctx.house} bottles, ${L.length} real in-stock prices. Guess before you swipe. The twist is the per-ml column: ${byPm[0].name} works out to ${ppm(byPm[0].head)}/ml and ${byPm[byPm.length - 1].name} to ${ppm(byPm[byPm.length - 1].head)}/ml. ${(() => { const v = L.filter(x => x.verdict === 'Sample first'); return v.length === L.length ? 'Our verdict across the board: sample first.' : v.length ? `Our published verdict on ${list(v.map(x => x.name))}: sample first.` : ''; })()}`; },
     versus: () => `${ctx.rounds.length} rounds, one question: which costs more per ml? The biggest price tag is not always the worst math. That's not a reason to buy the big one. It's a reason to sample first and decide with your eyes open.`,
   }[angle]();
   const audLine = ctx.aud?.line ? ` ${ctx.aud.line}` : '';
