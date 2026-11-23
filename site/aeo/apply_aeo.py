@@ -187,7 +187,7 @@ wr(R + '/sitemap.xml', sm)
 # 6. llms.txt
 def meta(rel):
     h = rd(f'{R}/{rel}/index.html')
-    t = re.search(r'<title>(.*?) \| Blind Buy Guide</title>', h); d = re.search(r'<meta name="description" content="([^"]*)"', h)
+    t = re.search(r'<title>(.*?)(?: \| Blind Buy Guide)?</title>', h); d = re.search(r'<meta name="description" content="([^"]*)"', h)
     return html.unescape(t.group(1)) if t else rel, html.unescape(d.group(1)) if d else ''
 L = ['# Blind Buy Guide', '',
  '> Independent luxury and niche fragrance guide. For each of ' + str(len(rows)) + ' scents we publish the lowest sample price, the best in-stock bottle price per ml, notes, and a verdict on whether to blind buy or sample first. Prices are dated and refreshed monthly. We do not claim to have smelled or worn anything; see the methodology.', '',
