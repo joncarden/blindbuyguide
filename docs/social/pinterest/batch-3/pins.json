@@ -1,0 +1,58 @@
+{
+  "batch": "batch-3",
+  "prepared": "2026-11-23",
+  "site": "https://www.blindbuyguide.com",
+  "boards": "Same boards as batch-1. Post Nov 24-26 so they are live before Black Friday; prices and codes as read Nov 23, 2026.",
+  "pins": [
+    {
+      "id": "30", "slug": "black-friday-luxury-fragrance-codes", "day": 1, "template": "table",
+      "board": "Luxury Perfume",
+      "title": "Black Friday luxury perfume 2026: the codes that actually work",
+      "description": "Luxury perfume houses don't cut prices for Black Friday. The stores do. Bergdorf Goodman's BGBEAUTY takes $50 off $250 of beauty (Tom Ford Oud Wood 50 ml: $300 to $250). Bluemercury's free BlueRewards lists 20% off $200+ (Parfums de Marly Delina 75 ml: $410 to $328). Neiman Marcus has THANKFUL. Every price dated, checked Nov 23, 2026. Affiliate links on the page. #ad #blackfriday #luxuryperfume",
+      "url": "https://www.blindbuyguide.com/guides/black-friday-luxury-fragrance-2026/",
+      "alt": "Typographic list on cream titled 'Black Friday: the codes that work.' Bergdorf Goodman BGBEAUTY, $50 off $250 of beauty, Oud Wood 50 ml $250. Bluemercury BlueRewards, 20% off $200 and up, Delina 75 ml $328. Neiman Marcus THANKFUL, up to $1,500 off regular-price orders. Footer: the bottles themselves did not go on sale.",
+      "image": {
+        "kicker": "Black Friday 2026", "headline": "The codes that work", "sub": "The bottles didn't go on sale. The stores did.",
+        "table": [
+          {"name": "Bergdorf Goodman · BGBEAUTY", "meta": "$50 off $250 · Oud Wood 50 ml: $300 → $250", "verdict": "Use it"},
+          {"name": "Bluemercury · BlueRewards", "meta": "20% off $200+ · Delina 75 ml: $410 → $328", "verdict": "Use it"},
+          {"name": "Neiman Marcus · THANKFUL", "meta": "Up to $1,500 off regular-price orders", "verdict": "Read tiers"}
+        ],
+        "line": "Haven't worn it for a day yet? A 1 ml sample is $6.99.",
+        "asof": "Retailer pages read Nov 23, 2026"
+      }
+    },
+    {
+      "id": "31", "slug": "oud-wood-black-friday", "day": 2, "template": "verdict",
+      "board": "Tom Ford Perfume",
+      "title": "Is Tom Ford Oud Wood on sale for Black Friday?",
+      "description": "Is Tom Ford Oud Wood on sale for Black Friday 2026? The bottle isn't: Bergdorf Goodman listed 50 ml at $300 on Nov 23. The code is: BGBEAUTY takes $50 off $250 of regular-price beauty, so it lands at $250. Not sure it's your scent? A 1 ml sample is $6.99. Affiliate links on the page. #ad #tomford #blackfriday",
+      "url": "https://www.blindbuyguide.com/guides/black-friday-luxury-fragrance-2026/",
+      "alt": "Photo of a Tom Ford Oud Wood bottle on cream under the headline 'Oud Wood.' The answer reads 'The bottle isn't on sale. The code is.' Bergdorf list price for 50 ml $300. With BGBEAUTY $250. 1 ml sample $6.99.",
+      "image": {
+        "kicker": "On sale for Black Friday?", "headline": "Oud Wood", "house": "Tom Ford · Private Blend",
+        "photo": "tom-ford-oud-wood",
+        "answer": "The bottle isn't. The code is.",
+        "facts": [["Bergdorf, 50 ml", "$300"], ["With BGBEAUTY", "$250"], ["1 ml sample", "$6.99"]],
+        "line": "$50 off $250 of beauty. Check the total at checkout.",
+        "asof": "Bergdorf Goodman and Scentsplit, Nov 23, 2026"
+      }
+    },
+    {
+      "id": "32", "slug": "baccarat-rouge-540-black-friday", "day": 3, "template": "verdict",
+      "board": "Luxury Perfume",
+      "title": "Is Baccarat Rouge 540 on sale for Black Friday? No.",
+      "description": "Is Maison Francis Kurkdjian Baccarat Rouge 540 on sale for Black Friday 2026? No price cut found, and on Nov 23 the 70 ml at Bergdorf Goodman showed as not available (last listed there at $360 on Nov 14). A 1 ml sample is $9.99, which is the move if you've only ever smelled it on a stranger in an elevator. Affiliate links on the page. #ad #baccaratrouge540 #blackfriday",
+      "url": "https://www.blindbuyguide.com/guides/black-friday-luxury-fragrance-2026/",
+      "alt": "Photo of a Baccarat Rouge 540 bottle on cream under the headline 'Baccarat Rouge 540.' The answer reads 'No. It wasn't even in stock.' Bergdorf 70 ml last listed at $360. Nov 23 status: not available. 1 ml sample $9.99.",
+      "image": {
+        "kicker": "On sale for Black Friday?", "headline": "Baccarat Rouge 540", "house": "Maison Francis Kurkdjian · Eau de Parfum",
+        "photo": "baccarat-rouge-540-edp",
+        "answer": "No. It wasn't even in stock.",
+        "facts": [["Bergdorf, 70 ml (Nov 14)", "$360"], ["Bergdorf, Nov 23", "Not available"], ["1 ml sample", "$9.99"]],
+        "line": "We'll check again Nov 27 and 28.",
+        "asof": "Bergdorf Goodman and Fragrances Line, Nov 14 and 23, 2026"
+      }
+    }
+  ]
+}
