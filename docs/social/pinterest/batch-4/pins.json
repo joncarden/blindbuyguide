@@ -1,0 +1,382 @@
+{
+ "batch": "batch-4",
+ "prepared": "2026-11-23",
+ "site": "https://www.blindbuyguide.com",
+ "test": "Creative test: control (existing cream template) vs Look A (CC0 ingredient photo) vs Look B (bold verdict poster). Same title, description, board and link for every look of a page; only the image changes. See ../TESTING.md.",
+ "boards": "Same boards as batch-1.",
+ "pins": [
+  {
+   "id": "33",
+   "slug": "tobacco-vanille-oud-wood-layering-control",
+   "page": "layering",
+   "look": "control",
+   "template": "versus",
+   "board": "Winter Perfumes",
+   "title": "Winter perfume layering: Tobacco Vanille + Oud Wood",
+   "description": "A winter perfume layering combination from one house: Tom Ford Tobacco Vanille and Tom Ford Oud Wood both list vanilla and tonka bean, so the pair has a bridge. Spray Tobacco Vanille first, Oud Wood over it, one or two sprays each. Test the pair for $13.98 in samples before two $300 bottles. Affiliate links on the page. #ad #perfumelayering",
+   "url": "https://www.blindbuyguide.com/guides/perfume-layering-combinations/",
+   "alt": "Two Tom Ford bottles side by side on cream under the headline 'Tobacco Vanille + Oud Wood.' Left: Tobacco Vanille, tobacco, vanilla, cacao, tonka, spray first. Right: Oud Wood, rosewood, oud, sandalwood, vanilla, spray second. Shared notes: vanilla and tonka. Two 1 ml samples cost $13.98.",
+   "image": {
+    "kicker": "Perfume layering · winter",
+    "headline": "Tobacco Vanille + Oud Wood",
+    "a": {
+     "photo": "tom-ford-tobacco-vanille-edp",
+     "name": "Tobacco Vanille",
+     "desc": "Tobacco, vanilla, cacao, tonka",
+     "price": "Spray first"
+    },
+    "b": {
+     "photo": "tom-ford-oud-wood",
+     "name": "Oud Wood",
+     "desc": "Rosewood, oud, sandalwood, vanilla",
+     "price": "Then this"
+    },
+    "line": "Shared notes: vanilla and tonka. Test the pair: $13.98.",
+    "asof": "Scentsplit 1 ml samples, Nov 23, 2026"
+   },
+   "order": 9,
+   "day": 5
+  },
+  {
+   "id": "34",
+   "slug": "tobacco-vanille-oud-wood-layering-look-a",
+   "page": "layering",
+   "look": "A",
+   "template": "photo",
+   "board": "Winter Perfumes",
+   "title": "Winter perfume layering: Tobacco Vanille + Oud Wood",
+   "description": "A winter perfume layering combination from one house: Tom Ford Tobacco Vanille and Tom Ford Oud Wood both list vanilla and tonka bean, so the pair has a bridge. Spray Tobacco Vanille first, Oud Wood over it, one or two sprays each. Test the pair for $13.98 in samples before two $300 bottles. Affiliate links on the page. #ad #perfumelayering",
+   "url": "https://www.blindbuyguide.com/guides/perfume-layering-combinations/",
+   "alt": "Full-bleed photo of dark cured vanilla pods piled in a white bowl. Headline: 'Vanilla, tobacco & oud.' Below: 'Tobacco Vanille + Oud Wood.' Button: 'Layer it or sample first?' blindbuyguide.com.",
+   "image": {
+    "bg": "vanilla.jpg",
+    "headline": "Vanilla, tobacco & oud",
+    "name": "Tobacco Vanille + Oud Wood",
+    "cta": "Layer it or sample first?",
+    "zoom": 1.22,
+    "origin": "35% 100%"
+   },
+   "order": 1,
+   "day": 1
+  },
+  {
+   "id": "35",
+   "slug": "tobacco-vanille-oud-wood-layering-look-b",
+   "page": "layering",
+   "look": "B",
+   "template": "poster",
+   "board": "Winter Perfumes",
+   "title": "Winter perfume layering: Tobacco Vanille + Oud Wood",
+   "description": "A winter perfume layering combination from one house: Tom Ford Tobacco Vanille and Tom Ford Oud Wood both list vanilla and tonka bean, so the pair has a bridge. Spray Tobacco Vanille first, Oud Wood over it, one or two sprays each. Test the pair for $13.98 in samples before two $300 bottles. Affiliate links on the page. #ad #perfumelayering",
+   "url": "https://www.blindbuyguide.com/guides/perfume-layering-combinations/",
+   "alt": "Bold poster in deep tobacco brown. Huge condensed type: 'Test the pair.' Italic: 'before two full bottles.' Tobacco Vanille + Oud Wood. Two 50 ml bottles $600; two 1 ml samples $13.98. Button: 'See how to layer it.' blindbuyguide.com.",
+   "image": {
+    "bg": "#5a2e12",
+    "ink": "#f7e9d4",
+    "accent": "#e0a458",
+    "eyebrow": "Perfume layering",
+    "verdict": [
+     "Test",
+     "the pair"
+    ],
+    "caveat": "before two full bottles",
+    "name": "Tobacco Vanille + Oud Wood",
+    "fsize": 64,
+    "left": [
+     "2 bottles",
+     "$600"
+    ],
+    "right": [
+     "2 samples",
+     "$13.98"
+    ],
+    "cta": "See how to layer it",
+    "asof": "50 ml bottles and 1 ml samples, Scentsplit, Nov 23, 2026"
+   },
+   "order": 5,
+   "day": 3
+  },
+  {
+   "id": "36",
+   "slug": "baccarat-rouge-540-notes-control",
+   "page": "br540",
+   "look": "control",
+   "template": "pyramid",
+   "board": "Perfume Note Pyramids",
+   "title": "Baccarat Rouge 540 notes: the full perfume note pyramid",
+   "description": "Baccarat Rouge 540 notes, top to base: saffron and jasmine, then amberwood, ambergris and hedione, on fir resin, cedar and ambroxan. See the full Maison Francis Kurkdjian note pyramid, our sample-first verdict, and what a 1 ml sample costs before the $360 bottle (prices checked Nov 23, 2026). Affiliate links on the page. #ad #perfumenotes",
+   "url": "https://www.blindbuyguide.com/scents/baccarat-rouge-540-edp/",
+   "alt": "Perfume note pyramid for Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum beside a photo of the bottle on a cream background. Top notes: saffron, jasmine. Heart: amberwood, ambergris, hedione. Base: fir resin, cedar, sugar, ambroxan, oakmoss. Verdict: sample it first. 1 ml sample $9.99; 70 ml $360 at Bergdorf Goodman.",
+   "image": {
+    "kicker": "Perfume note pyramid",
+    "name": "Baccarat Rouge 540",
+    "house": "Maison Francis Kurkdjian · Eau de Parfum",
+    "photo": "baccarat-rouge-540-edp",
+    "tiers": [
+     [
+      "Top",
+      "Saffron · Jasmine"
+     ],
+     [
+      "Heart",
+      "Amberwood · Ambergris · Hedione"
+     ],
+     [
+      "Base",
+      "Fir resin · Cedar · Sugar · Ambroxan · Oakmoss"
+     ]
+    ],
+    "stamp": "Sample it first",
+    "price": "1 ml sample $9.99  ·  70 ml $360 at Bergdorf Goodman",
+    "asof": "Prices checked Nov 23, 2026"
+   },
+   "order": 6,
+   "day": 3
+  },
+  {
+   "id": "37",
+   "slug": "baccarat-rouge-540-notes-look-a",
+   "page": "br540",
+   "look": "A",
+   "template": "photo",
+   "board": "Perfume Note Pyramids",
+   "title": "Baccarat Rouge 540 notes: the full perfume note pyramid",
+   "description": "Baccarat Rouge 540 notes, top to base: saffron and jasmine, then amberwood, ambergris and hedione, on fir resin, cedar and ambroxan. See the full Maison Francis Kurkdjian note pyramid, our sample-first verdict, and what a 1 ml sample costs before the $360 bottle (prices checked Nov 23, 2026). Affiliate links on the page. #ad #perfumenotes",
+   "url": "https://www.blindbuyguide.com/scents/baccarat-rouge-540-edp/",
+   "alt": "Full-bleed photo of a purple saffron crocus with red saffron threads, growing in soil. Headline: 'Saffron, jasmine & cedar.' Below: 'Baccarat Rouge 540 notes.' Button: 'Blind buy or sample first?' blindbuyguide.com.",
+   "image": {
+    "bg": "saffron.jpg",
+    "headline": "Saffron, jasmine & cedar",
+    "name": "Baccarat Rouge 540 notes",
+    "cta": "Blind buy or sample first?"
+   },
+   "order": 10,
+   "day": 7
+  },
+  {
+   "id": "38",
+   "slug": "baccarat-rouge-540-notes-look-b",
+   "page": "br540",
+   "look": "B",
+   "template": "poster",
+   "board": "Perfume Note Pyramids",
+   "title": "Baccarat Rouge 540 notes: the full perfume note pyramid",
+   "description": "Baccarat Rouge 540 notes, top to base: saffron and jasmine, then amberwood, ambergris and hedione, on fir resin, cedar and ambroxan. See the full Maison Francis Kurkdjian note pyramid, our sample-first verdict, and what a 1 ml sample costs before the $360 bottle (prices checked Nov 23, 2026). Affiliate links on the page. #ad #perfumenotes",
+   "url": "https://www.blindbuyguide.com/scents/baccarat-rouge-540-edp/",
+   "alt": "Bold poster in oxblood red. Huge condensed type: 'Don't blind buy.' Italic: 'Love it or hate it. Sample first.' Baccarat Rouge 540. 70 ml bottle $360; 1 ml sample $9.99. Button: 'See the verdict.' blindbuyguide.com.",
+   "image": {
+    "bg": "#6e1423",
+    "ink": "#fbeee6",
+    "accent": "#f0b6a8",
+    "eyebrow": "Should you blind buy it?",
+    "verdict": [
+     "Don't",
+     "blind buy"
+    ],
+    "caveat": "Love it or hate it. Sample first.",
+    "name": "Baccarat Rouge 540",
+    "left": [
+     "70 ml bottle",
+     "$360"
+    ],
+    "right": [
+     "1 ml sample",
+     "$9.99"
+    ],
+    "cta": "See the verdict",
+    "asof": "Bergdorf Goodman and Fragrances Line, Nov 14 to 23, 2026",
+    "vsize": 212
+   },
+   "order": 2,
+   "day": 1
+  },
+  {
+   "id": "39",
+   "slug": "ombre-leather-safe-blind-buy-control",
+   "page": "ombre",
+   "look": "control",
+   "template": "verdict",
+   "board": "Designer Perfumes",
+   "title": "Is Tom Ford Ombré Leather a safe blind buy? Yes, if you like leather",
+   "description": "Is Tom Ford Ombré Leather a safe blind buy? It's the one full bottle on our safe list: wearer opinion is unusually consistent, the occasional dislike is about leather itself, and most report 8 to 12 hours. $165 for 50 ml at Tom Ford Beauty (Nov 14, 2026). Not sure about leather? A 1 ml sample is $4.99. Affiliate links on the page. #ad #tomford",
+   "url": "https://www.blindbuyguide.com/guides/safe-blind-buy-perfumes/",
+   "alt": "Photo of a Tom Ford Ombré Leather Eau de Parfum bottle on cream under the headline 'Ombré Leather.' The answer reads 'Yes, if you like leather.' Wearers say 8 to 12 hours. 50 ml bottle $165. 1 ml sample $4.99.",
+   "image": {
+    "kicker": "Safe to blind buy?",
+    "headline": "Ombré Leather",
+    "house": "Tom Ford · Eau de Parfum",
+    "photo": "ombre-leather-edp",
+    "answer": "Yes, if you like leather.",
+    "facts": [
+     [
+      "Wearers say it lasts",
+      "8 to 12 hours"
+     ],
+     [
+      "50 ml bottle",
+      "$165"
+     ],
+     [
+      "1 ml sample",
+      "$4.99"
+     ]
+    ],
+    "line": "The dislikes are about leather, not the bottle.",
+    "asof": "Tom Ford Beauty and Scentsplit, Nov 14 to 23, 2026"
+   },
+   "order": 3,
+   "day": 1
+  },
+  {
+   "id": "40",
+   "slug": "ombre-leather-safe-blind-buy-look-a",
+   "page": "ombre",
+   "look": "A",
+   "template": "photo",
+   "board": "Designer Perfumes",
+   "title": "Is Tom Ford Ombré Leather a safe blind buy? Yes, if you like leather",
+   "description": "Is Tom Ford Ombré Leather a safe blind buy? It's the one full bottle on our safe list: wearer opinion is unusually consistent, the occasional dislike is about leather itself, and most report 8 to 12 hours. $165 for 50 ml at Tom Ford Beauty (Nov 14, 2026). Not sure about leather? A 1 ml sample is $4.99. Affiliate links on the page. #ad #tomford",
+   "url": "https://www.blindbuyguide.com/guides/safe-blind-buy-perfumes/",
+   "alt": "Full-bleed overhead photo of green cardamom pods in a stone mortar. Headline: 'Cardamom & soft leather.' Below: 'Tom Ford Ombré Leather.' Button: 'Safe to blind buy?' blindbuyguide.com.",
+   "image": {
+    "bg": "cardamom.jpg",
+    "headline": "Cardamom & soft leather",
+    "name": "Tom Ford Ombré Leather",
+    "cta": "Safe to blind buy?"
+   },
+   "order": 7,
+   "day": 5
+  },
+  {
+   "id": "41",
+   "slug": "ombre-leather-safe-blind-buy-look-b",
+   "page": "ombre",
+   "look": "B",
+   "template": "poster",
+   "board": "Designer Perfumes",
+   "title": "Is Tom Ford Ombré Leather a safe blind buy? Yes, if you like leather",
+   "description": "Is Tom Ford Ombré Leather a safe blind buy? It's the one full bottle on our safe list: wearer opinion is unusually consistent, the occasional dislike is about leather itself, and most report 8 to 12 hours. $165 for 50 ml at Tom Ford Beauty (Nov 14, 2026). Not sure about leather? A 1 ml sample is $4.99. Affiliate links on the page. #ad #tomford",
+   "url": "https://www.blindbuyguide.com/guides/safe-blind-buy-perfumes/",
+   "alt": "Bold poster in deep green. Huge condensed type: 'Safe blind buy.' Italic: 'if you already like leather.' Tom Ford Ombré Leather. 50 ml bottle $165; 1 ml sample $4.99. Button: 'See the verdict.' blindbuyguide.com.",
+   "image": {
+    "bg": "#174d38",
+    "ink": "#f2efe2",
+    "accent": "#b9d98f",
+    "eyebrow": "Should you blind buy it?",
+    "verdict": [
+     "Safe",
+     "blind buy"
+    ],
+    "caveat": "if you already like leather",
+    "name": "Tom Ford Ombré Leather",
+    "fsize": 72,
+    "left": [
+     "50 ml bottle",
+     "$165"
+    ],
+    "right": [
+     "1 ml sample",
+     "$4.99"
+    ],
+    "cta": "See the verdict",
+    "asof": "Tom Ford Beauty and Scentsplit, Nov 14 to 23, 2026",
+    "vsize": 212
+   },
+   "order": 11,
+   "day": 7
+  },
+  {
+   "id": "42",
+   "slug": "delina-worth-it-control",
+   "page": "delina",
+   "look": "control",
+   "template": "still",
+   "board": "Niche Perfumes",
+   "title": "Is Parfums de Marly Delina worth it? Price per ml, by bottle size",
+   "description": "Is Parfums de Marly Delina worth it? Sample it first, then go big: the 75 ml at $410 (Bluemercury) works out to $5.47 per ml, against $8.33 per ml for the 30 ml at $250 (Nov 14, 2026). A 1 ml sample is $7.99. Notes include lychee, rhubarb, Turkish rose, peony, cashmeran and vetiver. Affiliate links on the page. #ad #nicheperfume",
+   "url": "https://www.blindbuyguide.com/guides/is-delina-edp-worth-it/",
+   "alt": "Editorial photo of the pink Parfums de Marly Delina Eau de Parfum bottle on a cream background with a small stamp reading 'Blind buy? Sample first.' Caption: 75 ml at $410 is $5.47 per ml; 30 ml at $250 is $8.33 per ml; 1 ml sample $7.99.",
+   "image": {
+    "kicker": "Parfums de Marly",
+    "headline": "Delina, priced per ml",
+    "photo": "delina-edp",
+    "stamp": "Blind buy? Sample first",
+    "rows": [
+     [
+      "75 ml · $410",
+      "$5.47 / ml"
+     ],
+     [
+      "30 ml · $250",
+      "$8.33 / ml"
+     ],
+     [
+      "1 ml sample",
+      "$7.99"
+     ]
+    ],
+    "line": "The small bottle is a commitment-issues tax.",
+    "asof": "Bluemercury, in stock, Nov 14, 2026"
+   },
+   "order": 12,
+   "day": 7
+  },
+  {
+   "id": "43",
+   "slug": "delina-worth-it-look-a",
+   "page": "delina",
+   "look": "A",
+   "template": "photo",
+   "board": "Niche Perfumes",
+   "title": "Is Parfums de Marly Delina worth it? Price per ml, by bottle size",
+   "description": "Is Parfums de Marly Delina worth it? Sample it first, then go big: the 75 ml at $410 (Bluemercury) works out to $5.47 per ml, against $8.33 per ml for the 30 ml at $250 (Nov 14, 2026). A 1 ml sample is $7.99. Notes include lychee, rhubarb, Turkish rose, peony, cashmeran and vetiver. Affiliate links on the page. #ad #nicheperfume",
+   "url": "https://www.blindbuyguide.com/guides/is-delina-edp-worth-it/",
+   "alt": "Full-bleed photo of ripe pink-red lychees hanging among green leaves. Headline: 'Turkish rose & lychee.' Below: 'Parfums de Marly Delina.' Button: 'Blind buy or sample first?' blindbuyguide.com.",
+   "image": {
+    "bg": "lychee.jpg",
+    "headline": "Turkish rose & lychee",
+    "name": "Parfums de Marly Delina",
+    "cta": "Blind buy or sample first?"
+   },
+   "order": 4,
+   "day": 3
+  },
+  {
+   "id": "44",
+   "slug": "delina-worth-it-look-b",
+   "page": "delina",
+   "look": "B",
+   "template": "poster",
+   "board": "Niche Perfumes",
+   "title": "Is Parfums de Marly Delina worth it? Price per ml, by bottle size",
+   "description": "Is Parfums de Marly Delina worth it? Sample it first, then go big: the 75 ml at $410 (Bluemercury) works out to $5.47 per ml, against $8.33 per ml for the 30 ml at $250 (Nov 14, 2026). A 1 ml sample is $7.99. Notes include lychee, rhubarb, Turkish rose, peony, cashmeran and vetiver. Affiliate links on the page. #ad #nicheperfume",
+   "url": "https://www.blindbuyguide.com/guides/is-delina-edp-worth-it/",
+   "alt": "Bold poster in hot pink. Huge condensed type: 'Sample first.' Italic: 'unless you already love pink rose.' Parfums de Marly Delina. 75 ml bottle $410; 1 ml sample $7.99. Button: 'See the verdict.' blindbuyguide.com.",
+   "image": {
+    "bg": "#d81b60",
+    "ink": "#fff3f6",
+    "accent": "#ffd1df",
+    "eyebrow": "Should you blind buy it?",
+    "verdict": [
+     "Sample",
+     "first"
+    ],
+    "caveat": "unless you already love pink rose",
+    "name": "Parfums de Marly Delina",
+    "fsize": 70,
+    "left": [
+     "75 ml bottle",
+     "$410"
+    ],
+    "right": [
+     "1 ml sample",
+     "$7.99"
+    ],
+    "cta": "See the verdict",
+    "asof": "Bluemercury and Scentsplit, Nov 14, 2026"
+   },
+   "order": 8,
+   "day": 5
+  }
+ ]
+}
