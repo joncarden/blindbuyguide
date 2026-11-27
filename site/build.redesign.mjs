@@ -108,6 +108,39 @@ for(const s of scents){
   s.allNotes = ['top','heart','base'].flatMap(k=>arr(s.notes[k]));
 }
 
+// ---- search plan (2026-11-27): primary sample button goes to a paying program when its price is fair,
+// thin scent pages get noindex,follow (still crawlable, dropped from the sitemap), and an upgrade set gets
+// verdict-first titles and a direct answer up top. Config: cfg.searchPlan.
+const SP = cfg.searchPlan||{};
+const PAYS = url => { try{ return !!(rkAdv(url)||cjAdv(url)); }catch{ return false; } };
+const FAIR = SP.fairPremium||{usd:4,pct:50};
+for(const s of scents){ const c=s.cheapestSample; s.primarySample=c;
+  const paid=s.samples.filter(p=>p.url&&p.url!=='#'&&PAYS(p.url)).sort((a,b)=>a.price-b.price)[0];
+  if(c&&paid&&paid!==c&&paid.price<=c.price+Math.max(FAIR.usd,c.price*FAIR.pct/100)&&paid.ppm<=c.ppm*(1+(FAIR.ppmPct??50)/100)) s.primarySample=paid; }
+// worth-it guides and comparisons that cover a scent (read from content front matter before pages are written)
+const GUIDE_FOR = Object.create(null), REF = new Set();
+for(const [dir,kind] of [['guides','guides'],['comparisons','compare']]){ const d=(process.env.CONTENT||'/mnt/project-files/content/')+dir; if(!fs.existsSync(d)) continue;
+  for(const f of fs.readdirSync(d).filter(f=>f.endsWith('.md'))){ try{ const src=fs.readFileSync(path.join(d,f),'utf8'); const m=src.match(/^---\n([\s\S]*?)\n---\n/); if(!m) continue;
+    const sl=(m[1].match(/^scents:\s*\[(.*)\]/m)||[])[1]; const list=sl?sl.split(',').map(x=>x.trim().replace(/^["']|["']$/g,'')).filter(Boolean):[]; list.forEach(x=>REF.add(x));
+    const slug=((m[1].match(/^slug:\s*(.*)$/m)||[])[1]||f.replace(/\.md$/,'')).replace(/^["']|["']$/g,'');
+    if(kind==='guides'&&/^is-.*-worth-it$/.test(slug)&&list.length===1&&!GUIDE_FOR[list[0]]){ const ans=((m[1].match(/^answer:\s*(.*)$/m)||[])[1]||'').replace(/^["']|["']$/g,''); GUIDE_FOR[list[0]]={slug,answer:ans}; } }catch{} } }
+const KEEP = new Set(arr(SP.keepIndexed)), UP = new Set(arr(SP.upgradeSlugs));
+for(const s of scents){ const real=(s.prices.length||s.samples.length)&&(s.allNotes.length||s.verdictLine||s.advice);
+  s.noindex = SP.noindexThin!==false && !real && !REF.has(s.slug) && !GUIDE_FOR[s.slug] && !KEEP.has(s.slug) && !UP.has(s.slug); }
+const shortScent = s => String(s.name).replace(/\s+(Eau de Parfum|Eau de Toilette|Extrait de Parfum|Eau de Cologne|Parfum|Extrait|EDP|EDT)$/i,'').replace(/^Replica\s+/i,'').trim();
+const SAFE = {buy:'Yes',sample_first:'Sample first',skip:'Skip it'};
+const safeAnswer = s => { const p=s.primarySample, g=GUIDE_FOR[s.slug];
+  const smp = p ? ` A ${p.size_ml} ml sample is ${money(p.price)} at ${p.retailer}${p.checked?`, checked ${fmtDay(p.checked)}`:''}.` : '';
+  if(s.advice==='buy') return `Yes, as blind buys go: our verdict is buy it. ${s.verdictLine}`.trim()+(p?` Want proof first?${smp}`:'');
+  if(s.advice==='skip') return `No. Our verdict is skip it. ${s.verdictLine}`.trim();
+  if(s.advice==='sample_first') return `Not blind. Our verdict is sample it first. ${s.verdictLine}`.trim()+smp;
+  if(g&&g.answer) return g.answer.replace(/^Safe blind buy\?\s*/i,'');
+  return p ? `Sample it first: no fragrance is a safe blind buy until it has met your skin.${smp}` : ''; };
+const upTitle = s => { if(!safeAnswer(s)) return null; const n=shortScent(s), p=s.cheapestSample, v=SAFE[s.advice]||(GUIDE_FOR[s.slug]||p?'Sample first':'');
+  const opts=[v&&p&&`${n}: safe blind buy? ${v} (samples from ${money(p.price)})`, v&&p&&`${n}: safe blind buy? ${v} (from ${money(p.price)})`,
+    v&&`${n}: safe blind buy? ${v}`, p&&`${n} sample from ${money(p.price)}`, `${n}: safe blind buy?`].filter(Boolean);
+  return opts.find(t=>t.length<=60)||opts[opts.length-1]; };
+
 // ---- dataset stats: computed from the library on every build, so every number on the site stays true
 const HOUSE_NORM={'BYREDO':'Byredo','By Kilian':'Kilian','Kilian Paris':'Kilian','Tom Ford (Private Blend)':'Tom Ford','Initio Parfums':'Initio Parfums Privés','Initio Parfums Prives':'Initio Parfums Privés','Initio':'Initio Parfums Privés','Editions de Parfums Frédéric Malle':'Frederic Malle'};
 const houseKey=h=>HOUSE_NORM[String(h||'').trim()]||String(h||'').trim();
@@ -222,7 +255,7 @@ h1{font-size:2.3em;margin:.6em 0 .3em}h2{font-size:1.6em;margin:1.8em 0 .5em}.he
 .moods{grid-template-columns:1fr 1fr}.moods a{min-height:84px;padding:14px;font-size:1.15em}.band{padding:26px 20px;margin:2.5em -16px 0}.stats b{font-size:2em}
 .shero .bottle.lg:not(.studio){aspect-ratio:4/3}.shero .bottle.lg.studio{max-width:340px;margin:0 auto}.shero .bottle.lg svg{width:auto;height:92%}.hero .btn+a,.hero p a{white-space:nowrap}.cover{aspect-ratio:auto;min-height:260px;box-shadow:6px 8px 0 color-mix(in srgb,var(--accent) 35%,transparent)}.pbhero{gap:28px}
 table{font-size:14px}th,td{padding:9px 5px}table th:nth-child(5),table td:nth-child(5){display:none}.pyr{gap:8px}
-.btn,button{padding:12px 16px;font-size:12px}form.nl input{min-width:0}.eyebrow{margin-top:1.4em}.hero,.shero,.pbhero,.band{grid-template-columns:1fr}.trio figure:nth-child(2){transform:none}.pyr{grid-template-columns:1fr}.shero{gap:18px}}`;
+.btn,button{padding:12px 16px;font-size:12px}form.nl input{min-width:0}.eyebrow{margin-top:1.4em}.hero,.shero,.pbhero,.band{grid-template-columns:1fr}.trio figure:nth-child(2){transform:none}.pyr{grid-template-columns:1fr}.shero{gap:18px}.shero .bottle.lg.studio{max-width:200px}.shero .bottle.lg:not(.studio){aspect-ratio:auto;height:200px}}`;
 const cta = (h=true) => `<div class="card cta">${h?'<h2 style="border:0;margin:0 0 .3em;padding:0">What luxury fragrance actually costs. Before you blind buy.</h2>':''}<p class="muted">The free Price Book: ${scents.length}+ fragrances, the lowest sample price, and the best in-stock bottle price per ml. Plus your 5 sample picks and a weekly email with opinions.</p>${nlForm('Send me the Price Book')}<p class="muted" style="font-size:14px;margin-bottom:0">Free forever. One email a week. Unsubscribe in one click, no hard feelings.</p></div>`;
 // Email capture. Set cfg.beehiivFormId (data-beehiiv-form from the published beehiiv form's embed code) to go live.
 // Until then the form never pretends to subscribe anyone: it hands over the Price Book and says signups open soon.
@@ -263,10 +296,10 @@ const anchor = x => { const c=x.cheapestSample, b=x.prices&&x.prices.length?[...
   return `${money(c.price)} to find out, before ${money(b.price)} on the bottle. That's ${pct}% of the price.`; };
 const NL_JS = LIVE_FORM ? '' : `<script>document.addEventListener('submit',e=>{const f=e.target;if(!f.matches('form.nl[data-pending]'))return;e.preventDefault();f.outerHTML='<div class="card" style="margin:0">Thank you. Email signups open in the next few days. Until then the whole Price Book is yours, no email needed: <a href="${BASE}/price-book/blind-buy-guide-price-book.pdf"><strong>download the PDF</strong></a>.</div>'});</script>`;
 const policiesNav=[['editorial-policy','Editorial policy'],['affiliate-disclosure','Affiliate disclosure'],['how-we-use-ai','How we use AI']].map(([s,l])=>`<a href="${BASE}/${s}/">${l}</a>`).join(' · ');
-function page({title,desc,path:p,body,ld=[],hook=null}){
+function page({title,desc,path:p,body,ld=[],hook=null,robots=''}){
   const url = cfg.domain+BASE+p;
   return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="color-scheme" content="light"><meta name="viewport" content="width=device-width,initial-scale=1">${cfg.headMeta||''}${p==='/'?(cfg.homeHeadMeta||''):''}
-<title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><link rel="canonical" href="${esc(url)}">
+${robots?`<meta name="robots" content="${esc(robots)}">`:''}<title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><link rel="canonical" href="${esc(url)}">
 <meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:type" content="website"><meta property="og:url" content="${esc(url)}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet"><style>${css}</style>${ld.map(o=>`<script type="application/ld+json">${JSON.stringify(o).replace(/</g,'\\u003c')}</script>`).join('')}${cfg.analyticsSnippet||''}${BHV_JS}</head><body>
 ${usingSample?'<div class="sample">Placeholder data: library is empty, showing sample records.</div>':''}
@@ -286,24 +319,26 @@ for(const s of scents){
   const faqs = [];
   if(s.cheapestSample) faqs.push([`What is the smartest way to try ${s.name}?`,`The lowest sample price we track is ${money(s.cheapestSample.price)} for ${s.cheapestSample.size_ml} ml at ${s.cheapestSample.retailer} (${money(s.cheapestSample.ppm)}/ml), checked ${s.cheapestSample.checked||'recently'}.`]);
   if(s.bestPpm!=null) faqs.push([`What is the best price per ml for ${s.name}?`,`${money(cheapest.price)} for ${cheapest.size_ml} ml at ${cheapest.retailer}, which is ${money(cheapest.ppm)} per ml.`]);
+  { const sa=safeAnswer(s); if(sa) faqs.unshift([`Is ${shortScent(s)} a safe blind buy?`,sa]); }
   if(sim.length) faqs.push([`What smells similar to ${s.name}?`,sim.map(x=>x.name).join(', ')+'.']);
   const product = s.offerLd ? {"@context":"https://schema.org","@type":"Product",name:s.name,brand:{"@type":"Brand",name:s.house},description:s.summary||`${s.name} by ${s.house||''}`,offers:s.offerLd} : null;
   const ld=[...(product?[product]:[]),{"@context":"https://schema.org","@type":"BreadcrumbList",itemListElement:[{"@type":"ListItem",position:1,name:"Scents",item:cfg.domain+BASE+'/scents/'},{"@type":"ListItem",position:2,name:s.name}]}];
   if(faqs.length) ld.push({"@context":"https://schema.org","@type":"FAQPage",mainEntity:faqs.map(([q,a])=>({"@type":"Question",name:q,acceptedAnswer:{"@type":"Answer",text:a}}))});
   const tbl = (list,hdr)=>list.length?`<table><thead><tr><th>Retailer</th><th>Size</th><th>Price</th><th>Per ml</th><th>Checked</th></tr></thead><tbody>${list.map(p=>`<tr><td>${p.url&&p.url!=='#'?`<a rel="sponsored nofollow noopener" href="${esc(aff(p.url))}">${esc(p.retailer)}</a>`:esc(p.retailer)}</td><td>${p.size_ml} ml</td><td>${money(p.price)}</td><td>${money(p.ppm)}</td><td>${esc(p.checked||'')}</td></tr>`).join('')}</tbody></table>`:`<p class="muted">We have not found any ${hdr} yet. Suspicious, but we're looking.</p>`;
   const body = `<div class="shero"><figure>${bottle(s,'lg')}</figure><div><p class="eyebrow" style="margin-top:0">${esc(s.house||'')}${s.year?' · '+esc(s.year):''}${s.concentration?' · '+esc(s.concentration):''}</p><h1>${esc(s.name)}<br><em style="font-size:.55em;font-weight:500;color:var(--muted)">How to sample it first</em></h1>
-${AF.has(s.slug)&&answerLine(s,rows[0])?`<p class="answer">${esc(answerLine(s,rows[0]))}${s.advice?` Our verdict: ${esc((LABEL[s.advice]||'').replace(/\.$/,'').toLowerCase())}.`:''}</p>`:''}
+${UP.has(s.slug)&&safeAnswer(s)?`<p class="answer"><strong>Safe blind buy?</strong> ${esc(safeAnswer(s))}${GUIDE_FOR[s.slug]?` <a href="${BASE}/guides/${GUIDE_FOR[s.slug].slug}/">Is it worth it? The full verdict &rarr;</a>`:''}</p>`:''}
+${!UP.has(s.slug)&&AF.has(s.slug)&&answerLine(s,rows[0])?`<p class="answer">${esc(answerLine(s,rows[0]))}${s.advice?` Our verdict: ${esc((LABEL[s.advice]||'').replace(/\.$/,'').toLowerCase())}.`:''}</p>`:''}
 ${s.advice||s.verdictLine?`<p class="verdict"><strong>The verdict: ${esc(LABEL[s.advice]||'')}</strong>${s.advice?' ':''}${esc(s.verdictLine)}</p>`:''}
 ${s.who?`<p>Suits: ${esc(s.who)}</p>`:''}
-${s.cheapestSample||cheapest?`<div class="buy">${s.cheapestSample?(s.cheapestSample.url&&s.cheapestSample.url!=='#'?`<a class="btn" rel="sponsored nofollow noopener" href="${esc(aff(s.cheapestSample.url))}">Sample it: ${money(s.cheapestSample.price)} for ${s.cheapestSample.size_ml} ml at ${esc(s.cheapestSample.retailer)}</a>`:`<div class="card"><strong>Smartest way to sample:</strong> ${money(s.cheapestSample.price)} for ${s.cheapestSample.size_ml} ml at ${esc(s.cheapestSample.retailer)}</div>`):''}${rows[0]&&rows[0].url&&rows[0].url!=='#'?`<a class="btn ghost" rel="sponsored nofollow noopener" href="${esc(aff(rows[0].url))}">Already sure? ${money(rows[0].price)} for ${rows[0].size_ml} ml at ${esc(rows[0].retailer)}</a>`:''}${anchor(s)?`<p class="anchor">${esc(anchor(s))}${s.cheapestSample&&s.cheapestSample.checked?` Prices checked ${esc(s.cheapestSample.checked)}.`:''}</p>`:''}</div>`:''}${stamp(s)}</div></div>
+${s.cheapestSample||cheapest?`<div class="buy">${s.primarySample?(s.primarySample.url&&s.primarySample.url!=='#'?`<a class="btn" rel="sponsored nofollow noopener" href="${esc(aff(s.primarySample.url))}">Sample it: ${money(s.primarySample.price)} for ${s.primarySample.size_ml} ml at ${esc(s.primarySample.retailer)}</a>${s.primarySample!==s.cheapestSample?`<p class="muted alsoat" style="margin:0">Smallest price we track: <a rel="sponsored nofollow noopener" href="${esc(aff(s.cheapestSample.url))}">${money(s.cheapestSample.price)} for ${s.cheapestSample.size_ml} ml at ${esc(s.cheapestSample.retailer)}</a>.</p>`:''}`:`<div class="card"><strong>Smartest way to sample:</strong> ${money(s.cheapestSample.price)} for ${s.cheapestSample.size_ml} ml at ${esc(s.cheapestSample.retailer)}</div>`):''}${rows[0]&&rows[0].url&&rows[0].url!=='#'?`<a class="btn ghost" rel="sponsored nofollow noopener" href="${esc(aff(rows[0].url))}">Already sure? ${money(rows[0].price)} for ${rows[0].size_ml} ml at ${esc(rows[0].retailer)}</a>`:''}${anchor(s)?`<p class="anchor">${esc(anchor(s))}${s.cheapestSample&&s.cheapestSample.checked?` Prices checked ${esc(s.cheapestSample.checked)}.`:''}</p>`:''}</div>`:''}${stamp(s)}</div></div>
 <h2>What's in it</h2>${s.notes_flat&&arr(s.notes.top).length?`<div class="pyr flat"><div><b>Notes</b>${tags(s.notes.top)}</div></div><p class="muted">${esc(s.notes_flat_caption||'The shop lists these notes without top, heart and base tiers.')}</p>`:['top','heart','base'].some(k=>arr(s.notes[k]).length)?`<div class="pyr">${['top','heart','base'].map(k=>`<div><b>${k[0].toUpperCase()+k.slice(1)}</b>${tags(s.notes[k])||'<span class="muted">&ndash;</span>'}</div>`).join('')}</div>`:''}${arr(s.accords).length?`<p><strong>Accords:</strong> ${tags(s.accords)}</p>`:''}
 ${wearersSection(loadWearers(s.slug))}
 <h2>Sample before you commit</h2>${tbl([...s.samples].sort((a,b)=>a.size_ml-b.size_ml||a.price-b.price),'sample prices')}
 <h2>The full-bottle math</h2>${tbl(rows,'full-size prices')}${alsoAt(s)}${amazonLine(s)}${movesBlock(s)}${pref.length?'<p class="muted">Authorized retailers are listed first.</p>':''}${watchBox(s)}
 ${sim.length?`<h2>If you like this, try</h2><div class="grid">${sim.map(x=>`<div class="card"><a href="${BASE}/scents/${x.slug}/">${esc(x.name)}</a><br><span class="muted">${esc(x.house||'')}</span></div>`).join('')}</div>`:''}
 ${faqs.length?`<h2>FAQ</h2>${faqs.map(([q,a])=>`<h3>${esc(q)}</h3><p>${esc(a)}</p>`).join('')}`:''}
-${cta()}${s.cheapestSample&&s.cheapestSample.url&&s.cheapestSample.url!=='#'?`<div class="sticky"><span>Sample from ${money(s.cheapestSample.price)}</span><a rel="sponsored nofollow noopener" href="${esc(aff(s.cheapestSample.url))}">Get the sample &rarr;</a></div><script>document.body.classList.add('hasSticky')</script>`:''}`;
-  write(`scents/${s.slug}/index.html`,page({title:`${s.name} sample: how to try it before you buy | ${cfg.brand}`,desc:AF.has(s.slug)&&answerLine(s,rows[0])?answerLine(s,rows[0]):(s.samples.length?`${s.name} samples from ${money(Math.min(...s.samples.map(x=>x.price)))} to ${money(Math.max(...s.samples.map(x=>x.price)))}. `:'')+(s.verdictLine||`Notes, similar scents, price per ml and how to try ${s.name} before you buy.`),path:`/scents/${s.slug}/`,body,ld,hook:scentHook(s)}));
+${cta()}${s.primarySample&&s.primarySample.url&&s.primarySample.url!=='#'?`<div class="sticky"><span>Sample from ${money(s.primarySample.price)}</span><a rel="sponsored nofollow noopener" href="${esc(aff(s.primarySample.url))}">Get the sample &rarr;</a></div><script>document.body.classList.add('hasSticky')</script>`:''}`;
+  write(`scents/${s.slug}/index.html`,page({robots:s.noindex?'noindex,follow':'',title:(UP.has(s.slug)&&upTitle(s))||`${s.name} sample: how to try it before you buy | ${cfg.brand}`,desc:UP.has(s.slug)&&safeAnswer(s)?`Safe blind buy? ${safeAnswer(s)}`.slice(0,300):AF.has(s.slug)&&answerLine(s,rows[0])?answerLine(s,rows[0]):(s.samples.length?`${s.name} samples from ${money(Math.min(...s.samples.map(x=>x.price)))} to ${money(Math.max(...s.samples.map(x=>x.price)))}. `:'')+(s.verdictLine||`Notes, similar scents, price per ml and how to try ${s.name} before you buy.`),path:`/scents/${s.slug}/`,body,ld,hook:scentHook(s)}));
 }
 // ---- index pages
 const cardFor = x=>`<div class="card pcard"><a href="${BASE}/scents/${x.slug}/">${bottle(x,'sm')}<div class="t"><strong>${esc(x.name)}</strong><br><span class="muted">${esc(x.house||'')}</span>${x.bestPpm!=null?`<br><span class="muted">from ${money(x.bestPpm)}/ml</span>`:''}${x.cheapestSample?`<br><span class="muted">sample ${money(x.cheapestSample.price)}</span>`:''}</div></a></div>`;
@@ -415,7 +450,7 @@ function section(kind,label,dir){ const d=(process.env.CONTENT||'/mnt/project-fi
     const ld=[{"@context":"https://schema.org","@type":"Article",headline:title,description:desc,datePublished:fm.published||undefined,dateModified:fm.prices_as_of||fm.published||undefined}];
     if(faqs.length) ld.push({"@context":"https://schema.org","@type":"FAQPage",mainEntity:faqs.map(x=>({"@type":"Question",name:x.q,acceptedAnswer:{"@type":"Answer",text:x.a}}))});
     const rel=arr(fm.scents).map(x=>bySlug[x]).filter(Boolean);
-    const box=rel.filter(x=>x.cheapestSample).length?`<div class="samplebox"><p class="eyebrow" style="margin:0 0 4px">Where to sample${rel.length>1?' them':' it'}</p>${rel.filter(x=>x.cheapestSample).map(x=>{const c=x.cheapestSample,ok=c.url&&c.url!=='#';return `<div class="row"><span><a href="${BASE}/scents/${x.slug}/">${esc(x.name)}</a><br><span class="muted" style="font:13px var(--sans)">${money(c.price)} for ${c.size_ml} ml at ${esc(c.retailer)}${anchor(x)?'<br>'+esc(anchor(x).split('. ')[1]||''):''}</span></span>${ok?`<a class="btn" rel="sponsored nofollow noopener" href="${esc(aff(c.url))}">Get the sample</a>`:''}</div>`}).join('')}</div>`:'';
+    const box=rel.filter(x=>x.cheapestSample).length?`<div class="samplebox"><p class="eyebrow" style="margin:0 0 4px">Where to sample${rel.length>1?' them':' it'}</p>${rel.filter(x=>x.cheapestSample).map(x=>{const c=x.primarySample||x.cheapestSample,ok=c.url&&c.url!=='#';return `<div class="row"><span><a href="${BASE}/scents/${x.slug}/">${esc(x.name)}</a><br><span class="muted" style="font:13px var(--sans)">${money(c.price)} for ${c.size_ml} ml at ${esc(c.retailer)}${anchor(x)?'<br>'+esc(anchor(x).split('. ')[1]||''):''}</span></span>${ok?`<a class="btn" rel="sponsored nofollow noopener" href="${esc(aff(c.url))}">Get the sample</a>`:''}</div>`}).join('')}</div>`:'';
     write(`${kind}/${slug}/index.html`,page({title:fm.seo_title?(fm.seo_title.length+cfg.brand.length+3<=60?`${fm.seo_title} | ${cfg.brand}`:fm.seo_title):`${title} | ${cfg.brand}`,desc,path:`/${kind}/${slug}/`,ld,hook:rel[0]?scentHook(rel[0]):null,body:`<div class="prose"><h1>${esc(title)}</h1>${fm.answer?`<p class="verdict"><strong>Short answer:</strong> ${inline(fm.answer)}</p>`:''}${box}${html}${rel[0]?watchBox(rel[0]):''}${rel.length?`<h2>Scents mentioned</h2><div class="grid">${rel.map(cardFor).join('')}</div>`:''}${fm.prices_as_of?`<p class="muted">Prices as of ${esc(fm.prices_as_of)}.</p>`:''}</div>${cta()}`}));
     urls.push(`/${kind}/${slug}/`); items.push({slug,title,desc,scents:arr(fm.scents)}); }catch(e){ console.warn('skip',f,e.message) } }
   items.sort((a,b)=>a.title.localeCompare(b.title));
@@ -494,7 +529,7 @@ ${cmp?`<section data-group><h2>Head to head</h2><div class="gx-cmp">${cmp}</div>
   write('guides/index.html',page({title:`Fragrance guides: is it worth it, and how to sample first | ${cfg.brand}`,desc:`${nV} worth-it verdicts across ${nH} luxury houses, plus how to test a fragrance, which sample size to buy and what it really costs per ml.`,path:'/guides/',body}));
 }
 // ---- machine-readable
-urls.unshift('/','/scents/','/find/','/newsletter/',...letters.map(l=>`/scents/letter/${l==='#'?'0':l.toLowerCase()}/`),...scents.map(s=>`/scents/${s.slug}/`));
+urls.unshift('/','/scents/','/find/','/newsletter/',...letters.map(l=>`/scents/letter/${l==='#'?'0':l.toLowerCase()}/`),...scents.filter(s=>!s.noindex).map(s=>`/scents/${s.slug}/`));
 write('sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map(u=>`<url><loc>${cfg.domain+BASE+u}</loc></url>`).join('')}</urlset>`);
 write('robots.txt',`User-agent: *\nAllow: /\nSitemap: ${cfg.domain+BASE}/sitemap.xml\n`);
 write('llms.txt',`# ${cfg.brand}\n> ${cfg.tagline}\n\n## Scents\n${sorted.map(s=>`- [${s.name}](${cfg.domain+BASE}/scents/${s.slug}/): ${s.verdictLine||s.house||''}`).join('\n')}\n`);
