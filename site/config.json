@@ -35,7 +35,7 @@
     "card": "#fbf9f4",
     "line": "#ddd4c4"
   },
-  "analyticsSnippet": "<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script><script defer src=\"/_vercel/insights/script.js\"></script>",
+  "analyticsSnippet": "<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)}; (function(){try{ var AI={'chatgpt.com':'chatgpt','chat.openai.com':'chatgpt','openai.com':'chatgpt','perplexity.ai':'perplexity','www.perplexity.ai':'perplexity','copilot.microsoft.com':'copilot','edgeservices.bing.com':'copilot','gemini.google.com':'gemini','bard.google.com':'gemini','claude.ai':'claude','you.com':'you','phind.com':'phind','meta.ai':'metaai','www.meta.ai':'metaai','chat.deepseek.com':'deepseek','grok.com':'grok','x.ai':'grok','chat.mistral.ai':'mistral','search.brave.com':'brave','kagi.com':'kagi','duckduckgo.com':null}; var q=new URLSearchParams(location.search),u=(q.get('utm_source')||'').toLowerCase().replace(/[^a-z0-9._-]/g,'').slice(0,40),r=''; try{r=document.referrer?new URL(document.referrer).hostname.toLowerCase():''}catch(e){} if(r===location.hostname)return; var src=u?(AI[u]||(/chatgpt|openai/.test(u)?'chatgpt':/perplexity/.test(u)?'perplexity':/copilot|bing/.test(u)?'copilot':/gemini/.test(u)?'gemini':/claude/.test(u)?'claude':'utm-'+u)):(AI[r]||''); if(!src)return; var tag='/from/'+src; window.va('beforeSend',function(e){if(tag&&e&&e.url){try{var x=new URL(e.url);x.pathname=tag+x.pathname;e.url=x.toString()}catch(err){}tag=''}return e}); try{sessionStorage.setItem('bbg_src',src)}catch(e){} }catch(e){}})();</script><script defer src=\"/_vercel/insights/script.js\"></script>",
   "contactEmail": "",
   "disclosure": "Some links are affiliate links; we may earn a commission at no cost to you. Prices were checked on the date shown and may have changed. As an Amazon Associate I earn from qualifying purchases.",
   "preferredRetailers": [],
@@ -121,6 +121,67 @@
       "creed-green-irish-tweed-edp",
       "herod-edp",
       "bibliotheque-edp"
+    ]
+  },
+  "analyticsSnippetNote": "Vercel Web Analytics. The inline part tags the landing page view of a visit that came from an AI assistant (referrer or utm_source) or any other utm_source as /from/<source>/<page>, because the UTM dimension and custom events need a paid Vercel plan. Count with startswith(requestPath,'/from/').",
+  "searchPlan": {
+    "_note": "Search plan 2026-11-27 (docs/seo/search-plan-2026-11.md). upgradeSlugs: verdict-first title and 'Safe blind buy?' answer up top. keepIndexed: scent pages kept indexed even if thin (Google landings). noindexThin: thin scent pages (no in-stock USD price with notes or verdict, no guide) get noindex,follow and leave the sitemap. fairPremium: the sample button goes to a paying program (Rakuten/CJ) when its sample costs at most max(usd, pct% of) more than the cheapest and its price per ml is at most ppmPct% higher.",
+    "noindexThin": true,
+    "fairPremium": {
+      "usd": 4,
+      "pct": 50,
+      "ppmPct": 50
+    },
+    "keepIndexed": [
+      "bal-d-afrique",
+      "byredo-suede-osmanthus-extrait",
+      "creed-iris-debonair-edp",
+      "diptyque-orpheon-edp",
+      "elizabeth-arden-sunflowers-edt",
+      "grand-soir-edp",
+      "le-labo-the-matcha-26-edp",
+      "nishane-ambra-calabria-extrait",
+      "patchouli-24-edp",
+      "penhaligons-the-inimitable-william-penhaligon-edp",
+      "penhaligons-the-manoeuvres-of-the-baroness-edp",
+      "santal-33-edp",
+      "soleil-neige-edp",
+      "tom-ford-vanille-fatale-edp",
+      "giorgio-armani-acqua-di-gio-profondo-edp",
+      "kilian-angels-share-on-the-rocks-edp",
+      "amouage-lustre-extrait",
+      "angels-share-edp"
+    ],
+    "upgradeSlugs": [
+      "bal-d-afrique",
+      "byredo-suede-osmanthus-extrait",
+      "creed-iris-debonair-edp",
+      "diptyque-orpheon-edp",
+      "elizabeth-arden-sunflowers-edt",
+      "grand-soir-edp",
+      "le-labo-the-matcha-26-edp",
+      "nishane-ambra-calabria-extrait",
+      "patchouli-24-edp",
+      "penhaligons-the-inimitable-william-penhaligon-edp",
+      "penhaligons-the-manoeuvres-of-the-baroness-edp",
+      "santal-33-edp",
+      "soleil-neige-edp",
+      "tom-ford-vanille-fatale-edp",
+      "giorgio-armani-acqua-di-gio-profondo-edp",
+      "kilian-angels-share-on-the-rocks-edp",
+      "amouage-lustre-extrait",
+      "angels-share-edp",
+      "replica-by-the-fireplace-edt",
+      "replica-beach-walk-edt",
+      "oud-for-greatness",
+      "tom-ford-oud-wood",
+      "noir-extreme-parfum",
+      "oajan-edp",
+      "ombre-leather-edp",
+      "replica-jazz-club-edt",
+      "baccarat-rouge-540-edp",
+      "creed-aventus",
+      "frederic-malle-musc-ravageur-edp"
     ]
   }
 }
